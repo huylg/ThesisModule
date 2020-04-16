@@ -1,0 +1,12 @@
+﻿Chõ/Nr/PER_B bánh_khúc/Nn/O của/Cm/O dì/Nn/O tôi/Pp/O 
+Dì/Nn/O tôi/Pp/O cắp/Vv/O một/Nq/NUM_B chiếc/Nc/O rổ/Nn/O lớn/Aa/O ,/PU/O dắt/Vv/O tay/Nn/O tôi/Pp/O đi/Vv/O hái/Vv/O rau_khúc/Nn/O ./PU/O 
+Cây/Nn/O rau_khúc/Nn/O rất/R/O nhỏ/Aa/O ,/PU/O chỉ/R/O bằng/Cm/O một/Nq/NUM_B mầm/Nn/O cỏ/Nn/O non/Aa/O mới/Cp/O nhú/Vv/O ./PU/O 
+Lá/Nc/O rau/Nn/O như/Cp/O mạ/Nn/O bạc/Nn/O ,/PU/O trông/Vv/O như/Cp/O được/Vv/O phủ/Vv/O một/Nq/NUM_B lượt/Nn/O tuyết/Nn/O cực/R/O mỏng/Aa/O ./PU/O 
+Những/Nq/O hạt/Nc/O sương/Nn/O sớm/Aa/O đọng/Vv/O trên/Cm/O lá/Nn/O long_lanh/Aa/O như/Cp/O những/Nq/O bóng/Nn/O đèn_pha/Nn/O lê/Vv/O ./PU/O 
+Hai/Nq/NUM_B dì/Nn/O cháu/Nn/O tôi/Pp/O hái/Vv/O đầy/Aa/O rổ/Nn/O mới/Aa/O về/D/O ./PU/O 
+Ngủ/Vv/O một/Nq/NUM_B giấc/Nc/O dậy/Vv/O ,/PU/O tôi/Pp/O đã/R/O thấy/Vv/O dì/Nn/O mang/Vv/O chõ/Nn/O bánh/Nn/O lên/Vv/O ./PU/O 
+Vung/Nr/PER_B vừa/R/O mở/Vv/O ra/D/O ,/PU/O hơi/R/O nóng/Aa/O bốc/Vv/O nghi_ngút/Aa/O ./PU/O 
+Những/Nq/O cái/Nc/O bánh/Nn/O màu/Nn/O rêu/Aa/O xanh/Aa/O lấp_ló/Vv/O trong/Cm/O áo/Nn/O xôi/Nn/O nếp/Nn/O trắng/Aa/O được/Vv/O đặt/Vv/O vào/D/O những/Nq/O miếng/Nn/O lá/Nn/O chuối/Nn/O hơ/Vv/O qua/D/O lửa/Nn/O thật/R/O mềm/Aa/O ,/PU/O trông/Vv/O đẹp/Aa/O như/Cp/O những/Nq/O bông/Nc/O hoa/Nn/O ./PU/O 
+Nhân/Cp/O bánh/Nn/O là/Vc/O một/Nq/NUM_B viên/Nn/O đậu_xanh/Nn/O giã/Vv/O nhỏ/Aa/O vàng_ươm/Aa/O ,/PU/O xen/Vv/O một/Nq/NUM_B thỏi/Nn/O mỡ/Nn/O xinh_xắn/Aa/O ,/PU/O pha/Nn/O hạt_tiêu/Nn/O ./PU/O 
+Cắn/Vv/O một/Nq/NUM_B miếng/Nn/O bánh/Nn/O thì/Cp/O như/Cp/O thấy/Vv/O cả/Pp/O hương/Nn/O đồng/Nn/O ,/PU/O cỏ/Nn/O nội/Nn/O gói/Vv/O vào/D/O trong/Cm/O đó/Pd/O ./PU/O 
+Bao/Nq/O năm/Nt/O rồi/R/O ,/PU/O tôi/Pp/O vẫn/R/O không/R/O sao/Pp/O quên/Vv/O được/R/O vị/Nn/O thơm/Aa/O ngậy/Aa/O ,/PU/O hăng_hắc/Aa/O của/Cm/O chiếc/Nc/O bánh_khúc/Nn/O quê_hương/Nn/O ./PU/O 

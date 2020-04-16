@@ -1,0 +1,26 @@
+﻿Điện_thoại/Nn/O 
+Vừa/R/O sắp/R/O sách_vở/Nn/O ra/D/O bàn/Nn/O ,/PU/O Tường/Nr/PER_B bỗng/R/O nghe/Vv/O có/Ve/O tiếng/Nn/O chuông/Nn/O điện_thoại/Nn/O ./PU/O 
+Tới/Cm/O hồi/Nt/O chuông/Nn/O thứ/Nn/O ba/An/O ,/PU/O em/Pp/O đã/R/O ở/Cm/O bên/Nn/O máy/Nn/O ./PU/O 
+Em/Pp/O nhấc/Vv/O ống_nghe/Nn/O lên/D/O ,/PU/O áp/Vv/O một/Nq/NUM_B đầu/Nn/O vào/Cm/O tai/Nn/O :/PU/O 
+A_lô/Nr/PER_B !/PU/O 
+Cháu/Pp/O là/Vc/O Tường/Nr/PER_B ,/PU/O con/Nc/O mẹ/Nn/O Bình/Nr/PER_B ,/PU/O nghe/Vv/O đây/Pd/O ạ/M/O ./PU/O 
+Trong/Cm/O ống_nghe/Nn/O vang/Vv/O lên/R/O một/Nq/NUM_B giọng/Nn/O cười/Vv/O quen_thuộc/Aa/O :/PU/O 
+Chào/Vv/O con/Nn/O ./PU/O 
+Bố/Nn/O đây/Pd/O mà/M/O ./PU/O 
+Hai/Nq/NUM_B mẹ/Nn/O con/Nn/O có/Ve/O khỏe/Nn/O không/R/O ?/PU/O 
+Tường/Nn/O mừng_quýnh/Vv/O lên/R/O :/PU/O 
+Con/Pp/O chào/Vv/O bố/Nn/O ./PU/O 
+Con/Pp/O khỏe/Nn/O lắm/R/O ./PU/O 
+Mẹ/Nn/O .../PU/O cũng/R/O .../PU/O 
+Bố/Nn/O thế_nào/Pp/O ạ/M/O ?/PU/O 
+Bao_giờ/Pp/O bố/Nn/O về/Cm/O ?/PU/O 
+Mấy/Nq/O tuần/Nt/O nay/Nt/O ,/PU/O mẹ/Nn/O mệt/Aa/O ./PU/O 
+Nhưng/Cp/O Tường/Nr/PER_B không/R/O muốn/Vv/O làm/Vv/O bố/Nn/O lo/Vv/O ./PU/O 
+Hình_như/R/O bố/Nn/O nhận/Vv/O ra/R/O giọng/Nn/O ngập_ngừng/Vv/O của/Cm/O em/Pp/O ./PU/O 
+Bố/Nn/O không/R/O cười/Vv/O nữa/R/O :/PU/O 
+Tuần/Nt/DTM_B sau/Nn/DTM_I bố/Nn/O về/D/O ./PU/O 
+Con/Pp/O học/Vv/O giỏi/Aa/O nhé/M/O !/PU/O 
+Con/Pp/O chào/Vv/O bố/Nn/O ./PU/O 
+Con/Pp/O chuyển/Vv/O máy/Nn/O cho/Cp/O mẹ/Nn/O nhé/M/O ?/PU/O 
+Quay/Vv/O lại/R/O bàn/Nn/O học/Vv/O ./PU/O 
+Tường/Nn/O bâng_khuâng/Aa/O nghĩ/Vv/O đến/Cm/O ngày/Nt/O đón/Vv/O bố/Nn/O trở_về/Vv/O ./PU/O 

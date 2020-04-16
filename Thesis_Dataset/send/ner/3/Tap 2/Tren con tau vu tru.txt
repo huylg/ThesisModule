@@ -1,0 +1,12 @@
+﻿Trên/Cm/O con/Nc/O tàu_vũ_trụ/Nn/O 
+Kim_đồng_hồ/Nr/PER_B chỉ/R/O 9/Nq/MEA_B giờ/Nt/MEA_I 7/Nq/MEA_I phút/Nt/MEA_I ./PU/O 
+Tôi/Pp/O nghe/Vv/O thấy/Vv/O một/Nq/NUM_B tiếng/Nn/O nổ/Vv/O kinh_khủng/Aa/O và/Cp/O cảm_thấy/Vv/O con/Nc/O tàu/Nn/O đang/R/O bay/Vv/O lên/D/O một_cách/Nn/O chậm_chạp/Aa/O ./PU/O 
+Mặt/Nn/O đất/Nn/O thông_báo/Vv/O :/PU/O "/PU/O Đã/R/O bay/Vv/O được/R/O 70/Nq/MEA_B giây/Nt/MEA_I ./PU/O "/PU/O Tôi/Pp/O không/R/O còn/R/O ngồi/Vv/O trên/Cm/O ghế/Nn/O được/R/O nữa/R/O ,/PU/O mà/Cp/O treo/Vv/O lơ_lửng/Aa/O giữa/Cm/O trần/Nn/O và/Cp/O sàn/Nn/O tàu/Nn/O ./PU/O 
+Tất_cả/Nq/O bỗng_nhiên/R/O nhẹ/Aa/O hẳn/Aa/O ./PU/O 
+Tay/Nn/O ,/PU/O chân/Nn/O và/Cp/O mọi/Nq/O bộ_phận/Nn/O cơ_thể/Nn/O như/Cp/O không/R/O còn/R/O của/Cm/O tôi/Pp/O nữa/R/O ./PU/O 
+Tất_cả/Nq/O đồ_đạc/Nn/O cũng/R/O bay/Vv/O ./PU/O 
+Suốt/Aa/O thời_gian/Nn/O đó/Pd/O ,/PU/O tôi/Pp/O vẫn/R/O làm_việc/Vv/O ,/PU/O theo_dõi/Vv/O các/Nq/O thiết_bị/Nn/O của/Cm/O con/Nc/O tàu/Nn/O ,/PU/O ghi_chép/Vv/O mọi/Nq/O nhận_xét/Nn/O vào/Cm/O cuốn/Nc/O sổ/Nn/O ./PU/O 
+Có/Ve/O lúc/Nt/O tôi/Pp/O quên_mình/Vv/O đang/R/O ở/Cm/O đâu/Pp/O ,/PU/O đặt/Vv/O bút_chì/Nn/O xuống/D/O cạnh/Nn/O người/Nn/O và/Cp/O lập_tức/R/O nó/Pp/O bay/Vv/O ra/R/O xa/Aa/O ./PU/O 
+Tôi/Pp/O nhìn/Vv/O thấy/Vv/O những/Nq/O dải/Nc/O mây/Nn/O nhẹ_nhàng/Aa/O trôi/Vv/O trên/Cm/O trái_đất/Nn/O thân_yêu/Aa/O xa_xôi/Aa/O ,/PU/O những/Nq/O ngọn/Nc/O núi/Nn/O ,/PU/O dòng/Nn/O sông/Nn/O ,/PU/O cánh/Nn/O rừng/Nn/O và/Cp/O bờ/Nn/O biển/Nn/O ./PU/O 
+Trên/Cm/O bầu_trời/Nn/O đen/Aa/O có/Ve/O những/Nq/O ngôi_sao/Nn/O sáng_rực/Aa/O ./PU/O 
+Mặt_trời/Nn/O so/Vv/O với/Cp/O lúc/Nt/O nhìn/Vv/O từ/Cm/O trái_đất/Nn/O cũng/R/O rực_rỡ/Aa/O hơn/Aa/O nhiều/Aa/O ./PU/O 

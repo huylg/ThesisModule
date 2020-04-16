@@ -1,0 +1,61 @@
+﻿Phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O 
+I/An/O -/PU/O Khái_quát/Nn/O về/Cm/O phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O 
+Phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O là/Vc/O loại/Nn/O phong_cách/Nn/O ngôn_ngữ/Nn/O dùng/Vv/O trong/Cm/O các/Nq/O văn_bản/Nn/O thuộc/Vv/O lĩnh_vực/Nn/O khoa_học/Nn/O -/PU/O công_nghệ/Nn/O ,/PU/O thường/R/O gọi/Vv/O là/Cp/O văn_bản/Nn/O khoa_học/Nn/O ./PU/O 
+Văn_bản/Nn/O khoa_học/Nn/O tồn_tại/Vv/O ở/Cm/O cả/Pp/O hai/Nq/NUM_B dạng/Nn/O :/PU/O dạng/Nn/O viết/Vv/O và/Cp/O dạng/Nn/O nói/Vv/O ./PU/O 
+Ở/Cm/O dạng/Nn/O viết/Vv/O ,/PU/O đó/Pd/O là/Vc/O các/Nq/O văn_bản/Nn/O khoa_học/Nn/O đăng_tải/Vv/O trong/Cm/O sách/Nn/O ,/PU/O báo/Nn/O ./PU/O 
+Ở/Cm/O dạng/Nn/O nói/Vv/O ,/PU/O đó/Pd/O là/Vc/O các/Nq/O lời/Nn/O giảng/Vv/O bài/Nc/O trong/Cm/O nhà_trường/Nn/O ,/PU/O lời/Nn/O thuyết_trình/Vv/O ,/PU/O báo_cáo/Nn/O trong/Cm/O hội_thảo/Nn/O khoa_học/Nn/O ,/PU/O .../PU/O 
+Dù/Cp/O ở/Cm/O dạng/Nn/O nào/Pd/O ,/PU/O văn_bản/Nn/O khoa_học/Nn/O cũng/R/O thường/R/O có/Ve/O ba/Nq/NUM_B loại/Nn/O :/PU/O văn_bản/Nn/O khoa_học/Nn/O chuyên_sâu/Aa/O (/PU/O công_trình/Nn/O nghiên_cứu/Vv/O ,/PU/O chuyên_luận/Nn/O ,/PU/O luận_án/Nn/O ,/PU/O .../PU/O )/PU/O ,/PU/O văn_bản/Nn/O khoa_học/Nn/O giáo_khoa/Aa/O (/PU/O giáo_khoa/Aa/O ,/PU/O giáo_trình/Nn/O ,/PU/O .../PU/O )/PU/O và/Cp/O văn_bản/Nn/O khoa_học/Nn/O phổ_cập/Vv/O (/PU/O phổ_biến/Vv/O kiến_thức/Nn/O khoa_học/Nn/O phổ_thông/Nn/O ,/PU/O .../PU/O )/PU/O ./PU/O 
+Phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O có/Ve/O các/Nq/O đặc_điểm/Nn/O chung/Aa/O như/Cp/O sau/Nn/O ./PU/O 
+1/Nq/NUM_B ./PU/O 
+Tính/Vv/O khái_quát/Aa/O ,/PU/O trừu_tượng/Aa/O :/PU/O Khoa_học/Nn/O không/R/O dừng/Vv/O lại/R/O ở/Cm/O những/Nq/O hiện_tượng/Nn/O cá_biệt/Aa/O ,/PU/O riêng_lẻ/Aa/O mà/Cp/O nhắm/Vv/O tới/Cm/O những/Nq/O quy_luật/Nn/O khái_quát/Aa/O ,/PU/O trừu_tượng/Aa/O ./PU/O 
+Do/Cp/O đó/Pd/O ,/PU/O ngôn_ngữ/Nn/O trong/Cm/O văn_bản/Nn/O khoa_học/Nn/O cũng/R/O phải/Vv/O đảm_bảo/Vv/O tính/Nn/O khái_quát/Aa/O ,/PU/O trừu_tượng/Aa/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Tính/Vv/O lí_trí/Nn/O ,/PU/O lô_gích/Nn/O :/PU/O Để/Cm/O diễn_đạt/Vv/O những/Nq/O thành_quả/Nn/O của/Cm/O tư_duy/Nn/O khoa_học/Nn/O và/Cp/O thuyết_phục/Vv/O người/Nn/O đọc/Vv/O tin/Vv/O vào/Cm/O những/Nq/O kết_luận/Nn/O khoa_học/Nn/O ,/PU/O ngôn_ngữ/Nn/O trong/Cm/O văn_bản/Nn/O khoa_học/Nn/O phải/Vv/O đảm_bảo/Vv/O tính/Nn/O lí_trí/Nn/O ,/PU/O lô_gích/Nn/O ./PU/O 
+3/Nq/NUM_B ./PU/O 
+Tính/Vv/O khách_quan/Aa/O ,/PU/O phi/Vv/O cá_thể/Aa/O :/PU/O Mục_đích/Nn/O của/Cm/O khoa_học/Nn/O là/Vc/O khám_phá/Vv/O các/Nq/O quy_luật/Nn/O của/Cm/O xã_hội/Nn/O ,/PU/O tự_nhiên/Aa/O ./PU/O 
+Do/Cp/O vậy/Pp/O ,/PU/O ngôn_ngữ/Nn/O được/Vv/O sử_dụng/Vv/O trong/Cm/O các/Nq/O văn_bản/Nn/O khoa_học/Nn/O phải/Vv/O có/Ve/O tính/Nn/O khách_quan/Aa/O ,/PU/O thường/R/O không/R/O mang/Vv/O dấu_ấn/Nn/O cá_nhân/Nn/O ./PU/O 
+Các/Nq/O đặc_điểm/Nn/O của/Cm/O phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O được_thể_hiện/Nn/O ở/Cm/O những/Nq/O mức_độ/Nn/O nghiêm_ngặt/Aa/O khác/Aa/O nhau/Nn/O tùy/Nn/O theo/Vv/O loại/Nn/O văn_bản/Nn/O khoa_học/Nn/O :/PU/O chuyên_sâu/Aa/O ,/PU/O giáo_khoa/Aa/O hay/Cp/O phổ_cập/Vv/O ./PU/O 
+II/An/O -/PU/O Cách/Nn/O sử_dụng/Vv/O phương_tiện/Nn/O ngôn_ngữ/Nn/O trong/Cm/O phong_cách/Nn/O ngôn_ngữ/Nn/O khoa_học/Nn/O 
+1/Nq/NUM_B ./PU/O 
+Về/Cm/O ngữ_âm/Nn/O -/PU/O chữ_viết/Nn/O 
+Ở/Cm/O dạng/Nn/O nói/Vv/O ,/PU/O văn_bản/Nn/O khoa_học/Nn/O tuân/Vv/O theo/Vv/O những/Nq/O yêu_cầu/Nn/O phổ_biến/Aa/O về/Cm/O phát_âm/Vv/O ,/PU/O tạo/Vv/O nên/Vv/O sức/Nn/O thu_hút/Vv/O người/Nn/O nghe/Vv/O ./PU/O 
+Ở/Cm/O dạng/Nn/O viết/Vv/O ,/PU/O ngoài/Nn/O những/Nq/O đặc_điểm/Nn/O của/Cm/O chuẩn/Nn/O chính_tả/Nn/O tiếng/Nn/O Việt/Nr/LOC_B nói_chung/Cs/O ,/PU/O văn_bản/Nn/O khoa_học/Nn/O còn/R/O có/Ve/O những/Nq/O điểm/Nn/O riêng/Aa/O về/Cm/O hệ_thống/Nn/O kí_hiệu/Nq/O khoa_học/Nn/O mà/Cp/O người/Nn/O viết/Vv/O và/Cp/O người/Nn/O đọc/Vv/O phải/Vv/O biết/Vv/O mới/Cp/O sử_dụng/Vv/O và/Cp/O tiếp_nhận/Vv/O được/R/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O các/Nq/O kí_hiệu/Nq/O m/Nu/O ,/PU/O m2/Nu/O ,/PU/O kg/Nu/O ,/PU/O S/Nr/O ,/PU/O F/Nr/O ,/PU/O a/Nr/O ,/PU/O H2O/Nr/ABB_PER_B ,/PU/O .../PU/O 
+2/Nq/NUM_B ./PU/O 
+Về/Cm/O từ_ngữ/Nn/O 
+-/PU/O Mỗi/Nq/O ngành/Nn/O khoa_học/Nn/O có/Ve/O hệ_thống/Nn/O thuật_ngữ/Nn/O riêng/Aa/O buộc/Vv/O người/Nn/O dùng/Vv/O phải/Vv/O hiểu/Vv/O chính_xác/Aa/O mới/Cp/O sử_dụng/Vv/O được/R/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O Chủ_ngữ/Nn/O ,/PU/O vị_ngữ/Nn/O ,/PU/O câu/Nn/O đơn/Aa/O ,/PU/O câu/Nn/O ghép/Vv/O ,/PU/O .../PU/O là/Vc/O các/Nq/O thuật_ngữ/Nn/O của/Cm/O khoa_học/Nn/O về/Cm/O ngôn_ngữ/Nn/O ./PU/O 
+-/PU/O Từ_ngữ/Nr/PER_B dùng/Vv/O trong/Cm/O văn_bản/Nn/O khoa_học/Nn/O thuộc/Vv/O lớp/Nn/O từ_ngữ/Nn/O chung/Aa/O ./PU/O 
+Văn_bản/Nn/O khoa_học/Nn/O không/R/O dùng/Vv/O các/Nq/O từ_ngữ/Nn/O địa_phương/Nn/O ,/PU/O biệt/Aa/O ngữ/Nn/O xã_hội/Nn/O ,/PU/O .../PU/O 
+-/PU/O Văn_bản/Nn/O khoa_học/Nn/O đòi_hỏi/Vv/O tính/Nn/O khách_quan/Aa/O ,/PU/O phi/Vv/O cá_thể/Aa/O nên/Cp/O từ_ngữ/Nn/O trong/Cm/O dó/Nn/O thường/R/O mang/Vv/O sắc_thái/Nn/O biểu_cảm/Vv/O trung/Aa/O hòa/Nn/O ./PU/O 
+3/Nq/NUM_B ./PU/O 
+Về/Cm/O kiểu/Nn/O câu/Nn/O 
+-/PU/O Văn_bản/Nn/O khoa_học/Nn/O thường/R/O dùng/Vv/O các/Nq/O kiểu/Nn/O câu/Nn/O có/Ve/O chủ_ngữ/Nn/O không/R/O xác_định/Vv/O ,/PU/O hoặc/Cp/O khuyết/Vv/O chủ_ngữ/Nn/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O 
++/PU/O Để/Cm/O phát_hiện/Vv/O các/Nq/O vật/Nn/O nhiễm_điện/Vv/O ,/PU/O người_ta/Pp/O dùng/Vv/O cái/Nc/O điện_nghiệm/Nn/O ./PU/O 
+(/PU/O Vật_lí/Nr/ORG_B 9/Nq/NUM_B )/PU/O 
++/PU/O Cho/Vv/O một/Nq/NUM_B hệ/Nn/O hai/Nq/NUM_B phương_trình/Nn/O bậc/Nn/O nhất/An/O hai/Nq/NUM_B ẩn/Vv/O ./PU/O 
+(/PU/O Đại_số/Nr/PER_B 10/Nq/NUM_B Nâng_cao/Vv/O )/PU/O 
+-/PU/O Câu/Nn/O có/Ve/O nghĩa/Nn/O bị_động/Aa/O và/Cp/O câu/Nn/O có/Ve/O từ/Cm/O là/Vc/O được/Vv/O sử_dụng/Vv/O thường_xuyên/Aa/O khi/Nt/O đánh_giá/Vv/O ,/PU/O nhận_xét/Vv/O ,/PU/O định_nghĩa/Vv/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O 
++/PU/O Như/Cp/O vậy/Pp/O trong/Cm/O mặt_phẳng/Nn/O tọa/Nq/O độ/Nn/O ,/PU/O mỗi/Nq/O nghiệm/Vv/O của/Cm/O bất_phương_trình/Nn/O bậc/Nn/O nhất/An/O hai/Nq/NUM_B ẩn/Vv/O được/Vv/O biểu_diễn/Vv/O bởi/Cp/O một/Nq/NUM_B điểm/Nn/O và/Cp/O tập/Vv/O nghiệm/Vv/O của/Cm/O nó/Pp/O được/Vv/O hiểu/Vv/O diễn/Vv/O bởi/Cp/O một/Nq/NUM_B tập_hợp/Nn/O điểm/Nn/O ./PU/O 
+(/PU/O Đại_số/Nr/PER_B 10/Nq/NUM_B Nâng_cao/Vv/O )/PU/O 
++/PU/O Muối/Nn/O là/Vc/O hợp_chất/Nn/O mà/Cp/O phân_tử/Nn/O gồm/Vv/O nguyên_tử/Nn/O kim_loại/Nn/O liên_kết/Vv/O với/Cp/O gốc/Nn/O axít/Nn/O ./PU/O 
+(/PU/O Hóa/Nr/PER_B học/Vv/O 9/Nq/NUM_B )/PU/O 
+-/PU/O Để/Cm/O trình_bày/Vv/O những/Nq/O biện_luận/Vv/O ,/PU/O suy_lí/Nq/O khoa_học/Nn/O ,/PU/O văn_bản/Nn/O khoa_học/Nn/O dùng/Vv/O các/Nq/O kiểu/Nn/O câu/Nn/O phức/Aa/O có/Ve/O đầy_đủ/Aa/O các/Nq/O cặp/Nq/O quan_hệ/Nn/O từ/Cm/O hô/Vv/O ứng/Vv/O như/Cp/O :/PU/O nếu/Cs/O .../PU/O thì/Cs/O ,/PU/O vì/Cs/O .../PU/O nên/Cs/O ,/PU/O tuy/Cs/O .../PU/O nhưng/Cs/O ,/PU/O v.v./Nn/O 
+Ví_dụ/Cp/O :/PU/O 
++/PU/O Nếu/Cp/O một/Nq/NUM_B đường_thẳng/Nn/O song_song/Aa/O với/Cp/O một/Nq/NUM_B đường_thẳng/Nn/O nào/Pd/O đó/Pd/O của/Cm/O một/Nq/NUM_B mặt_phẳng/Nn/O không/R/O chứa/Vv/O nó/Pp/O ,/PU/O thì/Cp/O nó/Pp/O song_song/Aa/O với/Cp/O mặt_phẳng/Nn/O ấy/Pd/O ./PU/O 
+(/PU/O Hình_học/Nn/O 9/Nq/NUM_B )/PU/O 
++/PU/O Vì/Cs/O dầu/Nn/O chỉ/R/O dính/Vv/O ướt/Aa/O quặng/Nn/O nên/Cs/O quặng/Nn/O bám/Vv/O vào/Cm/O các/Nq/O màng/Nn/O dầu/Nn/O bao/Vv/O quanh/Nn/O bọt/Nn/O khí/Nn/O và/Cp/O các/Nq/O hạt/Nc/O quặng/Nn/O nổi/Vv/O lên/R/O cùng/Cp/O với/Cp/O bọt/Nn/O khí/Nn/O ,/PU/O còn/Cp/O bẩn/Aa/O quặng/Nn/O thì/Cp/O chìm/Vv/O xuống/D/O đáy/Nn/O ./PU/O 
+(/PU/O Vật_lí/Nr/PER_B 10/Nq/NUM_B Nâng_cao/Vv/O )/PU/O 
++/PU/O Tuy/Cs/O không/R/O tác_dụng/Vv/O trực_tiếp/Aa/O với/Cp/O oxi/Nn/O nhưng/Cs/O clo/Nn/O tạo/Vv/O ra/R/O một/Nq/O loạt/Nn/O oxit/Nn/O được/Vv/O điều_chế/Vv/O bằng/Cm/O con/Nc/O đường/Nn/O gián_tiếp/Aa/O ./PU/O 
+(/PU/O Hóa/Nr/PER_B học/Vv/O 10/Nq/NUM_B Nâng_cao/Vv/O )/PU/O 
+4/Nq/NUM_B ./PU/O 
+Về/Cm/O biện_pháp/Nn/O tu_từ/Nn/O 
+Văn_bản/Nn/O khoa_học/Nn/O chuyên_sâu/Aa/O và/Cp/O giáo_khoa/Aa/O thường/R/O không/R/O dùng/Vv/O các/Nq/O biện_pháp/Nn/O tu_từ/Nn/O ./PU/O 
+Song/Cp/O ,/PU/O trong/Cm/O văn_bản/Nn/O khoa_học/Nn/O phổ_cập/Vv/O ,/PU/O để/Cm/O tăng/Vv/O sự/Nc/O hấp_dẫn/Aa/O đối_với/Cp/O người/Nn/O đọc/Vv/O và/Cp/O dễ/Aa/O phổ_biến/Aa/O những/Nq/O kiến_thức/Nn/O khoa_học/Nn/O phổ_thông/Nn/O ,/PU/O người_ta/Pp/O cũng/R/O thường/R/O sử_dụng/Vv/O các/Nq/O biện_pháp/Nn/O tu_từ/Nn/O như/Cp/O ẩn_dụ/Nn/O ,/PU/O nhân/Cp/O hóa/Nn/O ,/PU/O so_sánh/Vv/O ,/PU/O .../PU/O 
+5/Nq/NUM_B ./PU/O 
+Về/Cm/O bố_cục/Nn/O ,/PU/O trình_bày/Vv/O 
+Cách/Nn/O trình_bày/Vv/O ,/PU/O bố_cục/Nn/O văn_bản/Nn/O khoa_học/Nn/O đòi_hỏi/Vv/O phái/Nn/O chặt_chẽ/Aa/O ,/PU/O lô_gích/Nn/O ./PU/O 
+Các/Nq/O văn_bản/Nn/O khoa_học/Nn/O không/R/O có/Ve/O khuôn_mẫu/Nn/O cố_định/Aa/O ,/PU/O nhưng/Cp/O thường/R/O được/Vv/O trình_bày/Vv/O theo/Vv/O trật_tự/Nn/O chương/Nn/O ,/PU/O mục/Nn/O ./PU/O 
+Trong/Cm/O văn_bản/Nn/O khoa_học/Nn/O ,/PU/O ngoài/Nn/O cách/Nn/O trình_bày/Vv/O thông_thường/Aa/O ,/PU/O còn/Cp/O có/Ve/O bảng/Nn/O biểu/Nn/O ,/PU/O sơ_đồ/Nn/O ,/PU/O mô_hình/Nn/O ,/PU/O .../PU/O và/Cp/O thường/R/O xuất_hiện/Vv/O những/Nq/O chú_thích/Nn/O ,/PU/O với/Cp/O những/Nq/O quy_định/Nn/O sử_dụng/Vv/O chặt_chẽ/Aa/O ,/PU/O buộc/Vv/O phải/Vv/O tuân/Vv/O theo/Vv/O ./PU/O 

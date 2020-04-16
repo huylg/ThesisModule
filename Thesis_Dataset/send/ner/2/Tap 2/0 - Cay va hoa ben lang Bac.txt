@@ -1,0 +1,8 @@
+﻿Cây/Nn/O và/Cp/O hoa/Nn/O bên/Nn/O lăng/Nn/O Bác/Nn/PER_B 
+Trên/Cm/O quảng_trường/Nn/LOC_B Ba_Đình/Nr/LOC_I lịch_sử/Aa/O ,/PU/O lăng/Nn/O Bác/Nn/O uy_nghi/Aa/O mà/Cp/O gần_gũi/Aa/O ./PU/O 
+Cây/Nn/O và/Cp/O hoa/Nn/O khắp/Aa/O miền/Nn/O đất_nước/Nn/O về/Cm/O đây/Pd/O tụ_hội/Vv/O ,/PU/O đâm/Vv/O chồi/Nn/O ,/PU/O phô/Vv/O sắc/Nn/O ,/PU/O tỏa/Nn/O ngát/Aa/O hương/Nn/O thơm/Aa/O ./PU/O 
+Ngay/M/O thềm/Nn/O lăng/Nn/O ,/PU/O mười/Nq/NUM_B tám/Nq/NUM_I cây/Nc/O vạn_tuế/Nn/O tượng_trưng/Vv/O cho/Cp/O một/Nq/NUM_B hàng/Nn/O quân/Nn/O danh_dự/Nn/O đứng/Vv/O trang_nghiêm/Aa/O ./PU/O 
+Hướng/Nn/O chính/Aa/O lăng/Nn/O ,/PU/O cạnh/Nn/O hàng/Nn/O dầu/Nn/O nước/Nn/O thẳng_tắp/Aa/O ,/PU/O những/Nq/O đóa/Nn/O hoa_ban/Nn/O đã/R/O nở/Vv/O lứa/Nn/O đầu/Aa/O ./PU/O 
+Sau/Nn/O lăng/Nn/O ,/PU/O những/Nq/O cành/Nn/O đào/Vv/O Sơn_La/Nr/LOC_B khỏe/Nn/O khoắn/Nn/O vươn/Vv/O lên/R/O ,/PU/O reo/Vv/O vui/Aa/O với/Cp/O nhành/Nc/O sứ/Nn/O đỏ/Aa/O của/Cm/O đồng_bằng/Nn/ORG_B Nam_Bộ/Nr/ORG_I ./PU/O 
+Trên/Cm/O bậc_tam_cấp/Nn/O ,/PU/O hoa/Nn/O dạ_hương/Nn/O chưa/R/O đơm/Vv/O bông/Nc/O ,/PU/O nhưng/Cp/O hoa_nhài/Nn/O trắng/Aa/O mịn/Aa/O ,/PU/O hoa/Nn/O mộc/Nn/O ,/PU/O hoa_ngâu/Nn/O kết/Vv/O chùm/Nn/O đang/R/O tỏa/Nq/O hương/Nn/O ngào_ngạt/Aa/O ./PU/O 
+Cây/Nn/O và/Cp/O hoa/Nn/O của/Cm/O non_sông/Nn/O gấm_vóc/Nn/O đang/R/O dâng/Vv/O niềm/Nc/O tôn_kính/Vv/O thiêng_liêng/Aa/O theo/Vv/O đoàn/Nn/O người/Nn/O vào/Cm/O lăng/Nn/O viếng/Vv/O Bác/Nn/PER_B ./PU/O 

@@ -1,0 +1,18 @@
+﻿Kì_diệu/Nq/NUM_B rừng/Nn/O xanh/Aa/O 
+Loanh_quanh/Vv/O trong/Cm/O rừng/Nn/O ,/PU/O chúng_tôi/Pp/O đi/Vv/O vào/Cm/O một/Nq/NUM_B lối/Nn/O đầy/Aa/O nấm/Nn/O dại/Aa/O ,/PU/O một/Nq/NUM_B thành_phố/Nu/O nấm/Nn/O lúp_xúp/Aa/O dưới/Cm/O bóng/Nn/O cây/Nn/O thưa/Aa/O ./PU/O 
+Những/Nq/O chiếc/Nc/O nấm/Nn/O to/Aa/O bằng/Cm/O cái/Nc/O ấm_tích/Aa/O ,/PU/O màu/Nn/O sặc_sỡ/Aa/O rực/Aa/O lên/R/O ./PU/O 
+Mỗi/Nq/O chiếc/Nc/O nấm/Nn/O là/Vc/O một/Nq/NUM_B lâu_đài/Nn/O kiến_trúc/Nn/O tân_kì/Nn/O ./PU/O 
+Tôi/Pp/O có/Ve/O cảm_giác/Nn/O mình/Pp/O là/Vc/O một/Nq/NUM_B người/Nn/O khổng_lồ/Aa/O đi/Vv/O lạc/Vv/O vào/Cm/O kinh_đô/Nn/O của/Cm/O vương_quốc/Nn/O những/Nq/O người/Nn/O tí_hon/Aa/O ./PU/O 
+Đền_đài/Nn/O ,/PU/O miếu_mạo/Nn/O ,/PU/O cung_điện/Nn/O của/Cm/O họ/Pp/O lúp_xúp/Aa/O dưới/Cm/O chân/Nn/O ./PU/O 
+Nắng/Nn/O trưa/Nt/O đã/R/O rọi/Vv/O xuống/D/O đỉnh/Nn/O đầu/Aa/O mà/Cp/O rừng/Nn/O sâu/Aa/O vẫn/R/O ẩm/Aa/O lạnh/Aa/O ,/PU/O ánh/Nc/O nắng/Nn/O lọt/Vv/O qua/D/O lá/Nc/O trong/Cm/O xanh/Aa/O ./PU/O 
+Chúng_tôi/Pp/O đi/Vv/O đến/Cm/O đâu/Pp/O ,/PU/O rừng/Nn/O rào_rào/Aa/O chuyển_động/Nn/O đến/Vd/O đấy/Pd/O ./PU/O 
+Những/Nq/O con/Nc/O vượn/Nn/O bạc_má/Nn/O ôm/Vv/O con/Nn/O gọn_ghẽ/Aa/O chuyền/Vv/O nhanh/Aa/O như/Cp/O tia/Nn/O chớp/Nn/O ./PU/O 
+Những/Nq/O con/Nc/O chồn/Nn/O sóc/Nn/O với/Cp/O chùm/Nn/O lông/Nn/O đuôi/Nn/O to/Aa/O đẹp/Aa/O vút/Vv/O qua/D/O không/R/O kịp/Aa/O đưa_mắt/Vv/O nhìn/Vv/O theo/Vv/O ./PU/O 
+Sau/Nn/O một/Nq/O hồi/Nt/O len/Vv/O lách/Vv/O mải_miết/Vv/O ,/PU/O rẽ/Vv/O bụi/Nn/O rậm/Aa/O ,/PU/O chúng_tôi/Pp/O nhìn/Vv/O thấy/Vv/O một/Nq/NUM_B bãi/Nn/O cây/Nn/O khộp/Nn/O ./PU/O 
+Rừng/Nn/O khộp/Nn/O hiện/Vv/O ra/R/O trước/Nn/O mắt/Nn/O chúng_tôi/Pp/O ,/PU/O lá/Nn/O úa/Vv/O vàng/Nn/O như/Cp/O cảnh/Nn/O mùa/Nn/DTM_B thu/Nt/DTM_I ./PU/O 
+Tôi/Pp/O dụi/Vv/O mắt/Nn/O ./PU/O 
+Những/Nq/O sắc/Nn/O vàng/Nn/O động_đậy/Vv/O ./PU/O 
+Mấy/Nq/O con/Nn/O mang/Vv/O vàng/Nn/O hệt/Aa/O như/Cp/O màu/Nn/O lá/Aa/O khộp/Nn/O đang/R/O ăn/Vv/O cỏ/Nn/O non/Aa/O ./PU/O 
+Những/Nq/O chiếc/Nc/O chân/Nn/O vàng/Nn/O giẫm/Vv/O trên/Cm/O thảm/Nn/O lá/Nn/O vàng/Nn/O và/Cp/O sác/Nq/O nắng/Nn/O cũng/R/O rực/Aa/O vàng/Aa/O trên/Cm/O lưng/Nn/O nó/Pp/O ./PU/O 
+Chỉ/R/O có/Ve/O mấy/Nq/O vạt/Nn/O cỏ/Nn/O xanh_biếc/Aa/O là/Vc/O rực/Aa/O lên/D/O giữa/Cm/O cái/Nc/O giang_sơn/Nn/O vàng/Nn/O rợi/Nn/O ./PU/O 
+Tôi/Pp/O có/Ve/O cảm_giác/Nn/O mình/Pp/O lạc/Vv/O vào/Cm/O một/Nq/NUM_B thế_giới/Nn/O thần_bí/Aa/O ./PU/O 

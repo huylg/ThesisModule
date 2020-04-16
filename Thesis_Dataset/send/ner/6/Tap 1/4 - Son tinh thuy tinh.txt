@@ -1,0 +1,25 @@
+﻿Sơn_Tinh/Nr/PER_B ,/PU/O Thủy_Tinh/Nr/PER_B 
+Hùng_Vương/Nr/PER_B thứ/Nn/O mười/An/O tám/Nq/NUM_B có/Ve/O một/Nq/NUM_B người/Nc/O con_gái/Nn/O tên/Nn/O là/Vc/O Mị_Nương/Nr/PER_B ,/PU/O người_đẹp/Nn/O như/Cp/O hoa/Nn/O ,/PU/O tính_nết/Nn/O hiền_dịu/Aa/O ./PU/O 
+Vua_cha/Nn/O yêu_thương/Vv/O nàng/Nn/O hết_mực/R/O ,/PU/O muốn/Vv/O kén/Aa/O cho/Cp/O con/Nn/O một/Nq/NUM_B người/Nc/O chồng/Nn/O thật/R/O xứng_đáng/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O có/Ve/O hai/Nq/NUM_B chàng/Nc/O trai/Nn/O đến/Vd/O cầu_hôn/Vv/O ./PU/O 
+Một/Nq/NUM_B người/Nn/O ở/Cm/O vùng/Nn/LOC_B núi/Nn/LOC_I Tản_Viên/Nr/LOC_I có/Ve/O tài/Nn/O lạ/Aa/O :/PU/O vẫy/Vv/O tay/Nn/O về/D/O phía/Nn/O đông/Nn/O ,/PU/O phía/Nn/O đông/Nn/O nổi/Vv/O cồn/Nn/O bãi/Nn/O ;/PU/O vẫy/Vv/O tay/Nn/O về/D/O phía/Nn/O tây/Nn/O ,/PU/O phía/Nn/O tây/Nn/O mọc/Vv/O lên/R/O từng/Pp/O dãy/Nn/O núi/Nn/O đồi/Nn/O ./PU/O 
+Người_ta/Pp/O gọi/Vv/O chàng/Nn/O là/Vc/O Sơn_Tinh/Nr/PER_B ./PU/O 
+Một/Nq/NUM_B người/Nn/O ở/Cm/O miền/Nn/O biển/Nn/O ,/PU/O tài_năng/Nn/O cũng/R/O không/R/O kém/Aa/O :/PU/O gọi/Vv/O gió/Nn/O ,/PU/O gió/Nn/O đến/Vd/O ;/PU/O hô/Vv/O mưa/Nn/O ,/PU/O mưa/Nn/O về/D/O ./PU/O 
+Người_ta/Pp/O gọi/Vv/O chàng/Nn/O là/Vc/O Thủy_Tinh/Nr/PER_B ./PU/O 
+Một/Nq/NUM_B người/Nn/O là/Vc/O chúa/Nn/O vùng/Nn/O non/Aa/O cao/Aa/O ,/PU/O một/Nq/NUM_B người/Nn/O là/Vc/O chúa/Nn/O vùng/Nn/O nước/Nn/O thẳm/Aa/O ,/PU/O cả/Pp/O hai/Nq/NUM_B đều/R/O xứng_đáng/Aa/O làm/Vv/O rể/Nn/O vua/Nn/DES_B Hùng/Nr/PER_B ./PU/O 
+Vua/Nn/DES_B Hùng/Nr/PER_B băn_khoăn/Aa/O không/R/O biết/Vv/O nhận_lời/Vv/O ai/Pp/O ,/PU/O từ_chối/Vv/O ai/Pp/O ,/PU/O bèn/R/O cho/Vv/O mời/Vv/O các/Nq/O Lạc_hầu/Nn/O vào/Cm/O bàn_bạc/Vv/O ./PU/O 
+Xong/Vv/O ,/PU/O vua/Nn/O phán/Vv/O :/PU/O 
+-/PU/O Hai_chàng/Nn/O đều/R/O vừa_ý/Aa/O ta/Pp/O ,/PU/O nhưng/Cp/O ta/Pp/O chỉ/R/O có/Ve/O một/Nq/NUM_B người/Nc/O con_gái/Nn/O ,/PU/O biết/Vv/O gả/Vv/O cho/Cp/O người/Nn/O nào/Pd/O ?/PU/O 
+Thôi_thì/Cp/O ngày_mai/Nt/DTM_B ,/PU/O ai/Pp/O đem/Vv/O sính_lễ/Nn/O đến/Cm/O trước/Nn/O ,/PU/O ta/Pp/O sẽ/R/O cho/Vv/O cưới/Vv/O con_gái/Nn/O ta/Pp/O ./PU/O 
+Hai/Nq/NUM_B chàng/Nn/O tâu/Vv/O hỏi/Vv/O đồ/Nn/O sính_lễ/Nn/O cần/Vv/O sắm/Vv/O những/Nq/O gì/Pp/O ,/PU/O vua/Nn/O bảo/Vv/O :/PU/O "/PU/O Một/Nq/NUM_B trăm/Nq/NUM_I ván/Nn/O cơm/Nn/O nếp/Nn/O ,/PU/O một/Nq/NUM_B trăm/Nq/NUM_I nệp/Nn/O bánh_chưng/Nn/O và/Cp/O voi/Nn/O chín/Nq/NUM_B ngà/Nn/O ,/PU/O gà/Nn/O chín/Nq/NUM_B cựa/Vv/O ,/PU/O ngựa/Nn/O chín/Nq/NUM_B hồng_mao/Nn/O ,/PU/O mỗi/Nq/O thứ/Nn/O một/An/O đôi/Nq/O "/PU/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O mới/R/O tờ_mờ/Aa/O sáng/Nt/O ,/PU/O Sơn_Tinh/Nr/PER_B đã/R/O đem/Vv/O đầy_đủ/Aa/O lễ_vật/Nn/O đến/D/O rước/Vv/O Mị_Nương/Nr/PER_B về/Cm/O núi/Nn/O ./PU/O 
+Thủy_Tinh/Nr/PER_B đến/Vd/O sau/Nn/O ,/PU/O không/R/O lấy/Vv/O được/R/O vợ/Nn/O ,/PU/O đùng_đùng/R/O nổi_giận/Vv/O ,/PU/O đem/Vv/O quân/Nn/O đuổi/Vv/O theo_đòi/Vv/O cướp/Vv/O Mị_Nương/Nr/PER_B ./PU/O 
+Thần/Nn/O hô/Vv/O mưa/Nn/O ,/PU/O gọi/Vv/O gió/Nn/O làm/Vv/O thành/Vv/O dông/Nn/O bão/Nn/O rung_chuyển/Vv/O cả/Pp/O đất_trời/Nn/O ,/PU/O dâng/Vv/O nước/Nn/O sông/Nn/O lên/Vv/O cuồn_cuộn/Vv/O đánh/Vv/O Sơn_Tinh/Nr/PER_B ./PU/O 
+Nước/Nn/O ngập/Vv/O ruộng/Nn/O đồng/Nn/O ,/PU/O nước/Nn/O ngập/Vv/O nhà_cửa/Nn/O ,/PU/O nước/Nn/O dâng/Vv/O lên/R/O lưng/Nn/O đồi/Nn/O ,/PU/O sườn/Nn/O núi/Nn/O ,/PU/O thành/Nu/LOC_B Phong_Châu/Nr/LOC_I như/Cp/O nổi/Vv/O lềnh_bềnh/Aa/O trên/Cm/O một/Nq/NUM_B biển/Nn/O nước/Nn/O ./PU/O 
+Sơn_Tinh/Nr/PER_B không/R/O hề/M/O nao_núng/Vv/O ./PU/O 
+Thần/Nn/O dùng/Vv/O phép/Nn/O lạ/Aa/O bốc/Vv/O từng/Pp/O quả/M/O đồi/Nn/O ,/PU/O dời/Vv/O từng/Pp/O dãy/Nn/O núi/Nn/O ,/PU/O dựng/Vv/O thành/Vv/O lũy/Nq/O đất/Nn/O ,/PU/O ngăn_chặn/Vv/O dòng/Nn/O nước/Nn/O lũ/Nn/O ./PU/O 
+Nước/Nn/O sông/Nn/O dâng/Vv/O lên/R/O bao_nhiêu/Pp/O ,/PU/O đồi/Nn/O núi/Nn/O cao/Aa/O lên/R/O bấy_nhiêu/Pp/O ./PU/O 
+Hai/Nq/NUM_B bên/Nn/O đánh/Vv/O nhau/Nn/O ròng_rã/Aa/O mấy/Nq/O tháng/Nt/O trời/M/O ,/PU/O cuối_cùng/Aa/O Sơn_Tinh/Nr/PER_B vẫn/R/O vững_vàng/Aa/O mà/Cp/O sức/Nn/O Thủy_Tinh/Nr/PER_B đã/R/O kiệt/Vv/O ./PU/O 
+Thần/Nn/O Nước/Nn/O đành/Vv/O rút/Vv/O quân/Nn/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O oán/Vv/O nặng/Aa/O ,/PU/O thù/Nn/O sâu/Aa/O ,/PU/O hằng/R/O năm/Nt/O Thủy_Tinh/Nr/LOC_B làm/Vv/O mưa_gió/Nn/O ,/PU/O bão/Nn/O lụt/Nn/O dâng/Vv/O nước/Nn/O đánh/Vv/O Sơn_Tinh/Nr/PER_B ./PU/O 
+Nhưng/Cp/O năm/Nt/O nào/Pd/O cũng/R/O vậy/Pp/O ,/PU/O Thần_Nước/Nr/PER_B đánh/Vv/O mỏi_mệt/Aa/O ,/PU/O chán_chê/Aa/O vẫn/R/O không/R/O thẳng/Aa/O nổi/Vv/O Thần_Núi/Nr/PER_B để/Cm/O cướp/Vv/O Mị_Nương/Nr/PER_B ,/PU/O đành/Vv/O rút/Vv/O quân/Nn/O về/D/O ./PU/O 

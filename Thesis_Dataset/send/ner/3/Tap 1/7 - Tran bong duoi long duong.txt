@@ -1,0 +1,31 @@
+﻿Trận/Nn/O bóng/Nn/O dưới/Cm/O lòng_đường/Nn/O 
+Trận_đấu/Nn/O vừa/R/O bắt_đầu/Vv/O thì/Cp/O Quang/Nr/PER_B cướp/Vv/O được/R/O bóng/Nn/O ./PU/O 
+Quang/Nr/PER_B bấm/Vv/O nhẹ/Aa/O bóng/Nn/O sang/Cm/O cánh/Nn/O phải/Aa/O cho/Cp/O Vũ/Nr/PER_B ./PU/O 
+Vũ/Nr/PER_B dẫn/Vv/O bóng/Nn/O lên/D/O ./PU/O 
+Bốn/Nq/NUM_B ,/PU/O năm/Nt/O cầu_thủ/Nn/O đội/Nn/O bạn/Pp/O lao/Vv/O đến/Cm/O ./PU/O 
+Vũ_ngần_ngừ/Nn/O giây_lát/Nt/O ./PU/O 
+Chợt/R/O nhận/Vv/O ra/R/O cánh/Nn/O trái/Aa/O trống/Aa/O hẳn/Aa/O đi/R/O ,/PU/O Vũ/Nr/PER_B chuyển/Vv/O bóng/Nn/O cho/Cp/O Long/Nr/PER_B ./PU/O 
+Long/Nr/PER_B như/Cp/O chỉ/R/O đợi/Vv/O có/Ve/O vậy/Pp/O ,/PU/O dốc/Nn/O bóng/Nn/O nhanh/Aa/O về/Cm/O phía/Nn/O khung_thành/Nn/O đối_phương/Nn/O ./PU/O 
+Cái/Nc/O đầu/Nn/O húi_cua/Nn/O của/Cm/O cậu/Nc/O bé/Nn/O chúi/Vv/O về/Cm/O phía/Nn/O trước/Nn/O ./PU/O 
+Bỗng/R/O một/Nq/NUM_B tiếng/Nn/O "/PU/O kít/Nn/O .../PU/O ít/Aa/O "/PU/O làm/Vv/O cậu/Nc/O sững/Aa/O lại/R/O ./PU/O 
+Chỉ/R/O chút/Nq/O nữa/R/O thì/Cp/O cậu/Nn/O đã/R/O tông/Vv/O phải/Vv/O xe_gắn_máy/Nn/O ./PU/O 
+Bác/Nn/PER_B đi/Vv/O xe/Nn/O nổi_nóng/Vv/O làm/Vv/O cả/Pp/O bọn/Nn/O chạy/Vv/O tán_loạn/Vv/O ./PU/O 
+Nhưng/Cp/O chỉ/R/O được/Vv/O một/Nq/O lát/Nt/O ,/PU/O bọn/Nn/O trẻ/Nn/O hết/R/O sợ/Vv/O ,/PU/O lại/R/O hò/Vv/O nhau/Nn/O xuống/D/O lòng_đường/Nn/O ./PU/O 
+Lần/Nn/O này/Pd/O ,/PU/O Quang/Nr/PER_B quyết_định/Vv/O chơi/Vv/O bóng/Nn/O bổng/Aa/O ./PU/O 
+Còn/Cp/O cách/Vv/O khung_thành/Nn/O chừng/Nn/O năm/Nq/MEA_B mét/Nu/MEA_I ,/PU/O em/Pp/O co/Vv/O chân_sút/Nn/O rất/R/O mạnh/Aa/O ./PU/O 
+Quả/M/O bóng/Nn/O vút/Vv/O lên/R/O ,/PU/O nhưng/Cp/O lại/R/O đi/Vv/O chệch/Aa/O lên/R/O vỉa_hè/Nn/O và/Cp/O đập/Vv/O vào/Cm/O đầu/Nn/O một/Nq/NUM_B cụ/Nn/O già/Aa/O ./PU/O 
+Cụ/Nn/O lảo_đảo/Vv/O ,/PU/O ôm/Vv/O lấy/R/O đầu/Nn/O và/Cp/O khuỵu/Vv/O xuống/D/O ./PU/O 
+Một/Nq/NUM_B bác/Nc/O đứng_tuổi/Aa/O vội/Aa/O đỡ/Vv/O lấy/Vv/O cụ/Nn/O ./PU/O 
+Bác/Nn/PER_B quát/Vv/O to/Aa/O :/PU/O 
+Chỗ/Nn/O này/Pd/O là/Vc/O chỗ/Nn/O chơi/Vv/O bóng/Nn/O à/M/O ?/PU/O 
+Đám/Nn/O học_trò/Nn/O hoảng_sợ/Vv/O bỏ/Vv/O chạy/Vv/O ./PU/O 
+Từ/Cm/O một/Nq/NUM_B gốc/Nn/O cây/Nn/O ,/PU/O Quang/Nr/PER_B lén/R/O nhìn/Vv/O sang/Cm/O ./PU/O 
+Bác/Nn/O đứng_tuổi/Aa/O xuýt_xoa/Vv/O ,/PU/O hỏi_han/Vv/O ông/Nc/O cụ/Nn/O ./PU/O 
+Một/Nq/NUM_B chiếc/Nc/O xích_lô/Nn/O xịch/Nn/O tới/Cm/O ./PU/O 
+Bác/Nn/O đứng_tuổi/Aa/O vừa/Cs/O dìu/Vv/O ông/Nc/O cụ/Nn/O lên/Vd/O xe/Nn/O ,/PU/O vừa/Cs/O bực_bội/Vv/O :/PU/O 
+Thật/R/O là/Vc/O quá_quắt/Aa/O !/PU/O 
+Quang/Nr/PER_B sợ/Vv/O tái/Aa/O cả/Pp/O người/Nn/O ./PU/O 
+Bỗng/R/O cậu/Nn/O thấy/Vv/O cái/Nc/O lưng/Nn/O còng/Aa/O của/Cm/O ông/Nc/O cụ/Nn/O sao/Pp/O giống/Vv/O lung/Nn/O ông/Nn/O nội/Nn/O thế/Pp/O ./PU/O 
+Cậu/Nc/O bé/Nn/O vừa/R/O chạy/Vv/O theo/Vv/O chiếc/Nc/O xích_lô/Nn/O ,/PU/O vừa/Cs/O mếu_máo/Vv/O :/PU/O 
+Ông/Pp/O ơi/E/O .../PU/O cụ/Pp/O ơi/E/O .../PU/O 
+Cháu/Pp/O xin_lỗi/Vv/O cụ/Nn/O ./PU/O 

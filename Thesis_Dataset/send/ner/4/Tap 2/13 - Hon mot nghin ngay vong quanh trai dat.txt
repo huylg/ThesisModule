@@ -1,0 +1,18 @@
+﻿Hơn/Aa/O một/Nq/MEA_B nghìn/Nq/MEA_I ngày/Nt/MEA_I vòng_quanh/Vv/O trái_đất/Nn/O 
+Ngày/Nt/DTM_B 20/Nt/DTM_I tháng/Nt/DTM_I 9/Nt/DTM_I năm/Nt/DTM_I 1519/Nt/DTM_I ,/PU/O từ/Cm/O cảng/Nn/LOC_B Xê-vi-la/Nq/LOC_I nước/Nn/LOC_I Tây_Ban_Nha/Nr/LOC_I ,/PU/O có/Ve/O năm/Nq/NUM_B chiếc/Nc/O thuyền/Nn/O lớn/Aa/O giong/Vv/O buồm/Nn/O ra/Vd/O khơi/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O hạm_đội/Nn/O do/Cp/O Ma-gien-lâng/Nn/O chỉ_huy/Vv/O ,/PU/O với/Cp/O nhiệm_vụ/Nn/O khám_phá/Vv/O con/Nc/O đường/Nn/O trên/Cm/O biển/Nn/O dẫn/Vv/O đến/Cm/O những/Nq/O vùng_đất/Nn/O mới/Aa/O ./PU/O 
+Vượt/Vv/O Đại_Tây_Dương/Nr/LOC_B ,/PU/O Ma-gien-lăng/Nr/PER_B cho/Cp/O đoàn/Nn/O thuyền/Nn/O đi/Vv/O dọc/Aa/O theo/Vv/O bờ/Nn/O biển/Nn/LOC_B Nam_Mĩ/Nr/LOC_I ./PU/O 
+Tới/Cm/O gần/Aa/O mỏm/Nn/O cực/Nn/O nam/Nn/O thì/Cp/O phát_hiện/Vv/O một/Nq/NUM_B eo_biển/Nn/O dẫn/Vv/O tới/Cm/O một/Nq/NUM_B đại_dương/Nn/O mênh_mông/Aa/O ./PU/O 
+Thấy/Vv/O sóng/Nn/O yên/Nn/O biển/Nn/O lặng/Aa/O ,/PU/O Ma-gien-lăng/Nn/O đặt/Vv/O tên/Nn/O cho/Cp/O đại_dương/Nn/O mới/R/O tìm/Vv/O được/R/O là/Vc/O Thái_Bình_Dương/Nr/PER_B ./PU/O 
+Thái_Bình_Dương/Nr/PER_B bát_ngát/Aa/O ,/PU/O đi/Vv/O mãi/R/O chẳng/R/O thấy/Vv/O bờ/Nn/O ./PU/O 
+Thức_ăn/Nn/O cạn/Aa/O ,/PU/O nước_ngọt/Nn/O hết/Ve/O sạch/R/O ./PU/O 
+Thủy/Nr/PER_B thủ/Vv/O phải/Vv/O uống/Vv/O nước_tiểu/Nn/O ,/PU/O ninh/Vv/O nhừ/Aa/O giày/Nn/O và/Cp/O thắt_lưng/Nn/O da/Nn/O để/Cm/O ăn/Vv/O ./PU/O 
+Mỗi/Nq/MEA_B ngày/Nt/MEA_I có/Ve/O vài_ba/Nq/O người/Nn/O chết/Vv/O phải/Vv/O ném/Vv/O xác/Nn/O xuống/D/O biển/Nn/O ./PU/O 
+May_sao/E/O ,/PU/O gặp/Vv/O một/Nq/NUM_B hòn/Nc/O đảo/Nn/O nhỏ/Aa/O ,/PU/O được/Vv/O tiếp_tế/Vv/O thức_ăn/Nn/O và/Cp/O nước_ngọt/Nn/O ,/PU/O đoàn/Nn/O thám_hiểm/Vv/O ổn_định/Aa/O được/Vv/O tinh_thần/Nn/O ./PU/O 
+Đoạn/Nn/O đường/Nn/O từ/Cm/O đó/Pd/O có/Ve/O nhiều/Aa/O đảo/Nn/O hơn/Aa/O ./PU/O 
+Không/R/O phải/Aa/O lo/Vv/O thiếu/Aa/O thức_ăn/Nn/O ,/PU/O nước/Nn/O uống/Vv/O nhưng/Cp/O lại/R/O nảy_sinh/Vv/O những/Nq/O khó_khăn/Nn/O mới/Aa/O ./PU/O 
+Trong/Cm/O một/Nq/NUM_B trận/Nn/O giao_tranh/Vv/O với/Cp/O dân/Nn/O đảo/Nn/LOC_B Ma-tan/Nr/LOC_I ,/PU/O Ma-gien-lâng/Nr/ORG_B đã/R/O bỏ_mình/Vv/O ,/PU/O không/R/O kịp/Aa/O nhìn/Vv/O thấy/Vv/O kết_quả/Nn/O công_việc/Nn/O mình/Pp/O làm/Vv/O ./PU/O 
+Những/Nq/O thủy/Nn/O thủ/Vv/O còn_lại/Ve/O tiếp_tục/Vv/O vượt/Vv/O Ấn_Độ_Dương/Nr/LOC_B tìm/Vv/O đường/Nn/O trở_về/Vv/O châu/Nn/LOC_B Âu/Nr/LOC_I ./PU/O 
+Ngày/Nt/DTM_B 8/Nt/DTM_I tháng/Nt/DTM_I 9/Nt/DTM_I năm/Nt/DTM_I 1522/Nt/DTM_I ,/PU/O đoàn/Nn/O thám_hiểm/Vv/O chỉ/R/O còn/Ve/O một/Nq/NUM_B chiếc/Nc/O thuyền/Nn/O với/Cp/O mười/Nq/NUM_B tám/Nq/NUM_I thủy/Nn/O thủ/Vv/O trở_về/Vv/O Tây_Ban_Nha/Nr/LOC_B ./PU/O 
+Chuyến/Nn/O đi/Vv/O đầu_tiên/An/O vòng_quanh/Vv/O thế_giới/Nn/O của/Cm/O Ma-gien-lăng/Nn/O kéo/Vv/O dài/Aa/O 1083/Nn/O ngày/Nt/O ,/PU/O mất/Ve/O bốn/Nq/NUM_B chiếc/Nc/O thuyền/Nn/O lớn/Aa/O ,/PU/O với/Cp/O gần/Aa/O hai/Nq/NUM_B trăm/Nq/NUM_I người/Nn/O bỏ_mạng/Vv/O dọc/Aa/O đường/Nn/O ./PU/O 
+Nhưng/Cp/O đoàn/Nn/O thám_hiểm/Vv/O đã/R/O hoàn_thành/Vv/O sứ_mạng/Nn/O ,/PU/O khẳng_định/Vv/O trái_đất/Nn/O hình_cầu/Nn/O ,/PU/O phát_hiện/Vv/O Thái_Bình_Dương/Nr/PER_B và/Cp/O nhiều/Aa/O vùng_đất/Nn/O mới/Aa/O ./PU/O 

@@ -1,0 +1,12 @@
+﻿Cò/Nr/PER_B và/Cp/O Cuốc/Vv/O 
+Cò/Nr/PER_B đang/R/O lội/Vv/O ruộng/Nn/O bắt/Vv/O tép/Nn/O ./PU/O 
+Cuốc/Vv/O thấy/Vv/O vậy/Pp/O từ/Cm/O trong/Cm/O bụi/Nn/O rậm/Aa/O lần/Nn/O ra/D/O ,/PU/O hỏi/Vv/O :/PU/O 
+Chị/Nn/O bắt/Vv/O tép/Nn/O vất_vả/Aa/O thế/Pp/O ,/PU/O chẳng/R/O sợ/Vv/O bùn/Nn/O bắn/Vv/O bẩn/Aa/O hết/Ve/O áo/Nn/O trắng/Aa/O sao/Pp/O ?/PU/O 
+Cò/Nr/PER_B vui_vẻ/Aa/O trả_lời/Vv/O :/PU/O 
+Khi/Nt/O làm/Vv/O việc/Nn/O ,/PU/O ngại/Vv/O gì/Pp/O bẩn/Aa/O hở/Aa/O chị/Nn/O ?/PU/O 
+Cuốc/Vv/O bảo/Vv/O :/PU/O 
+Em/Pp/O sống/Vv/O trong/Cm/O bụi/Nn/O cây/Nn/O dưới/Cm/O đất/Nn/O ,/PU/O nhìn/Vv/O lên/R/O trời/Nn/O xanh/Aa/O ,/PU/O thấy/Vv/O các/Nq/O anh_chị/Nn/O trắng_phau/Aa/O phau/Nu/O ,/PU/O đôi/Nq/O cánh/Nn/O dập_dờn/Vv/O như/Cp/O múa/Vv/O ,/PU/O không/R/O nghĩ/Vv/O cũng/R/O có/Ve/O lúc/Nt/O chị/Nn/O phải/Vv/O khó_nhọc/Aa/O thế/Pp/O này/Pd/O ./PU/O 
+Cò/Nr/PER_B trả_lời/Vv/O :/PU/O 
+Phải/Vv/O có/Ve/O lúc/Nt/O vất_vả/Aa/O lội/Vv/O bùn/Nn/O mới/Aa/O có/Ve/O khi/Nt/O được/Vv/O thảnh_thơi/Aa/O bay/Vv/O lên/D/O trời/Nn/O cao/Aa/O ./PU/O 
+Còn/Cp/O áo/Nn/O bẩn/Aa/O muốn/Vv/O sạch/Aa/O thì/Cp/O khó/Aa/O gì/M/O !/PU/O 
+Kiếm_ăn/Nr/PER_B xong/Vv/O ,/PU/O Cò/Nr/PER_B tắm_rửa/Vv/O ,/PU/O tấm/Nc/O áo/Nn/O lại/R/O trắng_tinh/Aa/O ,/PU/O rồi/Cp/O cất_cánh/Vv/O bay/Vv/O ,/PU/O đôi/Nq/O cánh/Nn/O dập_dờn/Vv/O như/Cp/O múa/Vv/O ./PU/O 

@@ -1,0 +1,42 @@
+﻿Ở/Cm/O vương_quốc/Nn/O Tương_lai/Nt/DTM_B 
+Tin-tin/Nr/PER_B và/Cp/O Mi-tin/Nr/BRN_B được/Vv/O một/Nq/NUM_B bà/Nc/O tiên/Nn/O giúp_đỡ/Vv/O ,/PU/O đã/R/O vượt_qua/Vv/O nhiều/Aa/O thử_thách/Nn/O ,/PU/O đến/Cm/O nhiều/Aa/O xứ_sở/Nn/O để/Cm/O tìm/Vv/O con/Nn/TTL_B Chim_Xanh/Nr/PER_B về/Cm/O chữa/Vv/O bệnh/Nn/O cho/Cp/O một/Nq/NUM_B bạn_hàng_xóm/Nn/O ./PU/O 
+Đoạn/Nn/O trích/Vv/O dưới/Nn/O đây/Pd/O thuật/Vv/O lại/R/O việc/Nn/O hai/An/O em/Pp/O tới/Vd/O Vương_quốc/Nn/LOC_B Tương_Lai/Nr/LOC_I và/Cp/O trò_chuyện/Vv/O với/Cp/O những/Nq/O người/Nc/O bạn/Nn/O sắp/R/O ra_đời/Vv/O ./PU/O 
+Trong/Cm/O công_xưởng/Nn/O xanh/Aa/O 
+Tin-tin/Nn/O :/PU/O Cậu/Pp/O đang/R/O làm/Vv/O gì/Pp/O với/Cp/O đôi/Nq/O cánh/Nn/O xanh/Aa/O ấy/Pd/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O nhất/An/O :/PU/O Mình/Pp/O sẽ/R/O dùng/Vv/O nó/Pp/O vào/Cm/O việc/Nn/O sáng_chế/Vv/O trên/Cm/O trái_đất/Nn/O ./PU/O 
+Tin-tin/Nn/O :/PU/O Cậu/Pp/O sáng_chế/Vv/O cái/Nc/O gì/Pp/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O nhất/An/O :/PU/O Khi/Nt/O nào/Pd/O ra_đời/Vv/O ,/PU/O mình/Pp/O sẽ/R/O chế/Vv/O ra/R/O một/Nq/NUM_B vật/Nn/O làm/Vv/O cho/Cp/O con_người/Nn/O hạnh_phúc/Aa/O ./PU/O 
+Mi-tin/Nr/PER_B :/PU/O Vật/Nn/O đó/Pd/O ăn/Vv/O ngon/Aa/O chứ/M/O ?/PU/O 
+Nó/Pp/O có/R/O ồn_ào/Aa/O không/R/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O nhất/An/O :/PU/O Không_đâu/Nn/O ,/PU/O chẳng/R/O ồn_ào/Aa/O gì/M/O cả/M/O ./PU/O 
+Mình/Pp/O chế/Vv/O sắp/R/O xong/Vv/O rổi/Nn/O ,/PU/O cậu/Nn/O có/R/O muốn/Vv/O xem/Vv/O không/R/O ?/PU/O 
+Tin-tin/Nn/O :/PU/O Có/Ve/O chứ/M/O !/PU/O 
+Nó/Pp/O đâu/R/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O hai/An/O :/PU/O Cậu/Pp/O có/R/O muốn/Vv/O xem/Vv/O vật/Nn/O mình/Pp/O sáng_chế/Vv/O không/R/O ?/PU/O 
+Tin-tin/Nn/O :/PU/O Có/Ve/O chứ/M/O ,/PU/O cái/Nc/O gì/Pp/O đấy/M/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O hai/An/O :/PU/O Có/Ve/O ba/Nq/NUM_B mươi/Nq/NUM_I vị/Nc/O thuốc/Nn/O trường_sinh/Vv/O ở/Cm/O kia/Pd/O ,/PU/O trong/Cm/O những/Nq/O chiếc/Nc/O lọ/Nn/O xanh/Aa/O ./PU/O 
+Em_bé/Nn/O thứ/Nn/O ba/An/O :/PU/O (/PU/O Từ/Cm/O trong/Cm/O đám_đông/Nn/O đi/Vv/O ra/D/O )/PU/O Mình/Pp/O mang/Vv/O đến/Cm/O một/Nq/NUM_B thứ/Nn/O ánh_sáng/Nn/O mà/Cp/O chưa/R/O ai/Pp/O biết/Vv/O cả/M/O (/PU/O Em_bé/Nn/O tỏa/Nn/O ra/R/O một/Nq/NUM_B thứ/Nn/O ánh_sáng/Nn/O lạ_thường/Aa/O )/PU/O ./PU/O 
+Thật/R/O là/Vc/O kì_lạ/Aa/O phải/Aa/O không/R/O ?/PU/O 
+Em_bé/Nn/O thứ/Nn/O tư/An/O :/PU/O (/PU/O Kéo/Vv/O tay/Nn/O Tin-tin/Nn/O )/PU/O Cậu/Pp/O lại/R/O đây/Pd/O xem/Vv/O cái/Nc/O máy/Nn/O của/Cm/O mình/Pp/O ,/PU/O nó/Pp/O biết/Vv/O bay/Vv/O trên/Nn/O không/R/O như/Cp/O một/Nq/NUM_B con/Nc/O chim/Nn/O ./PU/O 
+Em_bé/Nn/O thứ/Nn/O năm/An/O :/PU/O Hãy/R/O lại/R/O xem/Vv/O cái/Nc/O máy/Nn/O của/Cm/O mình/Pp/O đã/R/O ./PU/O 
+Nó/Pp/O biết/Vv/O dò_tìm/Vv/O những/Nq/O kho/Nn/O báu/Aa/O còn/R/O giấu/Vv/O kín/Aa/O trên/Cm/O mặt_trăng/Nn/O ./PU/O 
+Trong/Cm/O khu/Nn/O vườn/Nn/O kì_diệu/Aa/O 
+Em_bé/Nn/O cầm/Vv/O nho/Nn/O :/PU/O (/PU/O Mang/Vv/O một/Nq/NUM_B chùm/Nn/O quả/Nn/O trên/Cm/O một/Nq/NUM_B đầu/Nn/O gậy/Nn/O đi/Vv/O tới/Cm/O )/PU/O 
+Cậu/Nn/O thấy/Vv/O chùm/Nn/O quả/Nn/O của/Cm/O mình/Pp/O thế_nào/Pp/O ?/PU/O 
+Tin-tin/Nn/O :/PU/O Chùm/Nn/O lê/Vv/O đẹp/Aa/O quá/R/O !/PU/O 
+Em_bé/Nn/O cầm/Vv/O nho/Nn/O :/PU/O Không/R/O phải/Aa/O lê/Vv/O đâu/Pp/O ,/PU/O nho/Nn/O đấy/M/O !/PU/O 
+Đến/Cm/O lúc/Nt/O mình/Pp/O 30/Nq/MEA_B tuổi/Nn/MEA_I ,/PU/O mọi/Nq/O quả/Nn/O nho/Nn/O đều/R/O sẽ/R/O như/Cp/O thế/Pp/O này/Pd/O ./PU/O 
+Mình/Pp/O đã/R/O tìm/Vv/O ra/R/O cách/Nn/O trồng/Vv/O và/Cp/O chăm_bón/Vv/O chúng/Pp/O ./PU/O 
+Em_bé/Nn/O cầm/Vv/O táo/Nn/O :/PU/O (/PU/O Bê/Nr/PER_B một/Nq/NUM_B sọt/Nn/O quả/Nn/O to/Aa/O như/Cp/O quả/Nn/O dưa/Nn/O )/PU/O 
+Hãy/R/O xem/Vv/O những/Nq/O trái_cây/Nn/O mình/Pp/O trồng/Vv/O này/Pd/O !/PU/O 
+Mi-tin/Nr/PER_B :/PU/O Dưa_đỏ/Nn/O ,/PU/O phải/Aa/O không/R/O cậu/Nc/O ?/PU/O 
+Em_bé/Nn/O cầm/Vv/O táo/Nn/O :/PU/O Không/R/O !/PU/O 
+Táo/Nn/O đấy/M/O !/PU/O 
+Chưa/R/O phải/Aa/O là/Vc/O loại/Nn/O to/Aa/O nhất/R/O đâu/Pp/O !/PU/O 
+Khi/Nt/O mình/Pp/O ra_đời/Vv/O ,/PU/O mình/Pp/O sẽ/R/O giúp/Vv/O mọi/Nq/O người/Nn/O trồng/Vv/O những/Nq/O loại/Nn/O táo/Nn/O to/Aa/O thế/Pp/O này/Pd/O ./PU/O 
+Em_bé/Nn/O có/Ve/O dưa/Nn/O :/PU/O (/PU/O Đẩy/Vv/O một/Nq/NUM_B xe/Nn/O đầy/Aa/O dưa/Nn/O to/Aa/O như/Cp/O những/Nq/O quả/Nn/O bí_đỏ/Nn/O )/PU/O 
+Đây/Pd/O là/Vc/O sản_phẩm/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Tin-tin/Nn/O :/PU/O Mình/Pp/O chưa/R/O bao_giờ/Pp/O thấy/Vv/O những/Nq/O quả/Nn/O bí_đỏ/Nn/O lạ/Aa/O thế/Pp/O này/Pd/O ./PU/O 
+Em_bé/Nn/O có/Ve/O dưa/Nn/O :/PU/O Không/R/O !/PU/O 
+Đó/Pd/O là/Vc/O những/Nq/O quả/Nn/O dưa/Nn/O ./PU/O 
+Khi/Nt/O ra_đời/Vv/O ,/PU/O mình/Pp/O sẽ/R/O trồng/Vv/O những/Nq/O quả/Nn/O dưa/Nn/O to/Aa/O như/Cp/O thế/Pp/O ./PU/O 

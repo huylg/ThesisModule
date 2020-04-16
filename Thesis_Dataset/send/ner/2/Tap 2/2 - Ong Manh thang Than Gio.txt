@@ -1,0 +1,22 @@
+﻿Ông/Nn/TTL_B Mạnh/Nr/PER_B thắng/Vv/O Thần/Nn/O Gió/Nn/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O loài_người/Nn/O chưa/R/O biết/Vv/O làm/Vv/O nhà/Nn/O ,/PU/O phải/Vv/O ở/Vv/O hang/Nn/O núi/Nn/O ./PU/O 
+Về/Cm/O sau/Nn/O ,/PU/O nhiều/Aa/O người/Nn/O về/Cm/O đồng_bằng/Nn/O và/Cp/O ven/Nn/O biển/Nn/O sinh_sống/Vv/O ./PU/O 
+Đây/Pd/O là/Vc/O nơi/Nn/O Thần_Gió/Nr/PER_B hoành_hành/Vv/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Thần_Gió/Nr/PER_B gặp/Vv/O một/Nq/NUM_B người/Nc/O tên/Nn/O là/Vc/O Mạnh/Nr/PER_B ./PU/O 
+Thần/Nn/O xô/Vv/O ông/Nn/TTL_B Mạnh/Nr/PER_B ngã/Vv/O lăn_quay/Vv/O ,/PU/O ông/Nn/TTL_B lồm_cồm/Nr/PER_B bò/Nn/O dậy/Vv/O ,/PU/O nổi_giận/Vv/O ,/PU/O quát/Vv/O :/PU/O 
+Thật/R/O độc_ác/Aa/O !/PU/O 
+Thần/Nn/O Gió/Nn/O bay/Vv/O đi/R/O với/Cp/O tiếng/Nn/O cười/Vv/O ngạo_nghễ/Aa/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O ông/Nn/TTL_B Mạnh/Nr/PER_B quyết/Vv/O chống_trả/Vv/O ./PU/O 
+Ông/Nn/O vào/Cm/O rừng/Nn/O lấy/Vv/O gỗ/Nn/O dựng/Vv/O nhà/Nn/O ./PU/O 
+Cả/Pp/O ba/Nq/NUM_B lần/Nn/O ,/PU/O nhà/Nn/O đều/R/O bị/Vv/O quật/Vv/O đổ/Vv/O ./PU/O 
+Cuối_cùng/Aa/O ,/PU/O ông/Nn/O quyết_định/Vv/O dựng/Vv/O một/Nq/NUM_B ngôi/Nc/O nhà/Nn/O thật/R/O vững_chãi/Aa/O ,/PU/O ông/Nn/O đẵn/Vv/O những/Nq/O cây/Nc/O gỗ/Nn/O lớn/Aa/O nhất/R/O làm/Vv/O cột/Nn/O ,/PU/O chọn/Vv/O những/Nq/O viên/Nn/O đá/Nn/O thật/R/O to/Aa/O làm/Vv/O tường/Nn/O ./PU/O 
+Ngôi/Nc/O nhà/Nn/O đã/R/O làm/Vv/O xong/Aa/O ./PU/O 
+Đêm/Nt/O ấy/Pd/O ,/PU/O Thần_Gió/Nr/PER_B lại/R/O đến/Vd/O đập/Vv/O cửa/Nn/O ,/PU/O thét/Vv/O :/PU/O 
+Mở_cửa/Vv/O ra/R/O !/PU/O 
+Không/R/O !/PU/O 
+Sáng_mai/Nt/DTM_B ta/Pp/O sẽ/R/O mở_cửa/Vv/O mời/Vv/O ông/Nn/O vào/D/O ./PU/O 
+Sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O mặt_trời/Nn/O lên/Vv/O ,/PU/O ông/Nn/TTL_B Mạnh/Nr/PER_B mở/Vv/O cửa/Nn/O ,/PU/O thấy/Vv/O cây_cối/Nn/O xung_quanh/Nn/O đổ/Vv/O rạp/Nn/O ./PU/O 
+Rõ_ràng/Aa/O đêm/Nt/O qua/Aa/O Thần/Nn/O Gió/Nn/O đã/R/O giận_dữ/Aa/O ,/PU/O lồng_lộn/Vv/O mà/Cp/O không_thể/R/O xô/Vv/O đổ/Vv/O ngôi/Nn/O nhà/Nn/O ./PU/O 
+Mấy/Nq/O tháng/Nt/O sau/Nn/O ,/PU/O Thần_Gió/Nr/PER_B đến/Vd/O nhà/Nn/O ông/Nn/TTL_B Mạnh/Nr/PER_B ,/PU/O vẻ/Nn/O ăn_năn/Vv/O ./PU/O 
+Ông/Nn/TTL_B Mạnh/Nr/PER_B an_ủi/Vv/O và/Cp/O mời/Vv/O Thần/Nn/O thỉnh_thoảng/R/O tới/Vd/O chơi/Vv/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O Thần_Gió/Nr/PER_B thường/R/O đến/Vd/O thăm/Vv/O ông/Nn/O ,/PU/O đem/Vv/O cho/Cp/O ngôi/Nc/O nhà/Nn/O không_khí/Nn/O mát_lành/Aa/O từ/Cm/O biển_cả/Nn/O và/Cp/O hương/Nn/O thơm/Aa/O ngào_ngạt/Aa/O của/Cm/O các/Nq/O loài/Nn/O hoa/Nn/O ./PU/O 

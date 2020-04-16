@@ -1,0 +1,16 @@
+﻿Mùa/Nn/DTM_B xuân/Nt/DTM_I đến/Cm/O 
+Hoa_mận/Nn/O vừa/R/O tàn/Vv/O thì/Cp/O mùa/Nn/DTM_B xuân/Nt/DTM_I đến/Cm/O ./PU/O 
+Bầu_trời/Nn/O ngày/Nt/O thêm/Vv/O xanh/Aa/O ./PU/O 
+Nắng/Nn/O vàng/Nn/O ngày_càng/R/O rực_rỡ/Aa/O ./PU/O 
+Vườn/Nn/O cây/Nn/O lại/R/O đâm/Vv/O chồi/Nn/O ,/PU/O nảy/Vv/O lộc/Nn/O ./PU/O 
+Rồi/Cp/O vườn/Nn/O cây/Nn/O ra/D/O hoa/Nn/O ./PU/O 
+Hoa_bưởi/Nn/O nồng_nàn/Aa/O ./PU/O 
+Hoa_nhãn/Nn/O ngọt/Aa/O ./PU/O 
+Hoa_cau/Nn/O thoảng/Vv/O qua/D/O ./PU/O 
+Vườn/Nn/O cây/Nn/O lại/R/O đầy/Aa/O tiếng/Nn/O chim/Nn/O và/Cp/O bóng/Nn/O chim/Nn/O bay_nhảy/Vv/O ./PU/O 
+Những/Nq/O thím/Nn/O chích/Vv/O chòe/Nn/O nhanh_nhảu/Aa/O ./PU/O 
+Những/Nq/O chú/Nc/O khướu/Nn/O lắm/R/O điều/Nc/O ./PU/O 
+Những/Nq/O anh/Nc/O chào_mào/Nn/O đỏm_dáng/Aa/O ./PU/O 
+Những/Nq/O bác/Nc/O cu_gáy/Nn/O trầm_ngâm/Aa/O ./PU/O 
+Chú/Nn/O chim_sâu/Nn/O vui/Aa/O cùng/Cp/O vườn/Nn/O cây/Nn/O và/Cp/O các/Nq/O loài/Nn/O chim/Nn/O bạn/Pp/O ./PU/O 
+Nhưng/Cp/O trong/Cm/O trí/Nn/O thơ_ngây/Aa/O của/Cm/O chú/Nn/O còn/R/O mãi/R/O sáng_ngời/Aa/O hình_ảnh/Nn/O một/Nq/NUM_B cánh/Nn/O hoa_mận/Nn/O trắng/Aa/O ,/PU/O biết/Vv/O nở/Vv/O cuối/Nn/DTM_B đông/Nt/DTM_I để/Cm/O báo/Vv/O trước/Nn/DTM_B mùa/Nn/DTM_I xuân/Nt/DTM_I tới/Aa/DTM_I ./PU/O 

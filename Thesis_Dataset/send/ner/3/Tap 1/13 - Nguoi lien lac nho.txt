@@ -1,0 +1,27 @@
+﻿Người/Nn/O liên_lạc/Vv/O nhỏ/Aa/O 
+Sáng/Nt/O hôm/Nt/O ấy/Pd/O ,/PU/O anh/Nn/TTL_B Đức/Nr/ORG_B Thanh/Nr/ORG_I dẫn/Vv/ORG_I Kim_Đồng/Nr/ORG_I đến/Vd/O điểm/Nn/O hẹn/Vv/O ./PU/O 
+Một/Nq/NUM_B ông/Nn/O ké/Vv/O đã/R/O chờ/Vv/O sẵn/Aa/O ở/Cm/O đấy/Pd/O ./PU/O 
+Ông/Nn/O mỉm_cười/Vv/O hiền_hậu/Aa/O :/PU/O 
+Nào/E/O ,/PU/O bác/Nn/O cháu/Nn/O ta/Pp/O lên_đường/Vv/O !/PU/O 
+Ông/Nn/O ké/Vv/O chống/Vv/O gậy/Nn/O trúc/Nn/O ,/PU/O mặc/Vv/O áo/Nn/O Nùng/Nr/ORG_B đã/R/O phai/Vv/O ,/PU/O bợt/Nn/O cả/Pp/O hai/Nq/NUM_B cửa_tay/Nn/O ./PU/O 
+Trông/Vv/O ông/Nn/O như/Cp/O người/Nn/O Hà_Quảng/Nr/LOC_B đi/Vv/O cào/Vv/O cỏ/Nn/O lúa/Nn/O ./PU/O 
+Kim_Đồng/Nr/PER_B đeo/Vv/O túi/Nn/O nhanh_nhẹn/Aa/O đi/Vv/O trước/Nn/O ,/PU/O ông/Nn/O ké/Vv/O lững_thững/Aa/O đằng/Nn/O sau/Nn/O ./PU/O 
+Gặp/Vv/O điều/Nc/O gì/Pp/O đáng/Vv/O ngờ/Vv/O ,/PU/O người/Nn/O đi/Vv/O trước/Nn/O làm/Vv/O hiệu/Nn/O ,/PU/O người/Nc/O đằng/Nn/O sau/Nn/O tránh/Vv/O vào/Cm/O ven/Nn/O đường/Nn/O ./PU/O 
+Đến/Cm/O quãng/Nn/O suối/Nn/O ,/PU/O vừa_qua/Nt/O cầu/Nn/O thì/Cp/O gặp/Vv/O Tây/Nn/O đồn/Vv/O đem/Vv/O lính/Nn/O đi/Vv/O tuần/Nt/O ./PU/O 
+Kim_Đồng/Nr/PER_B bình_tĩnh/Aa/O huýt_sáo/Vv/O ./PU/O 
+Ông/Nn/O ké/Vv/O dừng/Vv/O lại/R/O ,/PU/O tránh/Vv/O sau/Nn/O lưng/Nn/O một/Nq/NUM_B tảng/Nn/O đá/Nn/O ./PU/O 
+Lưng/Nn/O đá/Nn/O to/Aa/O lù_lù/Aa/O ,/PU/O cao/Aa/O ngập/Vv/O đầu/Nn/O người/Nn/O ./PU/O 
+Nhưng/Cp/O lũ/Nn/O lính/Nn/O đã/R/O trông/Vv/O thấy/Vv/O ./PU/O 
+Chúng/Pp/O nó/Pp/O kêu/Vv/O ầm/Aa/O lên/R/O ./PU/O 
+Ông/Nn/O ké/Vv/O ngồi/Vv/O ngay/R/O xuống/Vd/O bên/Nn/O tảng/Nn/O đá/Nn/O ,/PU/O thản_nhiên/Aa/O nhìn/Vv/O bọn/Nn/O lính/Nn/O ,/PU/O như/Cp/O người/Nn/O đi/Vv/O đường/Nn/O xa/Aa/O ,/PU/O mỏi/Aa/O chân/Nn/O ,/PU/O gặp/Vv/O được/M/O tảng/Nn/O đá/Nn/O phẳng/Aa/O thì/Cp/O ngồi/Vv/O nghỉ/Vv/O chốc_lát/Nt/O ./PU/O 
+Nghe/Vv/O đằng/Nn/O trước/Nn/O có/Ve/O tiếng/Nn/O hỏi/Vv/O :/PU/O 
+Bé_con/Nr/PER_B đi/Vv/O đâu/Pp/O sớm/Aa/O thế/Pp/O ?/PU/O 
+Kim_Đồng/Nr/PER_B nói/Vv/O :/PU/O 
+Đón/Vv/O thầy_mo/Nn/O này/Pd/O về/Cm/O cúng/Vv/O cho/Cp/O mẹ/Nn/O ốm/Vv/O ./PU/O 
+Trả_lời/Vv/O xong/Aa/O ,/PU/O Kim_Đồng/Nr/PER_B quay/Vv/O lại/R/O ,/PU/O gọi/Vv/O :/PU/O 
+Già/Aa/O ơi/E/O !/PU/O 
+Ta/Pp/O đi/Vv/O thôi/M/O !/PU/O 
+Về/Cm/O nhà/Nn/O cháu/Nn/O còn/R/O xa/Aa/O đấy/M/O !/PU/O 
+Mắt/Nn/O giặc/Nn/O tráo_trưng/Vv/O mà/Cp/O hóa/Nn/O thong_manh/Nn/O ./PU/O 
+Hai/Nq/NUM_B bác/Nc/O cháu/Nn/O đã/R/O ung_dung/Aa/O đi/Vv/O qua/D/O trước/Nn/O mặt/Nn/O chúng/Pp/O ./PU/O 
+Những/Nq/O tảng/Nn/O đá/Nn/O ven/Nn/O đường/Nn/O sáng/Aa/O hẳn/Aa/O lên/R/O như/Cp/O vui/Aa/O trong/Cm/O nắng/Nn/O sớm/Aa/O ./PU/O 

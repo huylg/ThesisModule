@@ -1,0 +1,21 @@
+﻿Người/Nn/O ăn_xin/Vv/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O tôi/Pp/O đang/R/O đi/Vv/O trên/Cm/O phố/Nn/O ./PU/O 
+Một/Nq/NUM_B người/Nn/O ăn_xin/Vv/O già/Aa/O lọm_khọm/Aa/O đứng/Vv/O ngay/R/O trước/Nn/O mặt/Nn/O tôi/Pp/O ./PU/O 
+Đôi/Nq/O mắt/Nn/O ông/Nc/O lão/Nn/O đỏ_đọc/Nn/O và/Cp/O giàn_giụa/Vv/O nước_mắt/Nn/O ./PU/O 
+Đôi/Nq/O môi/Nn/O tái_nhợt/Aa/O ,/PU/O áo_quần/Nn/O tả_tơi/Aa/O thảm_hại/Aa/O .../PU/O 
+Chao_ôi/E/O !/PU/O 
+Cảnh/Nn/O nghèo_đói/Aa/O đã/R/O gặm/Vv/O nát/Aa/O con_người/Nn/O đau_khổ/Aa/O kia/Pd/O thành/Vv/O xấu_xí/Aa/O biết/Vv/O nhường/Vv/O nào/Pd/O !/PU/O 
+Ông_già/Nn/O chìa/Vv/O trước/Nn/O mặt/Nn/O tôi/Pp/O bàn_tay/Nn/O sưng_húp/Aa/O ,/PU/O bẩn_thỉu/Aa/O ,/PU/O ông/Nn/O rên_rỉ/Vv/O cầu_xin/Vv/O cứu_giúp/Vv/O ./PU/O 
+Tôi/Pp/O lục/Aa/O tìm/Vv/O hết/Ve/O túi/Nn/O nọ/Pd/O túi/Nn/O kia/Pd/O ,/PU/O không/R/O có/Ve/O tiền/Nn/O ,/PU/O không/R/O có/Ve/O đồng_hồ/Nn/O ,/PU/O không/R/O có/Ve/O cả/M/O một/Nq/NUM_B chiếc/Nc/O khăn_tay/Nn/O ./PU/O 
+Trên/Cm/O người/Nn/O tôi/Pp/O chẳng/R/O có/Ve/O tài_sản/Nn/O gì/Pp/O ./PU/O 
+Người/Nn/O ăn_xin/Vv/O vẫn/R/O đợi/Vv/O tôi/Pp/O ./PU/O 
+Tay/Nc/O vẫn/R/O chìa/Vv/O ra/R/O ,/PU/O run/Vv/O lẩy_bẩy/Vv/O ./PU/O 
+Tôi/Pp/O chẳng/R/O biết/Vv/O làm/Vv/O cách/Nn/O nào/Pd/O ./PU/O 
+Tôi/Pp/O nắm/Vv/O chặt/Aa/O lấy/Vv/O bàn_tay/Nn/O run_rẩy/Vv/O kia/Pd/O :/PU/O 
+Ông/Pp/O đừng/R/O giận/Vv/O cháu/Nn/O ,/PU/O cháu/Pp/O không/R/O có/Ve/O gì/M/O để/Cm/O cho/Cp/O ông/Nn/O cả/M/O ./PU/O 
+Người/Nn/O ăn_xin/Vv/O nhìn/Vv/O tôi/Pp/O chằm_chằm/Aa/O bằng/Cm/O đôi/Nq/O mắt/Nn/O ướt/Aa/O đẫm/Aa/O ./PU/O 
+Đôi/Nq/O môi/Nn/O tái_nhợt/Aa/O nở/Vv/O nụ_cười/Nn/O và/Cp/O tay/Nn/O ông/Nn/O cũng/R/O xiết/Vv/O lấy/Vv/O tay/Nn/O tôi/Pp/O :/PU/O 
+Cháu/Pp/O ơi/E/O ,/PU/O cảm_ơn/Vv/O cháu/Nn/O !/PU/O 
+Như/Cp/O vậy/Pp/O là/Vc/O cháu/Nn/O đã/R/O cho/Cp/O lão/Nn/O rồi/R/O ./PU/O 
+-/PU/O Ông/Nn/O lão/Nn/O nói/Vv/O bằng/Cm/O giọng/Nn/O khản_đặc/Nn/O ./PU/O 
+Khi/Nt/O ấy/Pd/O ,/PU/O tôi/Pp/O chợt/R/O hiểu/Vv/O rằng/Cp/O :/PU/O cả/Pp/O tôi/Pp/O nữa/R/O ,/PU/O tôi/Pp/O cũng/R/O vừa/R/O nhận/Vv/O được/M/O chút/Nq/O gì/Pp/O của/Cm/O ông/Nc/O lão/Nn/O ./PU/O 

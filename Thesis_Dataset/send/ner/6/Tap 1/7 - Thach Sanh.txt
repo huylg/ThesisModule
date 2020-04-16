@@ -1,0 +1,108 @@
+﻿Thạch_Sanh/Nr/PER_B 
+Ngày_xưa/Nt/DTM_B ở/Cm/O quận/Nu/LOC_B Cao_Bình/Nr/LOC_I có/Ve/O hai/Nq/NUM_B vợ_chồng/Nn/O tuổi/Nn/O già/Aa/O mà/Cp/O chưa/R/O có/Ve/O con/Nn/O ./PU/O 
+Tuy/Cp/O nhà/Nn/O nghèo/Aa/O ,/PU/O hằng/R/O ngày/Nt/O phải/Vv/O lên/Vd/O rừng/Nn/O chặt/Vv/O củi/Nn/O về/Cm/O đổi/Vv/O lấy/Vv/O gạo/Nn/O nuôi/Vv/O thân/Nn/O ,/PU/O họ/Pp/O vẫn/R/O thường/R/O giúp/Vv/O mọi/Nq/O người/Nn/O ./PU/O 
+Thấy/Vv/O họ/Pp/O tốt_bụng/Aa/O ,/PU/O Ngọc_Hoàng/Nr/PER_B bèn/R/O sai/Aa/O thái_tử/Nn/O xuống/D/O đầu_thai/Nn/O làm/Vv/O con/Nn/O ./PU/O 
+Từ/Cm/O đó/Pd/O người/Nc/O vợ/Nn/O có/R/O mang/Vv/O ,/PU/O nhưng/Cp/O đã/R/O qua/Vv/O mấy/Nq/O năm/Nt/O mà/Cp/O không/R/O sinh_nở/Vv/O ./PU/O 
+Rồi/Cp/O người/Nc/O chồng/Nn/O lâm_bệnh/Vv/O ,/PU/O chết/Vv/O ./PU/O 
+Mãi/R/O về/Vd/O sau/Nn/O người/Nc/O vợ/Nn/O mới/R/O sinh/Vv/O được/R/O một/Nq/NUM_B cậu/Nc/O con_trai/Nn/O ./PU/O 
+Khi/Nt/O cậu/Pp/O bé/Nn/O vừa/R/O khôn_lớn/Aa/O thì/Cp/O mẹ/Nn/O chết/Vv/O ./PU/O 
+Cậu/Nn/O sống/Vv/O lủi_thủi/R/O trong/Cm/O túp/Nn/O lều/Nn/O cũ/Aa/O dựng/Vv/O dưới/Cm/O gốc/Nn/O đa/Nn/O ,/PU/O cả/Pp/O gia_tài/Nn/O chỉ/R/O có/Ve/O một/Nq/NUM_B lưỡi/Nn/O búa/Nn/O của/Cm/O cha/Nn/O để/Vv/O lại/R/O ./PU/O 
+Người_ta/Pp/O gọi/Vv/O cậu/Nc/O là/Vc/O Thạch_Sanh/Nr/PER_B ./PU/O 
+Năm/Nt/LOC_B Thạch_Sanh/Nr/LOC_I bắt_đầu/Vv/O biết/Vv/O dùng/Vv/O búa/Nn/O ,/PU/O Ngọc_Hoàng/Nr/PER_B sai/Vv/O thiên_thần/Nn/O xuống/D/O dạy/Vv/O cho/Cp/O đủ/Aa/O các/Nq/O môn/Nn/O võ_nghệ/Nn/O và/Cp/O mọi/Nq/O phép/Nn/O thần_thông/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O có/Ve/O người/Nc/O hàng/Nn/O rượu/Nn/O tên/Nn/O là/Vc/O Lí_Thông/Nr/PER_B đi/Vv/O qua/D/O đó/Pd/O ./PU/O 
+Thấy/Vv/O Thạch_Sanh/Nr/PER_B gánh/Vv/O về/Cm/O một/Nq/NUM_B gánh/Nn/O củi/Nn/O lớn/Aa/O ,/PU/O hắn/Pp/O nghĩ_bụng/Vv/O :/PU/O 
+Người/Nn/O này/Pd/O khỏe/Nn/O như/Cp/O voi/Nn/O ./PU/O 
+Nó/Pp/O về/Cm/O ở/Vv/O cùng/Cp/O thì/Cp/O lợi/Nn/O biết_bao_nhiêu/R/O ./PU/O 
+Lí_Thông/Nr/PER_B lân_la/Vv/O gợi_chuyện/Vv/O ,/PU/O rồi/Cp/O gạ/Vv/O cùng/Cp/O Thạch_Sanh/Nr/PER_B kết_nghĩa/Vv/O anh_em/Nn/O ./PU/O 
+Sớm/Aa/O mồ_côi/Aa/O cha_mẹ/Nn/O ,/PU/O tứ_cố_vô_thân/Nn/O ,/PU/O Thạch_sanh/Nn/O cảm_động/Aa/O ,/PU/O vui_vẻ/Aa/O nhận_lời/Vv/O ./PU/O 
+Chàng/Nc/O từ_giã/Vv/O gốc/Nn/O đa/Nn/O ,/PU/O đến/Cm/O sống/Vv/O chung/Aa/O với/Cp/O mẹ/Nn/O con/Nn/TTL_B Lí_Thông/Nr/PER_B ./PU/O 
+Bấy_giờ/Pd/O trong/Cm/O vùng/Nn/O có/Ve/O con/Nc/O chằn_tinh/Nn/O có/Ve/O nhiều/Aa/O phép/Nn/O lạ/Aa/O ,/PU/O thường/R/O ăn/Vv/O thịt/Nn/O người/Nn/O ./PU/O 
+Quan_quân/Nu/O đã/R/O nhiều/Aa/O lần/Nn/O đến/Vd/O bổ/Aa/O vây/Vv/O định/Vv/O diệt_trừ/Vv/O nhưng/Cp/O không_thể/R/O làm/Vv/O gì/Pp/O được/R/O ./PU/O 
+Dân/Nn/O phải/Vv/O lập/Vv/O cho/Cp/O nó/Pp/O cái/Nc/O miếu/Nn/O thờ/Vv/O ,/PU/O hàng/R/O năm/Nt/O nộp/Vv/O một/Nq/NUM_B mạng/Nn/O người/Nn/O cho/Cp/O chằn_tinh/Nn/O ăn/Vv/O thịt/Nn/O để/Cm/O nó/Pp/O đỡ/Vv/O phá_phách/Vv/O ./PU/O 
+Năm/Nt/O ấy/Pd/O ,/PU/O đến/Cm/O lượt/Nn/O Lí_Thông/Nr/PER_B nộp/Vv/O mình/Pp/O ./PU/O 
+Mẹ/Nn/O con/Nn/O hắn/Pp/O nghĩ/Vv/O kế/Nn/O lừa/Vv/O cho/Cp/O Thạch_Sanh/Nr/PER_B chết/Vv/O thay/Vv/O ./PU/O 
+Chiều/Nt/O hôm/Nt/O đó/Pd/O ,/PU/O chờ/Vv/O Thạch_Sanh/Nr/PER_B đi/Vv/O kiếm/Vv/O củi/Nn/O về/D/O ,/PU/O Lí_Thông/Nr/PER_B dọn/Vv/O một/Nq/NUM_B mâm/Nn/O rượu/Nn/O thịt/Nn/O ê_hề/Aa/O mời/Vv/O ăn/Vv/O ,/PU/O rồi/Cp/O bảo/Vv/O :/PU/O 
+-/PU/O Đêm/Nt/DTM_B nay/Nt/DTM_I ,/PU/O đến/Cm/O phiên/Nc/O anh/Nc/O canh/Nn/O miếu/Nn/O thờ/Vv/O ,/PU/O ngặt/Aa/O vì/Cp/O giở/Vv/O cất/Vv/O mẻ/Nn/O rượu/Nn/O ,/PU/O em/Pp/O chịu_khó/Aa/O thay/Vv/O anh/Nn/O ,/PU/O đến/Cm/O sáng/Nt/O thì/Cp/O về/Vd/O ./PU/O 
+Thạch_Sanh/Nr/PER_B thật_thà/Aa/O nhận_lời/Vv/O đi/Vv/O ngay/R/O ./PU/O 
+Nửa_đêm/Nt/O ,/PU/O Thạch_Sanh/Nr/PER_B đang/R/O lim_dim/Vv/O mắt/Nn/O thì/Cp/O chằn_tinh/Nn/O sau/Nn/O miếu/Nn/O hiện/Vv/O ra/R/O ,/PU/O nhe/Vv/O nanh/Nn/O ,/PU/O giơ/Vv/O vuốt/Vv/O định/Vv/O vồ/Nn/O lấy/Vv/O chàng/Nn/O ./PU/O 
+Thạch_Sanh/Nr/PER_B với/Cp/O lấy/Nn/O búa/Nn/O đánh/Vv/O lại/R/O ./PU/O 
+Chằn_tinh/Nn/O hóa/Nq/O phép/Nn/O ,/PU/O thoắt/Aa/O biến/Vv/O thoắt/Aa/O hiện/Nt/O ./PU/O 
+Thạch_Sanh/Nr/PER_B không/R/O núng/Nn/O ,/PU/O dùng/Vv/O nhiều/Aa/O võ_thuật/Nn/O đánh/Vv/O con/Nc/O quái_vật/Nn/O ./PU/O 
+Chỉ/R/O một/Nq/O lúc/Nt/O ,/PU/O lưỡi/Nn/O búa/Nn/O của/Cm/O chàng/Nn/O đã/R/O xả/Vv/O xác/Nn/O nó/Pp/O làm/Vv/O hai/Nq/NUM_B ./PU/O 
+Chằn/Nr/PER_B tin/Vv/O hiện/Nt/O nguyên_hình/Nn/O là/Vc/O một/Nq/NUM_B con/Nc/O trăn/Nn/O khổng_lồ/Aa/O ,/PU/O nó/Pp/O chết/Vv/O để/Vv/O lại/R/O bên/Nn/O mình/Pp/O bộ/Nc/O cung/Nn/O tên/Nn/O bằng/Cm/O vàng/Nn/O ./PU/O 
+Thạch_Sanh/Nr/PER_B chặt/Aa/O đầu/Nn/O quái_vật/Nn/O và/Cp/O nhặt/Vv/O bộ/Nn/O cung/Vv/O tên/Nn/O xách/Vv/O về/D/O ./PU/O 
+Mẹ/Nn/O con/Nn/TTL_B Lí_Thông/Nr/PER_B đang/R/O ngủ/Vv/O ,/PU/O bỗng/R/O nghe/Vv/O tiếng/Nn/O gọi/Vv/O cửa/Nn/O ./PU/O 
+Ngỡ/Vv/O là/Cp/O oan_hồn/Nn/O của/Cm/O Thạch_Sanh/Nr/PER_B hiện/Vv/O về/Vd/O ,/PU/O mẹ/Nn/O con/Nn/O hắn/Pp/O hoảng_sợ/Vv/O ,/PU/O van_lạy/Nn/O rối_rít/Aa/O ./PU/O 
+Khi/Nt/O Thạch_Sanh/Nr/PER_B vào/D/O nhà/Nn/O kể/Vv/O cho/Vv/O nghe/Vv/O chuyện/Nn/O giết/Vv/O chằn_tinh/Nn/O ,/PU/O chúng/Pp/O mới/R/O hoàn_hồn/Vv/O ./PU/O 
+Nhưng/Cp/O Lí_Thông/Nr/PER_B bỗng/R/O nảy/Vv/O ra/R/O kế/Nn/O khác/Aa/O ./PU/O 
+Hắn/Pp/O nói/Vv/O :/PU/O 
+-/PU/O Con/Nc/O trăn/Nn/O ấy/Pd/O là/Vc/O của/Cm/O vua/Nn/O nuôi/Vv/O đã/R/O lâu/Aa/O ./PU/O 
+Nay/Nt/O em/Pp/O giết/Vv/O nó/Pp/O ,/PU/O tất/R/O không/R/O khỏi/Vv/O bị/Vv/O tội/Nn/O chết/Vv/O ./PU/O 
+Thôi/E/O ,/PU/O bây_giờ/Pd/O nhân/Cp/O trời/Nn/O chưa/R/O sáng/Aa/O em/Pp/O hãy/R/O trốn/Vv/O ngay/R/O đi/Vv/O ./PU/O 
+Có/Ve/O chuyện/Nn/O gì/Pp/O để/Cm/O anh/Nn/O ở/Cm/O nhà/Nn/O lo_liệu/Vv/O !/PU/O 
+Thạch_Sanh/Nr/PER_B lại/R/O thật_thà/Aa/O tin/Vv/O ngay/R/O ./PU/O 
+Chàng/Nc/O vội/Aa/O từ_giã/Vv/O mẹ/Nn/O con/Nn/O họ/Nn/O Lí_Thông/Nr/PER_B ,/PU/O trở_về/Vv/O túp/Nn/O lều/Nn/O cũ/Aa/O dưới/Cm/O gốc/Nn/O đa/Nn/O ,/PU/O kiếm/Vv/O củi/Nn/O nuôi/Vv/O thân/Nn/O ./PU/O 
+Còn/Cp/O Lí_Thông/Nr/PER_B hí_hửng/Aa/O đem/Vv/O đầu/Nn/O con/Nc/O yêu_quái/Nn/O vào/Cm/O kinh_đô/Nn/O nộp/Vv/O cho/Cp/O nhà_vua/Nn/O ./PU/O 
+Hắn/Pp/O được/Vv/O vua/Nn/O khen/Vv/O ,/PU/O phong/Nn/O cho/Vv/O làm/Vv/O Quận_công/Nu/O ./PU/O 
+Vua/Nn/O có/Ve/O cô/Nc/O công_chúa/Nn/O cừa/Nn/O đến/Cm/O tuổi/Nn/O lấy/Vv/O chồng/Nn/O ./PU/O 
+Hoàng_tử/Nn/O nhiều/Aa/O nước/Nn/O sai/Aa/O sứ/Nn/O đến/Vd/O hỏi/Vv/O công_chúa/Nn/O làm/Vv/O vợ/Nn/O nhưng/Cp/O không/R/O ai/Pp/O vừa_ý/Aa/O nàng/Nn/O ./PU/O 
+Nhà_vua/Nn/O phải/Vv/O mở/Vv/O một/Nq/NUM_B hội/Nn/O lớn/Aa/O cho/Cp/O hoàng_tử/Nn/O các/Nq/O nước/Nn/O và/Cp/O con_trai/Nn/O trong/Cm/O thiên_hạ/Nn/O tới/Vd/O dự/Vv/O ,/PU/O để/Cm/O công_chúa/Nn/O trên/Cm/O lầu/Nn/O cao/Aa/O ném/Vv/O quả/Nn/O cầu_may/Vv/O :/PU/O hễ/Cs/O quả/M/O cầu/Nn/O rơi/Vv/O trúng/Aa/O người/Nn/O nào/Pd/O ,/PU/O công_chúa/Nn/O sẽ/R/O lấy/Vv/O người/Nn/O ấy/Pd/O làm/Vv/O chồng/Nn/O ./PU/O 
+Khi/Nt/O công_chúa/Nn/O sắp_sửa/R/O ném/Vv/O quả/Nn/O cầu/Nn/O ,/PU/O bỗng/R/O nàng/Nn/O bị/Vv/O một/Nq/NUM_B con/Nc/O đại_bàng/Nn/O khổng_lồ/Aa/O quắp/Vv/O đi/Vv/O ./PU/O 
+Đại_bàng/Nn/O bay/Vv/O qua/D/O túp/Nn/O lều/Nn/O của/Cm/O Thạch_Sanh/Nr/PER_B ./PU/O 
+Trông/Vv/O thấy/Vv/O nó/Pp/O ,/PU/O Thạch_Sanh/Nr/PER_B liền/R/O dùng/Vv/O cung/Nn/O tên/Nn/O vàng/Nn/O bắn/Vv/O theo/Vv/O ./PU/O 
+Mũi_tên/Nn/O trúng/Vv/O vào/Cm/O cánh/Nn/O đại_bàng/Nn/O ./PU/O 
+Nó/Pp/O bị_thương/Vv/O nhưng/Cp/O gắng_sức/Vv/O bay/Vv/O về/D/O hang/Nn/O trong/Cm/O núi/Nn/O sâu/Aa/O ./PU/O 
+Thạch_Sanh/Nr/PER_B lần/Nn/O theo/Vv/O vết/Nn/O náu/Vv/O ,/PU/O tìm/Vv/O được/R/O chỗ/Nn/O ở/Vv/O ./PU/O 
+Từ/Cm/O ngày_công_chúa/Nn/O bị/Vv/O mất_tích/Vv/O ,/PU/O nhà_vua/Nn/O vô_cùng/R/O đau_đớn/Aa/O ./PU/O 
+Vua/Nn/O sai/Aa/O Lí_Thông/Nr/PER_B đi/Vv/O tìm/Vv/O ,/PU/O hứa/Vv/O sẽ/R/O gả/Vv/O công_chúa/Nn/O và/Cp/O truyền/Vv/O ngôi/Nn/O cho/Cp/O ./PU/O 
+Vừa/R/O mừng/Vv/O vừa/Cs/O sợ/Vv/O ,/PU/O Lí_Thông/Nr/PER_B không/R/O biết/Vv/O làm/Vv/O thế_nào/Pp/O ./PU/O 
+Cuối_cùng/Aa/O ,/PU/O hắn/Pp/O truyền/Vv/O cho/Cp/O dân/Nn/O mở/Vv/O hội/Nn/O hát/Vv/O xướng/Vv/O mời/Vv/O ngày/Nt/O để/Cm/O nghe_ngóng/Vv/O ./PU/O 
+Tám/Nq/MEA_B ,/PU/MEA_I chín/Nq/MEA_I ngày/Nt/MEA_I trôi/Vv/O qua/Vv/O ,/PU/O hắn/Pp/O vẫn/R/O chẳng/R/O biết/Vv/O tin/Nn/O gì/Pp/O ./PU/O 
+Đến/Cm/O ngày/Nt/O thứ/Nn/O mười/An/O ,/PU/O hắn/Pp/O bỗng/R/O gặp/Vv/O Thạch_Sanh/Nr/PER_B đi/Vv/O xem/Vv/O hội/Nn/O ./PU/O 
+Nghe/Vv/O Lí_Thông/Nr/PER_B nói/Vv/O việc/Nn/O tìm/Vv/O công_chúa/Nn/O ,/PU/O Thạch_Sanh/Nr/PER_B thật_thà/Aa/O kể/Vv/O chuyện/Nn/O đã/R/O bắn/Vv/O đại_bàng/Nn/O bị_thương/Vv/O và/Cp/O biết/Vv/O hang_ổ/Nn/O của/Cm/O đại_bàng/Nn/O ./PU/O 
+Lí_Thông/Nr/PER_B mừng_rỡ/Vv/O ,/PU/O liền/R/O nhờ/Cm/O chàng/Nn/O dẫn/Vv/O đường/Nn/O đến/Vd/O hang/Nn/O quái_vật/Nn/O ./PU/O 
+Đến/Cm/O nơi/Nn/O ,/PU/O Thạch_Sanh/Nr/PER_B xin/Vv/O xuống/D/O hang/Nn/O cứu/Vv/O công_chúa/Nn/O ./PU/O 
+Quân_sĩ/Nn/O lấy/Vv/O dây/Nn/O dài/Aa/O buộc/Vv/O vào/Cm/O lưng/Nn/O chàng/Nn/O rồi/Cp/O dòng/Nn/O xuống/D/O hang/Nn/O ./PU/O 
+Đại_bàng/Nn/O nguyên/Nn/O là/Vc/O một/Nq/NUM_B con/Nn/O yêu/Vv/O tin/Nn/O ở/Cm/O trên/Cm/O núi/Nn/O ,/PU/O có/Ve/O nhiều/Aa/O phép/Nn/O lạ/Aa/O ./PU/O 
+Tuy/Cs/O bị_thương/Vv/O nặng/Aa/O nhưng/Cs/O khi/Nt/O thấy/Vv/O Thạch_Sanh/Nr/PER_B ,/PU/O nó/Pp/O vùng/Nn/O ngay/M/O dậy/Vv/O ,/PU/O vung/Vv/O cánh/Nn/O ,/PU/O chĩa/Vv/O vuốt/Vv/O lao/Vv/O đến/Cm/O ./PU/O 
+Thạch_Sanh/Nr/PER_B dùng/Vv/O cung/Nn/O tên/Nn/O vàng/Nn/O bắn/Vv/O mù/Aa/O hai/Nq/NUM_B mắt/Nn/O ,/PU/O vung/Vv/O búa/Nn/O chặt/Vv/O đứt/Vv/O vuốt/Vv/O sắc/Nn/O ,/PU/O bổ/Aa/O đôi/Nq/O đầu/Nn/O con/Nc/O quái_vật/Nn/O ./PU/O 
+Rồi/Cp/O chàng/Nn/O lấy/Vv/O dây/Nn/O buộc/Vv/O buộc/Vv/O vào/D/O người/Nc/O công_chúa/Nn/O ,/PU/O ra_hiệu/Vv/O cho/Cp/O quân/Nn/ORG_B Lí_Thông/Nr/ORG_I kéo/Vv/O lên/R/O ./PU/O 
+Chàng/Nc/O đang/R/O chờ/Vv/O dây/Nn/O thòng/Vv/O xuống/D/O ,/PU/O không/R/O ngờ/Vv/O ,/PU/O sau/Nn/O khi/Nt/O đưa/Vv/O được/R/O công_chúa/Nn/O lên/Vv/O ,/PU/O Lí_Thông/Nr/PER_B liền/R/O ra_lệnh/Vv/O cho/Cp/O quân_sĩ/Nn/O vẫn/R/O những/Nq/O tảng/Nn/O đá/Nn/O lớn/Aa/O lấp/Vv/O kín/Aa/O cửa/Nn/O hang/Nn/O lại/R/O ./PU/O 
+Biết/Vv/O Lí_Thông/Nr/PER_B hại/Aa/O mình/Pp/O ,/PU/O Thạch_Sanh/Nr/PER_B cố/Vv/O tìm/Vv/O lối/Nn/O lên/D/O ./PU/O 
+Đến/Cm/O cuối/Nn/O hang/Nn/O ,/PU/O chàng/Nn/O thấy/Vv/O một/Nq/NUM_B chàng/Nc/O trai/Nn/O khôi_ngô/Aa/O tuấn_tú/Nn/O bị/Vv/O nhốt/Vv/O trong/Cm/O chiếc/Nc/O cũi/Nn/O sắt/Nn/O ;/PU/O đó/Pd/O chính/M/O là/Vc/O thái_tử/Nn/O vua/Nn/DES_B Thủy_Tề/Nr/PER_B ./PU/O 
+Thạch_Sanh/Nr/PER_B dùng/Vv/O cung/Nn/O vàng/Nn/O bắn/Vv/O tan/Vv/O cũi/Nn/O sắt/Nn/O ,/PU/O cứu/Vv/O thái_tử/Nn/O ra/D/O ./PU/O 
+Thái_tử/Nn/O thoát/Vv/O nạn/Nn/O ,/PU/O hết/Ve/O lời/Nn/O cảm_tạ/Vv/O chàng/Nn/O ,/PU/O mời/Vv/O chàng/Nn/O xuống/D/O chơi/Vv/O thủy/Nn/O phủ/Vv/O ./PU/O 
+Vua/Nn/DES_B Thủy_Tề/Nr/PER_B sung_sướng/Aa/O được/Vv/O gặp/Vv/O lại/R/O con/Pp/O ,/PU/O đãi/Vv/O Thạch_Sanh/Nr/PER_B rất/R/O hậu/Aa/O ./PU/O 
+Khi/Nt/O chàng/Nn/O về/D/O ,/PU/O vua/Nn/O biếu/Vv/O nhiều/Aa/O vàng_bạc/Nn/O nhưng/Cp/O Thạch_Sanh/Nr/PER_B không/R/O nhận/Vv/O ,/PU/O chỉ/R/O xin/Vv/O một/Nq/NUM_B cây/Nc/O đàn/Nn/O ./PU/O 
+Chàng/Nc/O lại/R/O trở_về/Vv/O gốc/Nn/O đa/Nn/O ./PU/O 
+Hồn/Nn/O chằn_tinh/Nn/O và/Cp/O đại_bàng/Nn/O lang_thang/Vv/O ,/PU/O một/Nq/O hôm/Nt/O gặp/Vv/O nhau/Nn/O bàn/Vv/O cách/Nn/O báo_thù/Vv/O Thạch_Sanh/Nr/PER_B ./PU/O 
+Chúng/Pp/O vào/Cm/O kho/Nn/O của/Cm/O nhà_vua/Nn/O ăn_trộm/Vv/O của_cải/Nn/O mang/Vv/O tới/Cm/O giấu/Vv/O ở/Cm/O gốc/Nn/O đa/Nn/O để/Cm/O vu_vạ/Nn/O cho/Cp/O Thạch_Sanh/Nr/PER_B ./PU/O 
+Thạch_Sanh/Nr/PER_B bị/Vv/O bắt/Vv/O hạ_ngục/Nn/O ./PU/O 
+Lại/R/O nói/Vv/O nàng/Nc/O công_chúa/Nn/O bất_hạnh/Aa/O ,/PU/O từ/Cm/O khi/Nt/O được/Vv/O cứu/Vv/O thoát/Vv/O về/Cm/O cung/Nn/O thì/Cp/O bị/Vv/O câm/Aa/O ./PU/O 
+Suốt/Aa/O ngày/Nt/O nàng/Nn/O chẳng/R/O nói/Vv/O ,/PU/O chẳng/R/O cười/Vv/O ,/PU/O mặt/Nn/O buồn_rười_rượi/Aa/O ./PU/O 
+Vua/Nn/O đành/Vv/O hoãn/Vv/O việc/Nn/O cưới_xin/Vv/O ,/PU/O sai/Aa/O Lí_Thông/Nr/PER_B mời/Vv/O thầy_thuốc/Nn/O về/Cm/O chữa/Vv/O ./PU/O 
+Bao_nhiêu/Pp/O thầy_thuốc/Nn/O giỏi/Aa/O được/Vv/O mời/Vv/O đến/Cm/O nhưng/Cp/O không/R/O ai/Pp/O chữa/Vv/O cho/Cp/O công_chúa/Nn/O khỏi/Vv/O được/R/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Thạch_Sanh/Nr/PER_B ngồi/Vv/O trong/Cm/O ngục/Nn/O tối/Nt/O ,/PU/O đem/Vv/O đàn/Nn/O của/Cm/O vua/Nn/DES_B Thủy_Tề/Nr/PER_B cho/Vv/O ra/R/O gảy/Vv/O ./PU/O 
+Tiếng/Nn/O đàn/Nn/O vẳng/Vv/O đến/Cm/O hoàng_cung/Nn/O ,/PU/O lọt/Vv/O vào/Cm/O tai/Nn/O công_chúa/Nn/O ./PU/O 
+Vừa/R/O nghe/Vv/O tiếng/Nn/O đàn/Nn/O ,/PU/O công_chúa/Nn/O bỗng/R/O cười/Vv/O nói/Vv/O vui_vẻ/Aa/O ./PU/O 
+Nàng/Nn/O xin/Vv/O vua_cha/Nn/O cho/Vv/O gọi/Vv/O người/Nn/O đánh/Vv/O đàn/Nn/O vào/D/O cung/Nn/O ./PU/O 
+Nhà_vua/Nn/O lấy/Vv/O làm/Vv/O lạ/Aa/O ,/PU/O cho/Vv/O đưa/Vv/O Thạch_Sanh/Nr/PER_B đến/D/O ./PU/O 
+Trước/Nn/O mặt/Nn/O mọi/Nq/O người/Nn/O ,/PU/O chàng/Nn/O kể/Vv/O hết/Ve/O đầu_đuôi/Nn/O chuyện/Nn/O của/Cm/O mình/Pp/O ,/PU/O từ/Cm/O chuyện/Nn/O kết_bạn/Vv/O với/Cp/O Lí_Thông/Nr/PER_B đến/Vd/O chuyện/Nn/O chém/Vv/O chằn_tinh/Nn/O ,/PU/O giết/Vv/O đại_bàng/Nn/O ,/PU/O cứu/Vv/O công_chúa/Nn/O ,/PU/O bị/Vv/O Lí_Thông/Nr/PER_B lấp/Vv/O cửa/Nn/O hang/Nn/O và/Cp/O cuối_cùng/Aa/O bị/Vv/O bắt/Vv/O oan/Aa/O vào/Cm/O ngục_thất/Nn/O ./PU/O 
+Mọi/Nq/O người/Nn/O bấy_giờ/Pd/O mới/R/O hiểu/Vv/O ra/R/O mọi/Nq/O sự/Nc/O ./PU/O 
+Vua/Nn/O sai/Aa/O bắt/Vv/O giam/Vv/O hai/Nq/NUM_B mẹ_con/Nn/O Lí_Thông/Nr/PER_B ,/PU/O lại/R/O giao/Vv/O cho/Cp/O Thạch_Sanh/Nr/PER_B xét_xử/Vv/O ./PU/O 
+Chàng/Nc/O không/R/O giết/Vv/O mà/Cp/O cho/Vv/O chúng/Pp/O về/D/O quê/Nn/O làm_ăn/Vv/O ./PU/O 
+Nhưng/Cp/O về/Cm/O đến/D/O nửa/Nq/O đường/Nn/O thì/Cp/O chúng/Pp/O bị/Vv/O sét/Nn/O đánh/Vv/O chết/Vv/O ,/PU/O rồi/Cp/O bị/Vv/O hóa/Nq/O kiếp/Nn/O thành/Vv/O bọ_hung/Nn/O ./PU/O 
+Nhà_vua/Nn/O gả/Vv/O công_chúa/Nn/O cho/Cp/O Thạch_Sanh/Nr/PER_B ./PU/O 
+Lễ/Nn/O cưới/Vv/O của/Cm/O họ/Pp/O tưng_bừng/Aa/O nhất/R/O kinh_kì/Nn/O ,/PU/O chưa/R/O bao_giờ/Pp/O và/Cp/O chưa/R/O ở/Cm/O đâu/Pp/O có/Ve/O lễ/Nn/O cưới/Vv/O tưng_bừng/Aa/O như/Cp/O thế/Pp/O ./PU/O 
+Thấy/Vv/O vậy/Pp/O hoàng_tử/Nn/O các/Nq/O nước/Nn/O chư_hầu/Nn/O trước_kia/Nt/DTM_B bị/Vv/O công_chúa/Nn/O từ_hôn/Nn/O lấy_làm/Vv/O tức_giận/Vv/O ./PU/O 
+Họ/Pp/O hội/Nn/O binh_lính/Nn/O cả/Pp/O mười/Nq/NUM_B tám/Nq/NUM_I nước/Nn/O kéo/Vv/O sang/Cm/O đánh/Vv/O ./PU/O 
+Thạch_Sanh/Nr/PER_B xin/Vv/O nhà_vua/Nn/O đừng/R/O động_binh/Nn/O ./PU/O 
+Chàng/Nc/O một_mình/R/O cầm/Vv/O cây/Nn/O đàn/Nn/O ra/D/O trước/Nn/O quân/Nn/O giặc/Nn/O ./PU/O 
+Tiếng/Nn/O đàn/Nn/O của/Cm/O chàng/Nn/O vừa/R/O cất/Vv/O lên/R/O thì/Cp/O quân_sĩ/Nn/O mười/Nq/NUM_B tám/Nq/NUM_I nước/Nn/O bủn_rủn/Aa/O tay_chân/Nn/O ,/PU/O không/R/O còn/R/O nghĩ/Vv/O được/R/O gì/Pp/O tới/Cm/O chuyện/Nn/O đánh/Vv/O nhau/Nn/O nữa/R/O ./PU/O 
+Cuối_cùng/Aa/O các/Nq/O hoàng_tử/Nn/O phải/Vv/O cởi/Vv/O giáp/Nn/O xin/Vv/O hàng/Nn/O ./PU/O 
+Thạch_Sanh/Nr/PER_B sai/Vv/O dọn/Vv/O một/Nq/NUM_B bữa/Nn/O cơm/Nn/O thết_đãi/Vv/O những/Nq/O kẻ/Nn/O thua/Vv/O trận/Nn/O ./PU/O 
+Cả/Pp/O mấy/Nq/O vạn/Nq/O tướng_lĩnh/Nn/O ,/PU/O quân_sĩ/Nn/O thấy/Vv/O Thạch_Sanh/Nr/PER_B chỉ/R/O dọn/Vv/O ra/R/O vẻn_vẹn/Aa/O có/Ve/O một/Nq/NUM_B niêu/Nn/O cơm/Nn/O tí_xíu/Aa/O ,/PU/O bĩu/Vv/O môi/Nn/O ,/PU/O không/R/O muốn/Vv/O cầm/Vv/O đũa/Nn/O ./PU/O 
+Biết/Vv/O ý/Nn/O ,/PU/O Thạch_Sanh/Nr/PER_B đố/Vv/O họ/Pp/O ăn/Vv/O hết/Ve/O được/R/O niêu/Nn/O cơm/Nn/O và/Cp/O hứa/Vv/O sẽ/R/O trọng_thưởng/Nn/O cho/Cp/O những_ai/Pp/O ăn/Vv/O hết/Ve/O ./PU/O 
+Quân_sĩ/Nn/O mười/Nq/NUM_B tám/Nq/NUM_I nước/Nn/O ăn/Vv/O mãi/R/O ,/PU/O ăn/Vv/O mãi/R/O nhưng/Cp/O niêu/Nn/O cơm/Nn/O bé_xíu/Aa/O cứ/R/O ăn/Vv/O hết/Ve/O lại/R/O đầy/Aa/O ./PU/O 
+Chúng/Pp/O cúi/Vv/O đầu/Nn/O lạy_tạ/Nq/O vợ_chồng/Nn/O Thạch_Sanh/Nr/PER_B rồi/Cp/O kéo/Vv/O nhau/Nn/O về/D/O nước/Nn/O ./PU/O 
+Về/Cm/O sau/Nn/O ,/PU/O vua/Nn/O không/R/O có/Ve/O con_trai/Nn/O ,/PU/O đã/R/O nhường/Vv/O ngôi/Nn/O cho/Cp/O Thạch_Sanh/Nr/PER_B ./PU/O 

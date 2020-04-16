@@ -1,0 +1,56 @@
+﻿Chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O 
+Xiu/Nr/PER_B và/Cp/O Giôn-xi/Nr/BRN_B là/Vc/O hai/Nq/NUM_B nữ/Nn/O họa/Nn/O sĩ/Nn/O nghèo/Aa/O ,/PU/O còn/Cp/O trẻ/Nn/O ,/PU/O sống/Vv/O trong/Cm/O một/Nq/NUM_B căn_hộ/Nn/O thuê/Vv/O ở/Cm/O gần/Aa/O công_viên/Nn/LOC_B Oa-sinh-tơn/Nn/LOC_I ./PU/O 
+Cụ/Nn/TTL_B Bơ-men/Nr/PER_B cũng/R/O là/Vc/O một/Nq/NUM_B họa/Nn/O sĩ/Nn/O nghèo/Aa/O thuê/Vv/O phòng/Nn/O ở/Cm/O tầng/Nn/O dưới/Nn/O ./PU/O 
+Bốn/Nq/MEA_B chục/Nq/MEA_I năm/Nt/MEA_I nay/Nt/O cụ/Nn/O mơ_ước/Vv/O vẽ/Vv/O một/Nq/NUM_B kiệt_tác/Nn/O nhưng/Cp/O chưa/R/O thực_hiện/Vv/O được/R/O ;/PU/O cụ/Nn/O thường/R/O ngồi/Vv/O làm/Vv/O mẫu/Nn/O vẽ/Vv/O cho/Cp/O các/Nq/O họa/Nn/O sĩ/Nn/O để/Cm/O kiếm/Vv/O tiền/Nn/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O là/Vc/O vào/Cm/O mùa/Nn/DTM_B đông/Nt/DTM_I ./PU/O 
+Giôn-xi/Nn/O bị/Vv/O bệnh/Nn/O sưng/Vv/O phổi/Nn/O ./PU/O 
+Bệnh_tật/Nn/O và/Cp/O nghèo_túng/Aa/O khiến/Vv/O cô/Nn/O tuyệt_vọng/Vv/O không/R/O muốn/Vv/O sống/Vv/O nữa/R/O ./PU/O 
+Cô/Nn/O đếm/Vv/O từng/Pp/O chiếc/Nc/O lá/Nn/O còn_lại/Ve/O trên/Cm/O cây/Nn/O thường_xuân/Nn/O bám/Vv/O vào/Cm/O bức/Nc/O tường/Nn/O gạch/Nn/O đối_diện/Vv/O với/Cp/O cửa_sổ/Nn/O ,/PU/O chờ/Vv/O khi/Nt/O nào/Pd/O chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O rụng/Vv/O nốt/R/O thì/Cp/O cô/Nn/O cũng/R/O buông_xuôi/Vv/O ,/PU/O lìa/Vv/O đời/Nn/O .../PU/O 
+Khi/Nt/O hai/Nq/NUM_B người/Nn/O lên/Vv/O trên/Cm/O gác/Nn/O thì/Cp/O Giôn-xi/Nn/O đang/R/O ngủ/Vv/O ./PU/O 
+Xiu/Nr/PER_B kéo/Vv/O tấm/Nc/O mành_mành/Nn/O xuống/D/O che/Vv/O kín/Aa/O cửa_sổ/Nn/O và/Cp/O ra_hiệu/Vv/O cho/Cp/O cụ/Nn/TTL_B Bơ-men/Nr/PER_B sang/Vd/O buồng/Nn/O bên/Nn/O canh/Nn/O ./PU/O 
+Sang/Vv/O đến/Cm/O nơi/Nn/O ,/PU/O họ/Pp/O sợ_sệt/Vv/O ngó/Vv/O ra/D/O ngoài/Nn/O cửa_sổ/Nn/O ,/PU/O nhìn/Vv/O cây/Nn/O thường_xuân/Nn/O ./PU/O 
+Rồi/Cp/O họ/Pp/O nhìn/Vv/O nhau/Nn/O một/Nq/O lát/Nt/O ,/PU/O chẳng/R/O nói_năng/Vv/O gì/M/O ./PU/O 
+Một/Nq/NUM_B cơn/Nc/O mưa/Nn/O lạnh_lẽo/Aa/O ,/PU/O dai_dẳng/Aa/O vẫn/R/O đang/R/O rơi/Vv/O ,/PU/O lẫn/Cp/O cùng/Cp/O với/Cp/O tuyết/Nn/O ./PU/O 
+Cụ/Nn/TTL_B Bơ-men/Nr/PER_B mặc/Vv/O chiếc/Nc/O sơ_mi/Nn/O cũ/Aa/O màu/Nn/O xanh/Aa/O ,/PU/O ngồi/Vv/O đóng/Vv/O vai/Nn/O một/Nq/NUM_B tay/Nc/O thợ_mỏ/Nn/O già/Aa/O trên/Cm/O cái/Nc/O ấm/Nn/O đun/Vv/O nước/Nn/O lật/Vv/O úp/Vv/O giả/Aa/O làm/Vv/O tảng/Nn/O đá/Nn/O ./PU/O 
+Sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O Xiu/Nr/LOC_B tỉnh/Nu/O dậy/Vv/O sau/Nn/O khi/Nt/O chợp/Vv/O mắt/Nn/O được/Vv/O một/Nq/MEA_B tiếng/Nt/MEA_I đồng_hồ/Nn/O thì/Cp/O thấy/Vv/O Giôn-xi/Nn/O đang/R/O mở/Vv/O to/Aa/O cặp/Nq/O mắt/Nn/O thẫn_thờ/Aa/O nhìn/Vv/O tấm/Nc/O mành_mành/Nq/O màu/Nn/O xanh/Aa/O đã/R/O kéo/Vv/O xuống/D/O ./PU/O 
+"/PU/O Kéo/Vv/O nó/Pp/O lên/Vd/O ,/PU/O em/Pp/O muốn/Vv/O nhìn/Vv/O "/PU/O ,/PU/O cô/Nn/O thều_thào/Vv/O ra_lệnh/Vv/O ./PU/O 
+Xiu/Nr/PER_B làm/Vv/O theo/Vv/O một/Nq/NUM_B cách/Nn/O chán_nản/Aa/O ./PU/O 
+Nhưng/Cp/O ,/PU/O ô_kìa/Nn/O !/PU/O 
+Sau/Nn/O trận/Nn/O mưa/Nn/O vùi/Vv/O đập/Nn/O và/Cp/O những/Nq/O cơn/Nc/O gió/Nn/O phũ_phàng/Aa/O kéo/Vv/O dài/Aa/O suốt/Aa/O cả/Pp/O một/Nq/MEA_B đêm/Nt/MEA_I ,/PU/O tưởng_chừng/Vv/O như/Cp/O không/R/O bao_giờ/Pp/O dứt/Vv/O ,/PU/O vẫn/R/O còn/Ve/O một/Nq/NUM_B chiếc/Nc/O lá/Nn/O thường_xuân/Nn/O bám/Vv/O trên/Cm/O bức/Nc/O tường/Nn/O gạch/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O trên/Cm/O cây/Nn/O ./PU/O 
+Ở/Cm/O gần/Aa/O cuống/Nn/O lá/Nn/O còn/R/O giữ/Vv/O màu/Nn/O xanh/Aa/O sẫm/Aa/O ,/PU/O nhưng/Cp/O với/Cp/O rìa/Nn/O lá/Nn/O hình/Nn/O răng_cưa/Nn/O đã/R/O nhuốm/Vv/O màu/Nn/O vàng/Aa/O úa/Vv/O ,/PU/O chiếc/Nc/O lá/Nn/O vẫn/R/O dũng_cảm/Aa/O treo/Vv/O bám/Vv/O vào/Cm/O cành/Nn/O cách/Vv/O mặt/Nn/O đất/Nn/O chừng/Nn/O hai/An/O mươi/Nq/O bộ/Nn/O ./PU/O 
+"/PU/O Đó/Pd/O là/Vc/O chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O "/PU/O ,/PU/O Giôn-xi/Nn/O nói/Vv/O ,/PU/O Em/Pp/O cứ/R/O tưởng/Vv/O là/Cp/O nhất_định/R/O trong/Cm/O đêm/Nt/DTM_B vừa_qua/Nt/DTM_I nó/Pp/O đã/R/O rụng/Vv/O ./PU/O 
+Em/Pp/O nghe/Vv/O thấy/Vv/O gió/Nn/O thổi/Vv/O ./PU/O 
+Hôm_nay/Nt/DTM_B nó/Pp/O sẽ/R/O rụng/Vv/O thôi/M/O và/Cp/O cùng/Aa/O lúc/Nt/O đó/Pd/O thì/Cp/O em/Pp/O sẽ/R/O chết/Vv/O ./PU/O 
+"/PU/O Em/Pp/O thân_yêu/Aa/O ,/PU/O thân_yêu/Aa/O !/PU/O "/PU/O ,/PU/O Xiu/Nr/PER_B nói/Vv/O ,/PU/O cúi/Vv/O khuôn_mặt/Nn/O hốc_hác/Aa/O xuống/D/O gần/Aa/O gối/Nn/O ,/PU/O Em/Pp/O hãy/R/O nghĩ/Vv/O đến/Cm/O chị/Pp/O ,/PU/O nếu/Cp/O em/Pp/O không/R/O còn/R/O muốn/Vv/O nghĩ/Vv/O đến/Cm/O mình/Pp/O nữa/R/O ./PU/O 
+Chị/Nn/O sẽ/R/O làm/Vv/O gì/Pp/O đây/M/O ?/PU/O 
+Nhưng/Cp/O Giôn-xi/Nn/O không/R/O trả_lời/Vv/O ./PU/O 
+Cái/Nc/O cô_đơn/Aa/O nhất/R/O trong/Cm/O khắp/Aa/O thế_gian/Nn/O là/Vc/O một/Nq/NUM_B tâm_hồn/Nn/O đang/R/O chuẩn_bị/Vv/O sẵn_sàng/Aa/O cho/Cp/O chuyến/Nn/O đi/Vv/O xa_xôi/Aa/O bí_ẩn/Aa/O của/Cm/O mình/Pp/O ./PU/O 
+Khi/Nt/O những/Nq/O dây/Nn/O ràng_buộc/Vv/O cô/Nn/O với/Cp/O tình_bạn/Nn/O và/Cp/O với/Cp/O thế_gian/Nn/O cứ/R/O lơi_lỏng/Vv/O dần/R/O từng/Pp/O sợi/Nn/O một/Nq/NUM_B ,/PU/O ý_nghĩ/Nn/O kì_quặc/Nn/O ấy/Pd/O hình_như/R/O càng/R/O choán/Vv/O lấy/Vv/O tâm_trí/Nn/O cô/Nn/O mạnh_mẽ/Aa/O hơn/Aa/O ./PU/O 
+Ngày/Nt/O hôm/Nt/O đó/Pd/O trôi/Vv/O qua/Vv/O và/Cp/O ngay_cả/M/O trong/Cm/O ánh/Nc/O hoàng_hôn/Nt/O ,/PU/O họ/Pp/O vẫn/R/O có_thể/Aa/O trông_thấy/Aa/O chiếc/Nc/O lá/Nn/O thường_xuân/Nn/O đơn_độc/Aa/O níu/Vv/O vào/Cm/O cái/Nc/O cuống/Nn/O của/Cm/O nó/Pp/O trên/Cm/O tường/Nn/O ./PU/O 
+Thế/Pp/O rồi/R/O ,/PU/O cùng/Cp/O với/Cp/O màn/Nc/O đêm/Nt/O buông/Vv/O xuống/D/O ,/PU/O gió_bấc/Nn/O lại/R/O ào_ào/Aa/O ,/PU/O trong/Cm/O khi/Nt/O mưa/Vv/O vẫn/R/O đập/Vv/O mạnh/Aa/O vào/Cm/O cửa_sổ/Nn/O và/Cp/O rơi/Vv/O lộp_độp/Aa/O xuống/D/O đất/Nn/O từ/Cm/O mái_hiên/Nn/O thấp/Aa/O kiểu/Nn/O Hà_Lan/Nr/LOC_B ./PU/O 
+Khi/Nt/O trời/M/O vừa/R/O hửng/Vv/O sáng/Aa/O thì/Cp/O Giôn-xi/Nn/O ,/PU/O con_người/Nn/O tàn_nhẫn/Aa/O ,/PU/O lại/R/O ra_lệnh/Vv/O kéo/Vv/O mành/Nn/O lên/D/O ./PU/O 
+Chiếc/Nc/O lá/Nn/O thường_xuân/Nn/O vẫn/R/O còn/Ve/O đó/Pd/O ./PU/O 
+Giôn-xi/Nn/O nằm/Vv/O nhìn/Vv/O chiếc/Nc/O lá/Nn/O hồi/Nt/O lâu/Aa/O ./PU/O 
+Rồi/Cp/O cô/Nn/O gọi/Vv/O Xiu/Nr/PER_B đang/R/O quấy/Vv/O món/Nc/O cháo/Nn/O gà/Nn/O trên/Cm/O lò/Nn/O hơi/R/O đốt/Vv/O ./PU/O 
+"/PU/O Em/Pp/O thật/R/O là/Vc/O một/Nq/NUM_B con_bé/Nn/O hư/Aa/O ,/PU/O chị/Pp/O Xiu/Nr/PER_B thân_yêu/Aa/O ơi/E/O "/PU/O ,/PU/O Giôn-xi/Nn/O nói/Vv/O ,/PU/O Có/Ve/O một/Nq/NUM_B cái/Nc/O gì/Pp/O đấy/M/O đã/R/O làm/Vv/O cho/Cp/O chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O vẫn/R/O còn/Ve/O đó/Pd/O để/Cm/O cho/Cp/O em/Pp/O thấy/Vv/O rằng/Cp/O mình/Pp/O đã/R/O tệ/Aa/O như/Cp/O thế_nào/Pp/O ./PU/O 
+Muốn/Vv/O chết/Vv/O là/Cp/O một/Nq/NUM_B tội/Nn/O ./PU/O 
+Giờ/Nt/O thì/Cp/O chị/Pp/O có_thể/Aa/O cho/Vv/O em/Pp/O xin/Vv/O tí/Nq/O cháo/Nn/O và/Cp/O chút/Nq/O sữa/Nn/O pha/Nn/O ít/Aa/O rượu_vang/Nn/O đỏ/Aa/O và/Cp/O -/PU/O khoan/Vv/O -/PU/O đưa/Vv/O cho/Cp/O em/Pp/O chiếc/Nc/O gương/Nn/O tay/Nn/O trước/Nn/O đã/R/O ,/PU/O rồi/Cp/O xếp/Vv/O mấy/Nq/O chiếc/Nc/O gối/Nn/O lại/R/O quanh/Nn/O em/Pp/O ,/PU/O để/Cm/O em/Pp/O ngồi/Vv/O dậy/Vv/O xem/Vv/O chị/Pp/O nấu_nướng/Vv/O ./PU/O 
+Một/Nq/MEA_B tiếng/Nt/MEA_I đồng_hồ/Nn/O sau/Nn/O ,/PU/O cô/Nn/O nói/Vv/O :/PU/O "/PU/O Chị/Nn/TTL_B Xiu/Nr/PER_B thân_yêu/Aa/O ơi/E/O ,/PU/O một/Nq/O ngày/Nt/O nào/Pd/O đó/Pd/O em/Pp/O hi_vọng/Vv/O sẽ/R/O được/Vv/O vẽ/Vv/O vịnh/Nn/LOC_B Na-plơ/Nr/LOC_I "/PU/O ./PU/O 
+Buổi/Nt/O chiều/Nt/O ,/PU/O bác_sĩ/Nn/O tới/Aa/O và/Cp/O khi/Nt/O ông/Nn/O ra/D/O về/Vd/O ,/PU/O Xiu/Nr/PER_B kiếm/Vv/O cớ/Nn/O ra/D/O ngoài/Nn/O hành_lang/Nn/O ./PU/O 
+"/PU/O Được/Vv/O năm/Nt/O phần/Nn/O mười/Nq/NUM_B rồi/R/O "/PU/O ,/PU/O bác_sĩ/Nn/O nói/Vv/O và/Cp/O cầm/Vv/O lấy/Vv/O bàn_tay/Nn/O mảnh_dẻ/Aa/O run_rẩy/Vv/O của/Cm/O Xiu/Nr/PER_B ,/PU/O Chăm_sóc/Vv/O chu_đáo/Aa/O thì/Cp/O chị/Nn/O sẽ/R/O thắng/Vv/O ./PU/O 
+Và/M/O bây_giờ/Pd/O tôi/Pp/O phải/Vv/O xuống/Vd/O dưới/Cm/O nhà/Nn/O thăm/Vv/O một/Nq/NUM_B bệnh_nhân/Nn/O khác/Aa/O ,/PU/O tên/Nn/O là/Vc/O Bơ-men/Nr/PER_B ,/PU/O hình_như/R/O là/Vc/O một/Nq/NUM_B nghệ_sĩ/Nn/O thì/Cp/O phải/Vv/O ./PU/O 
+Cũng/R/O lại/R/O chứng/Nc/O sưng/Vv/O phổi/Nn/O ./PU/O 
+Ống/Nn/O cụ/Nn/O là/Vc/O một/Nq/NUM_B người/Nn/O già_yếu/Aa/O ,/PU/O bệnh_tình/Nn/O nguy_kịch/Aa/O ./PU/O 
+Chẳng/R/O còn/R/O hi_vọng/Vv/O gì/Pp/O ,/PU/O nhưng/Cp/O hôm_nay/Nt/DTM_B ông/Nc/O cụ/Nn/O sẽ/R/O vào/Cm/O nằm/Vv/O bệnh_viện/Nn/O để/Cm/O được/Vv/O chăm_sóc/Vv/O chu_đáo/Aa/O hơn/Aa/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O bác_sĩ/Nn/O bảo/Vv/O Xiu/Nr/PER_B :/PU/O Cô/Nn/O ấy/Pd/O khỏi/Vv/O nguy_hiểm/Aa/O rồi/R/O ,/PU/O chị/Nn/O đã/R/O thắng/Vv/O ./PU/O 
+Giờ/Nt/O chỉ/R/O còn/Ve/O việc/Nn/O bồi_dưỡng/Vv/O và/Cp/O chăm_nom/Nn/O -/PU/O thế/Pp/O thôi/M/O ./PU/O 
+Và/M/O buổi/Nt/O chiều/Nt/O hôm/Nt/O đó/Pd/O ,/PU/O Xiu/Nr/PER_B tới/Vd/O bên/Nn/O giường/Nn/O Giôn-xi/Nn/O nằm/Vv/O ,/PU/O thấy/Vv/O Giôn-xi/Nn/O đang/R/O vui_vẻ/Aa/O đan/Vv/O một/Nq/NUM_B chiếc/Nc/O khăn/Nn/O choàng/Vv/O len/Nn/O màu/Nn/O xanh/Aa/O thẫm/Aa/O rất/R/O vô_dụng/Aa/O ,/PU/O chị/Nn/O ôm/Vv/O lấy/R/O cả/M/O người/Nn/O Giôn-xi/Nn/O lẫn/Cp/O những/Nq/O chiếc/Nc/O gối/Nn/O ./PU/O 
+"/PU/O Chị/Pp/O có/Ve/O chuyện/Nn/O này/Pd/O muốn/Vv/O nói/Vv/O với/Cp/O em/Pp/O ,/PU/O con/Nc/O chuột_bạch/Nn/O của/Cm/O chị/Pp/O "/PU/O ,/PU/O cô/Nn/O nói/Vv/O ,/PU/O Cụ/Nn/TTL_B Bơ-men/Nr/PER_B đã/R/O chết/Vv/O vì/Cp/O sung/Nn/O phổi/Nn/O hôm_nay/Nt/DTM_B ở/Cm/O bệnh_viện/Nn/O rồi/R/O ./PU/O 
+Cụ/Nn/O ốm/Vv/O chỉ/R/O có/Ve/O hai/Nq/MEA_B ngày/Nt/MEA_I ./PU/O 
+Buổi/Nt/O sáng/Nt/O ngày/Nt/O thứ/Nn/O nhất/An/O ,/PU/O bác/Nn/O gác/Vv/O cổng/Nn/O thấy/Vv/O cụ/Nn/O ốm/Vv/O nặng/Aa/O trong/Cm/O căn/Nc/O phòng/Nn/O của/Cm/O cụ/Nn/O ở/Cm/O tầng/Nn/O dưới/Nn/O ./PU/O 
+Giày/Nr/PER_B và/Cp/O áo_quần/Nn/O của/Cm/O cụ/Nn/O ướt_sũng/Aa/O và/Cp/O lạnh/Aa/O buốt/Aa/O ./PU/O 
+Chẳng/R/O ai/Pp/O hình_dung/Vv/O nổi/R/O cụ/Nn/O đã/R/O ở/Cm/O đâu/Pp/O trong/Cm/O một/Nq/O đêm/Nt/O khủng_khiếp/Aa/O như/Cp/O thế/Pp/O ./PU/O 
+Nhưng/Cp/O rồi/Cp/O người_ta/Pp/O tìm/Vv/O thấy/Vv/O một/Nq/NUM_B chiếc/Nc/O đèn_bão/Nn/O vẫn/R/O còn/R/O thắp/Vv/O sáng/Aa/O và/Cp/O một/Nq/NUM_B chiếc/Nc/O thang/Nn/O đã/R/O bị/Vv/O lôi/Vv/O ra/D/O khỏi/Vv/O chỗ/Nn/O để/Cm/O của/Cm/O nó/Pp/O ,/PU/O và/Cp/O vài/Nq/O chiếc/Nc/O bút_lông/Nn/O rơi/Vv/O vung_vãi/Vv/O ,/PU/O và/Cp/O một/Nq/MEA_B bảng/Nu/MEA_I pha/Nn/O màu/Nn/O có/Ve/O màu/Nn/O xanh/Aa/O và/Cp/O màu/Nn/O vàng/Aa/O trộn_lẫn/Vv/O với/Cp/O nhau/Nn/O ,/PU/O và/Cp/O -/PU/O em/Pp/O thân_yêu/Aa/O ơi/E/O ,/PU/O em/Pp/O hãy/R/O nhìn/Vv/O ra/D/O ngoài/Nn/O cửa_sổ/Nn/O ,/PU/O nhìn/Vv/O chiếc/Nc/O lá/Nn/O thường_xuân/Nn/O cuối_cùng/Aa/O ở/Cm/O trên/Cm/O tường/Nn/O ./PU/O 
+Em/Pp/O có/R/O lấy_làm/Vv/O lạ/Aa/O tại_sao/Pp/O chẳng/R/O bao_giờ/Pp/O nó/Pp/O rung_rinh/Vv/O hoặc/Cp/O lay_động/Vv/O khi/Nt/O gió/Nn/O thổi/Vv/O không/R/O ?/PU/O 
+Ồ/E/O ,/PU/O em/Pp/O thân_yêu/Aa/O ,/PU/O đó/Pd/O chính/M/O là/Vc/O kiệt_tác/Nn/O của/Cm/O cụ/Nn/TTL_B Bơ-men/Nr/PER_B ,/PU/O -/PU/O cụ/Nn/O vẽ/Vv/O nó/Pp/O ở/Cm/O đấy/Pd/O vào/Cm/O cái/Nc/O đêm/Nt/O mà/Cp/O chiếc/Nc/O lá/Nn/O cuối_cùng/Aa/O đã/R/O rụng/Vv/O ./PU/O 

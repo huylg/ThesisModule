@@ -1,0 +1,23 @@
+﻿Phần_thưởng/Nn/O 
+Na/Nr/PER_B là/Vc/O một/Nq/NUM_B cô/Nc/O bé/Nn/O tốt_bụng/Aa/O ./PU/O 
+Ở/Cm/O lớp/Nn/O ,/PU/O ai/Pp/O cũng/R/O mến/Vv/O em/Pp/O ./PU/O 
+Em/Pp/O gọt/Vv/O bút_chì/Nn/O giúp/Vv/O bạn_Lan/Nn/O ./PU/O 
+Em/Pp/O cho/Cp/O bạn/Nn/TTL_B Minh/Nr/PER_B nửa/Nq/O cục/Nn/O tẩy/Vv/O ./PU/O 
+Nhiều/Aa/O lần/Nn/O ,/PU/O em/Pp/O làm/Vv/O trực_nhật/Nn/O giúp/Vv/O các/Nq/O bạn/Pp/O bị/Vv/O mệt/Aa/O .../PU/O 
+Na/Nr/PER_B chỉ/R/O buồn/Vv/O vì/Cp/O em/Pp/O học/Vv/O chưa/R/O giỏi/Aa/O ./PU/O 
+Cuối/Nn/O năm/Nt/O học/Vv/O ,/PU/O cả/Pp/O lớp/Nn/O bàn_tán/Vv/O về/Cm/O điểm/Nn/O thi/Vv/O và/Cp/O phần_thưởng/Nn/O ./PU/O 
+Riêng/M/O Na/Nr/PER_B chỉ/R/O lặng_yên/Aa/O nghe/Vv/O các/Nq/O bạn/Pp/O ./PU/O 
+Em/Pp/O biết/Vv/O mình/Pp/O chưa/R/O giỏi/Aa/O môn/Nn/O nào/Pd/O ./PU/O 
+Một/Nq/O buổi/Nt/O sáng/Nt/O ,/PU/O vào/Cm/O giờ/Nt/O ra/Vd/O chơi/Vv/O ,/PU/O các/Nq/O bạn/Nn/O trong/Cm/O lớp/Nn/O túm_tụm/Vv/O bàn_bạc/Vv/O điều/Nc/O gì/Pp/O có_vẻ/R/O bí_mật/Aa/O lắm/R/O ./PU/O 
+Rồi/Cp/O các/Nq/O bạn/Pp/O kéo/Vv/O nhau/Nn/O đến/Vd/O gặp/Vv/O cô_giáo/Nn/O ./PU/O 
+Cô_giáo/Nn/O cho/Vv/O rằng/Cp/O sáng_kiến/Nn/O của/Cm/O các/Nq/O bạn/Pp/O rất/R/O hay/Aa/O ./PU/O 
+Ngày/Nt/O tổng_kết/Vv/O năm_học/Nn/O ,/PU/O từng/Pp/O học_sinh/Nn/O giỏi/Aa/O bước/Vv/O lên/R/O bục/Nn/O nhận/Vv/O phần_thưởng/Nn/O ./PU/O 
+Cha_mẹ/Nn/O các/Nq/O em/Nn/O cũng/R/O hồi_hộp/Vv/O ./PU/O 
+Bất_ngờ/Aa/O ,/PU/O cô_giáo/Nn/O nói/Vv/O :/PU/O 
+Bây_giờ/Pd/O ,/PU/O cô/Nn/O sẽ/R/O trao/Vv/O một/Nq/NUM_B phần_thưởng/Nn/O đặc_biệt/Aa/O ./PU/O 
+Đây/Pd/O là/Vc/O phần_thưởng/Nn/O cả/Pp/O lớp/Nn/O đề_nghị/Vv/O tặng/Vv/O bạn/Nn/TTL_B Na/Nr/PER_B ./PU/O 
+Na/Nr/PER_B học/Vv/O chưa/R/O giỏi/Aa/O ,/PU/O nhưng/Cp/O em/Pp/O có/Ve/O tấm/Nn/O lòng/Nn/O thật/R/O đáng/Vv/O quý/Vv/O ./PU/O 
+Na/Nr/PER_B không/R/O hiểu/Vv/O mình/Pp/O có/R/O nghe/Vv/O nhầm/Vv/O không/R/O ./PU/O 
+Đỏ_bừng/Nq/NUM_B mặt/Nn/O cô/Nc/O bé/Nn/O đứng/Vv/O dậy/Vv/O bước/Vv/O lên/D/O bục/Nn/O ./PU/O 
+Tiếng/Nn/O vỗ_tay/Vv/O vang_dậy/Vv/O ./PU/O 
+Mẹ/Nn/O của/Cm/O Na/Nr/PER_B lặng_lẽ/Aa/O chấm/Vv/O khăn/Nn/O lên/R/O đôi/Nq/O mắt/Nn/O đỏ_hoe/Aa/O ./PU/O 

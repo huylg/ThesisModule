@@ -1,0 +1,17 @@
+﻿Hoa/Nn/O học_trò/Nn/O 
+Phượng/Nr/PER_B không/R/O phải/Aa/O là/Vc/O một/Nq/NUM_B đóa/Nn/O ,/PU/O không/R/O phải/Aa/O vài/Nq/O cành/Nn/O ;/PU/O phượng/Nn/O đây/Pd/O là/Vc/O cả/M/O một/Nq/O loạt/Nn/O ,/PU/O cả/Pp/O một/Nq/NUM_B vùng/Nn/O ,/PU/O cả/Pp/O một/Nq/NUM_B góc/Nn/O trời/Nn/O đỏ_rực/Aa/O ./PU/O 
+Mỗi/Nq/O hoa/Nn/O chỉ/R/O là/Vc/O một/Nq/NUM_B phần_tử/Nn/O của/Cm/O cả/Pp/O xã_hội/Nn/O thắm/Aa/O tươi/Aa/O ;/PU/O người_ta/Pp/O quên/Vv/O đóa/Nq/O hoa/Nn/O ,/PU/O chỉ/R/O nghĩ/Vv/O đến/Cm/O cây/Nn/O ,/PU/O đến/Cm/O hàng/Nn/O ,/PU/O đến/Cm/O những/Nq/O tán/Nn/O hoa/Nn/O lớn/Aa/O xòe/Nn/O ra/R/O như/Cp/O muôn_ngàn/Nq/O con/Nc/O bướm/Nn/O thắm/Aa/O đậu/Vv/O khít/Aa/O nhau/Nn/O ./PU/O 
+Nhưng/Cp/O hoa/Nn/O càng/Cs/O đỏ/Aa/O ,/PU/O lá/Nn/O lại/R/O càng_xanh/Nn/O ./PU/O 
+Vừa/R/O buồn/Vv/O mà/Cp/O lại/R/O vừa/R/O vui/Aa/O mới/Cp/O thực/Aa/O là/Vc/O nỗi_niềm/Nn/O bông/Nc/O phượng/Nn/O ./PU/O 
+Hoa_phượng/Nn/O là/Vc/O hoa/Nn/O học_trò/Nn/O ./PU/O 
+Mùa/Nn/DTM_B xuân/Nt/DTM_I ,/PU/O phượng/Nn/O ra/D/O lá/Nc/O ./PU/O 
+Lá/Nc/O xanh_um/Aa/O ,/PU/O mát_rượi/Aa/O ,/PU/O ngon_lành/Aa/O như/Cp/O lá/Nn/O me/Nn/O non/Aa/O ./PU/O 
+Lá/Nc/O ban_đầu/Nn/O xếp/Vv/O lại/R/O ,/PU/O còn/R/O e_ấp/Vv/O ,/PU/O dần_dần/R/O xòe/Nn/O ra/R/O cho/Cp/O gió/Nn/O đưa_đẩy/Vv/O ./PU/O 
+Lòng/Nn/O cậu/Nc/O học_trò/Nn/O phơi_phới/Aa/O làm_sao/E/O !/PU/O 
+Cậu/Nn/O chăm_lo/Vv/O học_hành/Vv/O ,/PU/O rồi/Cp/O lâu/Aa/O cũng/R/O vô_tâm/Aa/O quên/Vv/O mất/M/O màu/Nn/O lá/Aa/O phượng/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O bỗng_đâu/Nn/O trên/Cm/O những/Nq/O cành/Nn/O cây/Nn/O báo/Nn/O một/Nq/NUM_B tin/Nn/O thắm/Aa/O :/PU/O Mùa/Nn/O hoa_phượng/Nn/O bắt_đầu/Vv/O ./PU/O 
+Đến/Cm/O giờ/Nt/O chơi/Vv/O ,/PU/O cậu/Nc/O học_trò/Nn/O ngạc_nhiên/Vv/O trông/Vv/O lên/R/O :/PU/O Hoa/Nr/O nở/Vv/O lúc/Nt/O nào/Pd/O mà/Cp/O bất_ngờ/Aa/O vậy/Pp/O ?/PU/O 
+Bình_minh/Nt/O của/Cm/O hoa_phượng/Nn/O là/Vc/O màu/Nn/O đỏ/Aa/O còn/R/O non/Aa/O ,/PU/O nếu/Cp/O có/Ve/O mưa/Nn/O ,/PU/O lại/R/O càng/R/O tươi/Aa/O dịu/Aa/O ./PU/O 
+Ngày/Nt/DTM_B xuân/Nt/DTM_I dần/R/O hết/Ve/O ,/PU/O số/Nn/O hoa/Nn/O tăng/Vv/O lên/R/O ,/PU/O màu/Nn/O cũng/R/O đậm/Aa/O dần/R/O ./PU/O 
+Rồi/Cp/O hòa/Nq/O nhịp/Nn/O với/Cp/O mặt_trời/Nn/O chói_lọi/Aa/O ,/PU/O màu/Nn/O phượng/Aa/O mạnh_mẽ/Aa/O kêu/Vv/O vang/Aa/O :/PU/O Hè/Nt/DTM_B đến/Cm/O rồi/R/O !/PU/O 
+Khắp/Aa/O thành_phố/Nu/O bỗng/R/O rực/Aa/O lên/R/O như/Cp/O đến/Cm/O Tết/Nt/O nhà_nhà/Nn/O đều/R/O dán/Vv/O câu_đối/Nn/O đỏ/Aa/O ./PU/O 

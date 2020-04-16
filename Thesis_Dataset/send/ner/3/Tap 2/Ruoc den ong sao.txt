@@ -1,0 +1,15 @@
+﻿Rước/Vv/O đèn/Nn/O ông/Nn/O sao/Pp/O 
+Tết/Nt/DTM_B Trung_thu/Nt/DTM_I đã/R/O đến/Vd/O ./PU/O 
+Mẹ/Nn/TTL_B Tâm/Nr/PER_B rất/R/O bận/Aa/O nhưng/Cp/O vẫn/R/O sắm/Vv/O cho/Cp/O Tâm/Nr/PER_B một/Nq/NUM_B mâm/Nn/O cỗ/Nn/O nhỏ/Aa/O :/PU/O một/Nq/NUM_B quả/Nn/O bưởi/Nn/O có/Ve/O khía/Nn/O thành/Vv/O tám/Nq/NUM_B cánh/Nn/O hoa/Nn/O ,/PU/O mỗi/Nq/O cánh/Nn/O hoa/Nn/O cài/Vv/O một/Nq/NUM_B quả/Nn/O ổi/Nn/O chín/Nq/NUM_B ,/PU/O để/Cm/O bên/Nn/O cạnh/Nn/O một/Nq/NUM_B nải/Nn/O chuối_ngự/Nn/O và/Cp/O bó/Vv/O mía/Nn/O tím/Aa/O ./PU/O 
+Tâm/Nr/PER_B rất/R/O thích/Vv/O mâm/Nn/O cỗ/Nn/O ./PU/O 
+Em/Pp/O đem/Vv/O mấy/Nq/O thứ/Nn/O đồ_chơi/Nn/O bày/Vv/O xung_quanh/Nn/O ,/PU/O nom/Vv/O rất/R/O vui_mắt/Aa/O ./PU/O 
+Chiều/Nt/DTM_B rồi/R/DTM_I đêm/Nt/O xuống/Vv/O ./PU/O 
+Trẻ_con/Nn/O bên/Nn/O hàng_xóm/Nn/O bập_bùng/Aa/O trống_ếch/Nn/O rước/Vv/O đèn/Nn/O ./PU/O 
+Lúc/Nt/O đó/Pd/O ,/PU/O Tâm/Nr/PER_B lại/R/O thấy/Vv/O không/R/O thích/Vv/O mâm/Nn/O cỗ/Nn/O của/Cm/O mình/Pp/O bằng/Cm/O đám/Nn/O rước/Vv/O đèn/Nn/O ./PU/O 
+Tâm/Nr/PER_B bỏ/Vv/O mâm/Nn/O cỗ/Nn/O chạy/Vv/O đi/Vv/O xem/Vv/O ./PU/O 
+Tâm/Nr/PER_B thích/Vv/O nhất/R/O cái/Nc/O đèn/Nn/O ông/Nn/O sao/Nn/O của/Cm/O bạn/Nn/TTL_B Hà/Nr/PER_B bên/Nn/O hàng_xóm/Nn/O ./PU/O 
+Cái/Nc/O đèn/Nn/O làm/Vv/O bằng/Cm/O giấy_bóng/Nn/O kính/Nn/O đỏ/Aa/O ,/PU/O trong/Cm/O suốt/Aa/O ,/PU/O ngôi_sao/Nn/O được/Vv/O gắn/Vv/O vào/Cm/O giữa/Nn/O vòng_tròn/Nn/O có/Ve/O những/Nq/O tua/Nn/O giấy/Nn/O đủ/Aa/O màu_sắc/Nn/O ./PU/O 
+Trên/Cm/O đỉnh/Nn/O ngôi_sao/Nn/O cắm/Vv/O ba/Nq/NUM_B lá/Nc/O cờ/Nn/O con/Nn/O ./PU/O 
+Tâm/Nr/PER_B thích/Vv/O cái/Nc/O đèn/Nn/O quá/R/O ,/PU/O cứ/R/O đi/Vv/O bên/Nn/O cạnh/Nn/O Hà/Nr/PER_B ,/PU/O mắt/Nn/O không/R/O rời/Vv/O cái/Nc/O đèn/Nn/O ./PU/O 
+Hà/Nr/PER_B cũng/R/O biết/Vv/O là/Cp/O bạn/Pp/O thích/Vv/O nên/Cp/O thỉnh_thoảng/R/O lại/R/O đưa/Vv/O cho/Cp/O Tâm/Nr/PER_B cầm/Vv/O một/Nq/O lúc/Nt/O ./PU/O 
+Có/Ve/O lúc/Nt/O cả/Pp/O hai/Nq/NUM_B cùng/Nn/O cầm/Vv/O chung/Aa/O cái/Nc/O đèn/Nn/O ,/PU/O reo/Vv/O :/PU/O "/PU/O Tùng/Nr/PER_B tùng/ON/O tùng/ON/O ,/PU/O dinh/Nn/O dinh/Nn/O !/PU/O .../PU/O "/PU/O 

@@ -1,0 +1,13 @@
+﻿Cô_giáo/Nn/O tí_hon/Aa/O 
+Bé/Nn/O kẹp/Nn/O lại/R/O tóc/Nn/O ,/PU/O thả/Vv/O ống_quần/Nn/O xuống/D/O ,/PU/O lấy/Vv/O cái/Nc/O nón/Nn/O của/Cm/O má/Nn/O đội/Nn/O lên/Vv/O đầu/Nn/O ./PU/O 
+Nó/Pp/O cố/Vv/O bắt_chước/Vv/O dáng/Nn/O đi/Vv/O khoan_thai/Aa/O của/Cm/O cô_giáo/Nn/O khi/Nt/O cô/Nn/O bước/Vv/O vào/Cm/O lớp/Nn/O ./PU/O 
+Mấy/Nq/O đứa/Nc/O nhỏ/Nn/O làm/Vv/O y_hệt/Aa/O đám/Nn/O học_trò/Nn/O ,/PU/O đứng/Vv/O cả/Pp/O dậy/Vv/O ,/PU/O khúc_khích/Aa/O cười/Vv/O chào/Vv/O cô/Nn/O ./PU/O 
+Bé/Nn/O treo/Vv/O nón/Nn/O ,/PU/O mặt/Nn/O tỉnh_khô/Nq/O ,/PU/O bẻ/Vv/O một/Nq/NUM_B nhánh/Nn/O trâm_bầu/Nn/O làm/Vv/O thước/Nn/O ./PU/O 
+Mấy/Nq/O đứa/Nc/O em/Nn/O chống/Vv/O hai/Nq/NUM_B tay/Nn/O ngồi/Vv/O nhìn/Vv/O chị/Pp/O ./PU/O 
+Làm/Vv/O như/Cp/O cô_giáo/Nn/O ,/PU/O Bé/Nn/O đưa_mắt/Vv/O nhìn/Vv/O đám/Nn/O học_trò/Nn/O ,/PU/O tay/Nn/O cầm/Vv/O nhánh/Nn/O trâm_bầu/Nn/O nhịp/Nn/O nhịp/Nn/O trên/Cm/O tấm/Nc/O bảng/Nn/O ./PU/O 
+Nó/Pp/O đánh_vần/Vv/O từng/Pp/O tiếng/Nn/O ./PU/O 
+Đàn_em/Nn/O ríu_rít/Aa/O đánh_vần/Vv/O theo/Vv/O ./PU/O 
+Thằng/Nn/TTL_B Hiển/Nr/PER_B ngọng/Aa/O líu/Nn/O ,/PU/O nói/Vv/O không/R/O kịp/Aa/O hai/Nq/NUM_B đứa/Nn/O lớn/Aa/O ./PU/O 
+Cái/Nc/O Anh/Nn/O hai/Nq/NUM_B má/Nn/O núng_nính/Nn/O ,/PU/O ngồi/Vv/O gọn/Aa/O tròn/Aa/O như/Cp/O củ/Nn/O khoai/Nn/O ,/PU/O bao_giờ/Pp/O cũng/R/O giành/Vv/O phần/Nn/O đọc/Vv/O xong/Aa/O trước/Nn/O ./PU/O 
+Cái/Nc/O Thanh/Nr/PER_B ngồi/Vv/O cao/Aa/O hơn/Aa/O hai/Nq/NUM_B em/Nn/O một/Nq/NUM_B đầu/Nn/O ./PU/O 
+Nó/Pp/O mở/Vv/O to/Aa/O đôi/Nq/O mắt/Nn/O hiền_dịu/Aa/O nhìn/Vv/O tấm/Nc/O bảng/Nn/O ,/PU/O vừa/Cs/O đọc/Vv/O vừa/Cs/O mân_mê/Vv/O mớ/Nn/O tóc_mai/Nn/O ./PU/O 

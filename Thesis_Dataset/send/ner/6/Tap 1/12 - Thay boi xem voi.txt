@@ -1,0 +1,20 @@
+﻿Thầy_bói/Nn/O xem/Vv/O voi/Nn/O 
+Nhân/Cp/O buổi/Nt/O ế/Aa/O hàng/Nn/O ,/PU/O năm/Nq/NUM_B ông/Nn/O thầy_bói/Nn/O ngồi/Vv/O chuyện/Nn/O gẫu/Nu/O với/Cp/O nhau/Nn/O ./PU/O 
+Thầy/Nn/O nào/Pd/O cũng/R/O phàn_nàn/Vv/O không/R/O biết/Vv/O hình_thù/Nn/O con/Nc/O voi/Nn/O nó/Pp/O thế_nào/Pp/O ./PU/O 
+Chợt/R/O nghe/Vv/O người_ta/Pp/O nói/Vv/O có/Ve/O voi/Nn/O đi/Vv/O qua/D/O ,/PU/O năm/Nt/O thầy/Nn/O chung/Aa/O nhau/Nn/O tiền/Nn/O biếu/Vv/O người/Nn/O quản/Vv/O voi/Nn/O ,/PU/O xin/Vv/O cho/Cp/O voi/Nn/O đứng/Vv/O lại/R/O để/Cm/O cùng/Aa/O xem/Vv/O ./PU/O 
+Thầy/Nn/O thì/Cp/O sờ/Vv/O vòi/Nn/O ,/PU/O thầy/Nn/O thì/Cp/O sờ/Vv/O ngà/Nn/O ,/PU/O thầy/Nn/O thì/Cp/O sờ/Vv/O tai/Nn/O ,/PU/O thầy/Nn/O thì/Cp/O sờ/Vv/O chân/Nn/O ,/PU/O thầy/Nn/O thì/Cp/O sờ/Vv/O đuôi/Nn/O ./PU/O 
+Đoạn/Nn/O năm/Nt/O thầy/Nn/O ngồi/Vv/O bàn_tán/Vv/O với/Cp/O nhau/Nn/O ./PU/O 
+Thầy/Nn/O sờ/Vv/O vòi/Nn/O bảo/Vv/O :/PU/O 
+-/PU/O Tường/Nr/PER_B con/Nc/O voi/Nn/O như/Cp/O thế_nào/Pp/O ,/PU/O hóa/Nn/O ra/R/O nó/Pp/O sun/Nn/O sun/Nn/O như/Cp/O con/Nc/O đỉa/Nn/O ./PU/O 
+Thầy/Nn/O sờ/Vv/O ngà/Nn/O bảo/Vv/O :/PU/O 
+-/PU/O Không/R/O phải/Aa/O ,/PU/O nó/Pp/O chần/Nn/O chẫn/Nn/O như/Cp/O cái/Nc/O đòn_càn/Nn/O ./PU/O 
+Thầy/Nn/O sờ/Vv/O tai/Nn/O bảo/Vv/O :/PU/O 
+-/PU/O Đâu/R/O có/Ve/O !/PU/O 
+Nó/Pp/O bè_bè/Aa/O như/Cp/O cái/Nc/O quạt/Nn/O thóc/Nn/O ./PU/O 
+Thầy/Nn/O sờ/Vv/O chân/Nn/O cãi/Vv/O :/PU/O 
+-/PU/O Ai/Pp/O bảo/Vv/O !/PU/O 
+Nó/Pp/O sừng_sững/Aa/O như/Cp/O cái/Nc/O cột/Nn/O đình/Nn/O ./PU/O 
+Thầy/Nn/O sờ/Vv/O đuôi/Nn/O lại/R/O nói/Vv/O :/PU/O 
+-/PU/O Các/Nq/O thầy/Nn/O nói/Vv/O không/R/O đúng/Aa/O cả/M/O ./PU/O 
+Chính/M/O nó/Pp/O tun/Nn/O tủn/Nn/O như/Cp/O cái/Nc/O chổi_sể/Nn/O cùn/Aa/O ./PU/O 
+Năm/Nt/O thầy/Nn/O ,/PU/O thầy/Nn/O nào/Pd/O cũng/R/O cho/Vv/O là/Cp/O mình/Pp/O nói/Vv/O đúng/Aa/O ,/PU/O không/R/O ai/Pp/O chịu/Vv/O ai/Pp/O ,/PU/O thành_ra/Cp/O xô_xát/Vv/O ,/PU/O đánh/Vv/O nhau/Nn/O toác/Vv/O đầu/Nn/O ,/PU/O chảy/Vv/O máu/Nn/O ./PU/O 

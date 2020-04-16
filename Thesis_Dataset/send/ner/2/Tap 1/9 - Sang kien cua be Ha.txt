@@ -1,0 +1,21 @@
+﻿Sáng_kiến/Nn/O của/Cm/O bé/Nn/TTL_B Hà/Nr/PER_B 
+Ở/Cm/O lớp/Nn/O cũng/R/O như/Cp/O ở/Cm/O nhà/Nn/O ,/PU/O bé/Nn/TTL_B Hà/Nr/PER_B được/Vv/O coi/Vv/O là/Cp/O một/Nq/NUM_B cây/Nc/O sáng_kiến/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Hà/Nr/PER_B hỏi/Vv/O bố/Nn/O :/PU/O 
+Bố/Pp/O ơi/E/O ,/PU/O sao/Pp/O không/R/O có/Ve/O ngày/Nt/O của/Cm/O ông_bà/Nn/O ,/PU/O bố/Nn/O nhỉ/M/O ?/PU/O 
+Thấy/Vv/O bố/Nn/O ngạc_nhiên/Vv/O ,/PU/O Hà/Nr/PER_B bèn/R/O giải_thích/Vv/O :/PU/O 
+Con/Pp/O đã/R/O có/Ve/O ngày/Nt/DTM_B 1/Nt/DTM_I tháng/Nt/DTM_I 6/Nt/DTM_I ./PU/O 
+Bố/Nn/O là/Vc/O công_nhân/Nn/O ,/PU/O có/Ve/O ngày/Nt/DTM_B 1/Nt/DTM_I tháng/Nt/DTM_I 5/Nt/DTM_I ./PU/O 
+Mẹ/Nn/O có/Ve/O ngày/Nt/DTM_B 8/Nt/DTM_I tháng/Nt/DTM_I 3/Nt/DTM_I ./PU/O 
+Còn/Cp/O ông_bà/Nn/O thì/Cp/O chưa/R/O có/Ve/O ngày/Nt/O lễ/Nn/O nào/Pd/O cả/M/O ./PU/O 
+Hai/Nq/NUM_B bố/Nn/O con/Nc/O bàn/Vv/O nhau/Nn/O lấy/Vv/O ngày/Nt/O lập_đông/Nn/O hàng/R/O năm/Nt/O làm/Vv/O "/PU/O ngày/Nt/O ông_bà/Nn/O "/PU/O ,/PU/O vì/Cp/O khi/Nt/O trời/M/O bắt_đầu/Vv/O rét/Aa/O ,/PU/O mọi/Nq/O người/Nn/O cần/Vv/O chăm_lo/Vv/O sức/Nn/O khỏe/Nn/O cho/Cp/O các/Nq/O cụ/Nn/O già/Aa/O ./PU/O 
+Ngày/Nt/O lập_đông/Nn/O đến/Vd/O gần/Aa/O ./PU/O 
+Hà/Nr/PER_B suy_nghĩ/Vv/O mãi/R/O mà/Cp/O chưa/R/O biết/Vv/O nên/Vv/O chuẩn_bị/Vv/O quà/Nn/O gì/Pp/O biếu/Vv/O ông_bà/Nn/O ./PU/O 
+Bố/Nn/O khẽ/Aa/O nói/Vv/O vào/Cm/O tai/Nn/O Hà/Nr/PER_B điều/Nc/O gì/Pp/O đó/Pd/O ./PU/O 
+Hà/Nr/PER_B ngả/Vv/O đầu/Nn/O vào/Vv/O vai/Nn/O bố/Nn/O :/PU/O 
+Con/Pp/O sẽ/R/O cố_gắng/Vv/O ,/PU/O bố/Nn/O ạ/M/O ./PU/O 
+Đến/Cm/O ngày/Nt/O lập_đông/Nn/O ,/PU/O các/Nq/O cô/Nc/O ,/PU/O các/Nq/O chú/Nc/O đều/R/O về/Vd/O chúc_thọ/Vv/O ông_bà/Nn/O ./PU/O 
+Ông_bà/Nn/O cảm_động/Aa/O lắm/R/O ./PU/O 
+Bà/Nn/O bảo/Vv/O :/PU/O 
+Con_cháu/Nn/O đông/Nt/DTM_B vui/Aa/O ,/PU/O hiếu_thảo/Aa/O thế/Pp/O này/Pd/O ,/PU/O ông_bà/Nn/O sẽ/R/O sống/Vv/O trăm_tuổi/Nn/O ./PU/O 
+Ông/Nn/O thì/Cp/O ôm/Vv/O lấy/R/O bé/Nn/TTL_B Hà/Nr/PER_B ,/PU/O nói/Vv/O :/PU/O 
+Món/Nn/O quà/Nn/O ông/Nn/O thích/Vv/O nhất/R/O hôm_nay/Nt/DTM_B là/Vc/O chùm/Nn/O điểm/Nn/O mười/Nq/NUM_B của/Cm/O cháu/Nn/O đấy/M/O ./PU/O 

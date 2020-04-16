@@ -1,0 +1,24 @@
+﻿Thái_sư/Nn/DES_B Trần_Thủ_Độ/Nr/PER_B 
+Trần_Thủ_Độ/Nr/PER_B là/Vc/O người/Nn/O có/R/O công_lập/Aa/O nên/Cp/O nhà/Nn/ORG_B Trần/Nr/ORG_I ,/PU/O lại/R/O là/Vc/O chú/Nc/O của/Cm/O vua/Nn/O và/Cp/O đứng/Vv/O đầu/Aa/O trăm/Nq/O quan/Nn/O ,/PU/O nhưng/Cp/O không/R/O vì/Cs/O thế/Pp/O mà/Cs/O tự/Pp/O cho_phép/Vv/O mình/Pp/O vượt_qua/Vv/O phép/Nn/O nước/Nn/O ./PU/O 
+Có/Ve/O lần/Nn/O ,/PU/O Linh/Nr/LOC_B Từ_Quốc_Mẫu/Nr/LOC_B ,/PU/O vợ/Nn/O ông/Nn/O ,/PU/O muốn/Vv/O xin/Vv/O riêng/Aa/O cho/Cp/O một/Nq/NUM_B người/Nn/O làm/Vv/O chức/Nn/O câu/Nn/O đương/Nn/O ./PU/O 
+Trần_Thủ_Độ/Nr/PER_B bảo/Vv/O người/Nn/O ấy/Pd/O :/PU/O 
+Ngươi/Nr/PER_B có/Ve/O phu_nhân/Nn/O xin/Vv/O cho/Vv/O làm/Vv/O chức/Nn/O câu/Nn/O đương/Nn/O ,/PU/O không_thể/R/O ví/Vv/O như/Cp/O những/Nq/O câu/Nn/O đương/Nn/O khác/Aa/O ./PU/O 
+Vì/Cp/O vậy/Pp/O ,/PU/O phải/Vv/O chặt/Aa/O một/Nq/NUM_B ngón/Nn/O chân/Nn/O để/Cm/O phân_biệt/Vv/O ./PU/O 
+Người/Nn/O ấy/Pd/O kêu_van/Nn/O mãi/R/O ,/PU/O ông/Nn/O mới/R/O tha/Vv/O cho/Cp/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O khác/Aa/O ,/PU/O Linh/Nr/LOC_B Từ_Quốc_Mẫu/Nr/PER_B ngồi/Vv/O kiệu/Nn/O đi/Vv/O qua/D/O chỗ/Nn/O thềm/Nn/O cấm/Vv/O ,/PU/O bị/Vv/O một/Nq/NUM_B người/Nn/O quân_hiệu/Nu/O ngăn/Vv/O lại/R/O ./PU/O 
+Về/Cm/O nhà/Nn/O ,/PU/O bà/Nn/O khóc/Vv/O :/PU/O 
+Tôi/Pp/O là/Vc/O vợ/Nn/O thái_sư/Nn/O mà/Cp/O bị/Vv/O kẻ/Nn/O dưới/Nn/O khinh_nhờn/Nn/O ./PU/O 
+Ông/Nn/O cho/Vv/O bắt/Vv/O người/Nn/O quân_hiệu/Nu/O đến/Cm/O ./PU/O 
+Người/Nn/O này/Pd/O nghĩ/Vv/O là/Cp/O phải/Vv/O chết/Vv/O ./PU/O 
+Nhưng/Cp/O khi/Nt/O nghe/Vv/O anh/Nn/O ta/Pp/O kể/Vv/O rõ/Aa/O ngọn_ngành/Nn/O ,/PU/O ông/Nn/O bảo/Vv/O :/PU/O 
+Ngươi/Nr/PER_B ở/Cm/O chức/Nn/O thấp/Aa/O mà/Cp/O biết/Vv/O giữ/Vv/O phép/Nn/O nước/Nn/O như/Cp/O thế/Pp/O ,/PU/O ta/Pp/O còn/R/O trách/Vv/O gì/Pp/O nữa/R/O !/PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O lấy/Vv/O vàng/Nn/O ,/PU/O lụa/Nn/O thưởng/Vv/O cho/Cp/O ./PU/O 
+Trần_Thủ_Độ/Nr/PER_B có/Ve/O công/Nn/O lớn/Aa/O ,/PU/O vua/Nn/O cũng/R/O phải/Vv/O nể/Vv/O ./PU/O 
+Có/Ve/O viên/Nc/O quan/Nn/O nhân/Cp/O lúc/Nt/O vào/Cm/O chầu/Nn/O vua/Nn/O ,/PU/O ứa/Vv/O nước_mắt/Nn/O tâu/Vv/O :/PU/O 
+Bệ_hạ/Nr/ORG_B còn/R/O trẻ/Aa/O mà/Cp/O thái_sư/Nn/O chuyên_quyền/Vv/O ,/PU/O không/R/O biết/Vv/O rồi/Cp/O xã_tắc/Nn/O sẽ/R/O ra_sao/Pp/O ./PU/O 
+Hạ_thần/Nn/O lấy_làm/Vv/O lo/Vv/O lắm/R/O ./PU/O 
+Vua/Nn/O đem/Vv/O viên/Nn/O quan/Nn/O đến/D/O gặp/Vv/O Trần_Thủ_Độ/Nr/PER_B và/Cp/O nói/Vv/O :/PU/O 
+Kẻ/Nn/O này/Pd/O dám/Vv/O tâu/Vv/O xằng/Nn/O với/Cp/O trẫm/Pp/O là/Vc/O Thượng/Nr/PER_B phụ/Vv/O chuyên_quyền/Vv/O ,/PU/O nguy/Aa/O cho/Cp/O xã_tắc/Nn/O ./PU/O 
+Trần_Thủ_Độ/Nr/PER_B trầm_ngâm/Aa/O suy_nghĩ/Vv/O rồi/Cp/O tâu/Vv/O :/PU/O 
+Quả/M/O có/Ve/O chuyện/Nn/O như/Cp/O vậy/Pp/O ./PU/O 
+Xin/Vv/O Bệ_hạ/Nr/PER_B quở_trách/Vv/O thần/Nn/O và/Cp/O ban/Nn/O thưởng/Vv/O cho/Cp/O người/Nn/O nói/Vv/O thật/Aa/O ./PU/O 

@@ -1,0 +1,16 @@
+﻿Luôn/R/O nghĩ/Vv/O đến/Cm/O miền/Nn/O Nam/Nn/O 
+Đầu/Nn/DTM_B năm/Nt/DTM_I 1969/Nt/DTM_I ,/PU/O một/Nq/NUM_B chị/Nn/O cán_bộ/Nn/O miền/Nn/O Nam/Nn/O ra/D/O Bắc/Nn/O được/Vv/O gặp/Vv/O Bác/Nn/PER_B Hồ/Nr/PER_I ./PU/O 
+Chị/Nn/O thưa/Aa/O với/Cp/O Bác/Nn/PER_B :/PU/O 
+Chúng/Pp/O cháu/Nn/O đánh/Vv/O giặc/Nn/O Mĩ/Nr/ORG_B đến/Cm/O một/Nq/NUM_B trăm/Nq/O năm/Nt/O cũng/R/O không/R/O sợ/Vv/O ./PU/O 
+Chỉ/R/O sợ/Vv/O một/Nq/NUM_B điều/Nc/O là/Vc/O Bác/Nn/PER_B .../PU/O trăm/Nq/O tuổi/Nn/O ./PU/O 
+Chị/Nn/O đã/R/O nói/Vv/O ra/R/O cái/Nc/O điều/Nc/O mọi/Nn/O người/Nn/O hằng/R/O nghĩ/Vv/O nhưng/Cp/O không/R/O ai/Pp/O dám/Vv/O nhắc/Vv/O đến/Cm/O ./PU/O 
+Năm/Nt/O ấy/Pd/O ,/PU/O Bác/Nn/PER_B bảy/Nq/MEA_B mươi/Nq/MEA_I chín/Nq/MEA_I tuổi/Nn/MEA_I ./PU/O 
+Nghe/Vv/O vậy/Pp/O ,/PU/O Bác/Nn/PER_B mỉm_cười/Vv/O ,/PU/O hóm_hỉnh/Aa/O :/PU/O 
+Còn/Cp/O hai/Nq/NUM_B mươi/Nq/NUM_I mốt/Nn/O năm/Nt/O nữa/R/O Bác/Nn/PER_B mới/R/O trăm/Nq/O tuổi/Nn/O cơ/Nn/O ./PU/O 
+Bác/Nn/PER_B kêu_gọi/Vv/O các/Nq/O cô/Nc/O ,/PU/O các/Nq/O chú/Nc/O đánh/Vv/O Mĩ/Nr/PER_B năm/Nq/MEA_B năm/Nt/MEA_I ,/PU/O mười/Nq/MEA_B năm/Nt/MEA_I ,/PU/O hai/Nq/MEA_B mươi/Nq/MEA_I năm/Nt/MEA_I chứ/Cp/O có/R/O nói/Vv/O hai/Nq/NUM_B mươi/Nq/NUM_I mốt/Nn/O năm/Nt/O đâu/R/O ./PU/O 
+Nếu/Cs/O hai/Nq/MEA_B mươi/Nq/MEA_I năm/Nt/MEA_I nữa/R/O mà/Cp/O ta/Pp/O thắng/Vv/O Mĩ/Nr/PER_B thì/Cs/O Bác/Nn/PER_B cũng/R/O còn/Ve/O một/Nq/MEA_B năm/Nt/MEA_I để/Cm/O vào/Vd/O thăm/Vv/O đồng_bào/Nn/O miền/Nn/O Nam/Nn/O ./PU/O 
+Thật_ra/Cp/O ,/PU/O lúc/Nt/O ấy/Pd/O Bác/Nn/PER_B đã/R/O yếu/Aa/O rồi/R/O ./PU/O 
+Tối/Nt/DTM_B mồng/Nt/DTM_I 1/Nt/DTM_I tháng/Nt/DTM_I 9/Nt/DTM_I năm/Nt/DTM_I 1969/Nt/DTM_I ,/PU/O Bác/Nn/PER_B mệt/Aa/O nặng/Aa/O ./PU/O 
+Những/Nq/O lúc/Nt/O tỉnh/Nu/O lại/R/O ,/PU/O Bác/Nn/PER_B vẫn/R/O hỏi/Vv/O :/PU/O 
+Trong/Cm/O Nam/Nn/O mấy/Nq/O hôm/Nt/O nay/Nt/O đánh/Vv/O giặc/Nn/O thế_nào/Pp/O ?/PU/O 
+Sắp/R/O ra_đi/Vv/O mãi_mãi/R/O ,/PU/O Bác/Nn/PER_B vẫn/R/O nghĩ/Vv/O đến/Cm/O miền/Nn/O Nam/Nn/O ./PU/O 

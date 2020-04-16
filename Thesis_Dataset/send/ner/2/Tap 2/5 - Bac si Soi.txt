@@ -1,0 +1,26 @@
+﻿Bác_sĩ/Nn/O Sói/Nn/O 
+Thấy/Vv/O Ngựa/Nn/O đang/R/O ăn/Vv/O cỏ/Nn/O ,/PU/O Sói_thèm/Nn/O rỏ/Nq/O dãi/Nn/O ./PU/O 
+Nó/Pp/O toan/Vv/O xông/Vv/O đến/D/O ăn/Vv/O thịt/Nn/O Ngựa/Nn/O ,/PU/O nhưng/Cp/O lại/R/O sợ/Vv/O Ngựa/Nn/O chạy/Vv/O mất/Ve/O ./PU/O 
+Nó/Pp/O bèn/R/O kiếm/Vv/O một/Nq/NUM_B cặp/Nq/O kính/Nn/O đeo/Vv/O lên/R/O mắt/Nn/O ,/PU/O một/Nq/NUM_B ống_nghe/Nn/O cặp/Nq/O vào/Cm/O cổ/Nn/O ,/PU/O một/Nq/NUM_B áo_choàng/Nn/O khoác/Vv/O lên/R/O người/Nn/O ,/PU/O một/Nq/NUM_B chiếc/Nc/O mũ/Nn/O thêu/Vv/O chữ_thập_đỏ/Nn/O chụp/Vv/O lên/R/O đầu/Nn/O ./PU/O 
+Xong/Vv/O ,/PU/O nó/Pp/O khoan_thai/Aa/O tiến/Vv/O về/Cm/O phía/Nn/O Ngựa/Nn/O ./PU/O 
+Sói/Nn/O đến/Vd/O gần/Aa/O ,/PU/O Ngựa/Nn/O mới/R/O phát_hiện/Vv/O ra/R/O ./PU/O 
+Biết/Vv/O là/Cp/O cuống/Nn/O lên/Vv/O thì/Cp/O chết/Vv/O ,/PU/O Ngựa/Nn/O bình_tĩnh/Aa/O đợi/Vv/O xem/Vv/O Sói/Nn/O giở_trò/Vv/O gì/Pp/O ./PU/O 
+Sói/Nn/O đến/Vd/O gần/Aa/O Ngựa/Nn/O ,/PU/O giả/Vv/O giọng/Nn/O hiền_lành/Aa/O ,/PU/O bảo/Vv/O :/PU/O 
+Bên/Nn/O xóm/Nu/O mời/Vv/O ta/Pp/O sang/Vd/O khám/Vv/O bệnh/Nn/O ./PU/O 
+Ta/Pp/O đi/Vv/O ngang/Aa/O qua/D/O đây/Pd/O ,/PU/O nếu/Cp/O cậu/Nn/O có/Ve/O bệnh/Nn/O ,/PU/O ta/Pp/O chữa/Vv/O giúp/Vv/O cho/Cp/O ./PU/O 
+Ngựa/Nn/O lễ_phép/Aa/O :/PU/O 
+Cảm_ơn/Vv/O bác_sĩ/Nn/O ./PU/O 
+Cháu/Pp/O đau/Aa/O chân/Nn/O quá/R/O ./PU/O 
+Ông/Nn/O làm_ơn/Vv/O chữa/Vv/O giúp/Vv/O cho/Cp/O ./PU/O 
+Hết/Ve/O bao_nhiêu/Pp/O tiền/Nn/O ,/PU/O cháu/Nn/O xin/Vv/O chịu/Vv/O ./PU/O 
+Sói/Nn/O đáp/Vv/O :/PU/O 
+Chà/E/O !/PU/O 
+Chà/E/O !/PU/O 
+Chữa/Vv/O làm_phúc/Vv/O ,/PU/O tiền/Nn/O với/Cp/O nong/Nn/O gì/Pp/O ./PU/O 
+Đau/Aa/O thế_nào/Pp/O ?/PU/O 
+Lại/R/O đây/Pd/O ta/Pp/O xem/Vv/O ./PU/O 
+Đau/Aa/O ở/Cm/O chân/Nn/O sau/Nn/O ấy/Pd/O ạ/M/O ./PU/O 
+Phiền/Nu/O ông/Nn/O xem/Vv/O giúp/Vv/O ./PU/O 
+Sói/Nn/O mừng_rơn/Nn/O ,/PU/O mon_men/Vv/O lại/R/O phía/Nn/O sau/Nn/O ,/PU/O định/Vv/O lựa/Vv/O miếng/Nn/O đớp/Vv/O sâu/Aa/O vào/Cm/O đùi/Nn/O Ngựa/Nn/O cho/Cp/O Ngựa/Nn/O hết/Ve/O đường/Nn/O chạy/Vv/O ./PU/O 
+Ngựa/Nn/O nhón/Vv/O nhón/Vv/O chân/Nn/O sau/Nn/O ,/PU/O vờ/Vv/O rên_rỉ/Vv/O ./PU/O 
+Thấy/Vv/O Sói/Nn/O đã/R/O cúi/Vv/O xuống/D/O đúng/Aa/O tầm/Nn/O ,/PU/O nó/Pp/O tung/Vv/O vó/Nn/O đá/Nn/O một/Nq/NUM_B cú/Nn/O trời_giáng/Aa/O ,/PU/O làm/Vv/O Sói/Nn/O bật/Vv/O ngửa/Aa/O ,/PU/O bốn/Nq/NUM_B cẳng/Nn/O huơ/Vv/O giữa/Cm/O trời/Nn/O ,/PU/O kính/Nn/O vỡ/Vv/O tan/Vv/O ,/PU/O mũ/Nn/O văng/Vv/O ra/D/O .../PU/O 

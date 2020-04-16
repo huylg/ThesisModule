@@ -1,0 +1,17 @@
+﻿Chiếc/Nc/O rễ/Nn/O đa/Nn/O tròn/Aa/O 
+Buổi/Nt/O sớm_hôm/Nt/O ấy/Pd/O ,/PU/O như/Cp/O thường_lệ/Nn/O ,/PU/O sau/Nn/O khi/Nt/O tập_thể_dục/Nt/DTM_B ,/PU/O Bác/Nn/PER_B Hồ/Nr/PER_I đi/Vv/O dạo/Vv/O trong/Cm/O vườn/Nn/O ./PU/O 
+Đến/Cm/O gần/Aa/O cây/Nn/O đa/Nn/O ,/PU/O Bác/Nn/PER_B chợt/R/O thấy/Vv/O một/Nq/NUM_B chiếc/Nc/O rễ/Nn/O đa/Nn/O nhỏ/Aa/O và/Cp/O dài/Aa/O ngoằn_ngoèo/Aa/O nằm/Vv/O trên/Cm/O mặt/Nn/O đất/Nn/O ./PU/O 
+Chắc/Aa/O là/Vc/O trận/Nn/O gió/Nn/O đêm/Nt/O qua/Aa/O đã/R/O làm/Vv/O nó/Pp/O rơi/Vv/O xuống/D/O ./PU/O 
+Bác/Nn/PER_B tần_ngần/Vv/O một/Nq/O lát/Nt/O ,/PU/O rồi/Cp/O bảo/Vv/O chú/Nn/O cần_vụ/Nn/O đứng/Vv/O gần/Aa/O đấy/M/O :/PU/O 
+Chú/Nn/O cuốn/Nc/O rễ/Nn/O này/Pd/O lại/R/O ,/PU/O rồi/Cp/O trồng/Vv/O cho/Cp/O nó/Pp/O mọc/Vv/O tiếp/Vv/O nhé/M/O !/PU/O 
+Theo/Vv/O lời/Nn/O Bác/Nn/PER_B ,/PU/O chú/Nn/O cần_vụ/Nn/O xới/Vv/O đất/Nn/O ,/PU/O vùi/Vv/O chiếc/Nc/O rễ/Nn/O xuống/D/O ./PU/O 
+Nhưng/Cp/O Bác/Nn/PER_B lại/R/O bảo/Vv/O :/PU/O 
+Chú/Nn/O nên/Vv/O làm/Vv/O thế/Pp/O này/Pd/O ./PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O Bác/Nn/O cuộn/Nn/O chiếc/Nc/O rễ/Nn/O thành/Vv/O một/Nq/NUM_B vòng_tròn/Nn/O và/Cp/O bảo/Vv/O chú/Nn/O cần_vụ/Nn/O buộc/Vv/O nó/Pp/O tựa/Nn/O vào/Cm/O hai/Nq/NUM_B cái/Nc/O cọc/Nn/O ,/PU/O sau/Nn/O đó/Pd/O mới/R/O vùi/Vv/O hai/Nq/NUM_B đầu/Nn/O rễ/Nn/O xuống/D/O đất/Nn/O ./PU/O 
+Chú/Nn/O cần_vụ/Nq/O thắc_mắc/Nn/O :/PU/O 
+Thưa/E/O Bác/Nn/PER_B ,/PU/O làm/Vv/O thế/Pp/O để/Cm/O làm/Vv/O gì/Pp/O ạ/M/O ?/PU/O 
+Bác/Nn/O khẽ/Aa/O cười/Vv/O :/PU/O 
+Rồi/Cp/O chú/Nn/O sẽ/R/O biết/Vv/O ./PU/O 
+Nhiều/Aa/O năm/Nt/O sau/Nn/O ,/PU/O chiếc/Nc/O rễ/Nn/O đã/R/O bén/Vv/O đất/Nn/O và/Cp/O thành/Vv/O cây/Nn/O đa/Nn/O con/Nn/O có/Ve/O vòng/Nn/O lá/Nn/O tròn/Aa/O ./PU/O 
+Thiếu_nhi/Nn/O vào/Vd/O thăm/Vv/O vườn/Nn/O Bác/Nn/PER_B ,/PU/O em/Nn/O nào/Pd/O cũng/R/O thích/Vv/O chơi/Vv/O trò/Nn/O chui/Vv/O qua/D/O chui/Vv/O lại/R/O vòng/Nn/O lá/Nn/O ấy/Pd/O ./PU/O 
+Lúc/Nt/O đó/Pd/O mọi/Nq/O người/Nn/O mới/R/O hiểu/Vv/O vì_sao/Pp/O Bác/Nn/PER_B cho/Vv/O trồng/Vv/O chiếc/Nc/O rễ/Nn/O đa/Nn/O thành/Vv/O hình/Nn/O tròn/Aa/O như/Cp/O thế/Pp/O ./PU/O 

@@ -1,0 +1,22 @@
+﻿Con/Nc/O chó/Nn/O nhà_hàng_xóm/Nn/O 
+Bé/Nn/O rất/R/O thích/Vv/O chó/Nn/O nhưng/Cp/O nhà/Nc/O Bé/Nn/O không/R/O nuôi/Vv/O con/Nn/O nào/Pd/O ./PU/O 
+Bé/Nn/O đành/Vv/O chơi/Vv/O với/Cp/O Cún_Bông/Nr/PER_B ,/PU/O con/Nc/O chó/Nn/O của/Cm/O bác/Nn/O hàng_xóm/Nn/O ./PU/O 
+Bé/Nn/O và/Cp/O Cún/Nr/PER_B thường/R/O nhảy_nhót/Vv/O tung_tăng/Vv/O khắp/Aa/O vườn/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O mải/Vv/O chạy/Vv/O theo/Vv/O Cún/Nr/PER_B ,/PU/O Bé/Nn/O vấp/Vv/O phải/R/O một/Nq/NUM_B khúc/Nn/O gỗ/Nn/O và/Cp/O ngã/Vv/O đau/Aa/O ,/PU/O không/R/O đứng/Vv/O dậy/Vv/O được/R/O ./PU/O 
+Bé/Nn/O khóc/Vv/O ./PU/O 
+Cún/Nr/PER_B nhìn/Vv/O Bé/Nn/O rồi/Cp/O chạy/Vv/O đi/Vv/O tìm/Vv/O người/Nn/O giúp/Vv/O ./PU/O 
+Mắt_cá/Nr/BRN_B chân/Nn/O của/Cm/O Bé/Nn/O sưng/Vv/O to/Aa/O ,/PU/O vết_thương/Nn/O khá/R/O nặng/Aa/O nên/Cp/O Bé/Nn/O phải/Vv/O bó/Nn/O bột/Nn/O ,/PU/O nằm/Vv/O bất_động/Aa/O trên/Cm/O giường/Nn/O ./PU/O 
+Bè_bạn/Nr/PER_B thay/Vv/O nhau/Nn/O đến/Vd/O thăm/Vv/O ,/PU/O kể/Vv/O chuyện/Nn/O ,/PU/O mang/Vv/O quà/Nn/O cho/Cp/O Bé/Nn/O ./PU/O 
+Nhưng/Cp/O các/Nq/O bạn/Nn/O về/D/O ,/PU/O Bé/Nn/O lại/R/O buồn/Vv/O ./PU/O 
+Thấy/Vv/O vậy/Pp/O ,/PU/O mẹ/Nn/O lo_lắng/Vv/O hỏi/Vv/O :/PU/O 
+-/PU/O Con/Pp/O muốn/Vv/O mẹ/Nn/O giúp/Vv/O gì/Nn/O nào/Pd/O ?/PU/O 
+-/PU/O Con/Pp/O nhớ/Vv/O Cún/Nr/PER_B ,/PU/O mẹ/Nn/O ạ/M/O !/PU/O 
+Ngày/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O bác/Nn/O hàng_xóm/Nn/O dẫn/Vv/O Cún/Nr/PER_B sang/Vd/O với/Cp/O Bé/Nn/O ./PU/O 
+Bé/Nn/O và/Cp/O Cún/Nr/PER_B càng/R/O thân_thiết/Aa/O ./PU/O 
+Cún/Nr/PER_B mang/Vv/O cho/Cp/O Bé/Nn/O khi/Nt/O thì/Cp/O tờ/Nn/O báo/Nn/O hay/Cp/O cái/Nc/O bút_chì/Nn/O ,/PU/O khi/Nt/O thì/Cp/O con/Nc/O búp_bê/Nn/O .../PU/O 
+Bé/Nn/O cười/Vv/O ,/PU/O Cún/Nr/PER_B sung_sướng/Aa/O vẫy/Vv/O đuôi/Nn/O rối_rít/Aa/O ./PU/O 
+Thỉnh_thoảng/R/O ,/PU/O Cún/Nr/PER_B muốn/Vv/O chạy_nhảy/Vv/O và/Cp/O nô_đùa/Vv/O ./PU/O 
+Nhưng/Cp/O con/Nn/O vật/Vv/O thông_minh/Aa/O hiểu/Vv/O rằng/Cp/O chưa/R/O đến/Cm/O lúc/Nt/O chạy/Vv/O đi/Vv/O chơi/Vv/O được/R/O ./PU/O 
+Ngày/Nt/O tháo/Vv/O bột/Nn/O đã/R/O đến/Vd/O ./PU/O 
+Bác_sĩ/Nn/O rất/R/O hài_lòng/Vv/O vì/Cp/O vết_thương/Nn/O của/Cm/O Bé/Nn/O đã/R/O lành/Vv/O hẳn/Aa/O ./PU/O 
+Nhìn/Vv/O Bé/Nn/O vuốt_ve/Vv/O Cún/Nr/PER_B ,/PU/O bác_sĩ/Nn/O hiểu/Vv/O chính/M/O Cún/Nr/PER_B đã/R/O giúp/Vv/O Bé/Nn/O mau/Aa/O lành/Vv/O ./PU/O 

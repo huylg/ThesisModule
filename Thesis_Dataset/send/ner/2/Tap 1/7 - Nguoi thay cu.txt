@@ -1,0 +1,22 @@
+﻿Người/Nn/O thầy/Nn/O cũ/Aa/O 
+Giữa/Cm/O cảnh/Nn/O nhộn_nhịp/Aa/O của/Cm/O giờ/Nt/O ra/Vd/O chơi/Vv/O ,/PU/O từ/Cm/O phía/Nn/O cổng/Nn/O trường/Nn/O bỗng/R/O xuất_hiện/Vv/O một/Nq/NUM_B chú/Nc/O bộ_đội/Nn/O ./PU/O 
+Chú/Nn/O là/Vc/O bố/Nn/O của/Cm/O Dũng/Nr/PER_B ./PU/O 
+Chú/Nn/O tìm/Vv/O đến/Vv/O lớp/Nn/O của/Cm/O con/Nn/O mình/Pp/O để/Cm/O chào/Vv/O thầy_giáo/Nn/O cũ/Aa/O ./PU/O 
+Vừa/R/O tới/Aa/O cửa/Nn/O lớp/Nn/O ,/PU/O thấy/Vv/O thầy_giáo/Nn/O bước/Vv/O ra/D/O ,/PU/O chú/Nn/O vội/Aa/O bỏ/Vv/O mũ/Nn/O ,/PU/O lễ_phép/Aa/O chào/Vv/O thầy/Nn/O ./PU/O 
+Thầy/Nn/O nhấc/Vv/O kính/Nn/O ,/PU/O chớp/Vv/O mắt/Nn/O ngạc_nhiên/Vv/O ./PU/O 
+Chú/Nn/O liền/R/O nói/Vv/O :/PU/O 
+Thưa/E/O thầy/Nn/O ,/PU/O em/Pp/O là/Vc/O Khánh/Nr/PER_B ,/PU/O đứa/Nc/O học_trò/Nn/O năm/Nt/O nào/Pd/O trèo/Vv/O cửa_sổ/Nn/O lớp/Nn/O bị/Vv/O thầy/Nn/O phạt/Vv/O đấy/M/O ạ/M/O !/PU/O 
+Thầy_giáo/Nn/O cười/Vv/O vui_vẻ/Aa/O :/PU/O 
+À/E/O ,/PU/O Khánh/Nr/PER_B ./PU/O 
+Thầy/Nn/O nhớ/Vv/O ra/R/O rồi/R/O ./PU/O 
+Nhưng/Cp/O .../PU/O hình_như/R/O hôm/Nt/O ấy/Pd/O thầy/Nn/O có/R/O phạt/Vv/O em/Pp/O đâu/R/O !/PU/O 
+Vâng/E/O ,/PU/O thầy/Nn/O không/R/O phạt/Vv/O ./PU/O 
+Nhưng/Cp/O thầy/Nn/O buồn/Aa/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O thầy/Nn/O bảo/Vv/O :/PU/O 
+Trước/Nn/O khi/Nt/O làm_việc/Vv/O gì/Pp/O ,/PU/O cần/Vv/O phải/Vv/O nghĩ/Vv/O chứ/M/O !/PU/O 
+Thôi/E/O ,/PU/O em/Pp/O về/Cm/O đi/Vv/O ,/PU/O thầy/Nn/O không/R/O phạt/Vv/O em/Pp/O đâu/R/O ./PU/O 
+Giờ/Nt/O ra/Vd/O chơi/Vv/O đã/R/O hết/Ve/O ./PU/O 
+Dũng/Nr/PER_B xúc_động/Vv/O nhìn/Vv/O theo/Vv/O bố/Nn/O đang/R/O đi/Vv/O ra/D/O phía/Nn/O cổng/Nn/O trường/Nn/O rồi/Cp/O lại/R/O nhìn/Vv/O cái/Nc/O khung/Nn/O cửa_sổ/Nn/O lớp_học/Nn/O ./PU/O 
+Em/Pp/O nghĩ/Vv/O :/PU/O 
+Bố/Nn/O cũng/R/O có/Ve/O lần/Nn/O mắc/Vv/O lỗi/Nn/O ,/PU/O thầy/Nn/O không/R/O phạt/Vv/O ,/PU/O nhưng/Cp/O bố/Nn/O nhận/Vv/O đó/Pd/O là/Vc/O hình_phạt/Nn/O và/Cp/O nhớ/Vv/O mãi/R/O ./PU/O 
+Nhớ/Vv/O để/Cm/O không/R/O bao_giờ/Pp/O mắc/Vv/O lại/R/O nữa/R/O ./PU/O 

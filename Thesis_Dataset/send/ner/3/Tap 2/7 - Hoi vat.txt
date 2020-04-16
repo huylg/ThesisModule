@@ -1,0 +1,21 @@
+﻿Hội/Nn/O vật/Vv/O 
+Tiếng/Nn/O trống/Aa/O vật/Nn/O nổi/Vv/O lên/R/O dồn_dập/Aa/O ./PU/O 
+Người/Nn/O tứ_xứ/Nn/O đổ/Vv/O về/D/O như/Cp/O nước/Nn/O chảy/Vv/O ./PU/O 
+Ai_ai/Nr/ORG_B cũng/R/O náo_nức/Vv/O muốn/Vv/O được/Vv/O xem_mặt/Nn/O ,/PU/O xem/Vv/O tài/Nn/O ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B ./PU/O 
+Người_ta/Pp/O chen_lấn/Vv/O nhau/Nn/O ,/PU/O quây/Vv/O kín/Aa/O quanh/Nn/O sới/Nn/O vật/Vv/O ,/PU/O nhiều/Aa/O người/Nn/O phải/Vv/O trèo/Vv/O lên/D/O những/Nq/O cây/Nc/O cao/Aa/O gần/Aa/O đấy/M/O xem/Vv/O cho/Cp/O rõ/Aa/O ./PU/O 
+Ngay/M/O nhịp/Nn/O trống/Aa/O đầu/Nn/O ,/PU/O Quắm_Đen/Nr/PER_B đã/R/O lăn_xả/Vv/O vào/Cm/O ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B ./PU/O 
+Anh/Nn/O vờn/Vv/O bên/Nn/O trái/Aa/O ,/PU/O đánh/Vv/O bên/Nn/O phải/Aa/O ,/PU/O dứ/Nq/O trên/Nn/O ,/PU/O đánh/Vv/O dưới/D/O ,/PU/O thoát/Vv/O biến/Vv/O ,/PU/O thoắt/Aa/O hóa/Nn/O khôn/R/O lường/Vv/O ./PU/O 
+Trái_lại/Cp/O ,/PU/O ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B có_vẻ/R/O lớ_ngớ/Aa/O ,/PU/O chậm_chạp/Aa/O ./PU/O 
+Hai/Nq/NUM_B tay/Nn/O ông/Nn/O lúc/Nt/O nào/Pd/O cũng/R/O dang/Vv/O rộng/Aa/O ,/PU/O để/Cm/O sát/Aa/O xuống/D/O mặt/Nn/O đất/Nn/O ,/PU/O xoay/Vv/O xoay/Vv/O chống_đỡ/Vv/O .../PU/O 
+Keo/Nr/PER_B vật/Nn/O xem_chừng/Vv/O chán_ngắt/Aa/O ./PU/O 
+Ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B bỗng/R/O bước/Vv/O hụt/Aa/O ,/PU/O mất/Ve/O đà/Nn/O chúi/Vv/O xuống/D/O ./PU/O 
+Quắm_Đen/Nr/PER_B nhanh/Aa/O như/Cp/O cát/Nn/O ,/PU/O luồn/Vv/O qua/D/O hai/Nq/NUM_B cánh_tay/Nn/O ông/Nn/O ,/PU/O ôm/Vv/O lấy/R/O một/Nq/NUM_B bên/Nn/O chân/Nn/O ông/Nn/O ,/PU/O bốc/Vv/O lên/D/O ./PU/O 
+Người/Nn/O xem/Vv/O bốn/An/O phía/Nn/O xung_quanh/Nn/O reo/Vv/O ồ/Vv/O cả/Pp/O lên/Vd/O ./PU/O 
+Thôi/E/O thế/Pp/O là/Vc/O ông/Nn/TTL_B Cản/Nr/PER_B Ngũ_ngã/Nn/O rồi/R/O ,/PU/O nhất_định/R/O ngã/Vv/O rồi/R/O ,/PU/O có/Ve/O khỏe/Nn/O bằng/Cm/O voi/Nn/O cũng/R/O phải/Vv/O ngã/Vv/O !/PU/O 
+Tiếng/Nn/O trống/Aa/O dồn/Vv/O lên/D/O ,/PU/O gấp_rút/Aa/O ,/PU/O giục_giã/Vv/O ./PU/O 
+Ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B vẫn/R/O chưa/R/O ngã/Vv/O ./PU/O 
+Ông/Pp/O vẫn/R/O đứng/Vv/O như/Cp/O cây/Nn/O trồng/Vv/O giữa/Cm/O sới/Nn/O ./PU/O 
+Còn/Cp/O Quắm_Đen/Nr/PER_B thì/Cp/O đang/R/O loay_hoay/Vv/O ,/PU/O gò/Nn/O lưng/Nn/O lại/R/O ,/PU/O không/R/O sao/Pp/O bê/Vv/O nổi/R/O chân/Nn/O ông/Nn/O lên/Vv/O ./PU/O 
+Cái/Nc/O chân/Nn/O tựa/Vv/O như/Cp/O bằng/Cm/O cột/Nn/O sắt/Nn/O chứ/Cp/O không/R/O phải/Aa/O là/Vc/O chân/Nn/O người/Nn/O nữa/R/O ./PU/O 
+Ông/Nn/TTL_B Cản_Ngũ/Nr/PER_B vẫn/R/O đứng/Vv/O nghiêng/Aa/O mình/Pp/O nhìn/Vv/O Quắm_Đen/Nr/PER_B mồ_hôi_mồ_kê/Nn/O nhễ_nhại/Aa/O dưới/Cm/O chân/Nn/O ./PU/O 
+Lúc/Nt/O lâu/Aa/O ,/PU/O ông/Nn/O mới/R/O thò/Vv/O tay/Nn/O xuống/D/O nắm/Vv/O lấy/Vv/O khố/Nn/O Quắm_Đen/Nr/LOC_B ,/PU/O nhấc/Vv/O bổng/Aa/O anh/Nn/O ta/Pp/O lên/Vd/O ,/PU/O coi_nhẹ/Vv/O nhàng/Nn/O như/Cp/O giơ/Vv/O con/Nc/O ếch/Nn/O có/R/O buộc/Vv/O sợi/Nn/O rơm/Nn/O ngang/Aa/O bụng/Nn/O vậy/M/O ./PU/O 

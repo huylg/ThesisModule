@@ -1,0 +1,19 @@
+﻿Cậu/Nc/O bé/Nn/O và/Cp/O cây/Nn/O si/Nn/O già/Aa/O 
+Bờ/Nn/O ao/Nn/O đầu/Aa/O làng/Nu/O có/Ve/O một/Nq/NUM_B cây/Nc/O si/Aa/O già/Aa/O ./PU/O 
+Thân/Nn/O cây/Nn/O to/Aa/O ,/PU/O cành/Nn/O lá/Nn/O xum_xuê/Aa/O ,/PU/O ngã/Vv/O xuống/D/O mặt/Nn/O nước/Nn/O ./PU/O 
+Một/Nq/NUM_B cậu/Nc/O bé/Nn/O đi/Vv/O ngang/Aa/O qua/D/O ./PU/O 
+Sẵn/Cp/O con/Nc/O dao/Nn/O nhọn/Aa/O trong/Cm/O tay/Nn/O ,/PU/O cậu/Nn/O hí_hoáy/Vv/O khác/Aa/O tên/Nn/O mình/Pp/O lên/Vd/O thân/Nn/O cây/Nn/O ./PU/O 
+Cây/Nn/O đau/Aa/O điếng/Aa/O ,/PU/O nhưng/Cp/O cố/Vv/O lấy_giọng/Nn/O vui_vẻ/Aa/O ,/PU/O hỏi/Vv/O cậu/Nc/O :/PU/O 
+Chào/Vv/O cậu/Nc/O bé/Nn/O ./PU/O 
+Tên/Nn/O cậu/Nn/O là/Vc/O gì/Pp/O nhỉ/M/O ?/PU/O 
+Cháu/Pp/O tên/Nn/O là/Vc/O Ngoan/Nr/PER_B ./PU/O 
+Cậu/Nn/O có/Ve/O cái/Nc/O tên/Nn/O mới/Aa/O đẹp/Aa/O làm_sao/E/O !/PU/O 
+Mặt/Nn/O cậu/Nc/O bé/Nn/O rạng/Aa/O lên/R/O ./PU/O 
+Cậu/Nn/O nói/Vv/O :/PU/O 
+Cảm_ơn/Vv/O cây/Nn/O ./PU/O 
+Này/M/O ,/PU/O vì_sao/Pp/O cậu/Pp/O không/R/O khác/Aa/O tên/Nn/O lên/Vv/O người/Nc/O cậu/Nn/O ?/PU/O 
+Như/Cp/O thế/Pp/O có/R/O phải/Aa/O tiện/Aa/O hơn/Aa/O không/R/O ?/PU/O 
+-/PU/O Cây/Nn/O hỏi/Vv/O ./PU/O 
+Cậu/Nc/O bé/Nn/O rùng_mình/Vv/O ,/PU/O lắc_đầu/Vv/O :/PU/O 
+Đau/Aa/O lắm/R/O ,/PU/O cháu/Nn/O chịu/Vv/O thôi/M/O !/PU/O 
+Vậy/Pp/O ,/PU/O vì_sao/Pp/O cậu/Pp/O lại/R/O bắt/Vv/O tôi/Pp/O phải/Vv/O nhận/Vv/O cái/Nc/O điều/Nc/O cậu/Nc/O không/R/O muốn/Vv/O ?/PU/O 

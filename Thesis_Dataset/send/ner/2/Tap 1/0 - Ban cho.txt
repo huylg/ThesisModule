@@ -1,0 +1,21 @@
+﻿Bán/Vv/O chó/Nn/O 
+Chó/Nn/O nhà/Nn/O Giang/Nr/PER_B đẻ/Vv/O những/Nq/O sáu/Nq/NUM_B con/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O chị/Nn/TTL_B Liên/Nr/PER_B bảo/Vv/O :/PU/O 
+Nhiều/Aa/O chó/Nn/O con/Nn/O quá/R/O ,/PU/O nhà/Nn/O mình/Pp/O nuôi/Vv/O sao/Pp/O cho/Cp/O xuể/R/O ./PU/O 
+Bố/Nn/O bảo/Vv/O phải/Vv/O cho/Vv/O bớt/Vv/O đi/R/O ./PU/O 
+Giang/Nr/PER_B bàn/Vv/O :/PU/O 
+Mình/Pp/O có_thể/Aa/O đem/Vv/O bán/Vv/O chúng/Pp/O ,/PU/O chị/Nn/O ạ/M/O ./PU/O 
+Nhưng/Cp/O chị/Nn/O sợ/Vv/O không/R/O ai/Pp/O mua/Vv/O đâu/Pp/O ./PU/O 
+Tốt/Aa/O nhất/R/O là/Vc/O ta/Pp/O đem/Vv/O cho/Vv/O bớt/Vv/O đi/R/O ./PU/O 
+Chiều/Nt/O hôm/Nt/O đó/Pd/O ,/PU/O chị/Nn/TTL_B Liên/Nr/PER_B vừa/R/O đi/Vv/O học/Vv/O về/D/O ,/PU/O Giang/Nr/PER_B đã/R/O đợi/Vv/O ngay/M/O ở/Cm/O cửa/Nn/O ,/PU/O khoe/Vv/O :/PU/O 
+Em/Pp/O bán/Vv/O được/R/O một/Nq/NUM_B con/Nc/O chó/Nn/O rồi/R/O ,/PU/O chị/Pp/O ạ/M/O ./PU/O 
+Em/Pp/O bán/Vv/O được/R/O thật/R/O ư/M/O ?/PU/O 
+Giá/Nn/O bao_nhiêu/Pp/O ?/PU/O 
+Giang/Nr/PER_B đáp/Vv/O :/PU/O 
+Hai/Nq/MEA_B mươi/Nq/MEA_I ngàn/Nq/MEA_I đồng/Nu/MEA_I ạ/M/O ./PU/O 
+Hai/Nq/MEA_B mươi/Nq/MEA_I ngàn/Nq/MEA_I đồng/Nu/MEA_I ?/PU/O 
+-/PU/O Chị/Pp/O ngạc_nhiên/Vv/O ./PU/O 
+-/PU/O Thế/Pp/O tiền/Nn/O đâu/R/O rồi/R/O ?/PU/O 
+Đây/Pd/O không/R/O phải/Aa/O là/Vc/O mua_bán/Vv/O bằng/Cm/O tiền/Nn/O đâu/R/O ,/PU/O chị/Nn/O ạ/M/O ./PU/O 
+Em/Pp/O đã/R/O đổi/Vv/O một/Nq/NUM_B con/Nc/O chó/Nn/O lấy/Vv/O hai/Nq/NUM_B chú/Nc/O mèo/Nn/O con/Nn/O ./PU/O 
+Một/Nq/NUM_B con/Nc/O mèo/Nn/O giá/Nn/O mười/Nq/MEA_B ngàn/Nq/MEA_I đồng/Nu/MEA_I đấy/M/O ./PU/O 

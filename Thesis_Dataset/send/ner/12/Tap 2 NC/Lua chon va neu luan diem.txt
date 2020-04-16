@@ -1,0 +1,46 @@
+﻿Lựa_chọn/Vv/O và/Cp/O nêu/Vv/O luận_điểm/Nn/O 
+Luận_điểm/Nn/O là/Vc/O linh_hồn/Nn/O của/Cm/O bài/Nc/O văn/Nn/O nghị_luận/Vv/O ./PU/O 
+Luận_điểm/Nn/O không/R/O xác_đáng/Aa/O ,/PU/O không/R/O quan_trọng/Aa/O ,/PU/O không/R/O gây/Vv/O chú_ý/Vv/O thì/Cp/O bài/Nc/O văn/Nn/O nghị_luận/Vv/O coi/Vv/O như/Cp/O không/R/O có/Ve/O ý_nghĩa/Nn/O ./PU/O 
+Do/Cp/O đó/Pd/O ,/PU/O việc/Nn/O lựa_chọn/Vv/O và/Cp/O nêu/Vv/O luận_điểm/Nn/O có/Ve/O tầm/Nn/O quan_trọng/Aa/O đặc_biệt/Aa/O ,/PU/O cần/Vv/O được/Vv/O quan_tâm/Vv/O đúng_mức/Aa/O ./PU/O 
+1/Nq/NUM_B ./PU/O 
+Cách/Nn/O lựa_chọn/Vv/O luận_điểm/Nn/O 
+Các/Nq/O đề/Nn/O văn/Nn/O nói_chung/Cp/O đều/R/O cung_cấp/Vv/O tài_liệu/Nn/O và/Cp/O phạm_vi/Nn/O vấn_đề/Nn/O nghị_luận/Vv/O nhưng/Cp/O để/Cm/O ngỏ/Vv/O phần/Nn/O luận_điểm/Nn/O cho/Cp/O người/Nn/O làm/Vv/O bài/Nc/O đề_xuất/Vv/O ./PU/O 
+Đối_với/Cp/O mỗi/Nq/O vấn_đề/Nn/O ,/PU/O người/Nn/O viết/Vv/O có_thể/Aa/O nêu/Vv/O ra/R/O nhiều/Aa/O luận_điểm/Nn/O khác/Aa/O nhau/Nn/O làm/Vv/O nội_dung/Nn/O cho/Cp/O bài/Nc/O nghị_luận/Vv/O của/Cm/O mình/Pp/O ./PU/O 
+Các/Nq/O luận_điểm/Nn/O nêu/Vv/O ra/R/O cần/Vv/O phải/Vv/O rõ_ràng/Aa/O ,/PU/O sát_hợp/Aa/O với/Cp/O đề/Nn/O ,/PU/O phải/Vv/O đúng_đắn/Aa/O ,/PU/O có/Ve/O tính/Nn/O khái_quát/Aa/O và/Cp/O có/Ve/O ý_nghĩa/Nn/O đối_với/Cp/O thực_tế/Nn/O xã_hội/Nn/O ./PU/O 
+Cao/Aa/O hơn/Aa/O nữa/R/O ,/PU/O luận_điểm/Nn/O phải/Vv/O mới_mẻ/Aa/O ,/PU/O sâu_sắc/Aa/O ./PU/O 
+Ví_dụ/Cp/O ,/PU/O đối_với/Cp/O đề/Nn/O văn/Nn/O nghị_luận/Vv/O :/PU/O "/PU/O Thật_thà/Nn/O là/Vc/O dại/Aa/O chăng/R/O ?/PU/O "/PU/O 
+Có/R/O học/Vv/O sinh/Vv/O viết/Vv/O :/PU/O Thật_thà/Nn/O có/R/O dại_dột/Aa/O hay/Cp/O không/R/O ?/PU/O 
+Có/Ve/O người/Nn/O bảo/Vv/O dại/Aa/O ,/PU/O có/Ve/O kẻ/Nn/O bảo/Vv/O khôn/R/O ./PU/O 
+Theo/Vv/O em/Pp/O thì/Cp/O dại/Aa/O hay/Cp/O khôn/R/O tùy/Nq/O trường_hợp/Nn/O mà/Cp/O nói/Vv/O ./PU/O 
+Cách/Nn/O nêu/Vv/O luận_điểm/Nn/O như/Cp/O vậy/Pp/O xem_ra/Vv/O có_vẻ/R/O đúng/Aa/O ,/PU/O nhìn_nhận/Vv/O sự_việc/Nn/O tùy/Nn/O theo/Vv/O trường_hợp/Nn/O cụ_thể/Aa/O ,/PU/O nhưng/Cp/O xét/Vv/O kĩ/Aa/O thì/Cp/O không/R/O đúng/Aa/O ,/PU/O bởi/Cp/O thật_thà/Aa/O là/Vc/O một/Nq/NUM_B phẩm_chất/Nn/O tốt/Aa/O :/PU/O sống/Vv/O tự_nhiên/Aa/O ,/PU/O trung_thực/Aa/O ,/PU/O không_gian/Nn/O dối/Vv/O ,/PU/O giả_tạo/Aa/O ./PU/O 
+Cần/Vv/O phải/Vv/O khẳng_định/Vv/O trước_hết/Cp/O ,/PU/O thật_thà/Aa/O là/Vc/O một/Nq/NUM_B phẩm_chất/Nn/O tốt_đẹp/Aa/O ;/PU/O thứ/Nn/O hai/An/O ,/PU/O thật_thà/Aa/O là/Vc/O khôn/R/O chứ/Cp/O không/R/O phải/Aa/O dại/Aa/O ./PU/O 
+Thật_thà/Nn/O là/Vc/O một/Nq/NUM_B trong/Cm/O năm/Nq/NUM_B điều/Nc/O Chủ_tịch/Nn/O Hồ_Chí_Minh/Nr/PER_B dạy/Vv/O thiếu_nhi/Nn/O Việt_Nam/Nr/LOC_B ./PU/O 
+Dân_gian/Nn/O khẳng_định/Vv/O thật_thà/Aa/O còn/R/O hơn/Aa/O cả/M/O khôn_ngoan/Aa/O :/PU/O "/PU/O Khôn_ngoan/Nn/O chẳng/R/O đọ/Vv/O thật_thà/Aa/O -/PU/O Luồn/Nr/PER_B thưng/Vv/O tráo/Vv/O đấu/Vv/O chẳng_qua/R/O đong_đầy/Aa/O "/PU/O ./PU/O 
+Thật_thà/Nn/O làm/Vv/O cho/Cp/O mọi/Nq/O việc/Nn/O được/Vv/O thực_hiện/Vv/O đúng/Aa/O yêu_cầu/Vv/O (/PU/O loại_bỏ/Vv/O sự/Nc/O gian_dối/Aa/O )/PU/O ./PU/O 
+Thật_thà/Nn/O đem/Vv/O lại/R/O sự/Nc/O tin_cậy/Vv/O lẫn/R/O nhau/Nn/O ./PU/O 
+Thật_thà/Nn/O làm/Vv/O cho/Cp/O cuộc_sống/Nn/O thanh_thản/Aa/O ./PU/O 
+Chỉ/R/O những_ai/Pp/O sống/Vv/O trung_thực/Aa/O ,/PU/O trong_sáng/Aa/O mới/Cp/O có_thể/Aa/O thật_thà/Aa/O và/Cp/O quý_trọng/Vv/O sự_thật_thà/Nn/O ./PU/O 
+Xem/Vv/O "/PU/O thật_thà/Aa/O là/Vc/O dại/Aa/O "/PU/O chỉ/R/O đúng/Aa/O với/Cp/O một_vài/Nq/O trường_hợp/Nn/O đặc_thù/Aa/O (/PU/O như/Cp/O không_thể/R/O thật_thà/Aa/O với/Cp/O kẻ/Nn/O địch/Nn/O )/PU/O hoặc/Cp/O chỉ/R/O phù_hợp/Aa/O với/Cp/O tâm_lí/Nn/O của/Cm/O những/Nq/O người/Nn/O thiếu/Aa/O trung_thực/Aa/O :/PU/O nói_dối/Vv/O ,/PU/O làm/Vv/O dối/Vv/O nhằm/Cm/O mưu_lợi/Vv/O riêng/Aa/O ./PU/O 
+Đối_với/Cp/O các/Nq/O vấn_đề/Nn/O tư_tưởng/Nn/O ,/PU/O đạo_lí/Nn/O ,/PU/O thái_độ/Nn/O của/Cm/O người/Nn/O làm/Vv/O văn/Nn/O nghị_luận/Vv/O cần/Vv/O phải/Vv/O dứt_khoát/Aa/O ,/PU/O rõ_ràng/Aa/O ,/PU/O không/R/O được/Vv/O mơ_hồ/Aa/O ./PU/O 
+Với/Cp/O đề/Nn/O "/PU/O Chăm_chỉ/Nn/O và/Cp/O tài_năng/Nn/O "/PU/O ,/PU/O có/Ve/O học_sinh/Nn/O mở_đầu/Vv/O bằng/Cm/O luận_điểm/Nn/O "/PU/O Tài_năng/Nn/O là/Vc/O của/Cm/O hiếm/Aa/O "/PU/O ,/PU/O như/Cp/O vậy/Pp/O sẽ/R/O xa/Aa/O đề/Vv/O ,/PU/O khó/Aa/O bàn/Vv/O quan_hệ/Vv/O với/Cp/O chăm_chỉ/Aa/O ./PU/O 
+Cần/Vv/O xem/Vv/O tài_năng/Nn/O là/Vc/O năng_lực/Nn/O giải_quyết/Vv/O công_việc/Nn/O đúng_đắn/Aa/O ,/PU/O kịp_thời/Aa/O ,/PU/O phù_hợp/Aa/O với/Cp/O thực_tế/Nn/O và/Cp/O lợi_ích/Nn/O lâu_dài/Aa/O ./PU/O 
+Năng_lực/Nn/O đó/Pd/O có_thể/Aa/O hình_thành/Vv/O do/Cp/O quá_trình/Nn/O chăm_chỉ/Aa/O lao_động/Nn/O trong/Cm/O một/Nq/NUM_B lĩnh_vực/Nn/O chuyên_môn/Nn/O nào/Pd/O đó/Pd/O ./PU/O 
+Đối_với/Cp/O đề/Nn/O yêu_cầu/Vv/O bình_luận/Vv/O hiện_tượng/Nn/O trong/Cm/O kì/Nt/O thi/Vv/O tuyển_sinh/Vv/O đại_học/Nn/O có/Ve/O hàng/R/O nghìn/Nq/O thí_sinh/Nn/O bị/Vv/O xử_lí/Vv/O kỉ_luật/Nn/O vì/Cp/O sử_dụng/Vv/O tài_liệu/Nn/O ,/PU/O một/Nq/NUM_B học_sinh/Nn/O nêu/Vv/O :/PU/O "/PU/O Bị/Vv/O xử_lí/Vv/O kỉ_luật/Nn/O là/Vc/O một/Nq/NUM_B việc/Nn/O đáng/Vv/O tiếc/Vv/O cho/Cp/O các/Nq/O bạn/Pp/O đã/R/O tốn/Vv/O công/Nn/O ,/PU/O tốn/Vv/O của/Cm/O học_tập/Vv/O mười_hai/Nt/DTM_B năm/Nt/O trời/M/O "/PU/O ./PU/O 
+Đó/Pd/O là/Vc/O một/Nq/NUM_B nhận_định/Nn/O đúng/Aa/O ,/PU/O xét/Vv/O theo/Vv/O lợi_ích/Nn/O cá_nhân/Nn/O ./PU/O 
+Xét/Vv/O về/Cm/O mặt/Nn/O xã_hội/Nn/O ,/PU/O cần/Vv/O nêu/Vv/O rõ/Aa/O :/PU/O "/PU/O Hiện_tượng/Nn/O vi_phạm/Vv/O quy_chế/Nn/O thi/Vv/O nhiều/Aa/O như/Cp/O thế/Pp/O chứng_tỏ/Vv/O tâm_lí/Nn/O ,/PU/O đạo_đức_học/Nn/O sinh/Vv/O có/Ve/O vấn_đề/Nn/O đáng/Vv/O suy_nghĩ/Vv/O "/PU/O ./PU/O 
+Người/Nn/O làm/Vv/O văn/Nn/O nghị_luận/Vv/O nên/Vv/O nhìn/Vv/O vấn_đề/Nn/O với/Cp/O con/Nc/O mắt/Nn/O bao_quát/Vv/O ,/PU/O có/Ve/O tính/Nn/O xã_hội/Nn/O ./PU/O 
+Chẳng_hạn/M/O ,/PU/O cần/Vv/O phải/Vv/O nói/Vv/O đó/Pd/O là/Vc/O hiện_tượng/Nn/O đáng/Vv/O báo_động/Vv/O về/Cm/O tâm_lí/Nn/O ,/PU/O thái_độ/Nn/O học_tập/Vv/O thiếu/Aa/O nghiêm_túc/Aa/O của/Cm/O không/R/O ít/Aa/O học_sinh/Nn/O ./PU/O 
+Như/Cp/O vậy/Pp/O ,/PU/O trước/Nn/O một/Nq/NUM_B đề/Nn/O văn/Nn/O ,/PU/O sau/Nn/O khi/Nt/O tìm_hiểu/Vv/O đề/Nn/O ,/PU/O việc/Nn/O tìm/Vv/O ý/Nn/O thực_chất/Nn/O là/Vc/O lựa_chọn/Nn/O luận_điểm/Nn/O thích_đáng/Aa/O ,/PU/O đúng_đắn/Aa/O cho/Cp/O bài_làm/Nn/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Cách/Nn/O nêu/Vv/O luận_điểm/Nn/O 
+a/Nr/O )/PU/O Việc/Nn/O nêu/Vv/O luận_điểm/Nn/O không/R/O tách_rời/Vv/O với/Cp/O cách/Nn/O nhìn/Vv/O và/Cp/O cách/Nn/O lập_luận/Vv/O ./PU/O 
+Ví_dụ/Cp/O đối_với/Cp/O đề/Nn/O văn/Nn/O nghị_luận/Vv/O :/PU/O "/PU/O Tuổi_trẻ/Nn/O và/Cp/O xã_hội/Nn/O "/PU/O ,/PU/O đầu_tiên/An/O cần/Vv/O có/Ve/O khái_niệm/Nn/O về/Cm/O xã_hội/Nn/O ,/PU/O tuổi_trẻ/Nn/O và/Cp/O mối/Nc/O quan_hệ/Nn/O giữa/Cm/O xã_hội/Nn/O và/Cp/O tuổi_trẻ/Nn/O ./PU/O 
+Ở/Cm/O đây/Pd/O cần/Vv/O vận_dụng/Vv/O thao_tác/Vv/O lập_luận/Nn/O giải_thích/Vv/O ,/PU/O định_nghĩa/Vv/O xác_lập/Vv/O cách/Nn/O hiểu/Vv/O làm/Vv/O cơ_sở/Nn/O ,/PU/O sau/Nn/O đó/Pd/O chọn/Vv/O cách/Nn/O nhìn/Vv/O để/Cm/O nêu/Vv/O luận_điểm/Nn/O ./PU/O 
+Chẳng_hạn/M/O ,/PU/O nhìn/Vv/O từ/Cm/O trách_nhiệm/Nn/O xã_hội/Nn/O đối_với/Cp/O tuổi_trẻ/Nn/O thì/Cp/O sẽ/R/O có/Ve/O một_số/Nq/O đòi_hỏi/Nn/O của/Cm/O tuổi_trẻ/Nn/O đối_với/Cp/O xã_hội/Nn/O ./PU/O 
+Nhìn/Vv/O từ/Cm/O nghĩa_vụ/Nn/O của/Cm/O tuổi_trẻ/Nn/O đối_với/Cp/O xã_hội/Nn/O lại/R/O có/Ve/O những/Nq/O đòi_hỏi/Nn/O của/Cm/O xã_hội/Nn/O đối_với/Cp/O tuổi_trẻ/Nn/O ./PU/O 
+Có/Ve/O giải_thích/Nn/O và/Cp/O có/Ve/O cách/Nn/O nhìn/Vv/O rồi/R/O ,/PU/O người/Nn/O viết/Vv/O bài/Nc/O có_thể/Aa/O nêu/Vv/O các/Nq/O luận_điểm/Nn/O trung_tâm/Nn/O :/PU/O xã_hội/Nn/O phải/Vv/O chăm_lo/Vv/O cho/Cp/O tuổi_trẻ/Nn/O như/Cp/O chăm_lo/Vv/O tương_lai/Nt/DTM_B của/Cm/O mình/Pp/O ;/PU/O tuổi_trẻ/Nn/O phấn_đấu/Vv/O để/Cm/O xứng_đáng/Aa/O với/Cp/O mong_muốn/Nn/O của/Cm/O xã_hội/Nn/O ,/PU/O v.v./Nn/O 
+Cần/Vv/O cụ_thể/Aa/O hóa/Nq/O luận_điểm/Nn/O trung_tâm/Nn/O thành/Vv/O từng/Pp/O luận_điểm/Nn/O bộ_phận/Nn/O ./PU/O 
+Người/Nn/O làm/Vv/O văn/Nn/O có_thể/Aa/O lựa_chọn/Vv/O một/Nq/NUM_B góc/Nn/O nhìn/Vv/O để/Cm/O tập_trung/Vv/O luận_bàn/Vv/O về/Cm/O một/Nq/NUM_B mặt/Nn/O của/Cm/O vấn_đề/Nn/O :/PU/O tuổi_trẻ/Nn/O đối_với/Cp/O xã_hội/Nn/O ,/PU/O hoặc/Cp/O bàn/Vv/O về/Cm/O mặt/Nn/O kia/Pd/O :/PU/O xã_hội/Nn/O đối_với/Cp/O tuổi_trẻ/Nn/O ./PU/O 
+b/Nr/O )/PU/O Mọi/Nq/O thao_tác/Nn/O lập_luận/Vv/O đều/R/O có_thể/Aa/O được/Vv/O dùng/Vv/O làm/Vv/O cơ_sở/Nn/O để/Cm/O nêu/Vv/O luận_điểm/Nn/O ./PU/O 
+Ví_dụ/Cp/O đối_với/Cp/O nhóm/Nn/O đề/Nn/O mở/Vv/O ,/PU/O học_sinh/Nn/O cần/Vv/O vận_dụng/Vv/O thao_tác/Vv/O định_nghĩa/Nn/O ,/PU/O giải_thích/Vv/O và/Cp/O xác_lập/Vv/O quan_hệ/Nn/O để/Cm/O nêu/Vv/O ra/R/O luận_điểm/Nn/O ./PU/O 
+Đối_với/Cp/O nhóm/Nn/O đề/Nn/O có/Ve/O giới_hạn/Nn/O thì/Cp/O trước_hết/Cp/O cần/Vv/O vận_dụng/Vv/O thao_tác/Vv/O phân_tích/Vv/O ,/PU/O tổng_hợp/Vv/O ,/PU/O quy_nạp/Nu/O ,/PU/O sau/Nn/O đó/Pd/O mới/R/O bình_luận/Vv/O (/PU/O nêu/Vv/O nhận_định/Nn/O ,/PU/O đánh_giá/Vv/O )/PU/O ;/PU/O hoặc/Cp/O giải_thích/Vv/O ,/PU/O định_nghĩa/Vv/O rồi/Cp/O mới/Cp/O phân_tích/Vv/O ./PU/O 

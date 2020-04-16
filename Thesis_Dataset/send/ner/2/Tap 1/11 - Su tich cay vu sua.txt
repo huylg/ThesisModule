@@ -1,0 +1,19 @@
+﻿Sự_tích/Nn/O cây/Nn/O vú_sữa/Nn/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O có/Ve/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O ham/Vv/O chơi/Vv/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O bị/Vv/O mẹ/Nn/O mắng/Vv/O ,/PU/O cậu/Nn/O vùng_vằng/Vv/O bỏ/Vv/O đi/Vv/O ./PU/O 
+Cậu/Nn/O la_cà/Vv/O khắp/Aa/O nơi/Nn/O ,/PU/O chẳng/R/O nghĩ/Vv/O đến/Cm/O mẹ/Nn/O ở/Cm/O nhà/Nn/O mỏi_mắt/Aa/O chờ_mong/Vv/O ./PU/O 
+Không/R/O biết/Vv/O cậu/Nn/O đi/Vv/O đã/R/O bao_lâu/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O vừa/Cs/O đói/Aa/O vừa/Cs/O rét/Aa/O ,/PU/O lại/R/O bị/Vv/O trẻ/Nn/O lớn/Aa/O hơn/Aa/O đánh/Vv/O ,/PU/O cậu/Nn/O mới/R/O nhớ/Vv/O đến/Cm/O mẹ/Nn/O ,/PU/O liền/R/O tìm/Vv/O đường/Nn/O về/Vd/O nhà/Nn/O ./PU/O 
+Ở/Cm/O nhà/Nn/O ,/PU/O cảnh_vật/Nn/O vẫn/R/O như/Cp/O xưa/Nt/O ,/PU/O nhưng/Cp/O không/R/O thấy/Vv/O mẹ/Nn/O đâu/R/O ./PU/O 
+Cậu/Nn/O khản/Aa/O tiếng/Nn/O gọi/Vv/O mẹ/Nn/O ,/PU/O rồi/Cp/O ôm/Vv/O lấy/R/O một/Nq/NUM_B cây_xanh/Nn/O trong/Cm/O vườn/Nn/O mà/Cp/O khóc/Vv/O ./PU/O 
+Kì_lạ/Aa/O thay/E/O ,/PU/O cây_xanh/Nn/O bỗng/R/O run_rẩy/Vv/O ./PU/O 
+Từ/Cm/O các/Nq/O cành/Nn/O lá/Nn/O ,/PU/O những/Nq/O đài_hoa/Nn/O bé/Nn/O tí/Nq/O trổ/Vv/O ra/R/O ,/PU/O nở/Vv/O trắng/Aa/O như/Cp/O mây/Nn/O ./PU/O 
+Hoa/Nn/O tàn/Vv/O ,/PU/O quả/Nn/O xuất_hiện/Vv/O ,/PU/O lớn/Aa/O nhanh/Aa/O ,/PU/O da/Nn/O căng/Vv/O mịn/Aa/O ,/PU/O xanh/Aa/O óng_ánh/Vv/O ,/PU/O rồi/Cp/O chín/Nq/NUM_B ./PU/O 
+Một/Nq/NUM_B quả/Nn/O rơi/Vv/O vào/Cm/O lòng/Nn/O cậu/Nn/O ./PU/O 
+Môi/Nr/PER_B cậu/Nc/O vừa/R/O chạm/Vv/O vào/D/O ,/PU/O một/Nq/NUM_B dòng/Nn/O sữa/Nn/O trắng/Aa/O trào/Vv/O ra/D/O ,/PU/O ngọt/Aa/O thơm/Aa/O như/Cp/O sữa/Nn/O mẹ/Nn/O ./PU/O 
+Cậu/Nn/O nhìn/Vv/O lên/R/O tán/Vv/O lá/Nn/O ./PU/O 
+Lá/Nc/O một/Nq/NUM_B mặt/Nn/O xanh/Aa/O bóng/Nn/O ,/PU/O mặt/Nn/O kia/Pd/O đỏ_hoe/Aa/O như/Cp/O mắt/Nn/O mẹ/Nn/O khóc/Vv/O chờ/Vv/O con/Nn/O ./PU/O 
+Cậu/Nc/TTL_B bé/Nn/TTL_I òa/Nr/PER_B khóc/Vv/O ./PU/O 
+Cây/Nn/O xòa/Nq/O cành/Nn/O ôm/Vv/O cậu/Nc/O ,/PU/O như/Cp/O tay/Nc/O mẹ/Nn/O âu_yếm/Aa/O vỗ_về/Vv/O ./PU/O 
+Trái_cây/Nn/O thơm/Aa/O ngon/Aa/O ở/Cm/O vườn/Nn/O nhà/Nn/O cậu/Nc/O bé/Nn/O ,/PU/O ai/Pp/O cũng/R/O thích/Vv/O ./PU/O 
+Họ/Pp/O đem/Vv/O hạt/Nc/O gieo_trồng/Vv/O khắp/Aa/O nơi/Nn/O và/Cp/O gọi/Vv/O đó/Pd/O là/Vc/O cây/Nn/O vú_sữa/Nn/O ./PU/O 

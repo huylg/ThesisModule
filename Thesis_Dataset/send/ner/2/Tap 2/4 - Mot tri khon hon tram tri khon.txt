@@ -1,0 +1,27 @@
+﻿Một/Nq/NUM_B trí_khôn/Nn/O hơn/Aa/O trăm/Nq/O trí_khôn/Nn/O 
+Gà/Nn/O Rừng/Nr/LOC_B và/Cp/O Chồn/Nr/PER_B là/Vc/O đôi/Nq/O bạn/Nn/O thân/Aa/O nhưng/Cp/O Chồn/Nr/PER_B vẫn/R/O ngầm/Aa/O coi_thường/Vv/O bạn/Pp/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Chồn/Nr/PER_B hỏi/Vv/O Gà_Rừng/Nr/PER_B :/PU/O 
+Cậu/Nn/O có/Ve/O bao_nhiêu/Pp/O trí_khôn/Nn/O ?/PU/O 
+Mình/Pp/O chỉ/R/O có/Ve/O một/Nq/NUM_B thôi/M/O ./PU/O 
+Ít/Aa/O thế/Pp/O sao/Pp/O ?/PU/O 
+Mình/Pp/O thì/Cp/O có/Ve/O hàng/R/O trăm/Nq/O ./PU/O 
+Một/Nq/O buổi/Nt/O sáng/Nt/O ,/PU/O đôi/Nq/O bạn/Nn/O dạo/Vv/O chơi/Vv/O trên/Cm/O cánh_đồng/Nn/O ./PU/O 
+Chợt/R/O thấy/Vv/O một/Nq/NUM_B người/Nc/O thợ_săn/Nn/O ,/PU/O chúng/Pp/O cuống_quýt/Aa/O nấp/Vv/O vào/Cm/O một/Nq/NUM_B cái/Nc/O hang/Nn/O ./PU/O 
+Nhưng/Cp/O người/Nc/O thợ_săn/Nn/O đã/R/O thấy/Vv/O dấu/Nn/O chân/Nn/O của/Cm/O chúng/Pp/O ,/PU/O ông/Nn/O reo/Vv/O lên/R/O :/PU/O 
+Có/Ve/O mà/Cp/O trốn/Vv/O đằng/Nn/O trời/Nn/O !/PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O ông/Nn/O lấy/Vv/O gậy/Nn/O thọc/Vv/O vào/Cm/O hang/Nn/O ./PU/O 
+Gà/Nn/ORG_B Rừng/Nr/ORG_I thấy/Vv/O nguy/Aa/O quá/R/O ,/PU/O bảo/Vv/O Chồn/Nr/PER_B :/PU/O 
+Cậu/Nn/O có/Ve/O trăm/Nq/O trí_khôn/Nn/O ,/PU/O nghĩ/Vv/O kế/Nn/O gì/Pp/O đi/Vv/O !/PU/O 
+Chồn/Nr/PER_B buồn_bã/Aa/O :/PU/O 
+Lúc/Nt/DTM_B này/Pd/DTM_I ,/PU/O trong/Cm/O đầu/Nn/O mình/Pp/O chẳng/R/O còn/Ve/O một/Nq/NUM_B trí_khôn/Nn/O nào/Pd/O cả/M/O ./PU/O 
+Đắn_đo/Vv/O một/Nq/O lúc/Nt/O ,/PU/O Gà_Rừng/Nr/PER_B nghĩ/Vv/O ra/R/O một/Nq/NUM_B mẹo/Nn/O ,/PU/O ghé/Vv/O tai/Nn/O Chồn/Nr/PER_B :/PU/O 
+Mình/Pp/O sẽ/R/O làm/Vv/O như/Cp/O thế/Pp/O ,/PU/O còn/Cp/O cậu/Nn/O cứ/Vv/O thế/Pp/O nhé/M/O !/PU/O 
+Mọi/Nq/O chuyện/Nn/O xảy_ra/Vv/O đúng/Aa/O như/Cp/O Gà_Rừng/Nr/PER_B đoán/Vv/O ./PU/O 
+Người/Nn/O thợ_săn/Nn/O lôi/Vv/O Gà_Rừng/Nr/PER_B ra/Vd/O ,/PU/O thấy/Vv/O cứng_đờ/Aa/O ,/PU/O tưởng/Vv/O Gà/Nn/ORG_B Rừng/Nr/ORG_I đã/R/O chết/Vv/O ./PU/O 
+Ông/Nn/O ta/Pp/O quăng/Vv/O nó/Pp/O xuống/D/O đám/Nn/O cỏ/Nn/O ,/PU/O rồi/Cp/O thọc/Vv/O gậy/Nn/O vào/D/O hang/Nn/O bắt/Vv/O Chồn/Nr/PER_B ./PU/O 
+Thình_lình/Nn/O ,/PU/O Gà_Rừng/Nr/PER_B vùng/Vv/O chạy/Vv/O ./PU/O 
+Người/Nn/O thợ_săn/Nn/O đuổi/Vv/O theo/Vv/O ./PU/O 
+Chỉ/R/O chờ/Vv/O thế/Pp/O ,/PU/O Chồn/Nr/PER_B vọt/Vv/O ra/R/O ,/PU/O chạy/Vv/O biến/Vv/O vào/Cm/O rừng/Nn/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O đôi/Nq/O bạn/Nn/O gặp/Vv/O lại/R/O nhau/Nn/O ./PU/O 
+Chồn/Nr/PER_B bảo/Vv/O Gà_Rừng/Nr/PER_B :/PU/O 
+Một/Nq/NUM_B trí_khôn/Nn/O của/Cm/O cậu/Nc/O còn/R/O hơn/Aa/O cả/M/O trăm/Nq/O trí_khôn/Nn/O của/Cm/O mình/Pp/O ./PU/O 

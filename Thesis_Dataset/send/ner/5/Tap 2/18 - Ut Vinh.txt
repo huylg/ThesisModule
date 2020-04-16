@@ -1,0 +1,21 @@
+﻿Út_Vịnh/Nn/O 
+Nhà/Nc/O Út_Vịnh/Nn/O ở/Cm/O ngay/M/O bên/Nn/O đường_sắt/Nn/O ./PU/O 
+Mấy/Nq/O năm/Nt/O nay/Nt/O ,/PU/O đoạn/Nn/O đường/Nn/O này/Pd/O thường/R/O có/Ve/O sự_cố/Nn/O ./PU/O 
+Lúc/Nt/O thì/Cp/O đá_tảng/Nn/O nằm/Vv/O chềnh_ềnh/Nn/O trên/Cm/O đường/Nn/O tàu/Nn/O chạy/Vv/O ,/PU/O lúc/Nt/O thì/Cp/O ai/Pp/O đó/Pd/O tháo/Vv/O cả/Pp/O ốc/Nn/O gắn/Vv/O các/Nq/O thanh/Nc/O ray/Nn/O ./PU/O 
+Lắm/Aa/O khi/Nt/O ,/PU/O trẻ/Nn/O chăn/Vv/O trâu/Nn/O còn/R/O ném/Vv/O đá/Nn/O lên/D/O tàu/Nn/O ./PU/O 
+Tháng/Nt/DTM_B trước/Nn/DTM_I ,/PU/O trường/Nn/O của/Cm/O út/Aa/O Vịnh/Nn/O đã/R/O phát_động/Vv/O phong_trào/Nn/O Em/Pp/O yêu/Vv/O đường_sắt/Nn/O quê/Nn/O em/Pp/O ./PU/O 
+Học_sinh/Nn/O cam_kết/Vv/O không/R/O chơi/Vv/O trên/Cm/O đường/Nn/O tàu/Nn/O ,/PU/O không/R/O ném/Vv/O đá/Nn/O lên/D/O tàu/Nn/O và/Cp/O đường/Nn/O tàu/Nn/O ,/PU/O cùng/Cp/O nhau/Nn/O bảo_vệ/Vv/O an_toàn/Aa/O cho/Cp/O những/Nq/O chuyến/Nn/O tàu/Nn/O qua/Cm/O ./PU/O 
+Vịnh/Nn/O nhận/Vv/O việc/Nn/O khó/Aa/O nhất/R/O là/Vc/O thuyết_phục/Vv/O Sơn/Nr/PER_B -/PU/O một/Nq/NUM_B bạn/Nn/O rất/R/O nghịch/Vv/O ,/PU/O thường/R/O chạy/Vv/O trên/Cm/O đường/Nn/O tàu/Nn/O thả/Vv/O diều/Nn/O ./PU/O 
+Thuyết_phục/Vv/O mãi/R/O ,/PU/O Sơn/Nr/PER_B mới/R/O hiểu/Vv/O ra/R/O và/Cp/O hứa/Vv/O không/R/O chơi/Vv/O dại/Aa/O như/Cp/O vậy/Pp/O nữa/R/O ./PU/O 
+Một/Nq/O buổi/Nt/O chiều/Nn/O đẹp/Aa/O trời/Nn/O ,/PU/O gió/Nn/O từ/Cm/O sông_Cái/Nn/O thổi/Vv/O vào/Cm/O mát_rượi/Aa/O ./PU/O 
+Vịnh/Nn/O đang/R/O ngồi/Vv/O học/Vv/O bài/Nc/O ,/PU/O bỗng/R/O nghe/Vv/O thấy/Vv/O tiếng/Nn/O còi/Nn/O tàu/Nn/O vang/Vv/O lên/R/O từng/Pp/O hồi/Nt/O dài/Aa/O như/Cp/O giục_giã/Vv/O ./PU/O 
+Chưa/R/O bao_giờ/Pp/O tiếng/Nn/O còi/Nn/O lại/R/O kéo/Vv/O dài/Aa/O như/Cp/O vậy/Pp/O ./PU/O 
+Thấy/Vv/O lạ/Aa/O ,/PU/O Vịnh/Nn/O nhìn/Vv/O ra/D/O đường/Nn/O tàu/Nn/O ./PU/O 
+Thì_ra/Cp/O hai/Nq/NUM_B cô/Nc/O bé/Nn/TTL_B Hoa/Nr/PER_B và/Cp/O Lan/Nr/PER_B đang/R/O ngồi/Vv/O chơi/Vv/O chuyền/Vv/O thẻ/Nn/O trên/Cm/O đó/Pd/O ./PU/O 
+Vịnh/Nn/O lao/Vv/O ra/D/O như/Cp/O tên/Nn/O bắn/Vv/O ,/PU/O la/Vv/O lớn/Aa/O :/PU/O 
+Hoa/Nn/O ,/PU/O Lan/Nr/PER_B ,/PU/O tàu/Nn/O hỏa/Nn/O đến/Cm/O !/PU/O 
+Nghe/Vv/O tiếng/Nn/O la/Vv/O ,/PU/O bé/Nn/TTL_B Hoa/Nr/PER_B giật_mình/Vv/O ,/PU/O ngã/Vv/O lăn/Vv/O khỏi/Vv/O đường/Nn/O tàu/Nn/O ,/PU/O còn/Cp/O bé/Nn/TTL_B Lan/Nr/PER_B đứng/Vv/O ngây/Aa/O người/Nn/O ,/PU/O khóc/Vv/O thét/Vv/O ./PU/O 
+Đoàn/Nn/O tàu/Nn/O vừa/Cs/O réo/Vv/O còi/Nn/O vừa/Cs/O ầm_ầm/Aa/O lao/Vv/O tới/Cm/O ./PU/O 
+Không/R/O chút/Nq/O do_dự/Vv/O ,/PU/O Vịnh/Nn/O nhào/Vv/O tới/Cm/O ôm/Vv/O Lan/Nr/PER_B lăn/Vv/O xuống/D/O mép/Nn/O ruộng/Nn/O ,/PU/O cứu/Vv/O sống/Vv/O cô/Nc/O bé/Nn/O trước/Cm/O cái/Nc/O chết/Vv/O trong/Cm/O gang_tấc/Nn/O ./PU/O 
+Biết/Vv/O tin/Nn/O ,/PU/O ba_mẹ_Lan/Nn/O chạy/Vv/O đến/D/O ./PU/O 
+Cả/Pp/O hai/Nq/NUM_B cô/Pp/O chú/Pp/O ôm_chầm/Vv/O lấy/Vv/O Vịnh/Nn/O ,/PU/O xúc_động/Vv/O không/R/O nói/Vv/O nên/Vv/O lời/Nn/O ./PU/O 

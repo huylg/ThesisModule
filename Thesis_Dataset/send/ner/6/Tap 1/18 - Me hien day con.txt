@@ -1,0 +1,19 @@
+﻿Mẹ/Nn/O hiền/Aa/O dạy/Vv/O con/Nn/O 
+Thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B ,/PU/O thuở/Nn/O nhỏ/Aa/O ,/PU/O nhà/Nn/O ở/Cm/O gần/Aa/O nghĩa_địa/Nn/O ,/PU/O thấy/Vv/O người/Nn/O đào/Vv/O ,/PU/O chôn/Vv/O ,/PU/O lăn/Vv/O ,/PU/O khóc/Vv/O ,/PU/O về/D/O nhà/Nn/O cũng/R/O bắt_chước/Vv/O đào/Vv/O ,/PU/O chôn/Vv/O ,/PU/O lăn/Vv/O ,/PU/O khóc/Vv/O ./PU/O 
+Bà/Nn/O mẹ/Nn/O thấy/Vv/O thế/Pp/O ,/PU/O nói/Vv/O :/PU/O "/PU/O Chỗ/Nn/O này/Pd/O không/R/O phải/Aa/O chỗ/Nn/O con/Nn/O ta/Pp/O ở/Cm/O được/R/O "/PU/O ./PU/O 
+Rồi/Cp/O ,/PU/O dọn/Vv/O nhà/Nn/O ra/D/O gần/Aa/O chợ/Nn/O ./PU/O 
+Thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B ở/Cm/O gần/Aa/O chợ/Nn/O ,/PU/O thấy/Vv/O người/Nn/O buôn_bán/Vv/O điên_đảo/Aa/O ,/PU/O về/Vd/O nhà/Nn/O cũng/R/O bắt_chước/Vv/O nô/Nn/O nghịch/Vv/O cách/Nn/O buôn_bán/Vv/O điên_đảo/Aa/O ./PU/O 
+Bà/Nn/O mẹ/Nn/O thây/Nn/O thế/Pp/O ,/PU/O lại/R/O nói/Vv/O :/PU/O "/PU/O Chỗ/Nn/O này/Pd/O cũng/R/O không/R/O phải/Aa/O chỗ/Nn/O con/Nn/O ta/Pp/O ở/Cm/O được/R/O "/PU/O ./PU/O 
+Bèn/Nr/PER_B dọn/Vv/O nhà/Nn/O đến/Vd/O ở/Vv/O cạnh/Nn/O trường_học/Nn/O ./PU/O 
+Thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B ở/Cm/O gần/Aa/O trường_học/Nn/O ,/PU/O thấy/Vv/O trẻ/Nn/O đua/Vv/O nhau/Nn/O học_tập/Vv/O lễ_phép/Aa/O ,/PU/O cắp/Vv/O sách_vở/Nn/O ,/PU/O về/Vd/O nhà/Nn/O cũng/R/O bắt_chước/Vv/O học_tập/Vv/O lễ_phép/Aa/O ,/PU/O cắp/Vv/O sách_vở/Nn/O ./PU/O 
+Bấy_giờ/Pd/O bà/Nc/O mẹ/Nn/O mới/Aa/O vui_lòng/Aa/O ,/PU/O nói/Vv/O :/PU/O "/PU/O Chỗ/Nn/O này/Pd/O là/Vc/O chỗ/Nn/O con/Nn/O ta/Pp/O ở/Vv/O được/Vv/O đây/Pd/O "/PU/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B thấy/Vv/O nhà_hàng_xóm/Nn/O giết/Vv/O lợn/Nn/O ,/PU/O về/Cm/O hỏi/Vv/O mẹ/Nn/O :/PU/O "/PU/O Người_ta/Pp/O giết/Vv/O lợn/Nn/O làm/Vv/O gì/Pp/O thế/Pp/O ?/PU/O "/PU/O 
+Bà/Nn/O mẹ/Nn/O nói/Vv/O đùa/Vv/O :/PU/O "/PU/O Để/Cm/O cho/Cp/O con/Nn/O ăn/Vv/O đấy/M/O "/PU/O ./PU/O 
+Nói/Vv/O xong/Aa/O ,/PU/O bà/Nn/O nghĩ_lại/Vv/O ,/PU/O hối/Vv/O rằng/Cp/O :/PU/O Ta/Pp/O nói/Vv/O lỡ/Vv/O mồm/Nn/O rồi/R/O !/PU/O 
+Con/Nn/O ta/Pp/O thơ_ấu/Aa/O ,/PU/O tri_thức/Nn/O mới/R/O mở_mang/Vv/O mà/Cp/O ta/Pp/O nói_dối/Vv/O nó/Pp/O ,/PU/O thì/Cp/O chẳng/R/O hóa/Nn/O ra/R/O ta/Pp/O dạy/Vv/O nó/Pp/O nói_dối/Vv/O hay/Cp/O sao/Pp/O ?/PU/O 
+Rồi/Cp/O bà/Nn/O đi/Vv/O mua/Vv/O thịt/Nn/O lợn/Nn/O ,/PU/O đem/Vv/O về/D/O cho/Cp/O con/Nn/O ăn/Vv/O thật/Aa/O ./PU/O 
+Lại/R/O một/Nq/O hôm/Nt/O ,/PU/O thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B đang/R/O đi/Vv/O học/Vv/O ,/PU/O bỏ/Vv/O học/Vv/O về/D/O nhà/Nn/O chơi/Vv/O ./PU/O 
+Bà/Nn/O mẹ/Nn/O đang/R/O ngồi/Vv/O dệt/Vv/O cửi/Nn/O ,/PU/O trông/Vv/O thấy/Vv/O ,/PU/O liền/R/O cầm/Vv/O dao/Nn/O cắt/Vv/O đứt/Vv/O tấm/Nc/O vải/Nn/O đang/R/O dệt/Vv/O trên/Cm/O khung/Nn/O ,/PU/O mà/Cp/O nói/Vv/O rằng/Cp/O :/PU/O "/PU/O Con/Pp/O đang/R/O đi/Vv/O học/Vv/O mà/Cp/O bỏ/Vv/O học/Vv/O ,/PU/O thì/Cp/O cũng/R/O như/Cp/O ta/Pp/O dang/Vv/O dệt/Vv/O tấm/Nc/O vải/Nn/O này/Pd/O mà/Cp/O cắt/Vv/O đứt/Vv/O đi/Vv/O vậy/Pp/O "/PU/O ./PU/O 
+Từ/Cm/O hôm/Nt/O đó/Pd/O ,/PU/O thầy/Nn/DES_B Mạnh_Tử/Nr/PER_B học_tập/Vv/O rất/R/O chuyên_cần/Aa/O ./PU/O 
+Rồi/Cp/O sau/Nn/O thành/Vv/O một/Nq/NUM_B bậc/Nc/O đại_hiền/Nn/O ./PU/O 
+Thế/Pp/O chẳng/R/O là/Vc/O nhờ/Cm/O có/Ve/O cái/Nc/O công_giáo/Nq/O dục/Nn/O quý_báu/Aa/O của/Cm/O bà/Nc/O mẹ/Nn/O hay/Cp/O sao/Pp/O ?/PU/O 

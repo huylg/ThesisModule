@@ -1,0 +1,11 @@
+﻿Nhà_rông/Nn/O ở/Cm/O Tây_Nguyên/Nr/LOC_B 
+Nhà_rông/Nn/O thường/R/O được/Vv/O làm/Vv/O bằng/Cm/O các/Nq/O loại/Nn/O gỗ/Nn/O bền/Aa/O chác/Nn/O như/Cp/O lim/Nn/O ,/PU/O gụ/Nu/O ,/PU/O sến/Aa/O ,/PU/O táu/Nn/O ./PU/O 
+Nó/Pp/O phải/Vv/O cao/Aa/O để/Cm/O đàn/Nn/O voi/Nn/O đi/Vv/O qua/D/O mà/Cp/O không/R/O đụng/Vv/O sàn/Nn/O và/Cp/O khi/Nt/O múa/Vv/O rông/Aa/O chiêng/Nn/O trên/Cm/O sàn/Nn/O ,/PU/O ngọn/Nc/O giáo/Nn/O không/R/O vướng/Vv/O mái/Nn/O ./PU/O 
+Gian/Nn/O đầu/Aa/O nhà_rông/Nn/O là/Vc/O nơi/Nn/O thờ/Vv/O thần/Nn/O làng/Nu/O ,/PU/O trên/Cm/O vách/Nn/O treo/Vv/O một/Nq/NUM_B giỏ/Nn/O mây/Nn/O đựng/Vv/O hòn/Nc/O đá/Nn/O thần/Aa/O ./PU/O 
+Đó/Pd/O là/Vc/O hòn/Nc/O đá/Nn/O mà/Cp/O già_làng/Nn/O nhặt/Vv/O lấy/Vv/O khi/Nt/O chọn/Vv/O đất/Nn/O lập/Vv/O làng/Nu/O ./PU/O 
+Xung_quanh/Cm/O hòn/Nc/O đá/Nn/O thần/Aa/O ,/PU/O người_ta/Pp/O treo/Vv/O những/Nq/O cành/Nn/O hoa/Nn/O đan/Vv/O bằng/Cm/O tre/Nn/O ,/PU/O vũ_khí/Nn/O ,/PU/O nông_cụ/Nn/O của/Cm/O cha_ông/Nn/O truyền/Vv/O lại/R/O và/Cp/O chiêng/Nn/O trống/Aa/O dùng/Vv/O khi/Nt/O cúng_tế/Vv/O ./PU/O 
+Gian/Nn/O giữa/Cm/O với/Cp/O bếp/Nn/O lửa/Nn/O là/Vc/O trung_tâm/Nn/O của/Cm/O nhà_rông/Nn/O ./PU/O 
+Các/Nq/O già_làng/Nn/O thường/R/O họp/Vv/O tại/Cm/O đây/Pd/O để/Cm/O bàn/Nn/O những/Nq/O việc/Nn/O lớn/Aa/O ./PU/O 
+Đây/Pd/O cũng/R/O là/Vc/O nơi/Nn/O tiếp/Vv/O khách/Nn/O của/Cm/O làng/Nu/O ./PU/O 
+Từ/Cm/O gian/Nn/O thứ/Nn/O ba/An/O là/Vc/O nơi/Nn/O ngủ/Vv/O của/Cm/O thanh_niên/Nn/O ./PU/O 
+Theo/Vv/O tập_quán/Nn/O của/Cm/O nhiều/Aa/O dân_tộc/Nn/O ,/PU/O trai/Nn/O làng/Nu/O từ/Cm/O 16/Nq/MEA_B tuổi/Nn/MEA_I chưa/R/O lập/Vv/O gia_đình/Nn/O đều/R/O ngủ/Vv/O tập_trung/Vv/O ở/Cm/O nhà_rông/Nn/O để/Cm/O bảo_vệ/Vv/O buôn_làng/Nn/O ./PU/O 

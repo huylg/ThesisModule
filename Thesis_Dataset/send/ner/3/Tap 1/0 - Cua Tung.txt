@@ -1,0 +1,10 @@
+﻿Cửa_Tùng/Nr/PER_B 
+Thuyền/Nn/O chúng_tôi/Pp/O đang/R/O xuôi/Vv/O dòng/Nn/O Bến_Hải/Nr/LOC_B -/PU/O con/Nc/O sông/Nn/O in/Vv/O đậm/Aa/O dấu_ấn/Nn/O lịch_sử/Aa/O một/Nq/O thời/Nt/O chống/Vv/O Mĩ/Nr/PER_B cứu/Vv/O nước/Nn/O ./PU/O 
+Đôi/Nq/O bờ/Nn/O thôn_xóm/Nn/O mướt/Aa/O màu/Nn/O xanh/Aa/O lũy/Nq/O tre/Nn/O làng/Nu/O và/Cp/O những/Nq/O rặng/Nn/O phi_lao/Nn/O rì_rào/Aa/O gió/Nn/O thổi/Vv/O ./PU/O 
+Từ/Cm/O cầu/Nn/LOC_B Hiền_Lương/Nr/LOC_I ,/PU/O thuyền/Nn/O xuôi/Aa/O khoảng/Nn/O sáu/Nq/MEA_B cây_số/Nu/MEA_I nữa/R/O là/Vc/O đã/R/O gặp/Vv/O biển_cả/Nn/O mênh_mông/Aa/O ./PU/O 
+Nơi/Nn/O dòng/Nn/O Bến_Hải/Nr/LOC_B gặp/Vv/O sóng/Nn/O biển/Nn/O khơi/Nn/O ấy/Pd/O chính/M/O là/Vc/O Cửa_Tùng/Nr/PER_B ./PU/O 
+Bãi/Nn/O cát/Nn/O ở/Cm/O đây/Pd/O từng/R/O được/Vv/O ngợi_ca/Vv/O là/Cp/O "/PU/O Bà_Chúa/Nr/PER_B của/Cm/O các/Nq/O bãi_tắm/Nn/O "/PU/O ./PU/O 
+Diệu_kì/Nr/O thay/E/O ,/PU/O trong/Cm/O một/Nq/MEA_B ngày/Nt/MEA_I ,/PU/O Cửa_Tùng/Nr/PER_B có/Ve/O ba/Nq/NUM_B sắc_màu/Nn/O nước/Nn/O biển/Nn/O ./PU/O 
+Bình_minh/Nt/O ,/PU/O mặt_trời/Nn/O như/Cp/O chiếc/Nc/O thau/Nn/O đồng_đỏ/Nq/O ối/Nn/O chiếu/Vv/O xuống/D/O mặt/Nn/O biển/Nn/O ,/PU/O nước/Nn/O biển/Nn/O nhuộm/Vv/O màu/Nn/O hồng/Aa/O nhạt/Aa/O ./PU/O 
+Trưa/Nt/O ,/PU/O nước/Nn/O biển/Nn/O xanh_lơ/Aa/O và/Cp/O khi/Nt/O chiều_tà/Nt/O thì/Cp/O đổi/Vv/O sang/Cm/O màu/Nn/O xanh/Aa/O lục/Aa/O ./PU/O 
+Người_xưa/Nn/O đã/R/O ví/Vv/O bờ/Nn/O biển/Nn/LOC_B Cửa_Tùng/Nr/LOC_I giống/Vv/O như/Cp/O một/Nq/NUM_B chiếc/Nc/O lược/Nn/O đồi_mồi/Nn/O cài/Vv/O vào/Cm/O mái_tóc/Nn/O bạch_kim/Nn/O của/Cm/O sóng/Nn/O biển/Nn/O ./PU/O 

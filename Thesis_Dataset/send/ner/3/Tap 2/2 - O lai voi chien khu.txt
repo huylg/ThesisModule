@@ -1,0 +1,29 @@
+﻿Ở/Vv/O lại/R/O với/Cp/O chiến_khu/Nn/O 
+Trung_đoàn_trưởng/Nn/O bước/Vv/O vào/Cm/O lán/Nn/O ,/PU/O nhìn/Vv/O cả/Pp/O đội/Nn/O một/Nq/NUM_B lượt/Nn/O ./PU/O 
+Cặp/Nq/O mắt/Nn/O ông/Nn/TTL_B ánh/Nr/PER_B lên/Vv/O vẻ/Nn/O trìu_mến/Aa/O ,/PU/O dịu_dàng/Aa/O ./PU/O 
+Ông/Nn/O ngồi/Vv/O yên_lặng/Aa/O một/Nq/O lúc/Nt/O lâu/Aa/O ,/PU/O rồi/Cp/O lên_tiếng/Vv/O :/PU/O 
+Các/Nq/O em/Nn/O ạ/M/O ,/PU/O hoàn_cảnh/Nn/O chiến_khu/Nn/O lúc/Nt/DTM_B này/Pd/DTM_I rất/R/O gian_khổ/Aa/O ./PU/O 
+Mai_đây/Nn/O chắc/Aa/O còn/R/O gian_khổ/Aa/O ,/PU/O thiếu_thốn/Aa/O nhiều/Aa/O hơn/Aa/O ./PU/O 
+Các/Nq/O em/Nn/O sẽ/R/O khó_lòng/Aa/O chịu/Vv/O nổi/R/O ./PU/O 
+Nếu/Cs/O em/Nn/O nào/Pd/O muốn/Vv/O trở_về/Vv/O sống/Vv/O với/Cp/O gia_đình/Nn/O thì/Cs/O trung_đoàn/Nn/O cho/Cp/O các/Nq/O em/Nn/O về/D/O ./PU/O 
+Các/Nq/O em/Nn/O thấy/Vv/O thế_nào/Pp/O ?/PU/O 
+Trước/Nn/O ý_kiến/Nn/O đột_ngột/Aa/O của/Cm/O chỉ_huy/Nn/O ,/PU/O bọn/Nn/O trẻ/Nn/O lặng/Aa/O đi/R/O ./PU/O 
+Tự_nhiên/Aa/O ,/PU/O ai/Pp/O cũng/R/O thấy/Vv/O cổ_họng/Nn/O mình/Pp/O nghẹn/Vv/O lại/R/O ./PU/O 
+Lượm/Nr/PER_B bước/Vv/O tới/Cm/O gần/Aa/O đống/Nn/O lửa/Nn/O ./PU/O 
+Giọng/Nn/O em/Pp/O rung/Vv/O lên/R/O :/PU/O 
+Em/Pp/O xin/Vv/O được/R/O ở/Vv/O lại/R/O ./PU/O 
+Em/Pp/O thà/Cp/O chết/Vv/O trên/Cm/O chiến_khu/Nn/O còn/R/O hơn/Aa/O về/Cm/O ở/Vv/O chung/Aa/O ,/PU/O ở/Vv/O lộn/Vv/O với/Cp/O tụi/Nn/O Tây/Nn/O ,/PU/O tụi/Nn/O Việt/Nr/LOC_B gian/Aa/O .../PU/O 
+Cả/Pp/O đội/Nn/O nhao_nhao/Vv/O :/PU/O 
+Chúng/Pp/O em/Pp/O xin/Vv/O ở/Vv/O lại/R/O ./PU/O 
+Mừng/Vv/O nói/Vv/O như/Cp/O van_lơn/Vv/O :/PU/O 
+Chúng/Pp/O em/Pp/O còn/R/O nhỏ/Aa/O ,/PU/O chưa/R/O làm/Vv/O được/Vv/O chi/Vv/O nhiều/Aa/O thì/Cp/O trung_đoàn/Nn/O cho/Cp/O chúng/R/O em/Pp/O ăn/Vv/O ít/Aa/O cũng/R/O được/Aa/O ./PU/O 
+Đừng/R/O bắt/Vv/O chúng/R/O em/Pp/O phải/Vv/O về/Vd/O ,/PU/O tội/Nn/O chúng/R/O em/Pp/O lắm/R/O ,/PU/O anh/Pp/O nờ/E/O .../PU/O 
+Những/Nq/O lời/Nn/O van_xin/Vv/O thơ_ngây/Aa/O mà/Cp/O thống_thiết/Aa/O ,/PU/O van_xin/Vv/O được/Vv/O chiến_đấu/Vv/O hi_sinh/Vv/O vì/Cp/O Tổ_quốc/Nn/O của/Cm/O các/Nq/O chiến_sĩ/Nn/O nhỏ_tuổi/Aa/O làm/Vv/O trung_đoàn_trưởng/Nn/O rơi/Vv/O nước_mắt/Nn/O ./PU/O 
+Ông/Nn/O ôm/Vv/O Mừng/Vv/O vào/Cm/O lòng/Nn/O ,/PU/O nói/Vv/O :/PU/O 
+Nếu/Cp/O các/Nq/O em/Nn/O đều/R/O xin/Vv/O ở/Vv/O lại/R/O ,/PU/O anh/Pp/O sẽ/R/O về/Vd/O báo_cáo/Vv/O với/Cp/O Ban/Nn/O chỉ_huy/Vv/O ./PU/O 
+Bỗng/R/O một/Nq/NUM_B em/Nn/O cất/Vv/O tiếng/Nn/O hát/Vv/O ,/PU/O cả/Pp/O đội/Nn/O đồng_thanh/R/O hát/Vv/O vang/Aa/O :/PU/O 
+Đoàn/Nn/O Vệ_quốc_quân/Nn/O một/Nq/NUM_B lần/Nn/O ra_đi/Vd/O ./PU/O 
+Nào/E/O có/R/O mong/Vv/O chi/Vv/O đâu/Pp/O ngày/Nt/O trở_về/Vv/O ./PU/O 
+Ra_đi/Vd/O ,/PU/O ra_đi/Vv/O bảo_tồn/Vv/O sông_núi/Nn/O ./PU/O 
+Ra_đi/Vd/O ,/PU/O ra_đi/Vv/O ,/PU/O thà/Cp/O chết/Vv/O không/R/O lui/Vd/O .../PU/O 
+Tiếng/Nn/O hát/Vv/O bay_lượn/Vv/O trên/Cm/O mặt/Nn/O suối/Nn/O ,/PU/O tràn/Vv/O qua/D/O lớp/Nn/O lớp/Nn/O cây/Nn/O rừng/Nn/O ,/PU/O bùng/Vv/O lên/R/O như/Cp/O ngọn/Nc/O lửa/Nn/O rực_rỡ/Aa/O giữa/Nn/O đêm/Nt/O rừng/Nn/O lạnh/Aa/O tối/Nt/O ,/PU/O làm/Vv/O cho/Cp/O lòng/Nn/O người/Nn/O chỉ_huy/Vv/O ấm/Aa/O hẳn/Aa/O lên/R/O ./PU/O 

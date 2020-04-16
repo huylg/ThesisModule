@@ -1,0 +1,15 @@
+﻿Vua/Nn/O tàu/Nn/O thủy/Nn/O Bạch_Thái_Bưởi/Nr/PER_B 
+Bưởi/Nn/O mồ_côi/Aa/O cha/Nn/O từ/Cm/O nhỏ/Aa/O ,/PU/O phải/Vv/O theo/Vv/O mẹ/Nn/O quẩy/Nn/O gánh/Vv/O hàng/Nn/O rong/Vv/O ./PU/O 
+Thấy/Vv/O em/Pp/O khôi_ngô/Aa/O ,/PU/O nhà/Nc/O họ/Nn/O Bạch/Nr/PER_B nhận/Vv/O làm/Vv/O con/Nn/O nuôi/Aa/O và/Cp/O cho/Cp/O ăn_học/Vv/O ./PU/O 
+Năm/Nt/DTM_B 21/Nt/DTM_I tuổi/Nn/O ,/PU/O Bạch_Thái_Bưởi/Nr/PER_B làm/Vv/O thư_kí/Nn/O cho/Cp/O một/Nq/NUM_B hãng/Nn/O buôn/Vv/O ./PU/O 
+Chẳng/R/O bao_lâu/Aa/O ,/PU/O anh/Nn/O đứng/Vv/O ra/R/O kinh_doanh/Vv/O độc_lập/Aa/O ,/PU/O trải/Vv/O đủ/Aa/O mọi/Nq/O nghề/Nn/O :/PU/O buôn/Vv/O gỗ/Nn/O ,/PU/O buôn/Vv/O ngô/Nn/O ,/PU/O mở/Vv/O hiệu/Nn/O cầm_đồ/Vv/O ,/PU/O lập/Vv/O nhà_in/Nn/O ,/PU/O khai_thác/Vv/O mỏ/Nn/O ,/PU/O .../PU/O 
+Có/Ve/O lúc/Nt/O mất_trắng/Vv/O tay/Nn/O ,/PU/O anh/Nn/O vẫn/R/O không/R/O nản_chí/Vv/O ./PU/O 
+Bạch_Thái_Bưởi/Nr/PER_B mở/Vv/O công_ti/Nn/O vận_tải/Vv/O đường/Nn/O thủy/Nr/O vào/Cm/O lúc/Nt/O những/Nq/O con/Nc/O tàu/Nn/O của/Cm/O người/Nn/O Hoa/Nr/O đã/R/O độc_chiếm/Vv/O các/Nq/O đường/Nn/O sông/Nn/O miền/Nn/O Bắc/Nn/O ./PU/O 
+Ông/Nn/O cho/Cp/O người/Nn/O đến/Vd/O các/Nq/O bến_tàu/Nn/O diễn_thuyết/Vv/O ./PU/O 
+Trên/Cm/O mỗi/Nq/O chiếc/Nc/O tàu/Nn/O ,/PU/O ông/Nn/O dán/Vv/O dòng/Nn/O chữ/Nn/O "/PU/O Người_ta/Pp/O thì/Cp/O đi/Vv/O tàu/Nn/O ta/Pp/O "/PU/O và/Cp/O treo/Vv/O một/Nq/NUM_B cái/Nc/O ống/Nn/O để/Cm/O khách/Nn/O nào/Pd/O đồng_tình/Vv/O với/Cp/O ông/Nn/O thì/Cp/O vui_lòng/Aa/O bỏ/Vv/O ống/Nn/O tiếp_sức/Vv/O cho/Cp/O chủ/Nn/O tàu/Nn/O ./PU/O 
+Khi/Nt/O bổ/Aa/O ống/Nn/O ,/PU/O tiền/Nn/O đồng/Nn/O rất/R/O nhiều/Aa/O ,/PU/O tiền/Nn/O hào/Nn/O ,/PU/O tiền/Nn/O xu/Nu/O thì/Cp/O vô_kể/R/O ./PU/O 
+Khách/Nn/O đi/Vv/O tàu/Nn/O của/Cm/O ông/Nn/O ngày_một/R/O đông/Aa/O ./PU/O 
+Nhiều/Aa/O chủ/Nn/O tàu/Nn/O người/Nn/O Hoa/Nr/O ,/PU/O người/Nn/O Pháp/Nr/LOC_B phải/Vv/O bán/Vv/O lại/R/O tàu/Nn/O cho/Cp/O ông/Nn/O ./PU/O 
+Rồi/Cp/O ông/Nn/O mua/Vv/O xưởng/Nn/O sửa_chữa/Vv/O tàu/Nn/O ,/PU/O thuê/Vv/O kĩ_sư/Nn/O giỏi/Aa/O trông_nom/Vv/O ./PU/O 
+Lúc/Nt/O thịnh_vượng/Aa/O nhất/R/O ,/PU/O công_ti/Nn/O của/Cm/O Bạch_Thái_Bưởi/Nr/ORG_B có/Ve/O tới/M/O ba/Nq/NUM_B mươi/Nq/NUM_I chiếc/Nc/O tàu/Nn/O lớn_nhỏ/Aa/O mang/Vv/O những/Nq/O cái/Nc/O tên/Nn/O lịch_sử/Aa/O :/PU/O Hồng_Bàng/Nr/ORG_B ,/PU/O Lạc_Long/Nr/PER_B ,/PU/O Trưng_Trắc/Nr/PER_B ,/PU/O Trưng_Nhị/Nr/PER_B ,/PU/O .../PU/O 
+Chỉ/R/O trong/Cm/O mười/Nq/MEA_B năm/Nt/MEA_I ,/PU/O Bạch_Thái_Bưởi/Nr/PER_B đã/R/O trở_thành/Vv/O "/PU/O một/Nq/NUM_B bậc/Nc/O anh_hùng/Nn/O kinh_tế/Nn/O "/PU/O như/Cp/O đánh_giá/Vv/O của/Cm/O người/Nn/O cùng/Aa/O thời/Nt/O ./PU/O 

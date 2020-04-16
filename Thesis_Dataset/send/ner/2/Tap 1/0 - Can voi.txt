@@ -1,0 +1,5 @@
+﻿Cân/Nu/O voi/Nn/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O sứ_thần/Nn/O Trung_Hoa/Nr/ORG_B thử/Vv/O tài/Nn/O Lương_Thế_Vinh/Nr/LOC_B ,/PU/O nhờ/Cm/O ông/Nn/O cân/Vv/O hộ/Vv/O con/Nc/O voi/Nn/O ./PU/O 
+Lương_Thế_Vinh/Nr/PER_B sai/Vv/O lính/Nn/O dắt/Vv/O voi/Nn/O xuống/D/O thuyền/Nn/O ,/PU/O đánh_dấu/Vv/O mức/Nn/O chìm/Vv/O của/Cm/O thuyền/Nn/O ./PU/O 
+Sau/Nn/O đó/Pd/O ,/PU/O ông/Nn/O cho/Cp/O voi/Nn/O lên/Vv/O bờ/Nn/O và/Cp/O xếp/Vv/O đá/Nn/O vào/D/O thuyền/Nn/O ./PU/O 
+Khi/Nt/O thuyền/Nn/O chìm/Vv/O đến/Cm/O mức/Nn/O đã/R/O đánh_dấu/Vv/O ,/PU/O ông/Nn/O sai/Aa/O cân/Nu/O chỗ/Nn/O đá/Nn/O ấy/Pd/O và/Cp/O biết/Vv/O voi/Nn/O nặng/Aa/O bao_nhiêu/Pp/O ./PU/O 

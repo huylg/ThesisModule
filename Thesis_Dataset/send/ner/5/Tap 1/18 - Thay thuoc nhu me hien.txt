@@ -1,0 +1,21 @@
+﻿Thầy_thuốc/Nn/O như/Cp/O mẹ/Nn/O hiền/Aa/O 
+Hải_Thượng_Lãn_Ông/Nr/PER_B là/Vc/O một/Nq/NUM_B thầy_thuốc/Nn/O giàu/Aa/O lòng/Nn/O nhân_ái/Vv/O ,/PU/O không/R/O màng/Vv/O danh_lợi/Nn/O ./PU/O 
+Có/Ve/O lần/Nn/O ,/PU/O một/Nq/NUM_B người/Nc/O thuyền_chài/Nn/O có/Ve/O đứa/Nc/O con/Nn/O nhỏ/Aa/O bị/Vv/O bệnh/Nn/O đậu/Vv/O nặng/Aa/O ,/PU/O nhưng/Cp/O nhà/Nn/O nghèo/Aa/O ,/PU/O không/R/O có/Ve/O tiền/Nn/O chữa/Vv/O ./PU/O 
+Lãn_Ông/Nn/O biết/Vv/O tin/Nn/O bèn/R/O đến/Vd/O thăm/Vv/O ./PU/O 
+Giữa/Cm/DTM_B mùa/Nn/DTM_I hè/Nt/DTM_I nóng_nực/Aa/O ,/PU/O cháu/Nn/O bé/Nn/O nằm/Vv/O trong/Cm/O chiếc/Nc/O thuyền/Nn/O nhỏ/Aa/O hẹp/Aa/O ,/PU/O người/Nn/O đầy/Aa/O mụn/Nn/O mủ/Nn/O ,/PU/O mùi/Nn/O hôi_tanh/Aa/O bốc/Vv/O lên/D/O nồng_nặc/Aa/O ./PU/O 
+Nhưng/Cp/O Lãn_Ông/Nn/O vẫn/R/O không/R/O ngại/Vv/O khổ/Aa/O ./PU/O 
+Ông/Nn/O ân_cần/Aa/O chăm_sóc/Vv/O đứa/Nc/O bé/Nn/O suốt/Aa/O một/Nq/MEA_B tháng/Nt/MEA_I trời/M/O và/Cp/O chữa/Vv/O khỏi/Vv/O bệnh/Nn/O cho/Cp/O nó/Pp/O ./PU/O 
+Khi/Nt/O từ_giã/Vv/O nhà_thuyền/Nn/O chài/Vv/O ,/PU/O ông/Nn/O chẳng_những/Cs/O không/R/O lấy/Vv/O tiền/Nn/O mà_còn/Cs/O cho/Vv/O thêm/Vv/O gạo/Nn/O ,/PU/O củi/Nn/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O khác/Aa/O ,/PU/O có/Ve/O người/Nc/O phụ_nữ/Nn/O được/Vv/O ông/Nn/O cho/Cp/O thuốc/Nn/O và/Cp/O giảm/Vv/O bệnh/Nn/O ./PU/O 
+Nhưng/Cp/O rồi/Cp/O bệnh/Nn/O tái_phát/Vv/O ,/PU/O người/Nc/O chồng/Nn/O đến/Vd/O xin/Vv/O đơn/Nn/O thuốc/Nn/O mới/Aa/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O trời/Nn/O đã/R/O khuya/Aa/O nên/Cp/O Lãn_Ông/Nn/O hẹn/Vv/O hôm/Nt/DTM_B sau/Nn/DTM_I đến/Vd/O khám/Vv/O kĩ/Aa/O mới/Aa/O cho/Cp/O thuốc/Nn/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ông/Nn/O đến/Vd/O thì/Cp/O được/Vv/O tin/Nn/O người/Nc/O chồng/Nn/O đã/R/O lấy/Vv/O thuốc/Nn/O khác/Aa/O ,/PU/O nhưng/Cp/O không/R/O cứu/Vv/O được/R/O vợ/Nn/O ./PU/O 
+Lãn_Ông/Nn/O rất/R/O hối_hận/Vv/O ./PU/O 
+Ông/Nn/O ghi/Vv/O trong/Cm/O sổ/Nn/O thuốc/Nn/O của/Cm/O mình/Pp/O :/PU/O 
+Xét/Vv/O về/Cm/O việc/Nn/O thì/Cp/O người_bệnh/Nn/O chết/Vv/O do/Cp/O tay/Nc/O thầy_thuốc/Nn/O khác/Aa/O ,/PU/O song/Cp/O về/Cm/O tình/Nn/O thì/Cp/O tôi/Pp/O như/Cp/O mắc/Vv/O phải/R/O tội/Nn/O giết/Vv/O người/Nn/O ./PU/O 
+Càng/Cs/O nghĩ/Vv/O càng/Cs/O hối_hận/Vv/O ./PU/O 
+Là/Vc/O thầy_thuốc/Nn/O nổi_tiếng/Aa/O ,/PU/O Lãn_Ông/Nn/O nhiều/Aa/O lần/Nn/O được/Vv/O vua_chúa/Nn/O vời/Aa/O vào/Cm/O cung/Nn/O chữa/Vv/O bệnh/Nn/O và/Cp/O được/Vv/O tiến_cử/Vv/O vào/Cm/O chức/Nn/O ngự_y/Nn/O ,/PU/O song/Cp/O ông/Nn/O đã/R/O khéo/Aa/O chối_từ/Vv/O ./PU/O 
+Suốt/Aa/O đời/Nn/O ,/PU/O Lãn_Ông/Nn/O không/R/O vương/Vv/O vào/Cm/O vòng/Nn/O danh_lợi/Nn/O ./PU/O 
+Ông/Nn/O có/Ve/O hai/Nq/NUM_B câu_thơ/Nn/O tỏ/Vv/O chí/Nn/O của/Cm/O mình/Pp/O :/PU/O 
+Công_danh/Nq/O trước_mắt/Nn/O trôi/Vv/O như/Cp/O nước/Nn/O ,/PU/O 
+Nhân_nghĩa/Nn/O trong/Cm/O lòng/Nn/O chẳng/R/O đổi/Vv/O phương/Nn/O ./PU/O 

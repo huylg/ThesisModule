@@ -1,0 +1,32 @@
+Bài_toán/Nn dân_số/Nn
+Có/Ve người/Nn cho/Vv rằng/Cp :/PU Bài_toán/Nn dân_số/Nn đã/R được/Vv đặt/Vv ra/R từ/Cm thời/Nt cổ_đại/Nn ./PU
+Lúc/Nt đầu/Aa tôi/Pp không/R tin/Vv điều/Nc này/Pd ./PU
+Bởi_vì/Cp vấn_đề/Nn dân_số/Nn và/Cp kế_hoạch/Nn hóa/Nq gia_đình/Nn chỉ/R mới/R được/Vv đặt/Vv ra/R vài/Nq chục/Nq năm/Nt nay/Nt ./PU
+Còn/Cp nói/Vv từ/Cm thời/Nt cổ_đại/Nn tức_là/Vv chuyện/Nn của/Cm dăm_bảy/Nq ngàn/Nq năm/Nt về/Vv trước/Nn ./PU
+Độ/Nn chênh/Aa về/Cm thời_gian/Nn ấy/Pd ,/PU ai/Pp mà/Cp tin/Vv được/R !/PU
+Thế/Pp mà/Cp nghe/Vv xong/Aa câu_chuyện/Nn này/Pd ,/PU qua/Cm một/Nq thoáng/Nn liên_tưởng/Vv ,/PU tôi/Pp bỗng/R "/PU sáng_mắt/Aa ra/R "/PU .../PU
+Đó/Pd là/Vc câu_chuyện/Nn từ/Cm một/Nq bài_toán/Nn cổ/Aa ,/PU kể/Vv về/Cm việc/Nn kén/Nn rể/Nn của/Cm nhà/Nn thông_thái/Aa ./PU
+Nhà/Nc thông_thái/Aa nọ/Pd có/Ve một/Nq cô/Nc con_gái/Nn rất/R đẹp/Aa ./PU
+Đến/Cm tuổi/Nn cập_kê/Nr ,/PU cô/Nc gái/Nn cần/Vv tuyển/Vv một/Nq đấng/Nc phu_quân/Nu ./PU
+Rất/R nhiều/Aa chàng/Nc trai/Nn đến/Vd dự_thi/Vv ./PU
+Được/Vv làm/Vv rể/Nn nhà/Nn thông_thái/Aa là/Vc điều/Nc vô_cùng/R hấp_dẫn/Aa ,/PU nhất_là/Cp đối_với/Cp con_cái/Nn của/Cm những/Nq nhà/Nn giàu_có/Aa ./PU
+Nhà/Nc thông_thái/Aa đưa/Vv ra/R một/Nq bàn_cờ/Nn tướng/Nn gồm/Vv 64/Nq ô/Nn ./PU
+Ông/Nn yêu_cầu/Vv các/Nq chàng/Nc trai/Nn thực_hiện/Vv theo/Vv điều_kiện/Nn sau/Nn :/PU đặt/Vv 1/Nq hạt/Nc thóc/Nn vào/Cm ô/Nn thứ/Nn nhất/An ;/PU ô/Nn thứ/Nn hai/An đặt/Vv 2/Nq hạt/Nc thóc/Nn ;/PU và/Cp các/Nq ô/Nn tiếp_theo/Vv số/Nn thóc/Nn cứ/Vv thế/Pp nhân/Vv đôi/Nq ./PU
+Ai/Pp đủ/Aa số/Nn thóc/Nn theo/Vv yêu_cầu/Nn của/Cm bài_toán/Nn thì/Cp sẽ/R là/Vc chồng/Nn cô/Nc gái/Nn ./PU
+Ban_đầu/Nn ai/Pp cũng/R tưởng/Vv có/Ve gì/M mà/Cp không/R đủ/Aa ./PU
+Nhưng/Cp rồi/Cp kết_cục/Nn .../PU không/R chàng/Nc trai/Nn nào/Pd đủ/Aa thóc/Nn để/Cm lấy/Vv được/R cô/Nc gái/Nn ./PU
+Số/Nn thóc/Nn được/Vv tính/Vv ra/D theo/Vv bài_toán/Nn cấp_số_nhân/Nn ấy/Pd ,/PU nhiều/Aa đến/Cm mức/Nn có_thể_phủ/Nn khắp/Aa bề_mặt/Nn trái_đất/Nn này/Pd ./PU
+Một/Nq con_số/Nn kinh_khủng/Aa biết/Vv nhường/Vv nào/Pd !/PU
+Bây_giờ/Pd nếu/Cp ta/Pp tạm_thời/Aa công_nhận/Vv theo/Vv Kinh_Thánh/Nn ,/PU khi/Nt khai_thiên_lập_địa/Nt ,/PU trái_đất/Nn này/Pd mới/R chỉ/R có/Ve hai/Nq người/Nn :/PU một/Nq chàng/Nn A-dam/Nr và/Cp một/Nq nàng/Nn E-va/Nr ;/PU thì/Cp đến/Cm năm/Nt 1995/Nt dân_số/Nn toàn/Nq thế_giới/Nn là/M 5,63/Nq tỉ/Nq người/Nn ./PU
+Theo/Vv bài_toán/Nn cổ/Aa kia/Pd thì/Cp loài_người/Nn phát_triển/Vv theo/Vv cấp_số_nhân/Nn ,/PU công_bội/Nn là/Vc 2/Nq ,/PU đã/R vượt/Vv ô/Nn thứ/Nn 33/An ./PU
+Đó/Pd là/Vc với/Cp điều_kiện/Nn mỗi/Nq gia_đình/Nn chỉ/R có/Ve hai/Nq con/Nn ,/PU và/Cp đã/R trừ/Vv đi/Vv tỉ_lệ/Nn tử_vong/Vv (/PU kể_cả/M dịch_bệnh/Nn hoặc/Cp chiến_tranh/Nn không/R quá/Vv 5/Nq %/Nu )/PU ./PU
+Trong/Cm thực_tế/Nn ,/PU một/Nq người/Nc phụ_nữ/Nn có/Ve khả_năng/Nn sinh/Vv được/R rất/R nhiều/Aa con/Nn ./PU
+Theo/Vv thống_kê/Nn của/Cm Hội_nghị/Nn Cai-rô/Nr (/PU Ai_Cập/Nr )/PU họp/Vv ngày/Nt 5/Nt -/PU 9/Nq -/PU 1994/Nt thì/Cp tỉ_lệ/Nn sinh/Vv con/Nn của/Cm một/Nq phụ_nữ/Nn Ấn_Độ/Nr là/Vc 4,5/Nq ;/PU Nê-pan/Nr :/PU 6,3/Nq ;/PU Ru-an-đa/Nn :/PU 8,1/Nq ;/PU Tan-da-ni-a/Nr :/PU 6,7/Nq ;/PU Ma-da-gát-xca/Nn :/PU 6,6/Nq .../PU
+Tính/Vv chung/Aa toàn/Nq châu/Nn Phi/Nr là/Vc 5,8/Nq ./PU
+Phụ_nữ/Nn Việt_Nam/Nr là/Vc 3,7/Nq ./PU
+Như/Cp vậy/Pp phấn_đấu/Vv để/Cm mỗi/Nq gia_đình/Nn có/Ve một/Nq đến/Cm hai/Nq con/Nc là/Vc một/Nq chỉ_tiêu/Nn rất/R khó_khăn/Aa ./PU
+Với/Cp tỉ_lệ/Nn hàng/R năm/Nt tăng/Vv 1,73/Nq %/Nu như/Cp mười/Nq lăm/Nq năm/Nt trước/Nn và/Cp 1,57/Nq %/Nu năm/Nt 1990/Nt thì/Cp dân_số/Nn hành_tinh/Nn của/Cm chúng_ta/Pp năm/Nt 2015/Nt sẽ/R là/Vc hơn/Aa 7/Nq tỉ/Nq người/Nn ./PU
+Theo/Vv bài_toán/Nn cổ/Nn trên/Nn ,/PU số/Nn dân/Nn ấy/Pd đã/R mon_men/Vv sang/Cm ô/Nn thứ/Nn 34/An của/Cm bàn_cờ/Nn ./PU
+Đừng/R để/Cm cho/Cp mỗi/Nq con_người/Nn trên/Cm trái_đất/Nn này/Pd chỉ/R còn/Ve diện_tích/Nn 1/Nq hạt/Nc thóc/Nn ./PU
+Muốn/Vv thế/Pp phải/Vv góp_phần/Vv làm/Vv cho/Cp chặng/Nn đường/Nn đi/Vv đến/Cm ô/Nn thứ/Nn 64/An càng/R dài/Aa lâu/Aa hơn/Aa ,/PU càng/Cs tốt/Aa ./PU
+Đó/Pd là/Vc con/Nc đường/Nn "/PU tồn_tại/Vv hay/Cp không/R tồn_tại/Vv "/PU của/Cm chính/M loài_người/Nn ./PU

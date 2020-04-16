@@ -1,0 +1,15 @@
+﻿Đôi/Nq/O giày_ba_ta/Nu/O màu/Nn/O xanh/Aa/O 
+Ngày/Nt/O còn/R/O bé/Aa/O ,/PU/O có/Ve/O lần/Nn/O tôi/Pp/O đã/R/O thấy/Vv/O anh/Nn/O họ/Pp/O tôi/Pp/O đi/Vv/O đôi/Nq/O giày_ba_ta/Nu/O màu/Nn/O xanh/Aa/O nước/Nn/O biển/Nn/O ./PU/O 
+Chao_ôi/E/O !/PU/O 
+Đôi/Nq/O giày/Nn/O mới/Aa/O đẹp/Aa/O làm_sao/E/O !/PU/O 
+Cổ/Pp/O giày/Nn/O ôm/Vv/O sát/Aa/O chân/Nn/O ./PU/O 
+Thân/Nn/O giày/Nn/O làm/Vv/O bằng/Cm/O vải/Nn/O cứng/Aa/O ,/PU/O dáng/Nn/O thon_thả/Aa/O ,/PU/O màu/Nn/O vải/Aa/O như/Cp/O màu_da/Nn/O trời/Nn/O những/Nq/DTM_B ngày/Nt/DTM_I thu/Nt/DTM_I ./PU/O 
+Phần/Nn/O thân/Aa/O giày/Nn/O gần/Aa/O sát/Aa/O cổ/Nn/O có/Ve/O hai/Nq/NUM_B hàng/Nn/O khuy/Nn/O dập/Vv/O và/Cp/O luồn/Vv/O một/Nq/NUM_B sợi/Nn/O dây/Nn/O trắng/Aa/O nhỏ/Aa/O vắt/Vv/O ngang/Aa/O ./PU/O 
+Tôi/Pp/O tưởng_tượng/Vv/O nếu/Cp/O mang/Vv/O nó/Pp/O vào/Cm/O chắc/Aa/O bước/Vv/O đi/Vv/O sẽ/R/O nhẹ/Aa/O và/Cp/O nhanh/Aa/O hơn/Aa/O ,/PU/O tôi/Pp/O sẽ/R/O chạy/Vv/O trên/Cm/O những/Nq/O con/Nc/O đường/Nn/O đất/Nn/O mịn/Aa/O trong/Cm/O làng/Nu/O trước/Cm/O cái/Nc/O nhìn/Vv/O thèm_muốn/Vv/O của/Cm/O các/Nq/O bạn/Nn/O tôi/Pp/O .../PU/O 
+Sau/Nn/O này/Pd/O làm/Vv/O công_tác/Nn/O Đội/Nn/O ở/Cm/O một/Nq/NUM_B phường/Nu/O ,/PU/O có/Ve/O lần/Nn/O tôi/Pp/O phải/Vv/O vận_động/Vv/O Lái/Vv/O ,/PU/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O lang_thang/Vv/O ,/PU/O đi/Vv/O học/Vv/O ./PU/O 
+Tôi/Pp/O đã/R/O theo/Vv/O Lái/Vv/O trên/Cm/O khắp/Aa/O các/Nq/O đường_phố/Nn/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O tôi/Pp/O bắt_gặp/Vv/O cậu/Nc/O ngẩn_ngơ/Aa/O nhìn/Vv/O theo/Vv/O đôi/Nq/O giày_ba_ta/Nu/O màu/Nn/O xanh/Aa/O của/Cm/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O đang/R/O dạo/Vv/O chơi/Vv/O ./PU/O 
+Hóa/Nr/PER_B ra/Vv/O trẻ_con/Nn/O thời/Nt/O nào/Pd/O cũng/R/O giống/Vv/O nhau/Nn/O ./PU/O 
+Tôi/Pp/O quyết_định/Vv/O chọn/Vv/O đôi/Nq/O giày_ba_ta/Nu/O màu/Nn/O xanh/Aa/O để/Cm/O thưởng/Vv/O cho/Vv/O Lái/Vv/O trong/Cm/O buổi/Nt/O đầu/Aa/O cậu/Nn/O đến/Vd/O lớp/Nn/O ./PU/O 
+Hôm/Nt/O nhận/Vv/O giày/Nn/O ,/PU/O tay_Lái/Nn/O run/Vv/O run/Vv/O ,/PU/O môi/Nn/O cậu/Nn/O mấp_máy/Vv/O ,/PU/O mắt/Nn/O hết/R/O nhìn/Vv/O đôi/Nq/O giày/Nn/O ,/PU/O lại/R/O nhìn/Vv/O xuống/D/O đôi/Nq/O bàn_chân/Nn/O mình/Pp/O đang/R/O ngọ_nguậy/Vv/O dưới/Cm/O đất/Nn/O ./PU/O 
+Lúc/Nt/O ra/Vd/O khỏi/Vv/O lớp/Nn/O ,/PU/O Lái/Vv/O cột/Nn/O hai/Nq/NUM_B chiếc/Nc/O giày/Nn/O vào/Cm/O nhau/Nn/O ,/PU/O đeo/Vv/O vào/Cm/O cổ/Nn/O ,/PU/O nhảy/Vv/O tưng_tưng/Aa/O ./PU/O 

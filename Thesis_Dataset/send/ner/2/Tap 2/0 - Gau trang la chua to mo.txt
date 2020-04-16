@@ -1,0 +1,15 @@
+﻿Gấu/Nn/O trắng/Aa/O là/Vc/O chúa/Nn/O tò_mò/Aa/O 
+Ở/Cm/O Bắc_Cực/Nr/LOC_B ,/PU/O hầu_hết/Nq/O các/Nq/O con/Nc/O vật/Nn/O đều/R/O có/Ve/O bộ/Nc/O lông/Nn/O trắng/Aa/O :/PU/O chim/Nn/O ưng/Vv/O trắng/Aa/O ,/PU/O cú/Nn/O trắng/Aa/O ,/PU/O thỏ/Nn/O trắng/Aa/O ,/PU/O đến/Cm/O gấu/Nn/O cũng/R/O trắng/Aa/O nốt/R/O ./PU/O 
+Gấu/Nn/O trắng/Aa/O là/Vc/O con/Nn/O vật/Vv/O to/Aa/O khỏe/Nn/O nhất/R/O ./PU/O 
+Nó/Pp/O cao/Aa/O gần/Aa/O 3/Nq/MEA_B mét/Nu/MEA_I và/Cp/O nặng/Aa/O tới/Cm/O 800/Nq/NUM_B ki-lô-gam/Nn/O ./PU/O 
+Đặc_biệt/Aa/O ,/PU/O gấu/Nn/O trắng/Aa/O rất/R/O tò_mò/Aa/O ./PU/O 
+Có/Ve/O lần/Nn/O ,/PU/O một/Nq/NUM_B thủy/Nn/O thủ/Vv/O rời/Vv/O tàu/Nn/O đi/Vv/O dạo/Vv/O ./PU/O 
+Trên/Cm/O đường/Nn/O trở_về/Vv/O ,/PU/O thấy/Vv/O một/Nq/NUM_B con/Nc/O gấu/Nn/O trắng/Aa/O đang/R/O xông/Vv/O tới/D/O ,/PU/O anh/Nn/O khiếp_đảm/Vv/O bỏ/Vv/O chạy/Vv/O ./PU/O 
+Gấu/Nn/O đuổi/Vv/O theo/Vv/O ./PU/O 
+Sực/Nr/PER_B nhớ/Vv/O là/Cp/O con/Nn/O vật/Vv/O này/Pd/O có/Ve/O tính/Nn/O tò_mò/Aa/O ,/PU/O anh/Nn/O ném/Vv/O lại/R/O cái/Nc/O mũ/Nn/O ./PU/O 
+Thấy/Vv/O mũ/Nn/O ,/PU/O gấu/Nn/O dừng/Vv/O lại/R/O ,/PU/O đánh_hơi/Vv/O ,/PU/O lấy/Vv/O chân/Nn/O lật/Vv/O qua/D/O lật/Vv/O lại/R/O chiếc/Nc/O mũ/Nn/O ./PU/O 
+Xong/Vv/O ,/PU/O nó/Pp/O lại/R/O đuổi/Vv/O ./PU/O 
+Anh/Nn/TTL_B thủy/Nr/PER_B thủ/Vv/O vứt/Vv/O tiếp/Vv/O găng_tay/Nn/O ,/PU/O khăn/Nn/O ,/PU/O áo_choàng/Nn/O .../PU/O 
+Môi/Nr/PER_B lần/Nn/O như/Cp/O vậy/Pp/O ,/PU/O gấu/Nn/O đều/R/O dừng/Vv/O lại/R/O ,/PU/O tò_mò/Aa/O xem_xét/Vv/O ./PU/O 
+Nhưng/Cp/O vì/Cs/O nó/Pp/O chạy/Vv/O rất/R/O nhanh/Aa/O nên/Cs/O suýt_nữa/R/O thì/Cp/O tóm/Vv/O được/R/O anh/Nn/O ./PU/O 
+May_mà/E/O anh/Pp/O đã/R/O kịp/Aa/O nhảy/Vv/O lên/R/O tàu/Nn/O ,/PU/O vừa/Cs/O sợ/Vv/O vừa/Cs/O rét/Aa/O run/Vv/O cầm_cập/Aa/O ./PU/O 

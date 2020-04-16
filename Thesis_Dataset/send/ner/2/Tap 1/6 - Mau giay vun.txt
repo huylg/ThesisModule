@@ -1,0 +1,29 @@
+﻿Mẫu/Nn/O giấy/Nn/O vụn/Aa/O 
+Lớp_học/Nn/O rộng_rãi/Aa/O ,/PU/O sáng_sủa/Aa/O và/Cp/O sạch_sẽ/Aa/O nhưng/Cp/O không/R/O biết/Vv/O ai/Pp/O vứt/Vv/O một/Nq/NUM_B mẩu/Nn/O giấy/Nn/O ngay/M/O giữa/Cm/O lối/Nn/O ra_vào/Vd/O ./PU/O 
+Cô_giáo/Nn/O bước/Vv/O vào/Cm/O lớp/Nn/O ,/PU/O mỉm_cười/Vv/O :/PU/O 
+Lớp/Nn/O ta/Pp/O hôm_nay/Nt/DTM_B sạch_sẽ/Aa/O quá/R/O !/PU/O 
+Thật/R/O đáng/Vv/O khen/Vv/O !/PU/O 
+Nhưng/Cp/O các/Nq/O em/Nn/O có/R/O nhìn/Vv/O thấy/Vv/O mẩu/Nn/O giấy/Nn/O đang/R/O nằm/Vv/O ngay/M/O giữa/Cm/O cửa/Nn/O kia/Pd/O không/R/O ?/PU/O 
+Có/Ve/O ạ/M/O !/PU/O 
+-/PU/O Cả/Pp/O lớp/Nn/O đồng_thanh/R/O đáp/Vv/O ./PU/O 
+Nào/E/O !/PU/O 
+Các/Nq/O em/Nn/O hãy/R/O lắng_nghe/Vv/O và/Cp/O cho/Cp/O cô/Nn/O biết/Vv/O mẩu/Nn/O giấy/Nn/O đang/R/O nói/Vv/O gì/Pp/O nhé/M/O !/PU/O 
+-/PU/O Cô_giáo/Nn/O nói/Vv/O tiếp/Vv/O ./PU/O 
+Cả/Pp/O lớp/Nn/O im_lặng/Aa/O lắng_nghe/Vv/O ./PU/O 
+Được/Vv/O một/Nq/O lúc/Nt/O ,/PU/O tiếng/Nn/O xì_xào/Vv/O nổi/R/O lên/D/O vì/Cp/O các/Nq/O em/Nn/O không/R/O nghe/Vv/O thấy/Vv/O mẩu/Nn/O giấy/Nn/O nói/Vv/O gì/Pp/O cả/M/O ./PU/O 
+Một/Nq/NUM_B em_trai/Nn/O đánh_bạo/Vv/O giơ/Vv/O tay/Nn/O xin/Vv/O nói/Vv/O ./PU/O 
+Cô_giáo/Nn/O cười/Vv/O :/PU/O 
+Tốt/Aa/O lắm/R/O !/PU/O 
+Em/Pp/O nghe/Vv/O thấy/Vv/O mẩu/Nn/O giấy/Nn/O nói/Vv/O gì/Nn/O nào/Pd/O ?/PU/O 
+Thưa/E/O cô/Pp/O ,/PU/O giấy/Nn/O không/R/O nói/Vv/O được/R/O đâu/Pp/O ạ/M/O !/PU/O 
+Nhiều/Aa/O tiếng/Nn/O xì_xào/Vv/O hưởng_ứng/Vv/O :/PU/O 
+Thưa/E/O cô/Pp/O ,/PU/O đúng/Aa/O đấy/M/O ạ/M/O !/PU/O 
+Đúng/Aa/O đấy/M/O ạ/M/O !/PU/O 
+Bỗng/R/O một/Nq/NUM_B em_gái/Nn/O đứng/Vv/O dậy/Vv/O ,/PU/O tiến/Vv/O tới/Cm/O chỗ/Nn/O mẩu/Nn/O giấy/Nn/O ,/PU/O nhặt/Vv/O lên/R/O rồi/Cp/O mang/Vv/O bỏ/Vv/O vào/D/O sọt/Nn/O rác/Nn/O ./PU/O 
+Xong_xuôi/Aa/O ,/PU/O em/Pp/O mới/R/O nói/Vv/O :/PU/O 
+Em/Pp/O có/R/O nghe/Vv/O thấy/Vv/O ạ/M/O ./PU/O 
+Mẩu/Nn/O giấy/Nn/O bảo/Vv/O :/PU/O 
+Các/Nq/O bạn/Pp/O ơi/E/O !/PU/O 
+Hãy/R/O bỏ/Vv/O tôi/Pp/O vào/Cm/O sọt/Nn/O rác/Nn/O !/PU/O 
+Cả/Pp/O lớp/Nn/O cười_rộ/Nn/O lên/R/O thích_thú/Aa/O ./PU/O 
+Buổi/Nt/O học/Vv/O hôm/Nt/O ấy/Pd/O vui/Aa/O quá/R/O !/PU/O 

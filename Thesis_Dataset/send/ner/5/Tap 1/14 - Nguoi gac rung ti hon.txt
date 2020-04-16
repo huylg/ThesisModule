@@ -1,0 +1,26 @@
+﻿Người/Nn/O gác/Vv/O rừng/Nn/O tí_hon/Aa/O 
+Ba/Nq/NUM_B em/Nn/O làm/Vv/O nghề/Nn/O gác/Vv/O rừng/Nn/O ./PU/O 
+Tình_yêu/Nn/O rừng/Nn/O của/Cm/O ba/Nq/NUM_B đã/R/O sớm/Aa/O truyền/Vv/O sang/Cm/O em/Pp/O ./PU/O 
+Sáng/Nt/O hôm/Nt/O ấy/Pd/O ,/PU/O ba/Nq/NUM_B về/Vd/O thăm/Vv/O bà/Nn/O nội/Nn/O ốm/Vv/O ./PU/O 
+Chiều/Nt/O đến/D/O ,/PU/O em/Pp/O đi/Vv/O loanh_quanh/Aa/O theo/Vv/O lối/Nn/O ba/An/O vẫn/R/O đi/Vv/O tuần/Nt/O rừng/Nn/O ./PU/O 
+Phát_hiện/Nn/O những/Nq/O dấu/Nn/O chân/Nn/O người_lớn/Nn/O hằn/Vv/O trên/Cm/O đất/Nn/O ,/PU/O em/Pp/O thắc_mắc/Vv/O :/PU/O 
+"/PU/O Hai/Nq/MEA_B ngày/Nt/MEA_I nay/Nt/O đâu/R/O có/Ve/O đoàn/Nn/O khách/Nn/O tham_quan/Vv/O nào/Pd/O ?/PU/O "/PU/O 
+Thấy/Vv/O lạ/Aa/O ,/PU/O em/Pp/O lần/Nn/O theo/Vv/O dấu/Nn/O chân/Nn/O ./PU/O 
+Khoảng/Nn/O hơn/Aa/O chục/Nq/O cây/Nc/O to/Aa/O cỗ/Nc/O đã/R/O bị/Vv/O chặt/Aa/O thành/Vv/O từng/Pp/O khúc/Nn/O dài/Aa/O ./PU/O 
+Gần/Aa/O đó/Pd/O có/Ve/O tiếng/Nn/O bàn_bạc/Vv/O :/PU/O 
+Mày/Pp/O đã/R/O dặn/Vv/O lão/Nn/O Sáu_Bơ/Nr/PER_B tối/Nt/O đánh/Vv/O xe/Nn/O ra/D/O bìa/Nn/O rừng/Nn/O chưa/R/O ?/PU/O 
+Qua/Cm/O khe/Nn/O lá/Nn/O ,/PU/O em/Pp/O thấy/Vv/O hai/Nq/NUM_B gã/Nc/O trộm/Nn/O ./PU/O 
+Lừa/Nr/PER_B khi/Nt/O hai/Nq/NUM_B gã/Nc/O mãi/R/O cột/Nn/O các/Nq/O khúc/Nn/O gỗ/Nn/O ,/PU/O em/Pp/O lén/R/O chạy/Vv/O ./PU/O 
+Em/Pp/O chạy/Vv/O theo/Vv/O đường/Nn/O tắt/Vv/O về/Cm/O quán/Nn/O bà/Nn/TTL_B Hai/Nr/PER_B ,/PU/O xin/Vv/O bà/Nn/O cho/Vv/O gọi/Vv/O điện_thoại/Nn/O ./PU/O 
+Một/Nq/NUM_B giọng/Nn/O nói/Vv/O rắn_rỏi/Aa/O vang/Aa/O lên/D/O ở/Cm/O đầu/Nn/O dây/Nn/O bên/Nn/O kia/Pd/O :/PU/O 
+A_lô/Nr/PER_B !/PU/O 
+Công_an/Nn/O huyện/Nu/O đây/Pd/O !/PU/O 
+Sau/Nn/O khi/Nt/O nghe/Vv/O em/Pp/O báo/Vv/O tin/Nn/O có/Ve/O bọn/Nn/O trộm/Vv/O gỗ/Nn/O ,/PU/O các/Nq/O chú/Nc/O công_an/Nn/O dặn_dò/Vv/O em/Pp/O cách/Nn/O phối_hợp/Vv/O với/Cp/O các/Nq/O chú/Nc/O để/Cm/O bắt/Vv/O bọn/Nn/O trộm/Vv/O ,/PU/O thu/Vv/O lại/R/O gỗ/Nn/O ./PU/O 
+Đêm/Nt/O ấy/Pd/O ,/PU/O lòng/Nn/O em/Pp/O như/Cp/O lửa/Nn/O đốt/Vv/O ./PU/O 
+Nghe/Vv/O thấy/Vv/O tiếng/Nn/O bành_bạch/ON/O của/Cm/O xe/Nn/O chở/Vv/O trộm/Vv/O gỗ/Nn/O ,/PU/O em/Pp/O lao/Vv/O ra/D/O ./PU/O 
+Chiếc/Nc/O xe/Nn/O tới/Aa/O gần/Aa/O .../PU/O tới/Cm/O gần/Aa/O ,/PU/O mắc/Vv/O vào/Cm/O sợi/Nn/O dây/Nn/O chão/Nn/O chăng/R/O ngang/Aa/O đường/Nn/O ,/PU/O gỗ/Nn/O văng/Vv/O ra/D/O ./PU/O 
+Bọn/Nn/O trộm/Vv/O đang/R/O loay_hoay/Vv/O lượm/Vv/O lại/R/O gỗ/Nn/O thì/Cp/O xe/Nn/O công_an/Nn/O lao/Vv/O tới/Cm/O ./PU/O 
+Ba/Nq/NUM_B gã/Nc/O trộm/Nn/O đứng/Vv/O khựng/Vv/O lại/R/O như/Cp/O rô_bốt/Nn/O hết/Ve/O pin/Nn/O ./PU/O 
+Tiếng/Nn/O còng/Aa/O tay/Nn/O đã/R/O vang/Vv/O lên/R/O lách_cách/Aa/O ./PU/O 
+Một/Nq/NUM_B chú/Nc/O công_an/Nn/O vỗ/Vv/O vai/Nn/O em/Pp/O :/PU/O 
+Cháu/Pp/O quả/M/O là/Vc/O chàng/Nc/O gác/Nn/O rừng/Nn/O dũng_cảm/Aa/O !/PU/O 

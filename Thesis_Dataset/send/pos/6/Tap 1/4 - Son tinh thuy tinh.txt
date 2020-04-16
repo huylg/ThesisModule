@@ -1,0 +1,25 @@
+Sơn_Tinh/Nr ,/PU Thủy_Tinh/Nr
+Hùng_Vương/Nr thứ/Nn mười/An tám/Nq có/Ve một/Nq người/Nc con_gái/Nn tên/Nn là/Vc Mị_Nương/Nr ,/PU người_đẹp/Nn như/Cp hoa/Nn ,/PU tính_nết/Nn hiền_dịu/Aa ./PU
+Vua_cha/Nn yêu_thương/Vv nàng/Nn hết_mực/R ,/PU muốn/Vv kén/Aa cho/Cp con/Nn một/Nq người/Nc chồng/Nn thật/R xứng_đáng/Aa ./PU
+Một/Nq hôm/Nt có/Ve hai/Nq chàng/Nc trai/Nn đến/Vd cầu_hôn/Vv ./PU
+Một/Nq người/Nn ở/Cm vùng/Nn núi/Nn Tản_Viên/Nr có/Ve tài/Nn lạ/Aa :/PU vẫy/Vv tay/Nn về/D phía/Nn đông/Nn ,/PU phía/Nn đông/Nn nổi/Vv cồn/Nn bãi/Nn ;/PU vẫy/Vv tay/Nn về/D phía/Nn tây/Nn ,/PU phía/Nn tây/Nn mọc/Vv lên/R từng/Pp dãy/Nn núi/Nn đồi/Nn ./PU
+Người_ta/Pp gọi/Vv chàng/Nn là/Vc Sơn_Tinh/Nr ./PU
+Một/Nq người/Nn ở/Cm miền/Nn biển/Nn ,/PU tài_năng/Nn cũng/R không/R kém/Aa :/PU gọi/Vv gió/Nn ,/PU gió/Nn đến/Vd ;/PU hô/Vv mưa/Nn ,/PU mưa/Nn về/D ./PU
+Người_ta/Pp gọi/Vv chàng/Nn là/Vc Thủy_Tinh/Nr ./PU
+Một/Nq người/Nn là/Vc chúa/Nn vùng/Nn non/Aa cao/Aa ,/PU một/Nq người/Nn là/Vc chúa/Nn vùng/Nn nước/Nn thẳm/Aa ,/PU cả/Pp hai/Nq đều/R xứng_đáng/Aa làm/Vv rể/Nn vua/Nn Hùng/Nr ./PU
+Vua/Nn Hùng/Nr băn_khoăn/Aa không/R biết/Vv nhận_lời/Vv ai/Pp ,/PU từ_chối/Vv ai/Pp ,/PU bèn/R cho/Vv mời/Vv các/Nq Lạc_hầu/Nn vào/Cm bàn_bạc/Vv ./PU
+Xong/Vv ,/PU vua/Nn phán/Vv :/PU
+-/PU Hai_chàng/Nn đều/R vừa_ý/Aa ta/Pp ,/PU nhưng/Cp ta/Pp chỉ/R có/Ve một/Nq người/Nc con_gái/Nn ,/PU biết/Vv gả/Vv cho/Cp người/Nn nào/Pd ?/PU
+Thôi_thì/Cp ngày_mai/Nt ,/PU ai/Pp đem/Vv sính_lễ/Nn đến/Cm trước/Nn ,/PU ta/Pp sẽ/R cho/Vv cưới/Vv con_gái/Nn ta/Pp ./PU
+Hai/Nq chàng/Nn tâu/Vv hỏi/Vv đồ/Nn sính_lễ/Nn cần/Vv sắm/Vv những/Nq gì/Pp ,/PU vua/Nn bảo/Vv :/PU "/PU Một/Nq trăm/Nq ván/Nn cơm/Nn nếp/Nn ,/PU một/Nq trăm/Nq nệp/Nn bánh_chưng/Nn và/Cp voi/Nn chín/Nq ngà/Nn ,/PU gà/Nn chín/Nq cựa/Vv ,/PU ngựa/Nn chín/Nq hồng_mao/Nn ,/PU mỗi/Nq thứ/Nn một/An đôi/Nq "/PU ./PU
+Hôm/Nt sau/Nn ,/PU mới/R tờ_mờ/Aa sáng/Nt ,/PU Sơn_Tinh/Nr đã/R đem/Vv đầy_đủ/Aa lễ_vật/Nn đến/D rước/Vv Mị_Nương/Nr về/Cm núi/Nn ./PU
+Thủy_Tinh/Nr đến/Vd sau/Nn ,/PU không/R lấy/Vv được/R vợ/Nn ,/PU đùng_đùng/R nổi_giận/Vv ,/PU đem/Vv quân/Nn đuổi/Vv theo_đòi/Vv cướp/Vv Mị_Nương/Nr ./PU
+Thần/Nn hô/Vv mưa/Nn ,/PU gọi/Vv gió/Nn làm/Vv thành/Vv dông/Nn bão/Nn rung_chuyển/Vv cả/Pp đất_trời/Nn ,/PU dâng/Vv nước/Nn sông/Nn lên/Vv cuồn_cuộn/Vv đánh/Vv Sơn_Tinh/Nr ./PU
+Nước/Nn ngập/Vv ruộng/Nn đồng/Nn ,/PU nước/Nn ngập/Vv nhà_cửa/Nn ,/PU nước/Nn dâng/Vv lên/R lưng/Nn đồi/Nn ,/PU sườn/Nn núi/Nn ,/PU thành/Nu Phong_Châu/Nr như/Cp nổi/Vv lềnh_bềnh/Aa trên/Cm một/Nq biển/Nn nước/Nn ./PU
+Sơn_Tinh/Nr không/R hề/M nao_núng/Vv ./PU
+Thần/Nn dùng/Vv phép/Nn lạ/Aa bốc/Vv từng/Pp quả/M đồi/Nn ,/PU dời/Vv từng/Pp dãy/Nn núi/Nn ,/PU dựng/Vv thành/Vv lũy/Nq đất/Nn ,/PU ngăn_chặn/Vv dòng/Nn nước/Nn lũ/Nn ./PU
+Nước/Nn sông/Nn dâng/Vv lên/R bao_nhiêu/Pp ,/PU đồi/Nn núi/Nn cao/Aa lên/R bấy_nhiêu/Pp ./PU
+Hai/Nq bên/Nn đánh/Vv nhau/Nn ròng_rã/Aa mấy/Nq tháng/Nt trời/M ,/PU cuối_cùng/Aa Sơn_Tinh/Nr vẫn/R vững_vàng/Aa mà/Cp sức/Nn Thủy_Tinh/Nr đã/R kiệt/Vv ./PU
+Thần/Nn Nước/Nn đành/Vv rút/Vv quân/Nn ./PU
+Từ/Cm đó/Pd ,/PU oán/Vv nặng/Aa ,/PU thù/Nn sâu/Aa ,/PU hằng/R năm/Nt Thủy_Tinh/Nr làm/Vv mưa_gió/Nn ,/PU bão/Nn lụt/Nn dâng/Vv nước/Nn đánh/Vv Sơn_Tinh/Nr ./PU
+Nhưng/Cp năm/Nt nào/Pd cũng/R vậy/Pp ,/PU Thần_Nước/Nr đánh/Vv mỏi_mệt/Aa ,/PU chán_chê/Aa vẫn/R không/R thẳng/Aa nổi/Vv Thần_Núi/Nr để/Cm cướp/Vv Mị_Nương/Nr ,/PU đành/Vv rút/Vv quân/Nn về/D ./PU

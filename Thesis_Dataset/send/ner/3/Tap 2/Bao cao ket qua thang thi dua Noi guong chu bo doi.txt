@@ -1,0 +1,13 @@
+﻿Báo_cáo/Nn/O kết_quả/Nn/O tháng/Nt/O thi_đua/Vv/O "/PU/O Noi/Vv/O gương/Nn/O chú/Nc/O bộ_đội/Nn/O "/PU/O 
+Thưa/E/O các/Nq/O bạn/Pp/O ,/PU/O 
+Tôi/Pp/O xin/Vv/O báo_cáo/Nn/O kết_quả/Nn/O thi_đua/Vv/O của/Cm/O lớp/Nn/O ta/Pp/O trong/Cm/O tháng/Nt/O thi_đua/Vv/O "/PU/O Noi/Vv/O gương/Nn/O chú/Nc/O bộ_đội/Nn/O "/PU/O vừa_qua/Nt/O :/PU/O 
+A/Nr/O -/PU/O Nhận_xét/Vv/O các/Nq/O mặt/Nn/O 
+1/Nq/NUM_B ./PU/O Học_tập/Vv/O :/PU/O 
+-/PU/O Phần_đông/Nq/O các/Nq/O bạn/Pp/O đi/Vv/O học/Vv/O đúng/Aa/O giờ/Nt/O ,/PU/O học/Vv/O bài/Nc/O và/Cp/O làm/Vv/O bài/Nc/O đầy_đủ/Aa/O ,/PU/O ý_thức/Nn/O kỉ_luật/Nn/O tốt/Aa/O ./PU/O 
+Nhưng/Cp/O vẫn/R/O còn/Ve/O hai/Nq/NUM_B bạn/Nn/O nói_chuyện/Vv/O riêng/Aa/O trong/Cm/O giờ/Nt/O học/Vv/O ./PU/O 
+-/PU/O Cả/Pp/O lớp/Nn/O đạt/Vv/O 55/Nq/NUM_B điểm/Nn/O giỏi/Aa/O ,/PU/O 90/Nq/NUM_B điểm/Nn/O khá/Aa/O ,/PU/O không/R/O có/Ve/O điểm/Nn/O kém/Aa/O ./PU/O 
+2/Nq/NUM_B ./PU/O Lao_động/Nn/O :/PU/O Lớp/Nn/O tham_gia/Vv/O nhổ/Vv/O cỏ/Nn/O ở/Cm/O hai/Nq/NUM_B bồn/Nn/O hoa/Nn/O trong/Cm/O sân/Nn/O trường/Nn/O ./PU/O 
+3/Nq/NUM_B ./PU/O Các/Nq/O công_tác/Nn/O khác/Aa/O :/PU/O Lớp/Nn/O có/Ve/O điệu/Nn/O múa/Nn/O tham_gia/Vv/O Liên_hoan/Nn/O văn_nghệ/Nn/O chào_mừng/Vv/O Ngày/Nt/O thành_lập/Vv/O Quân_đội/Nn/ORG_B Nhân_dân/Nn/ORG_I Việt_Nam/Nr/ORG_I ,/PU/O đoạt/Vv/O giải/Nn/O Nhì/An/O ./PU/O 
+B/Nr/O -/PU/O Đề_nghị/Vv/O khen_thưởng/Vv/O 
+-/PU/O Tập_thể/Nn/O :/PU/O tổ/Nu/LOC_B 1/Nr/LOC_I ,/PU/O tổ/Nu/LOC_B 3/Nr/LOC_I ./PU/O 
+-/PU/O Cá_nhân/Nn/O :/PU/O Đặng_Tuấn_Cảnh/Nr/PER_B ,/PU/O Nguyên_Phương_Hà/Nr/PER_B ,/PU/O Lê_Đức_Khôi/Nr/PER_B ,/PU/O Vũ_Minh_Long/Nr/PER_B ,/PU/O Bùi_Thị_Mai/Nr/LOC_B ./PU/O 

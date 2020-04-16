@@ -1,0 +1,19 @@
+﻿Đất/Nn/O quý/Aa/O đất/Nn/O yêu/Vv/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O có/Ve/O hai/Nq/NUM_B người/Nc/O khách/Nn/O du_lịch/Nn/O đến/Vd/O nước/Nn/O Ê-ti-ô-pi-a/Nn/O ./PU/O 
+Họ/Pp/O đi/Vv/O khắp/Aa/O đất_nước/Nn/O thăm/Vv/O đường_sá/Nn/O ,/PU/O núi/Nn/O đồi/Nn/O ,/PU/O sông_ngòi/Nn/O ./PU/O 
+Vua/Nn/O nước/Nn/O Ê-ti-ô-pi-a/Nn/O mời/Vv/O họ/Pp/O vào/Cm/O cung_điện/Nn/O ,/PU/O mở/Vv/O tiệc/Nn/O chiêu_đãi/Vv/O và/Cp/O tặng/Vv/O họ/Pp/O nhiều/Aa/O vật/Nn/O quý/Aa/O ./PU/O 
+Sau/Nn/O đó/Pd/O ,/PU/O vua/Nn/O sai/Aa/O một/Nq/NUM_B viên/Nn/O quan/Nn/O đưa/Vv/O khách/Nn/O xuống/D/O tàu/Nn/O ./PU/O 
+Lúc/Nt/O hai/Nq/NUM_B người/Nc/O khách/Nn/O định/Vv/O bước/Vv/O xuống/D/O tàu/Nn/O ,/PU/O viên/Nc/O quan/Nn/O bảo/Vv/O khách/Nn/O dừng/Vv/O lại/R/O ,/PU/O cởi/Vv/O giày/Nn/O ra/D/O ./PU/O 
+Ông/Nn/O sai/Aa/O người/Nn/O cạo/Vv/O sạch/Aa/O đất/Nn/O ở/Vv/O đế/Nn/O giày/Nn/O của/Cm/O khách/Nn/O rồi/Cp/O mới/Aa/O để/Cm/O họ/Pp/O xuống/D/O tàu/Nn/O trở_về/Vv/O nước/Nn/O ./PU/O 
+Hai/Nq/NUM_B người/Nc/O khách/Nn/O rất/R/O ngạc_nhiên/Vv/O ,/PU/O hỏi/Vv/O :/PU/O 
+Tại_sao/Pp/O các/Nq/O ông/Nn/O lại/R/O phải/Vv/O làm/Vv/O như/Cp/O vậy/Pp/O ?/PU/O 
+Viên/Nc/O quan/Nn/O trả_lời/Vv/O :/PU/O 
+Đây/Pd/O là/Vc/O mảnh/Nn/O đất/Nn/O yêu_quý/Vv/O của/Cm/O chúng_tôi/Pp/O ./PU/O 
+Chúng_tôi/Pp/O sinh/Vv/O ra/R/O ở/Cm/O đây/Pd/O ,/PU/O chết/Vv/O cũng/R/O ở/Cm/O đây/Pd/O ./PU/O 
+Trên/Cm/O mảnh/Nn/O đất/Nn/O này/Pd/O ,/PU/O chúng_tôi/Pp/O trồng_trọt/Vv/O ,/PU/O chăn_nuôi/Vv/O ./PU/O 
+Đất_Ê-ti-ô-pi-a/Nn/O là/Vc/O cha/Nn/O ,/PU/O là/Vc/O mẹ/Nn/O ,/PU/O là/Vc/O anh_em/Nn/O ruột_thịt/Aa/O của/Cm/O chúng_tôi/Pp/O ./PU/O 
+Chúng_tôi/Pp/O đã/R/O tiếp/Vv/O các/Nq/O ông/Nn/O như/Cp/O những/Nq/O khách/Nn/O quý/Aa/O ./PU/O 
+Nhà_vua/Nn/O đã/R/O tặng/Vv/O các/Nq/O ông/Nn/O nhiều/Aa/O sản_vật/Nn/O hiếm/Aa/O ./PU/O 
+Song/Cp/O đất/Nn/O Ê-ti-ô-pi-a/Nn/O đối_với/Cp/O chúng_tôi/Pp/O là/Vc/O thiêng_liêng/Aa/O ,/PU/O cao_quý/Aa/O nhất/R/O ./PU/O 
+Chúng_tôi/Pp/O không_thể/R/O để/Cm/O các/Nq/O ông/Nn/O mang/Vv/O đi/Vv/O ,/PU/O dù/Cp/O chỉ/R/O là/Vc/O một/Nq/NUM_B hạt/Nc/O cát/Nn/O nhỏ/Aa/O ./PU/O 
+Nghe/Vv/O những/Nq/O lời_nói/Nn/O chân_tình/Aa/O của/Cm/O viên/Nc/O quan/Nn/O ,/PU/O hai/Nq/NUM_B người/Nc/O khách/Nn/O càng/R/O thêm/Vv/O khâm_phục/Vv/O tấm/Nn/O lòng/Nn/O yêu_quý/Vv/O mảnh/Nn/O đất/Nn/O quê_hương/Nn/O của/Cm/O người/Nn/O Ê-ti-ô-pi-a/Nn/O ./PU/O 

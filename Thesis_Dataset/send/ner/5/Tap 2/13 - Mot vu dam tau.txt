@@ -1,0 +1,35 @@
+﻿Một/Nq/NUM_B vụ/Nc/O đắm/Vv/O tàu/Nn/O 
+Trên/Cm/O chiếc/Nc/O tàu/Nn/O thủy/Nn/O rời/Vv/O cảng/Nn/O Li-vơ-pun/Nn/O hôm/Nt/O ấy/Pd/O có/Ve/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O tên/Nn/O là/Vc/O Ma-ri-ô/Nt/DTM_B ,/PU/O khoảng/Nn/O 12/Nq/MEA_B tuổi/Nn/MEA_I ./PU/O 
+Tàu/Nn/O nhổ_neo/Nn/O được/Vv/O một/Nq/O lúc/Nt/O thì/Cp/O Ma-ri-ô/Nn/O quen/Vv/O một/Nq/NUM_B bạn/Nn/O đồng_hành/Vv/O ./PU/O 
+Cô/Nc/O bé/Nn/O là/Vc/O Giu-li-ét-ta/Nt/DTM_B ,/PU/O cao/Aa/O hơn/Aa/O Ma-ri-ô/Nn/O ./PU/O 
+Cô/Nn/O đang/R/O trên/Cm/O đường/Nn/O về/Vd/O nhà/Nn/O và/Cp/O rất/R/O vui/Aa/O vì/Cp/O sắp/R/O được/Vv/O gặp/Vv/O lại/R/O bố_mẹ/Nn/O ./PU/O 
+Ma-ri-ô/Nn/O không/R/O kể/Vv/O gì/M/O về/Cm/O mình/Pp/O ./PU/O 
+Bố/Nn/O cậu/Nn/O mới/Aa/O mất/Ve/O nên/Cp/O cậu/Nn/O về/Vd/O quê/Nn/O sống/Vv/O với/Cp/O họ_hàng/Nn/O ./PU/O 
+Đêm/Nt/O xuống/Vv/O ,/PU/O lúc/Nt/O chia_tay/Vv/O ,/PU/O Ma-ri-ô/Nn/O định/Vv/O chúc/Vv/O bạn/Pp/O ngủ/Vv/O ngon/Aa/O thì/Cp/O một/Nq/NUM_B ngọn/Nc/O sóng/Nn/O lớn/Aa/O ập/Vv/O tới/D/O ,/PU/O xô/Vv/O cậu/Nn/O ngã/Vv/O dúi/Vv/O ./PU/O 
+Giu-li-ét-ta/Nn/O hoảng_hốt/Vv/O chạy/Vv/O lại/R/O ./PU/O 
+Cô/Nn/O quỳ/Vv/O xuống/D/O bên/Nn/O Ma-ri-ô/Nn/O ,/PU/O lau/Vv/O máu/Nn/O trên/Cm/O trán/Nn/O bạn/Pp/O ,/PU/O rồi/Cp/O dịu_dàng/Aa/O gỡ/Vv/O chiếc/Nc/O khăn/Nn/O đỏ/Aa/O trên/Cm/O mái_tóc/Nn/O băng/Nn/O cho/Cp/O bạn/Pp/O ./PU/O 
+Cơn/Nc/O bão/Nn/O dữ_dội/Aa/O bất_ngờ/Aa/O nổi/Vv/O lên/R/O ./PU/O 
+Những/Nq/O đợt/Nn/O sóng/Nn/O khủng_khiếp/Aa/O phá/Vv/O thủng/Aa/O thân/Nn/O tàu/Nn/O ,/PU/O nước/Nn/O phun/Vv/O vào/Cm/O khoang/Nn/O như/Cp/O vòi_rồng/Nn/O ./PU/O 
+Hai/Nq/MEA_B tiếng/Nt/MEA_I đồng_hồ/Nn/O trôi/Vv/O qua/Vv/O .../PU/O 
+Con/Nc/O tàu/Nn/O chìm/Vv/O dần/R/O ,/PU/O nước/Nn/O ngập/Vv/O các/Nq/O bao_lơn/Nn/O ./PU/O 
+Quang_cảnh/Nn/O thật/R/O hỗn_loạn/Aa/O ./PU/O 
+Ma-ri-ô/Nr/PER_B và/Cp/O Giu-li-ét-ta/Nr/BRN_B ,/PU/O hai/Nq/NUM_B tay/Nn/O ôm/Vv/O chặt/Aa/O cột/Nn/O buồm/Nn/O ,/PU/O khiếp_sợ/Vv/O nhìn/Vv/O mặt/Nn/O biển/Nn/O ./PU/O 
+Mặt/Nn/O biển/Nn/O đã/R/O yên/Aa/O hơn/Aa/O ./PU/O 
+Nhưng/Cp/O con/Nc/O tàu/Nn/O vẫn/R/O tiếp_tục/Vv/O chìm/Vv/O ./PU/O 
+Chiếc/Nc/O xuồng/Nn/O cuối_cùng/Aa/O được/Vv/O thả/Vv/O xuống/D/O ./PU/O 
+Ai/Pp/O đó/Pd/O kêu/Vv/O lên/R/O :/PU/O 
+Còn/Cp/O chỗ/Nn/O cho/Cp/O một/Nq/NUM_B đứa/Nc/O bé/Nn/O ./PU/O 
+Hai/Nq/NUM_B đứa/Nc/O trẻ/Nn/O sực/R/O tỉnh/Vv/O ,/PU/O lao/Vv/O ra/D/O ./PU/O 
+-/PU/O Đứa/Nc/O nhỏ/Nn/O thôi/M/O !/PU/O 
+Nặng/Aa/O lắm/R/O rồi/R/O ./PU/O 
+-/PU/O Một/Nq/NUM_B người/Nn/O nói/Vv/O ./PU/O 
+Nghe/Vv/O thế/Pp/O ,/PU/O Giu-li-ét-ta/Nn/O sững_sờ/Aa/O ,/PU/O buông_thõng/Vv/O hai/Nq/NUM_B tay/Nn/O ,/PU/O đôi/Nq/O mắt/Nn/O thẫn_thờ/Aa/O tuyệt_vọng/Vv/O ./PU/O 
+Một/Nq/NUM_B ý_nghĩ/Nn/O vụt/Vv/O đến/Cm/O ,/PU/O Ma-ri-ô/Nn/O hét/Vv/O to/Aa/O :/PU/O 
+Giu-li-ét-ta/Nn/O ,/PU/O xuống/Vd/O đi/Vv/O !/PU/O 
+Bạn/Pp/O còn/Ve/O bố_mẹ/Nn/O .../PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O cậu/Nn/O ôm/Vv/O ngang/Aa/O lưng/Nn/O Giu-li-ét-ta/Nn/O thả/Vv/O xuống/D/O nước/Nn/O ./PU/O 
+Người_ta/Pp/O nắm/Vv/O tay/Nn/O cô/Nn/O lôi/Vv/O lên/Vv/O xuống/M/O ./PU/O 
+Chiếc/Nc/O xuồng/Nn/O bơi/Vv/O ra/R/O xa/Aa/O ./PU/O 
+Giu-li-ét-ta/Nn/O bàng_hoàng/Aa/O nhìn/Vv/O Ma-ri-ô/Nn/O đang/R/O đứng/Vv/O bên/Nn/O mạn/Nn/O tàu/Nn/O ,/PU/O đầu/Nn/O ngửng/Vv/O cao/Aa/O ,/PU/O tóc/Nn/O bay/Vv/O trước/Nn/O gió/Nn/O ./PU/O 
+Cô/Nn/O bật/Vv/O khóc/Vv/O nức_nở/Vv/O ,/PU/O giơ/Vv/O tay/Nn/O về/D/O phía/Nn/O cậu/Nn/O :/PU/O 
+Vĩnh_biệt/Vv/O Ma-ri-ô/Nn/O !/PU/O 

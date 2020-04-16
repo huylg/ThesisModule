@@ -1,0 +1,9 @@
+﻿Chiếc/Nc/O máy_bơm/Nn/O 
+Thấy/Vv/O những/Nq/O người/Nc/O nông_dân/Nn/O phải/Vv/O múc/Vv/O nước/Nn/O sông/Nn/O vào/Cm/O ống/Nn/O ,/PU/O rồi/Cp/O vác/Vv/O lên/R/O tưới/Vv/O cho/Cp/O ruộng_nương/Nn/O ở/Cm/O tận/Cm/O trên/Nn/O dốc/Aa/O cao/Aa/O ,/PU/O anh/Nc/O thanh_niên/Nn/O Ác-si-mét/Nn/O thầm/Aa/O nghĩ/Vv/O :/PU/O "/PU/O Liệu/Vv/O có/Ve/O cách/Nn/O gì/Pp/O để/Cm/O nước/Nn/O chảy/Vv/O ngược/Aa/O lên/R/O cho/Vv/O đỡ/Vv/O vất_vả/Aa/O không/R/O nhỉ/M/O ?/PU/O "/PU/O 
+Sau/Nn/O nửa/Nq/MEA_B tháng/Nt/MEA_I trời/M/O tính/Nn/O tới/Aa/O tính/Nn/O lui/Vd/O ,/PU/O Ác-si-mét/Nr/ORG_B đã/R/O làm/Vv/O ra/R/O một/Nq/NUM_B chiếc/Nc/O máy_bơm/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O một/Nq/NUM_B đường/Nn/O ống/Nn/O có/Ve/O hai/Nq/NUM_B cửa/Nn/O :/PU/O một/Nq/NUM_B cửa/Nn/O dẫn/Vv/O nước/Nn/O sông/Nn/O vào/D/O ,/PU/O còn/Cp/O một/Nq/NUM_B cửa/Nn/O dẫn/Vv/O nước/Nn/O ra/D/O ruộng/Nn/O ./PU/O 
+Bên/Nn/O trong/Cm/O đường/Nn/O ống/Nn/O có/Ve/O một/Nq/NUM_B trục/Nn/O xoắn/Vv/O ./PU/O 
+Bằng/Cm/O cách/Nn/O làm/Vv/O quay/Vv/O trục/Nn/O xoắn/Vv/O này/Pd/O ,/PU/O nước/Nn/O sông/Nn/O được/Vv/O dẫn/Vv/O lên/R/O cao/Aa/O trước/Cm/O những/Nq/O đôi/Nq/O mắt/Nn/O thán_phục/Vv/O của/Cm/O mọi/Nq/O người/Nn/O ./PU/O 
+Chiếc/Nc/O máy_bơm/Nn/O đầu_tiên/An/O của/Cm/O loài_người/Nn/O đã/R/O ra_đời/Vv/O như/Cp/O vậy/Pp/O cách/Vv/O đây/Pd/O hơn/Aa/O 2000/Nq/MEA_B năm/Nt/MEA_I ./PU/O 
+Đến/Cm/O bây_giờ/Pd/O ,/PU/O nhiều/Aa/O nơi/Nn/O vẫn/R/O còn/R/O sử_dụng/Vv/O loại/Nn/O máy_bơm/Nn/O ấy/Pd/O ./PU/O 
+Xin/Vv/O nói/Vv/O thêm/Vv/O :/PU/O những/Nq/O cánh/Nn/O xoắn/Vv/O máy_bay/Nn/O ,/PU/O tàu/Nn/O thủy/Nn/O và/Cp/O cả/M/O những/Nq/O chiếc/Nc/O đinh_vít/Nn/O bạn/Pp/O thường/R/O dùng/Vv/O đều/R/O là/Vc/O con_cháu/Nn/O của/Cm/O chiếc/Nc/O máy_bơm/Nn/O cổ_xưa/Aa/O ./PU/O 

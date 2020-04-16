@@ -1,0 +1,24 @@
+﻿Thầy_cúng/Nn/O đi/Vv/O bệnh_viện/Nn/O 
+Cụ/Nn/O Ún/Nn/O làm/Vv/O nghề/Nn/O thầy_cúng/Nn/O đã/R/O lâu_năm/Vv/O ./PU/O 
+Khắp/Aa/O làng/Nu/O xa/Aa/O bản/Nc/O gần/Aa/O ,/PU/O nhà/Nc/O nào/Pd/O có/Ve/O người/Nn/O ốm/Vv/O cũng/R/O nhờ/Cm/O cụ/Nn/O đến/Vd/O cúng/Vv/O để/Cm/O đuổi/Vv/O tà_ma/Nn/O ./PU/O 
+Nhiều/Aa/O người/Nc/O tôn/Nn/O cụ/Nn/O làm/Vv/O thầy/Nn/O ,/PU/O cắp/Vv/O sách/Nn/O theo/Vv/O cụ/Nn/O học/Vv/O nghề/Nn/O cúng_bái/Vv/O ./PU/O 
+Vậy/Pp/O mà/Cp/O gần/Aa/O một/Nq/MEA_B năm/Nt/MEA_I nay/Nt/O ,/PU/O chẳng/R/O hiểu/Vv/O cái/Nc/O ma/Nn/O nào/Pd/O làm/Vv/O cho/Cp/O cụ/Nn/O Ún/Nn/O ốm/Vv/O ./PU/O 
+Bụng/Nn/O cụ/Nn/O đau/Aa/O quặn/Aa/O ,/PU/O lắm/Aa/O lúc/Nt/O tưởng/Vv/O như/Cp/O có/Ve/O con/Nc/O dao/Nn/O cứa/Vv/O mạnh/Aa/O vào/Cm/O từng/Pp/O khúc/Nn/O ruột/Aa/O ./PU/O 
+Các/Nq/O học_trò/Nn/O của/Cm/O cụ/Nn/O đã/R/O nhiều/Aa/O lần/Nn/O cúng/Vv/O cho/Cp/O thầy/Nn/O mà/Cp/O bệnh_tình/Nn/O không/R/O thuyên_giảm/Vv/O ./PU/O 
+Thấy/Vv/O cha/Nn/O ngày_càng/R/O đau/Aa/O nặng/Aa/O ,/PU/O con_trai/Nn/O cụ/Nn/O khẩn_khoản/Aa/O xin/Vv/O đưa/Vv/O cụ/Nn/O đi/Vv/O bệnh_viện/Nn/O ./PU/O 
+Anh/Nn/O nói/Vv/O mãi/R/O ,/PU/O nể/Vv/O lời/Nn/O ,/PU/O cụ/Nn/O mới/R/O chịu/Vv/O đi/Vv/O ./PU/O 
+Bác_sĩ/Nn/O bảo/Vv/O cụ/Nn/O bị/Vv/O sỏi/Nn/O thận/Nn/O ,/PU/O phải/Vv/O mổ/Vv/O lấy/Vv/O sỏi/Nn/O ra/D/O ./PU/O 
+Cụ/Nn/O sợ/Vv/O mổ/Vv/O ./PU/O 
+Hơn_nữa/Cp/O ,/PU/O cụ/Nn/O không/R/O tin/Vv/O bác_sĩ/Nn/DES_B người/Nn/O Kinh/Nr/O bắt/Vv/O được/R/O con/Nc/O ma/Nn/O người/Nn/O Thái/Nr/LOC_B ./PU/O 
+Thế/Pp/O là/Vc/O cụ/Nn/O trốn/Vv/O về/Vd/O nhà/Nn/O ./PU/O 
+Nhưng/Cp/O về/Cm/O đến/D/O nhà/Nn/O ,/PU/O cụ/Nn/O lại/R/O lên_cơn/Vv/O đau/Aa/O quằn_quại/Vv/O ./PU/O 
+Cụ/Nn/O bắt/Vv/O con/Nn/O mời/Vv/O thầy/Nn/O Vui/Aa/O ,/PU/O học_trò/Nn/O giỏi/Aa/O nhất/R/O của/Cm/O cụ/Nn/O ,/PU/O đến/Cm/O cúng/Vv/O trừ/Vv/O ma/Nn/O ./PU/O 
+Cúng/Vv/O suốt/Aa/O ngày_đêm/Nt/O ,/PU/O bệnh/Nn/O vẫn/R/O không/R/O lui/Vd/O ./PU/O 
+Sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O bỗng/R/O có/Ve/O hai/Nq/NUM_B người/Nn/O mặc/Vv/O áo/Nn/O trắng/Aa/O tất_tả/Aa/O phi_ngựa/Vv/O đến/Cm/O ./PU/O 
+Hóa/Nr/PER_B ra/Vd/O họ/Pp/O là/Vc/O bác_sĩ/Nn/O và/Cp/O y_tá/Nn/O bệnh_viện/Nn/O đi/Vv/O tìm/Vv/O cụ/Nn/O Ún/Nn/O ./PU/O 
+Bác_sĩ/Nn/O tiêm/Vv/O thuốc/Nn/O giảm/Vv/O đau/Aa/O ,/PU/O cụ/Nn/O Ún/Nn/O thấy/Vv/O đỡ/Vv/O ./PU/O 
+Ngồi/Vv/O bên/Nn/O giường/Nn/O người_bệnh/Nn/O ,/PU/O ông/Nc/O bác_sĩ/Nn/O ôn_tồn/Aa/O giải_thích/Vv/O ./PU/O 
+Gia_đình/Nn/O lại/R/O đưa/Vv/O cụ/Nn/O lên/D/O bệnh_viện/Nn/O ./PU/O 
+Nửa/Nq/MEA_B tháng/Nt/MEA_I sau/Nn/O ,/PU/O cụ/Nn/O Ún/Nn/O khỏi/Vv/O bệnh/Nn/O ,/PU/O về/Vd/O nhà/Nn/O ,/PU/O cụ/Nn/O nói/Vv/O với/Cp/O bà_con/Nn/O :/PU/O 
+Từ/Cm/O nay/Nt/O ,/PU/O tôi/Pp/O dứt_khoát/Aa/O bỏ/Vv/O nghề/Nn/O thầy_cúng/Nn/O ./PU/O 
+Bà_con/Nn/O ốm_đau/Vv/O nên/Vv/O đi/Vv/O bệnh_viện/Nn/O ./PU/O 

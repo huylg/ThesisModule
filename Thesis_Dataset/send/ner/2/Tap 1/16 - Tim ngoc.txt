@@ -1,0 +1,24 @@
+﻿Tìm/Vv/O ngọc/Nn/O 
+Xưa/Nt/O có/Ve/O chàng/Nc/O trai/Nn/O thấy/Vv/O một/Nq/NUM_B bọn/Nn/O trẻ/Nn/O định/Vv/O giết/Vv/O con/Nc/O rắn_nước/Nn/O liền/R/O bỏ/Vv/O tiền/Nn/O ra/R/O mua/Vv/O ,/PU/O rồi/Cp/O thả/Vv/O rắn/Nn/O đi/Vv/O ./PU/O 
+Không/R/O ngờ/Vv/O con/Nn/O rắn/Aa/O ấy/Pd/O là/Vc/O con/Nn/O của/Cm/O Long_Vương/Nr/PER_B ./PU/O 
+Đền/Nn/O ơn/Nn/O chàng/Nc/O trai/Nn/O ,/PU/O Long_Vương/Nr/PER_B tặng/Vv/O chàng/Nn/O một/Nq/NUM_B viên/Nn/O ngọc/Nn/O quý/Aa/O ./PU/O 
+Có/Ve/O người/Nc/O thợ/Nn/O kim_hoàn/Nn/O biết/Vv/O đó/Pd/O là/Vc/O viên/Nn/O ngọc/Nn/O hiếm/Aa/O ,/PU/O bèn/R/O đánh_tráo/Vv/O ./PU/O 
+Chàng/Nc/O trai/Nn/O rất/R/O buồn/Aa/O ./PU/O 
+Thấy/Vv/O vậy/Pp/O ,/PU/O Chó/Nn/O và/Cp/O Mèo/Nn/O xin/Vv/O chủ/Nn/O đi/Vv/O tìm/Vv/O ngọc/Nn/O ./PU/O 
+Đến/Cm/O nhà/Nn/O người/Nc/O thợ/Nn/O kim_hoàn/Nn/O ,/PU/O Mèo/Nn/O bắt/Vv/O một/Nq/NUM_B con/Nc/O chuột/Nn/O đi/Vv/O tìm/Vv/O ngọc/Nn/O ./PU/O 
+Quả_nhiên/Aa/O ,/PU/O con/Nc/O chuột/Nn/O tìm/Vv/O được/R/O ./PU/O 
+Ra/Vd/O về/D/O ,/PU/O Chó/Nn/O tranh/Nn/O ngậm/Vv/O ngọc/Nn/O ./PU/O 
+Lúc/Nt/DTM_B qua/Aa/DTM_I sông/Nn/O ,/PU/O nó/Pp/O làm/Vv/O rơi/Vv/O viên/Nn/O ngọc/Nn/O xuống/D/O nước/Nn/O ./PU/O 
+Một/Nq/NUM_B con/Nc/O cá/Nn/O lớn/Aa/O thấy/Vv/O viên/Nn/O ngọc/Nn/O ,/PU/O đớp/Vv/O ngay/R/O ./PU/O 
+Chó/Nn/O nghĩ/Vv/O ra/R/O cách/Nn/O rình/Vv/O ở/Cm/O bên/Nn/O sông/Nn/O ,/PU/O chờ/Vv/O ai/Pp/O câu/Nn/O được/Vv/O con/Nc/O cá/Nn/O nuốt/Vv/O ngọc/Nn/O thì/Cp/O lấy/Vv/O lại/R/O ./PU/O 
+Mấy/Nq/O hôm/Nt/O sau/Nn/O ,/PU/O có/Ve/O người/Nn/O đánh/Vv/O được/R/O con/Nc/O cá/Nn/O lớn/Aa/O ,/PU/O mổ/Vv/O ruột/Nn/O ra/D/O có/Ve/O viên/Nc/O ngọc/Nn/O ./PU/O 
+Mèo/Nn/O liền/R/O nhảy/Vv/O tới/Cm/O ngoạm/Vv/O ngọc/Nn/O chạy/Vv/O biến/Vv/O ./PU/O 
+Lần/Nn/O này/Pd/O ,/PU/O Mèo/Nn/O đội/Nn/O ngọc/Nn/O trên/Cm/O đầu/Nn/O ./PU/O 
+Nào_ngờ/Cp/O ,/PU/O vừa/Cs/O đi/Vv/O một/Nq/NUM_B quãng/Nn/O thì/Cp/O có/Ve/O con/Nc/O quạ/Nn/O sà/Vv/O xuống/D/O đớp/Vv/O ngọc/Nn/O rồi/Cp/O bay/Vv/O lên/D/O cây/Nn/O cao/Aa/O ./PU/O 
+Mèo/Nn/O nghĩ/Vv/O ra/R/O một/Nq/NUM_B mẹo/Nn/O ./PU/O 
+Nó/Pp/O nằm/Vv/O phơi/Vv/O bụng/Nn/O vờ/Vv/O chết/Vv/O ./PU/O 
+Quạ/Nu/O trúng/Vv/O kế/Nn/O ,/PU/O sà/Vv/O xuống/D/O toan/Vv/O rỉa/Nq/O thịt/Nn/O Mèo/Nr/PER_B ./PU/O 
+Mèo/Nn/O nhảy_xổ/Vv/O lên/R/O vồ/Vv/O ./PU/O 
+Quạ/Nu/O van_lạy/Nn/O ,/PU/O xin/Vv/O trả/Vv/O lại/R/O ngọc/Nn/O ./PU/O 
+Lần/Nn/O này/Pd/O ,/PU/O Chó/Nn/O và/Cp/O Mèo/Nn/O mang/Vv/O ngọc/Nn/O về/Cm/O được/Vv/O đến/Cm/O nhà/Nn/O ./PU/O 
+Chàng/Nc/O trai/Nn/O vô_cùng/R/O mừng_rỡ/Vv/O ,/PU/O càng/R/O thêm/Vv/O yêu_quý/Vv/O hai/Nq/NUM_B con/Nc/O vật/Nn/O thông_minh/Aa/O ,/PU/O tình_nghĩa/Nn/O ./PU/O 

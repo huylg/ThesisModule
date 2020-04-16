@@ -1,0 +1,52 @@
+﻿Chuỗi/Nn/O ngọc/Nn/O lam/Aa/O 
+Chiều/Nt/O hôm/Nt/O ấy/Pd/O có/Ve/O một/Nq/NUM_B em_gái/Nn/O nhỏ/Aa/O đứng/Vv/O áp/Vv/O trán/Nn/O vào/D/O tủ/Nn/O kính/Nn/O cửa_hàng/Nn/O của/Cm/O Pi-e/Nu/O ,/PU/O nhìn/Vv/O từng/Pp/O đồ_vật/Nn/O như/Cp/O muốn/Vv/O kiếm/Vv/O thứ/Nn/O gì/Pp/O ./PU/O 
+Bỗng/R/O em/Pp/O ngửng/Vv/O đầu/Nn/O lên/D/O :/PU/O 
+Cháu/Pp/O có_thể/Aa/O xem/Vv/O chuỗi/Nn/O ngọc/Nn/O lam/Aa/O này/Pd/O không/R/O ạ/M/O ?/PU/O 
+Pi-e/Nu/O lấy/Vv/O chuỗi/Nn/O ngọc/Nn/O ,/PU/O đưa/Vv/O cho/Cp/O cô/Nc/O bé/Nn/O ./PU/O 
+Cô/Nc/O bé/Nn/O thốt/Vv/O lên/R/O :/PU/O 
+Đẹp/Aa/O quá/R/O !/PU/O 
+Xin/Vv/O chú/Nn/O gói/Vv/O lại/R/O cho/Cp/O cháu/Nn/O !/PU/O 
+Pi-e/Nu/O ngạc_nhiên/Vv/O :/PU/O 
+Ai/Pp/O sai/Aa/O cháu/Nn/O đi/Vv/O mua/Vv/O ?/PU/O 
+Cháu/Pp/O mua/Vv/O tặng/Vv/O chị/Nn/O cháu/Nn/O nhân/Cp/O lễ/Nn/DTM_B Nô-en/Nr/DTM_I ./PU/O 
+Chị/Nn/O đã/R/O nuôi/Vv/O cháu/Nn/O từ/Cm/O khi/Nt/O mẹ/Nn/O cháu/Nn/O mất/Ve/O ./PU/O 
+Cháu/Nn/O có/Ve/O bao_nhiêu/Pp/O tiền/Nn/O ?/PU/O 
+Cô/Nc/O bé/Nn/O mở/Vv/O khăn_tay/Nn/O ra/D/O ,/PU/O đổ/Vv/O lên/R/O bàn/Nn/O một/Nq/NUM_B nắm/Nn/O xu/Nu/O :/PU/O 
+Cháu/Pp/O đã/R/O đập/Vv/O con/Nc/O lợn/Nn/O đất/Nn/O đấy/M/O !/PU/O 
+Pi-e/Nu/O trầm_ngâm/Aa/O nhìn/Vv/O cô/Nc/O bé/Nn/O ./PU/O 
+Rồi/Cp/O vừa/R/O lúi_húi/Vv/O gỡ/Vv/O mảnh/Nn/O giấy/Nn/O ghi/Vv/O giá/Nn/O tiền/Nn/O ,/PU/O anh/Nn/O vừa/R/O hỏi/Vv/O :/PU/O 
+Cháu/Nn/O tên/Nn/O gì/Pp/O ?/PU/O 
+Cháu/Pp/O là/Vc/O Gioan/Nr/PER_B ./PU/O 
+Anh/Nn/O đưa/Vv/O Gioan/Nr/PER_B chuỗi/Nn/O ngọc/Nn/O gói/Vv/O trong/Cm/O bao/Nq/O lụa/Nn/O đỏ/Aa/O :/PU/O 
+Đừng/R/O đánh_rơi/Vv/O nhé/M/O !/PU/O 
+Cô/Nc/O bé/Nn/O mỉm_cười/Vv/O rạng_rỡ/Aa/O ,/PU/O chạy/Vv/O vụt/Vv/O đi/Vv/O ./PU/O 
+Cô/Nn/O đâu/R/O biết/Vv/O chuỗi/Nn/O ngọc/Nn/O này/Pd/O Pi-e/Nu/O dành/Vv/O để/Cm/O tặng/Vv/O vợ_chưa_cưới/Nn/O của/Cm/O mình/Pp/O ,/PU/O nhưng/Cp/O rồi/Cp/O một/Nq/NUM_B tai_nạn/Nn/O giao_thông/Nn/O đã/R/O cướp/Vv/O mất/Ve/O người/Nc/O anh/Nn/O yêu_quý/Vv/O ./PU/O 
+Ngày/Nt/O lễ/Nn/O Nô-en/Nr/PER_B tới/Vd/O ./PU/O 
+Khách_hàng/Nn/O ai/Pp/O cũng/R/O vui/Aa/O làm/Vv/O cho/Cp/O Pi-e/Nu/O càng/Cs/O đau_lòng/Aa/O ./PU/O 
+Khi/Nt/O người/Nc/O khách/Nn/O cuối_cùng/Aa/O bước/Vv/O ra/D/O ,/PU/O anh/Nn/O thở_phào/Vv/O ./PU/O 
+Thế/Pp/O là/Vc/O qua/Cm/O được/Vv/O năm/Nt/DTM_B nay/Nt/DTM_I !/PU/O 
+Nhưng/Cp/O anh/Nn/O đã/R/O lầm/Vv/O ./PU/O 
+Cửa/Nn/O lại/R/O mở/Vv/O ,/PU/O một/Nq/NUM_B thiếu_nữ/Nn/O bước/Vv/O vào/D/O ./PU/O 
+Cô/Nn/O lấy/Vv/O trong/Cm/O túi_xách/Nn/O ra/D/O chuỗi/Nn/O ngọc/Nn/O lam/Aa/O :/PU/O 
+Chuỗi/Nn/O ngọc/Nn/O này/Pd/O có/R/O phải/Aa/O của/Cm/O tiệm/Nn/O ông/Nn/O không/R/O ạ/M/O ?/PU/O 
+Phải/Vv/O ./PU/O 
+Thưa/E/O .../PU/O 
+Có/R/O phải/Aa/O ngọc/Nn/O thật/R/O không/R/O ?/PU/O 
+Không/R/O phải/Aa/O thứ/Nn/O ngọc/Nn/O quý/Aa/O nhất/R/O ,/PU/O nhưng/Cp/O là/Vc/O ngọc/Nn/O thật/Aa/O ./PU/O 
+Ông/Pp/O có/R/O nhớ/Vv/O đã/R/O bán/Vv/O cho/Cp/O ai/Pp/O không/R/O ?/PU/O 
+Một/Nq/NUM_B cô/Nc/O bé/Nn/O tên/Nn/O là/Vc/O Gioan/Nr/PER_B mua/Vv/O tặng/Vv/O chị/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Giá/Nn/O bao_nhiêu/Pp/O ạ/M/O ?/PU/O 
+Tôi/Pp/O không/R/O khi/Nt/O nào/Pd/O nói/Vv/O giá/Nn/O tiền/Nn/O của/Cm/O quà_tặng/Nn/O ./PU/O 
+Gioan/Nr/PER_B chỉ/R/O có/Ve/O ít/Aa/O tiền/Nn/O tiêu/Vv/O vặt/Aa/O ./PU/O 
+Làm_sao/Pp/O em/Pp/O mua/Vv/O nổi/R/O chuỗi/Nn/O ngọc/Nn/O này/Pd/O ?/PU/O 
+Pi-e/Nu/O gói/Nn/O lại/R/O chuỗi/Nn/O ngọc/Nn/O và/Cp/O đáp/Vv/O :/PU/O 
+Em/Pp/O đã/R/O trả_giá/Vv/O rất/R/O cao/Aa/O ./PU/O 
+Bằng/Cm/O toàn_bộ/Nq/O số/Nn/O tiền/Nn/O em/Pp/O có/Ve/O ./PU/O 
+Hai/Nq/NUM_B người/Nn/O đều/R/O im_lặng/Aa/O ./PU/O 
+Tiếng/Nn/O chuông/Nn/O từ/Cm/O một/Nq/NUM_B giáo_đường/Nn/O gần/Aa/O đó/Pd/O bắt_đầu/Vv/O đổ/Vv/O ./PU/O 
+Nhưng/Cp/O sao/Pp/O ông/Nn/O lại/R/O làm/Vv/O như/Cp/O vậy/Pp/O ?/PU/O 
+Pi-e/Nu/O vừa/R/O đưa/Vv/O chuỗi/Nn/O ngọc/Nn/O cho/Cp/O cô/Nc/O gái/Nn/O vừa/R/O nói/Vv/O :/PU/O 
+Hôm_nay/Nt/DTM_B là/Vc/O ngày/Nt/DTM_B Nô-en/Nr/DTM_I ./PU/O 
+Tôi/Pp/O không/R/O có/Ve/O ai/Pp/O để/Cm/O tặng/Vv/O quà/Nn/O ./PU/O 
+Cho_phép/Vv/O tôi/Pp/O đưa/Vv/O cô/Nn/O về/D/O nhà/Nn/O và/Cp/O chúc/Vv/O cô/Nn/O một/Nq/NUM_B lễ/Nn/O Nô-en/Nr/PER_B vui_vẻ/Aa/O nhé/M/O !/PU/O 
+Trong/Cm/O tiếng/Nn/O chuông/Nn/O đổ_hồi/Nn/O ,/PU/O Pi-e/Nu/O và/Cp/O thiếu_nữ/Nn/O cùng/Cp/O nhau/Nn/O bước/Vv/O qua/D/O một/Nq/MEA_B năm/Nt/MEA_I mới/R/O hi_vọng/Vv/O tràn_trề/Aa/O ./PU/O 

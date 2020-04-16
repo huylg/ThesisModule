@@ -1,0 +1,15 @@
+﻿Cá_sấu/Nn/O sợ/Vv/O cá_mập/Nn/O 
+Có/Ve/O một/Nq/NUM_B khu/Nn/O du_lịch/Nn/O ven/Nn/O biển/Nn/O mới/R/O mở/Vv/O khá/R/O đông/Aa/O khách/Nn/O ./PU/O 
+Khách_sạn/Nn/O nào/Pd/O cũng/R/O hết/Ve/O sạch/R/O cả/M/O phòng/Nn/O ./PU/O 
+Bỗng/R/O xuất_hiện/Vv/O một/Nq/NUM_B tin_đồn/Nn/O làm/Vv/O cho/Cp/O mọi/Nq/O người/Nn/O sợ/Vv/O hết_hồn/Vv/O :/PU/O hình_như/R/O ở/Cm/O bãi_tắm/Nn/O có/Ve/O cá_sấu/Nn/O ./PU/O 
+Một_số/Nq/O khách/Nn/O đem/Vv/O ngay/R/O chuyện/Nn/O này/Pd/O ra/D/O hỏi/Vv/O chủ/Nn/O khách_sạn/Nn/O :/PU/O 
+Ông_chủ/Pp/O ơi/E/O !/PU/O 
+Chúng_tôi/Pp/O nghe/Vv/O nói/Vv/O bãi_tắm/Nn/O này/Pd/O có/Ve/O cá_sấu/Nn/O ./PU/O 
+Có/R/O phải/Aa/O vậy/Pp/O không/R/O ,/PU/O ông/Nn/O ?/PU/O 
+Chủ/Nn/O khách_sạn/Nn/O quả_quyết/Vv/O :/PU/O 
+Không/R/O !/PU/O 
+Ở/Cm/O đây/Pd/O làm/Vv/O gì/Pp/O có/Ve/O cá_sấu/Nn/O !/PU/O 
+Vì_sao/Pp/O vậy/M/O ?/PU/O 
+Vì/Cp/O những/Nq/O vùng_biển/Nn/O sâu/Aa/O như/Cp/O thế/Pp/O này/Pd/O nhiều/Aa/O cá_mập/Nn/O lắm/R/O ./PU/O 
+Mà/Cp/O cá_sấu/Nn/O thì/Cp/O rất/R/O sợ/Vv/O cá_mập/Nn/O ./PU/O 
+Các/Nq/O vị/Nc/O khách/Nn/O nghe/Vv/O xong/Aa/O ,/PU/O khiếp_đảm/Vv/O ,/PU/O mặt_cắt/Nn/O không/R/O còn/Ve/O một/Nq/NUM_B giọt/Nn/O máu/Nn/O ./PU/O 

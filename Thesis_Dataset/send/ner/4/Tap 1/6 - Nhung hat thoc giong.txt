@@ -1,0 +1,20 @@
+﻿Những/Nq/O hạt/Nc/O thóc/Nn/O giống/Vv/O 
+Ngày_xưa/Nt/DTM_B có/Ve/O một/Nq/NUM_B ông/Nn/O vua/Nn/O cao_tuổi/Aa/O muốn/Vv/O tìm/Vv/O người/Nn/O nối_ngôi/Vv/O ./PU/O 
+Vua/Nn/O ra_lệnh/Vv/O phát/Vv/O cho/Cp/O mỗi/Nq/O người/Nc/O dân/Nn/O một/Nq/NUM_B thúng/Nn/O thóc/Nn/O về/Cm/O gieo_trồng/Vv/O và/Cp/O giao_hẹn/Vv/O :/PU/O ai/Pp/O thu/Vv/O được/M/O nhiều/Aa/O thóc/Nn/O nhất/R/O sẽ/R/O được/Vv/O truyền/Vv/O ngôi/Nn/O ,/PU/O ai/Pp/O không/R/O có/Ve/O thóc/Nn/O nộp/Vv/O sẽ/R/O bị/Vv/O trừng_phạt/Vv/O ./PU/O 
+Có/Ve/O chú/Nc/O bé/Nn/O mồ_côi/Aa/O tên/Nn/O là/Vc/O Chôm/Nr/PER_B nhận/Vv/O thóc/Nn/O về/D/O ,/PU/O dốc/Nn/O công/Aa/O chăm_sóc/Vv/O mà/Cp/O thóc/Nn/O vẫn/R/O chẳng/R/O nảy/Vv/O mầm/Nn/O ./PU/O 
+Đến/Cm/O vụ/Nc/O thu_hoạch/Vv/O ,/PU/O mọi/Nq/O người/Nn/O nô_nức/Aa/O chở/Vv/O thóc/Nn/O về/Cm/O kinh_thành/Nn/O nộp/Vv/O cho/Cp/O nhà_vua/Nn/O ./PU/O 
+Chôm/Nr/PER_B lo_lắng/Vv/O đến/Cm/O trước/Nn/O vua/Nn/O ,/PU/O quỳ/Vv/O tâu/Vv/O :/PU/O 
+Tâu_Bệ_hạ/Nr/PER_B !/PU/O 
+Con/Pp/O không/R/O làm_sao/Pp/O cho/Cp/O thóc/Nn/O nảy/Vv/O mầm/Nn/O được/R/O ./PU/O 
+Mọi/Nq/O người/Nn/O đều/R/O sững_sờ/Aa/O vì/Cp/O lời/Nn/O thú_tội/Vv/O của/Cm/O Chôm/Nr/PER_B ./PU/O 
+Nhưng/Cp/O nhà_vua/Nn/O đã/R/O đỡ/Vv/O chú/Nc/O bé/Nn/O đứng/Vv/O dậy/Vv/O ./PU/O 
+Ngài/Nn/O hỏi/Vv/O còn/Ve/O ai/Pp/O để/Cm/O chết/Vv/O thóc/Nn/O giống/Vv/O không/R/O ./PU/O 
+Không/R/O ai/Pp/O trả_lời/Vv/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O nhà_vua/Nn/O mới/Aa/O ôn_tồn/Aa/O nói/Vv/O :/PU/O 
+Trước/Nn/O khi/Nt/O phát/Vv/O thóc/Nn/O giống/Vv/O ,/PU/O ta/Pp/O đã/R/O cho/Vv/O luộc/Vv/O kĩ/Aa/O rồi/R/O ./PU/O 
+Lẽ_nào/Cp/O thóc/Nn/O ấy/Pd/O còn/R/O mọc/Vv/O được/R/O ?/PU/O 
+Những/Nq/O xe/Nn/O thóc/Nn/O đầy_ắp/Aa/O kia/Pd/O đâu/R/O phải/Vv/O thu/Vv/O được/M/O từ/Cm/O thóc/Nn/O giống/Vv/O của/Cm/O ta/Pp/O !/PU/O 
+Rồi/Cp/O vua/Nn/O dõng_dạc/Aa/O nói/Vv/O tiếp/Vv/O :/PU/O 
+Trung_thực/Nn/O là/Vc/O đức_tính/Nn/O quý/Aa/O nhất/R/O của/Cm/O con_người/Nn/O ./PU/O 
+Ta/Pp/O sẽ/R/O truyền/Vv/O ngôi/Nn/O cho/Cp/O chú/Nc/O bé/Nn/O trung_thực/Aa/O và/Cp/O dũng_cảm/Aa/O này/Pd/O ./PU/O 
+Chôm/Nr/PER_B được/Vv/O truyền/Vv/O ngôi/Nn/O và/Cp/O trở_thành/Vv/O ông/Nc/O vua/Nn/O hiền_minh/Aa/O ./PU/O 

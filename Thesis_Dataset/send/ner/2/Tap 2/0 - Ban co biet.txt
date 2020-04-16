@@ -1,0 +1,16 @@
+﻿Bạn/Pp/O có/R/O biết/Vv/O 
+1/Nq/NUM_B ./PU/O Cây_lâu_năm/Nn/O nhất/An/O 
+Cây/Nn/O có/Ve/O tuổi_thọ/Nn/O cao/Aa/O nhất/R/O là/Vc/O một/Nq/NUM_B cây/Nc/O thông/Vv/O ở/Cm/O Nhật_Bản/Nr/LOC_B ./PU/O 
+Ước_tính/Vv/O ,/PU/O nó/Pp/O đã/R/O sống/Vv/O trên/Nn/O 7000/Nq/MEA_B năm/Nt/MEA_I ./PU/O 
+Còn/Cp/O ở/Cm/O nước/Nn/O ta/Pp/O ,/PU/O trong/Cm/O Vườn_Quốc_gia/Nn/LOC_B Cúc_Phương/Nr/LOC_I ,/PU/O có/Ve/O cây/Nn/O chò/Nq/O khoảng/Nn/O 1000/Nq/MEA_B tuổi/Nn/MEA_I ./PU/O 
+2/Nq/NUM_B ./PU/O Cây_to/Nn/O nhất/An/O 
+Cây/Nn/O xê-côi-a/Nn/O 6000/Nq/MEA_B tuổi/Nn/MEA_I ở/Cm/O Mĩ/Nr/LOC_B to/Aa/O đến/Cm/O mức/Nn/O người_ta/Pp/O đặt/Vv/O được/R/O cả/M/O một/Nq/NUM_B tiệm/Nn/O giải_khát/Vv/O trong/Cm/O gốc/Nn/O cây/Nn/O ./PU/O 
+Cây/Nn/O bao-báp/Nn/O 4000/Nq/MEA_B tuổi/Nn/MEA_I ở/Cm/O châu/Nn/LOC_B Phi/Nr/LOC_I cũng/R/O to/Aa/O không/R/O kém/Aa/O :/PU/O cả/Pp/O một/Nq/NUM_B lớp/Nn/O 40/An/O học_sinh/Nn/O nắm/Vv/O tay/Nn/O nhau/Nn/O mới/R/O ôm/Vv/O được/R/O hết/Ve/O thân/Nn/O của/Cm/O nó/Pp/O ./PU/O 
+3/Nq/NUM_B ./PU/O Cây/Nn/O cao/Aa/O nhất/R/O 
+Đó/Pd/O là/Vc/O cây/Nn/O xê-côi-a/Nn/O ỏ/Nn/O Mĩ/Nr/LOC_B ,/PU/O cao/Aa/O tới/M/O 150/Nq/MEA_B mét/Nu/MEA_I ./PU/O 
+4/Nq/NUM_B ./PU/O Cây_gỗ/Nn/O thấp/Aa/O nhất/R/O 
+Đó/Pd/O là/Vc/O một/Nq/NUM_B loại/Nn/O cây/Nn/O ở/Cm/O châu/Nn/LOC_B Phi/Nr/LOC_I chỉ/R/O có/Ve/O hai/Nq/NUM_B lá/Nc/O ./PU/O 
+Thân/Nn/O nó/Pp/O chỉ/R/O cao/Aa/O chừng/Nn/O 40/Nq/NUM_B xăng-ti-mét/Nn/O ,/PU/O nhưng/Cp/O to/Aa/O đến/Cm/O mức/Nn/O phải/Vv/O 3/Nq/NUM_B ,/PU/O 4/Nq/NUM_B học_sinh/Nn/O nắm/Vv/O tay/Nn/O nhau/Nn/O mới/Aa/O bao/Nq/O hết/Ve/O vòng/Nn/O thân/Aa/O ./PU/O 
+5/Nq/NUM_B ./PU/O Cây/Nn/O đoàn_kết/Vv/O nhất/R/O 
+Đó/Pd/O là/Vc/O cây/Nn/O thông/Nn/O ./PU/O 
+Những/Nq/O cây/Nc/O thông/Vv/O mọc/Vv/O thành/Vv/O cụm/Nn/O thường/R/O nối/Vv/O rễ/Nn/O với/Cp/O nhau/Nn/O ,/PU/O đói/Aa/O no/Aa/O cùng/Aa/O chia_sẻ/Vv/O ./PU/O 

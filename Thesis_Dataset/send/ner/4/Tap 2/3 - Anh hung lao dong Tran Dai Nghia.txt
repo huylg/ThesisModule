@@ -1,0 +1,12 @@
+﻿Anh/Nn/TTL_B hùng_Lao_Động_Trần_Đại_Nghĩa/Nr/PER_B 
+Trần_Đại_Nghĩa/Nr/PER_B tên/Nn/O thật/Aa/O là/Vc/O Phạm_Quang_Lễ/Nr/PER_B ,/PU/O quê/Nn/O ở/Cm/O tỉnh/Nu/LOC_B Vĩnh_Long/Nr/LOC_I ./PU/O 
+Sau/Nn/O khi/Nt/O học/Vv/O xong/Aa/O bậc/Nn/O trung_học/Nn/O ở/Cm/O Sài_Gòn/Nr/LOC_B ,/PU/O năm/Nt/DTM_B 1935/Nt/DTM_I ,/PU/O ông/Nn/O sang/Vd/O Pháp/Nr/LOC_B học/Vv/O đại_học/Nn/O ./PU/O 
+Ông/Nn/O theo/Vv/O học/Vv/O cả/Pp/O ba/Nq/NUM_B ngành/Nn/O kĩ_sư/Nn/O cầu_cống/Nn/O ,/PU/O kĩ_sư/Nn/O điện/Nn/O và/Cp/O kĩ_sư/Nn/O hàng_không/Nn/O ./PU/O 
+Ngoài_ra/Cs/O ,/PU/O ông/Nn/O còn/R/O miệt_mài/Aa/O nghiên_cứu/Vv/O kĩ_thuật/Nn/O chế_tạo/Vv/O vũ_khí/Nn/O ./PU/O 
+Năm/Nt/DTM_B 1946/Nt/DTM_I ,/PU/O nghe/Vv/O theo/Vv/O tiếng/Nn/O gọi/Vv/O thiêng_liêng/Aa/O của/Cm/O Tổ_quốc/Nn/O ,/PU/O ông/Nn/O rời/Vv/O bỏ/Vv/O cuộc/Nc/O sống/Vv/O đầy_đủ/Aa/O tiện_nghi/Nn/O ở/Cm/O nước_ngoài/Nn/O ,/PU/O theo/Vv/O Bác/Nn/PER_B Hồ/Nr/PER_I về/Vd/O nước/Nn/O ,/PU/O ông/Nn/O được/Vv/O Bác/Nn/PER_B Hồ/Nr/PER_I đặt/Vv/O tên/Nn/O mới/Aa/O là/Vc/O Trần_Đại_Nghĩa/Nr/PER_B và/Cp/O giao/Vv/O nhiệm_vụ/Nn/O nghiên_cứu/Vv/O chế_tạo/Vv/O vũ_khí/Nn/O phục_vụ/Vv/O cuộc/Nc/O kháng_chiến/Vv/O chống/Vv/O thực_dân/Nn/ORG_B Pháp/Nr/ORG_I ./PU/O 
+Trên/Cm/O cương_vị/Nn/O Cục_trưởng/Nq/O Cục/Nn/ORG_B Quân_giới/Nn/ORG_I ,/PU/O ông/Nn/O đã/R/O cùng/Cp/O anh_em/Nn/O miệt_mài/Aa/O nghiên_cứu/Vv/O ,/PU/O chế/Vv/O ra/R/O những/Nq/O loại/Nn/O vũ_khí/Nn/O có/Ve/O sức/Nn/O công_phá/Vv/O lớn/Aa/O như/Cp/O súng/Nn/O ba-dô-ca/Nn/O ,/PU/O súng/Nn/O không/R/O giật/Vv/O ,/PU/O bom_bay/Nn/O tiêu_diệt/Vv/O xe_tăng/Nn/O và/Cp/O lô_cốt/Nn/O của/Cm/O giặc/Nn/O ./PU/O 
+Bên/Nn/O cạnh/Nn/O những/Nq/O cống_hiến/Nn/O xuất_sắc/Aa/O cho/Cp/O sự_nghiệp/Nn/O quốc_phòng/Nn/O ,/PU/O Giáo_sư/Nn/DES_B Trần_Đại_Nghĩa/Nr/PER_B còn/R/O có/Ve/O công/Nn/O lớn/Aa/O trong/Cm/O việc/Nn/O xây_dựng/Vv/O nền/Nc/O khoa_học/Nn/O trẻ_tuổi/Aa/O của/Cm/O nước_nhà/Nn/O ./PU/O 
+Nhiều/Aa/O năm/Nt/O liền/Aa/O ,/PU/O ông/Nn/O giữ/Vv/O cương_vị/Nn/O Chủ_nhiệm/Nn/O ủy/Nq/O ban/Nn/O Khoa_học/Nn/O và/Cp/O Kĩ_thuật/Nn/O Nhà_nước/Nn/O ./PU/O 
+Những/Nq/O cống_hiến/Nn/O của/Cm/O Giáo_sư/Nn/DES_B Trần_Đại_Nghĩa/Nr/PER_B được/Vv/O đánh_giá/Vv/O cao/Aa/O ./PU/O 
+Năm/Nt/DTM_B 1948/Nt/DTM_I ,/PU/O ông/Nn/O được/Vv/O phong/Vv/O Thiếu_tướng/Nn/O ./PU/O 
+Năm/Nt/DTM_B 1952/Nt/DTM_I ,/PU/O ông/Nn/O được/Vv/O tuyên_dương/Vv/O Anh_hùng_Lao_động/Nr/BRN_B ,/PU/O ông/Nn/O còn/R/O được/Vv/O Nhà_nước/Nn/O tặng/Vv/O Giải_thưởng/Nn/O Hồ_Chí_Minh/Nr/PER_B và/Cp/O nhiều/Aa/O huân_chương/Nn/O cao_quý/Aa/O ./PU/O 

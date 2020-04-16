@@ -1,0 +1,35 @@
+﻿Con_gái/Nn/O 
+Mẹ/Nn/O sắp/R/O sinh/Vv/O em_bé/Nn/O ./PU/O 
+Cả/Pp/O nhà/Nn/O mong/Vv/O ,/PU/O Mơ/Vv/O háo_hức/Aa/O ./PU/O 
+Thế/Pp/O rồi/Cp/O mẹ/Nn/O sinh/Vv/O một/Nq/NUM_B em_gái/Nn/O ./PU/O 
+Dì/Nn/TTL_B Hạnh/Nr/PER_B bảo/Vv/O :/PU/O 
+Lại/R/O một/Nq/NUM_B vịt_trời/Nn/O nữa/R/O ./PU/O 
+Cả/Pp/O bố/Nn/O và/Cp/O mẹ/Nn/O đều/R/O có/Ve/O vẻ/Nn/O buồn_buồn/Aa/O ./PU/O 
+Đêm/Nt/O ,/PU/O Mơ/Vv/O trằn_trọc/Vv/O không/R/O ngủ/Vv/O ./PU/O 
+Em/Pp/O không/R/O hiểu/Vv/O vì_sao/Pp/O mọi/Nq/O người/Nn/O lại/R/O có_vẻ/R/O không/R/O vui/Aa/O lắm/R/O khi/Nt/O mẹ/Nn/O sinh/Vv/O em_gái/Nn/O ./PU/O 
+Mơ/Vv/O thì/Cp/O kém/Aa/O gì/M/O con_trai/Nn/O nhỉ/M/O ?/PU/O 
+Ở/Cm/O lớp/Nn/O ,/PU/O em/Pp/O luôn/R/O là/Vc/O học_sinh/Nn/O giỏi/Aa/O ./PU/O 
+Tan/Vv/O học/Vv/O ,/PU/O các/Nq/O bạn_trai/Nn/O còn/R/O mải/Vv/O đá/Vv/O bóng/Nn/O thì/Cp/O Mơ/Vv/O đã/R/O về/D/O cặm_cụi/Vv/O tưới/Vv/O rau/Nn/O rồi/Cp/O chẻ/Vv/O củi/Nn/O ,/PU/O nấu/Vv/O cơm/Nn/O giúp/Vv/O mẹ/Nn/O ./PU/O 
+Thế/Pp/O mà/Cp/O đám/Nn/O con_trai/Nn/O còn/R/O dám/Vv/O trêu/Vv/O Mơ/Vv/O ./PU/O 
+Các/Nq/O bạn/Nn/O nói/Vv/O rằng/Cp/O con_gái/Nn/O chẳng/R/O được/Vv/O tích_sự/Nn/O gì/Pp/O ./PU/O 
+Tức/Cp/O ghê/Aa/O !/PU/O 
+Mẹ/Nn/O phải/Vv/O nghỉ/Vv/O ở/Cm/O nhà/Nn/O ,/PU/O bố/Nn/O đi/Vv/O công_tác/Vv/O xa/Aa/O ,/PU/O Mơ/Vv/O làm/Vv/O hết/Ve/O mọi/Nq/O việc/Nn/O trong/Cm/O nhà/Nn/O giúp/Vv/O mẹ/Nn/O ./PU/O 
+Tối/Nt/O ,/PU/O mẹ/Nn/O ôm/Vv/O Mơ/Vv/O vào/Cm/O lòng/Nn/O ,/PU/O thủ_thỉ/Vv/O :/PU/O 
+Đừng/R/O vất_vả/Aa/O thế/Pp/O ,/PU/O để/Cm/O sức/Nn/O mà/Cp/O lo/Vv/O học/Vv/O ,/PU/O con/Nc/O ạ/M/O !/PU/O 
+Mơ/Vv/O nép/Vv/O vào/Cm/O ngực/Nn/O mẹ/Nn/O ,/PU/O thì_thào/Vv/O :/PU/O 
+Mẹ/Pp/O ơi/E/O ,/PU/O con/Pp/O sẽ/R/O cố_gắng/Vv/O thay/Vv/O một/Nq/NUM_B đứa/Nc/O con_trai/Nn/O trong/Cm/O nhà/Nn/O ,/PU/O mẹ/Nn/O nhé/M/O !/PU/O 
+Mẹ/Nn/O ôm/Vv/O chặt/Aa/O Mơ/Vv/O ,/PU/O trào/Vv/O nước_mắt/Nn/O ./PU/O 
+Chiều/Nt/DTM_B nay/Nt/DTM_I ,/PU/O thằng/Nn/TTL_B Hoan/Nr/PER_B học/Vv/O lớp/Nn/O 3C/Nr/O mải/Vv/O đuổi/Vv/O theo/Vv/O con/Nc/O cào_cào/Nn/O ,/PU/O trượt/Vv/O chân/Nn/O sa/Vv/O xuống/D/O ngòi/Nn/O nước/Nn/O ./PU/O 
+Nó/Pp/O cứ/R/O chới_với/Vv/O ,/PU/O chới_với/Vv/O ./PU/O 
+Mơ/Vv/O vội_vàng/Aa/O lao/Vv/O xuống/D/O ./PU/O 
+Cả/Pp/O hai/Nq/NUM_B đứa/Nn/O ngụp/Vv/O lên/R/O ,/PU/O ngụp/Vv/O xuống/D/O ,/PU/O uống/Vv/O cơ_man/An/O là/Vc/O nước/Nn/O ./PU/O 
+May_mà/E/O mọi/Nq/O người/Nn/O đến/Vd/O kịp/Aa/O ./PU/O 
+Thật/R/O hú_vía/Vv/O !/PU/O 
+Tối/Nt/O đó/Pd/O ,/PU/O bố/Nn/O về/D/O ./PU/O 
+Bố/Nn/O ôm/Vv/O Mơ/Vv/O chặt/Aa/O đến/Cm/O ngợp/Vv/O thở/Vv/O ./PU/O 
+Cả/Pp/O bố/Nn/O và/Cp/O mẹ/Nn/O đều/R/O rơm_rớm/Vv/O nước_mắt/Nn/O ./PU/O 
+Chỉ/R/O có/Ve/O em_bé/Nn/O nằm/Vv/O trong/Cm/O nôi/Nn/O là/Vc/O cười/Vv/O rất/R/O tươi/Aa/O ./PU/O 
+Chắc/Aa/O là/Vc/O em/Pp/O khen/Vv/O chị/Nn/TTL_B Mơ/Nr/PER_B giỏi/Aa/O đấy/M/O ./PU/O 
+Dì/Nn/TTL_B Hạnh/Nr/PER_B nói/Vv/O giọng/Nn/O đầy/Aa/O tự_hào/Aa/O :/PU/O 
+Biết/Vv/O cháu/Nn/O tôi/Pp/O chưa/R/O ?/PU/O 
+Con_gái/Nn/O như/Cp/O nó/Pp/O thì/Cp/O một/Nq/NUM_B trăm/Nq/NUM_I đứa/Nc/O con_trai/Nn/O cũng/R/O không/R/O bằng/Vv/O ./PU/O 

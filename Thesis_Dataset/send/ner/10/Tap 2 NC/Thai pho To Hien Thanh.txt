@@ -1,0 +1,51 @@
+﻿Thái_phó/Nn/O Tô_Hiến_Thành/Nr/PER_B 
+1/Nq/NUM_B ./PU/O 
+Lí/Nn/TTL_B Cao_Tông/Nr/PER_B húy/Nn/O là/Vc/O Long_Cán/Nr/PER_B ,/PU/O con/Nc/O thứ/Nn/O sáu/An/O của/Cm/O Anh/Nr/ORG_B Tông/Nr/PER_B ,/PU/O mẹ/Nn/O là/Vc/O Vương_hậu_Thụy_Châu/Nr/PER_B ,/PU/O họ/Pp/O Đỗ/Vv/O ./PU/O 
+Niên_hiệu/Nn/DES_B Thiên_Cảm_Chí_Bảo/Nr/PER_B năm/Nt/O thứ/Nn/O hai/An/O tháng/Nt/DTM_B bảy/Nt/DTM_I ,/PU/O vương/Vv/O mới/Cp/O hai/Nq/MEA_B tuổi/Nn/MEA_I lên_ngôi/Vv/O trước/Nn/O linh_cữu/Nn/O ./PU/O 
+Vương/Nr/PER_B đương/Nn/O ấu_thơ/Aa/O ,/PU/O mọi/Nq/O việc/Nn/O lớn_nhỏ/Aa/O đều/R/O giao/Vv/O cho/Cp/O Thái/Nr/PER_B phó/Nn/DES_B Tô_Hiến_Thành/Nr/PER_B ./PU/O 
+Thái_hậu/Nn/O có/Ve/O ý/Nn/O phế/Nn/O lập/Vv/O Long_Cán/Nr/PER_B ,/PU/O dò/Vv/O biết/Vv/O lúc/Nt/O Hiến_Thành/Nr/PER_B đi/Vv/O sứ/Nn/O ,/PU/O đem/Vv/O vàng/Nn/O lụa/Nn/O đến/D/O hối_lộ/Vv/O Lã_Thị/Nr/PER_B -/PU/O vợ/Nn/O của/Cm/O Hiến_Thành/Nr/PER_B -/PU/O ,/PU/O xui/Aa/O nói/Vv/O lại/R/O việc/Nn/O đó/Pd/O với/Cp/O ông/Nn/O ./PU/O 
+Hiến_Thành/Nr/PER_B nói/Vv/O :/PU/O 
+-/PU/O Ta/Pp/O ở/Cm/O ngôi/Nc/O Tể_tướng/Nn/O ,/PU/O nhận_lời/Vv/O cố/Vv/O thác/Nn/O của/Cm/O Tiên_Vương/Nr/PER_B để/Cm/O phò/Vv/O ấu/Nn/O chúa/Nn/O ./PU/O 
+Nay/Nt/O nhận/Vv/O đồ/Nn/O hối_lộ/Vv/O của/Cm/O người/Nn/O mà/Cp/O mưu/Vv/O phế/Nn/O lập/Vv/O ,/PU/O thiên_hạ/Nn/O sẽ/R/O nói/Vv/O ta/Pp/O như/Cp/O thế_nào/Pp/O ?/PU/O 
+Giá_như/Cp/O mọi/Nq/O người/Nn/O đều/R/O là/Vc/O kẻ/Nn/O bưng/Vv/O tai/Nn/O bịt/Vv/O mắt/Nn/O không/R/O biết/Vv/O ,/PU/O thì/Cp/O ta/Pp/O biết/Vv/O lấy/Vv/O lời_lẽ/Nn/O nào/Pd/O để/Cm/O trả_lời/Vv/O Tiên_Vương/Nr/PER_B ở/Cm/O dưới/Cm/O suối_vàng/Nn/O ?/PU/O 
+Thái_hậu/Nn/O biết/Vv/O mưu/Nn/O mình/Pp/O không/R/O xong/Vv/O ,/PU/O nhưng/Cp/O vẫn/R/O không/R/O đổi/Vv/O ý/Nn/O ,/PU/O bèn/R/O vời/Aa/O Hiến_Thành/Nr/PER_B đến/Vd/O ,/PU/O bảo/Vv/O rằng/Cp/O :/PU/O 
+-/PU/O Ông/Nn/O đối_với/Cp/O nước_nhà/Nn/O ,/PU/O có_thể/Aa/O gọi/Vv/O là/Cp/O trung/Nn/O đấy/M/O !/PU/O 
+Song/Cp/O ,/PU/O tuổi/Nn/O ông/Nn/O đã/R/O xế_chiều/Aa/O mà/Cp/O thờ/Vv/O ấu/Nn/O chúa/Nn/O thì/Cp/O việc/Nn/O làm/Vv/O của/Cm/O ông/Nn/O ai/Pp/O người/Nn/O biết/Vv/O đến/Cm/O ?/PU/O 
+Chi_bằng/Cp/O ,/PU/O lập/Vv/O vua/Nn/O đã/R/O trưởng_thành/Vv/O thì/Cp/O người/Nn/O đó/Pd/O sẽ/R/O đem/Vv/O ơn/Nn/O đức/Nn/O mà/Cp/O ban/Nn/O cho/Cp/O ./PU/O 
+Ông/Nn/O giữ/Vv/O được/R/O phú_quý/Aa/O lâu_dài/Aa/O ,/PU/O há/Vv/O chẳng/R/O nên/Vv/O ư/M/O ?/PU/O 
+Hiến_Thành/Nr/PER_B nói/Vv/O :/PU/O 
+-/PU/O Bất_nghĩa/Nn/O mà/Cp/O được/Vv/O phú/Vv/O và/Cp/O quý/Aa/O ,/PU/O đó/Pd/O không/R/O phải/Aa/O là/Vc/O điều/Nc/O người/Nc/O trung_thần/Nq/O nghĩa_sĩ/Nn/O vui/Aa/O làm/Vv/O ./PU/O 
+Huống_chi/Cp/O ,/PU/O lời/Nn/O di_chúc/Nn/O của/Cm/O Tiên_Vương/Nr/PER_B còn/R/O ở/Cm/O bên/Nn/O tai/Nn/O ./PU/O 
+Đối_với/Cp/O công_luận/Nn/O sẽ/R/O như/Cp/O thế_nào/Pp/O ?/PU/O 
+Thần/Nn/O không/R/O dám/Vv/O vâng/Vv/O lời/Nn/O ./PU/O 
+Bèn/Nr/PER_B rảo/Vv/O bước/Vv/O ra/D/O ngoài/Nn/O ./PU/O 
+Thái_hậu/Nn/O sai/Aa/O triệu/Nq/O gấp/Vv/O Bảo_Quốc_Vương/Nr/PER_B ./PU/O 
+Bảo_Quốc/Nr/PER_B vừa/Cs/O mừng/Vv/O vừa/Cs/O sợ/Vv/O ,/PU/O bèn/R/O dùng/Vv/O thuyền/Nn/O con/Nn/O ,/PU/O theo/Vv/O sông/Nn/LOC_B Tô_Lịch/Nr/LOC_I mà/Cp/O vào/Vd/O ./PU/O 
+Hiến_Thành/Nr/PER_B mời/Vv/O các/Nq/O Đô/Nr/O quan_chức/Nn/O tả_hữu/Nn/O ,/PU/O dụ/Vv/O bảo/Vv/O rằng/Cp/O :/PU/O 
+-/PU/O Tiên_Vương/Nr/PER_B thấy/Vv/O tôi/Pp/O với/Cp/O các/Nq/O ngài/Pp/O gắng/Vv/O hết_sức/R/O vì/Cs/O vương/Vv/O thất/Vv/O ,/PU/O không/R/O ăn_ở/Vv/O hai/Nq/NUM_B lòng/Nn/O ,/PU/O nên/Vv/O đem/Vv/O ấu/Nn/O chúa/Nn/O mà/Cs/O phó_thác/Vv/O ./PU/O 
+Nay/Nt/O Bảo_Quốc_Vương/Nr/PER_B dùng/Vv/O lệnh/Nn/O của/Cm/O Thái_hậu/Nn/O ,/PU/O nói/Vv/O rằng/Cp/O ,/PU/O phế/Nn/O chúa_thượng/Nn/O mà/Cp/O tự_lập/Vv/O ./PU/O 
+Các/Nq/O ngài/Pp/O phải/Vv/O tận/Cm/O lòng/Nn/O trung/Aa/O ,/PU/O đem/Vv/O hết_sức/R/O mình/Pp/O ,/PU/O nghe/Vv/O lời/Nn/O ta/Pp/O ./PU/O 
+Kẻ/Nn/O vâng/Vv/O lời/Nn/O ta/Pp/O ,/PU/O được/Vv/O thưởng/Vv/O lâu_dài/Aa/O ,/PU/O kẻ/Nn/O trái/Aa/O mệnh/Nn/O ta/Pp/O sẽ/R/O bị/Vv/O giết/Vv/O phơi/Vv/O ngoài/Nn/O chợ/Nn/O ./PU/O 
+Các/Nq/O ngài/Pp/O nên/Vv/O gắng_sức/Vv/O ./PU/O 
+Các/Nq/O Đô/Nr/O quan_chức/Nn/O đều/R/O đồng_lòng/Aa/O vâng/Vv/O mệnh/Nn/O ./PU/O 
+Lát/Nt/DTM_B sau/Nn/DTM_I ,/PU/O Bảo_Quốc_Vương/Nr/PER_B đi/Vv/O đến/Cm/O cửa/Nn/DES_B Ngân_Hà/Nr/PER_B ,/PU/O Thái_hậu/Nn/O triệu/Nq/O gấp/Vv/O ./PU/O 
+Bảo_Quốc/Nr/PER_B muốn/Vv/O vào/D/O ,/PU/O Đô/Nr/PER_B quan_chức/Nn/O ngăn/Vv/O lại/R/O nói/Vv/O :/PU/O 
+-/PU/O Chưa/R/O có/Ve/O chiếu_chỉ/Nn/O không/R/O dám/Vv/O phụng_mệnh/Nu/O ./PU/O 
+Nếu/Cp/O vương/Vv/O cố_ý/Vv/O tự/Pp/O vào/D/O ,/PU/O phạm/Vv/O đến/Cm/O vương/Vv/O không/R/O phải/Aa/O tôi/Pp/O mà/Cp/O là/Vc/O quân_lính/Nn/O vậy/M/O ./PU/O 
+Bảo_Quốc/Nr/PER_B nghe/Vv/O nói/Vv/O ,/PU/O sợ_hãi/Aa/O mà/Cp/O lui/Vd/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Năm/Nt/O Kỉ/Nr/ORG_B Hợi/Nn/ORG_I niên_hiệu/Nn/ORG_I Trinh_Phù/Nr/ORG_I năm/Nt/O thứ/Nn/O tư/An/O ./PU/O 
+Tháng/Nt/DTM_B sáu/Nt/DTM_I ,/PU/O ngày/Nt/O Kỉ_Dậu/Nr/PER_B :/PU/O Thái/Nr/LOC_B úy/Nn/O Tô_Hiến_Thành/Nr/PER_B mất/Ve/O ./PU/O 
+Vương/Nr/PER_B bãi_triều/Nn/O bảy/Nq/MEA_B ngày/Nt/MEA_I ,/PU/O ăn_chay/Vv/O ba/Nq/MEA_B ngày/Nt/MEA_I ./PU/O 
+Trước/Nn/O đây/Pd/O ,/PU/O khi/Nt/O Hiến_Thành/Nr/PER_B ngã_bệnh/Vv/O ,/PU/O chỉ/R/O có/Ve/O Tham_tri/Nn/O chính/Aa/O sự/Nc/O Vũ_Tán_Đường/Nr/PER_B ngày_đêm/Nt/O hầu_hạ/Vv/O bên/Nn/O cạnh/Nn/O ./PU/O 
+Quan_Gián_nghị/Nr/PER_B đại_phu/Nn/DES_B Trần_Trung_Tá/Nr/PER_B bận_bịu/Aa/O nhiều/Aa/O việc/Nn/O ,/PU/O không/R/O lúc/Nt/O nào/Pd/O rảnh_rang/Aa/O để/Cm/O đến/Vd/O thăm/Vv/O ./PU/O 
+Khi/Nt/O bệnh/Nn/O Hiến_Thành/Nr/PER_B nguy_kịch/Aa/O ,/PU/O Thái_hậu/Nn/O đến/Vd/O thăm/Vv/O ,/PU/O hỏi/Vv/O :/PU/O 
+-/PU/O Nếu/Cp/O có/Ve/O mệnh_hệ/Nn/O nào/Pd/O ,/PU/O ai/Pp/O thay/Vv/O ông/Nn/O ?/PU/O 
+Hiến_Thành/Nr/PER_B nói/Vv/O :/PU/O 
+-/PU/O Người/Nn/O mà/Cp/O ngày/Nt/O thường/Aa/O thần/Nn/O biết/Vv/O ,/PU/O chỉ/R/O có/Ve/O Trung_Tá/Nr/PER_B mà_thôi/M/O ./PU/O 
+Thái_hậu/Nn/O nói/Vv/O :/PU/O 
+-/PU/O Tán_Đường/Nr/PER_B ngày_ngày/R/O hầu_hạ/Vv/O thuốc_men/Nn/O mà/Cp/O ông/Nn/O không/R/O nói/Vv/O đến/Cm/O ./PU/O 
+Sao/Pp/O vậy/M/O ?/PU/O 
+Đáp/Vv/O :/PU/O 
+-/PU/O Thái_hậu/Nn/DES_B hỏi/Vv/O người/Nn/O thay/Vv/O thần/Nn/O ,/PU/O nên/Cp/O thần/Nn/O nói/Vv/O tới/Cm/O Trung_Tá/Nr/PER_B ;/PU/O nếu/Cs/O hỏi/Vv/O người/Nn/O hầu_hạ/Vv/O phụng_dưỡng/Vv/O thần/Nn/O thì/Cs/O phi_Tán_Đường/Nu/O còn/Ve/O ai/Pp/O nữa/R/O ?/PU/O 
+Thái_hậu/Nn/O tuy/Cs/O khen/Vv/O Hiến_Thành/Nr/PER_B có/Ve/O lòng/Nn/O trung/Aa/O ,/PU/O nhưng/Cs/O không/R/O theo/Vv/O lời/Nn/O ông/Nn/O ,/PU/O bèn/R/O lấy/Vv/O Đỗ_An_Thuận/Nr/PER_B coi/Vv/O việc/Nn/O triều_chính/Nn/O ./PU/O 

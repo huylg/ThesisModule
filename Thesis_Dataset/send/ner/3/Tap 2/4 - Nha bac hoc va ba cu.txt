@@ -1,0 +1,31 @@
+﻿Nhà/Nc/O bác_học/Nn/O và/Cp/O bà/Nc/O cụ/Nn/O 
+Ê-đi-xơn/Nn/O là/Vc/O một/Nq/NUM_B nhà/Nc/O bác_học/Nn/O nổi_tiếng/Aa/O người/Nn/O Mĩ/Nr/LOC_B ./PU/O 
+Khi/Nt/O ông/Nn/O chế/Vv/O ra/R/O đèn_điện/Nn/O ,/PU/O người/Nn/O từ/Cm/O khắp/Aa/O nơi/Nn/O ùn_ùn/Aa/O kéo/Vv/O đến/D/O xem/Vv/O ./PU/O 
+Có/Ve/O một/Nq/NUM_B bà/Nc/O cụ/Nn/O phải/Vv/O đi/Vv/O bộ/Nn/O mười/Nq/MEA_B hai/Nq/MEA_I cây_số/Nu/MEA_I ./PU/O 
+Đến/Cm/O nơi/Nn/O ,/PU/O cụ/Nn/O mỏi/Aa/O quá/R/O ,/PU/O ngồi/Vv/O xuống/D/O vệ/Nc/O đường/Nn/O bóp/Vv/O chân/Nn/O ,/PU/O đấm/Vv/O lưng/Nn/O thùm_thụp/Aa/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O Ê-đi-xơn/Nn/O chợt/R/O đi/Vv/O qua/D/O ./PU/O 
+Ông/Nn/O dừng/Vv/O lại/R/O hỏi/Vv/O chuyện/Nn/O ./PU/O 
+Bà/Nn/O cụ/Nn/O nói/Vv/O :/PU/O 
+Già/Aa/O đã/R/O phải/Vv/O đi/Vv/O bộ/Nn/O gần/Aa/O ba/Nq/MEA_B giờ/Nt/MEA_I đồng_hồ/Nn/O để/Cm/O được/Vv/O nhìn/Vv/O tận_mắt/Aa/O cái/Nc/O đèn_điện/Nn/O ./PU/O 
+Giá/Nn/O ông/Nn/TTL_B E-đi-xơn/Nr/PER_B làm/Vv/O được/R/O cái/Nc/O xe/Nn/O chở/Vv/O người/Nn/O già/Aa/O đi/Vv/O nơi/Nn/O này/Pd/O nơi/Nn/O khác/Aa/O có/R/O phải/Aa/O may_mắn/Aa/O hơn/Aa/O cho/Cp/O già/Aa/O không/R/O ?/PU/O 
+Thưa/E/O cụ/Nn/O ,/PU/O tôi/Pp/O tưởng/Vv/O vẫn/R/O có/Ve/O xe_ngựa/Nn/O chở/Vv/O khách/Nn/O chứ/M/O ?/PU/O 
+Đi/Vv/O xe/Nn/O ấy/Pd/O thì/Cp/O ốm/Vv/O mất/Ve/O ./PU/O 
+Già/Aa/O chỉ/R/O muốn/Vv/O có/Ve/O một/Nq/NUM_B thứ/Nn/O xe/Nn/O không/R/O cần/Vv/O ngựa/Nn/O kéo/Vv/O mà/Cp/O lại/R/O thật/R/O êm/Aa/O ./PU/O 
+Nghe/Vv/O bà/Nc/O cụ/Nn/O nói/Vv/O vậy/Pp/O ,/PU/O bỗng/R/O một/Nq/NUM_B ý_nghĩ/Nn/O lóe/Nn/O lên/R/O trong/Cm/O đầu/Nn/O Ê-đi-xơn/Nn/O ./PU/O 
+Ông/Nn/O reo/Vv/O lên/R/O :/PU/O 
+Cụ/Pp/O ơi/E/O !/PU/O 
+Tôi/Pp/O là/Vc/O Ê-đi-xơn/Nn/O đây/Pd/O ./PU/O 
+Nhờ/Cm/O cụ/Nn/O mà/Cp/O tôi/Pp/O nảy/Vv/O ra/R/O ý_định/Nn/O làm/Vv/O một/Nq/NUM_B cái/Nc/O xe/Nn/O chạy/Vv/O bằng/Cm/O dòng_điện/Nn/O đấy/M/O ./PU/O 
+Bà/Nn/O cụ/Nn/O vô_cùng/R/O ngạc_nhiên/Vv/O khi/Nt/O thấy/Vv/O nhà/Nn/O bác_học/Nn/O cũng/R/O bình_thường/Aa/O như/Cp/O mọi/Nq/O người/Nn/O khác/Aa/O ./PU/O 
+Lúc/Nt/O chia_tay/Vv/O ,/PU/O Ê-đi-xơn/Nn/O bảo/Vv/O :/PU/O 
+Tôi/Pp/O sẽ/R/O mời/Vv/O cụ/Nn/O đi/Vv/O chuyến/Nn/O xe_điện/Nn/O đầu_tiên/An/O ./PU/O 
+Thế_nào/Pp/O già/Aa/O cũng/R/O đến/Vd/O .../PU/O 
+Nhưng/Cp/O ông/Nn/O phải/Vv/O làm/Vv/O nhanh/Aa/O lên/Vv/O nhé/M/O ,/PU/O kẻo/Cp/O tuổi/Nn/O già/Aa/O chẳng/R/O còn/R/O được/Vv/O bao_lâu/Aa/O đâu/R/O ./PU/O 
+Từ/Cm/O lần/Nn/O gặp/Vv/O bà/Nc/O cụ/Nn/O ,/PU/O Ê-đi-xơn/Nn/O miệt_mài/Aa/O với/Cp/O công_việc/Nn/O chế_tạo/Vv/O xe_điện/Nn/O và/Cp/O đã/R/O thành_công/Vv/O ./PU/O 
+Hôm/Nt/O chạy/Vv/O thử/Vv/O xe_điện/Nn/O ,/PU/O người_ta/Pp/O xếp_hàng/Vv/O dài/Aa/O để/Cm/O mua/Vv/O vé/Nn/O ./PU/O 
+Ê-đi-xơn/Nn/O mời/Vv/O bà/Nc/O cụ/Nn/O dạo/Vv/O nọ/Pd/O đi/Vv/O chuyến/Nn/O đầu_tiên/An/O ./PU/O 
+Đến/Cm/O ga/Nn/O ,/PU/O ông/Nn/O bảo/Vv/O :/PU/O 
+Tôi/Pp/O giữ/Vv/O đúng/Aa/O lời/Nn/O hứa/Vv/O với/Cp/O cụ/Nn/O rồi/Cp/O nhé/M/O !/PU/O 
+Bà/Nn/O cụ/Nn/O cười/Vv/O móm_mém/Aa/O :/PU/O 
+Cảm_ơn/Vv/O ông/Nn/O ./PU/O 
+Giờ/Nt/O thì/Cp/O già/Aa/O có_thể/Aa/O đi/Vv/O chơi/Vv/O cả/Pp/O ngày/Nt/O với/Cp/O chiếc/Nc/O xe/Nn/O này/Pd/O rồi/R/O !/PU/O 

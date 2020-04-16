@@ -1,0 +1,61 @@
+Phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn
+I/An -/PU Khái_quát/Nn về/Cm phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn
+Phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn là/Vc loại/Nn phong_cách/Nn ngôn_ngữ/Nn dùng/Vv trong/Cm các/Nq văn_bản/Nn thuộc/Vv lĩnh_vực/Nn khoa_học/Nn -/PU công_nghệ/Nn ,/PU thường/R gọi/Vv là/Cp văn_bản/Nn khoa_học/Nn ./PU
+Văn_bản/Nn khoa_học/Nn tồn_tại/Vv ở/Cm cả/Pp hai/Nq dạng/Nn :/PU dạng/Nn viết/Vv và/Cp dạng/Nn nói/Vv ./PU
+Ở/Cm dạng/Nn viết/Vv ,/PU đó/Pd là/Vc các/Nq văn_bản/Nn khoa_học/Nn đăng_tải/Vv trong/Cm sách/Nn ,/PU báo/Nn ./PU
+Ở/Cm dạng/Nn nói/Vv ,/PU đó/Pd là/Vc các/Nq lời/Nn giảng/Vv bài/Nc trong/Cm nhà_trường/Nn ,/PU lời/Nn thuyết_trình/Vv ,/PU báo_cáo/Nn trong/Cm hội_thảo/Nn khoa_học/Nn ,/PU .../PU
+Dù/Cp ở/Cm dạng/Nn nào/Pd ,/PU văn_bản/Nn khoa_học/Nn cũng/R thường/R có/Ve ba/Nq loại/Nn :/PU văn_bản/Nn khoa_học/Nn chuyên_sâu/Aa (/PU công_trình/Nn nghiên_cứu/Vv ,/PU chuyên_luận/Nn ,/PU luận_án/Nn ,/PU .../PU )/PU ,/PU văn_bản/Nn khoa_học/Nn giáo_khoa/Aa (/PU giáo_khoa/Aa ,/PU giáo_trình/Nn ,/PU .../PU )/PU và/Cp văn_bản/Nn khoa_học/Nn phổ_cập/Vv (/PU phổ_biến/Vv kiến_thức/Nn khoa_học/Nn phổ_thông/Nn ,/PU .../PU )/PU ./PU
+Phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn có/Ve các/Nq đặc_điểm/Nn chung/Aa như/Cp sau/Nn ./PU
+1/Nq ./PU
+Tính/Vv khái_quát/Aa ,/PU trừu_tượng/Aa :/PU Khoa_học/Nn không/R dừng/Vv lại/R ở/Cm những/Nq hiện_tượng/Nn cá_biệt/Aa ,/PU riêng_lẻ/Aa mà/Cp nhắm/Vv tới/Cm những/Nq quy_luật/Nn khái_quát/Aa ,/PU trừu_tượng/Aa ./PU
+Do/Cp đó/Pd ,/PU ngôn_ngữ/Nn trong/Cm văn_bản/Nn khoa_học/Nn cũng/R phải/Vv đảm_bảo/Vv tính/Nn khái_quát/Aa ,/PU trừu_tượng/Aa ./PU
+2/Nq ./PU
+Tính/Vv lí_trí/Nn ,/PU lô_gích/Nn :/PU Để/Cm diễn_đạt/Vv những/Nq thành_quả/Nn của/Cm tư_duy/Nn khoa_học/Nn và/Cp thuyết_phục/Vv người/Nn đọc/Vv tin/Vv vào/Cm những/Nq kết_luận/Nn khoa_học/Nn ,/PU ngôn_ngữ/Nn trong/Cm văn_bản/Nn khoa_học/Nn phải/Vv đảm_bảo/Vv tính/Nn lí_trí/Nn ,/PU lô_gích/Nn ./PU
+3/Nq ./PU
+Tính/Vv khách_quan/Aa ,/PU phi/Vv cá_thể/Aa :/PU Mục_đích/Nn của/Cm khoa_học/Nn là/Vc khám_phá/Vv các/Nq quy_luật/Nn của/Cm xã_hội/Nn ,/PU tự_nhiên/Aa ./PU
+Do/Cp vậy/Pp ,/PU ngôn_ngữ/Nn được/Vv sử_dụng/Vv trong/Cm các/Nq văn_bản/Nn khoa_học/Nn phải/Vv có/Ve tính/Nn khách_quan/Aa ,/PU thường/R không/R mang/Vv dấu_ấn/Nn cá_nhân/Nn ./PU
+Các/Nq đặc_điểm/Nn của/Cm phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn được_thể_hiện/Nn ở/Cm những/Nq mức_độ/Nn nghiêm_ngặt/Aa khác/Aa nhau/Nn tùy/Nn theo/Vv loại/Nn văn_bản/Nn khoa_học/Nn :/PU chuyên_sâu/Aa ,/PU giáo_khoa/Aa hay/Cp phổ_cập/Vv ./PU
+II/An -/PU Cách/Nn sử_dụng/Vv phương_tiện/Nn ngôn_ngữ/Nn trong/Cm phong_cách/Nn ngôn_ngữ/Nn khoa_học/Nn
+1/Nq ./PU
+Về/Cm ngữ_âm/Nn -/PU chữ_viết/Nn
+Ở/Cm dạng/Nn nói/Vv ,/PU văn_bản/Nn khoa_học/Nn tuân/Vv theo/Vv những/Nq yêu_cầu/Nn phổ_biến/Aa về/Cm phát_âm/Vv ,/PU tạo/Vv nên/Vv sức/Nn thu_hút/Vv người/Nn nghe/Vv ./PU
+Ở/Cm dạng/Nn viết/Vv ,/PU ngoài/Nn những/Nq đặc_điểm/Nn của/Cm chuẩn/Nn chính_tả/Nn tiếng/Nn Việt/Nr nói_chung/Cs ,/PU văn_bản/Nn khoa_học/Nn còn/R có/Ve những/Nq điểm/Nn riêng/Aa về/Cm hệ_thống/Nn kí_hiệu/Nq khoa_học/Nn mà/Cp người/Nn viết/Vv và/Cp người/Nn đọc/Vv phải/Vv biết/Vv mới/Cp sử_dụng/Vv và/Cp tiếp_nhận/Vv được/R ./PU
+Ví_dụ/Cp :/PU các/Nq kí_hiệu/Nq m/Nu ,/PU m2/Nu ,/PU kg/Nu ,/PU S/Nr ,/PU F/Nr ,/PU a/Nr ,/PU H2O/Nr ,/PU .../PU
+2/Nq ./PU
+Về/Cm từ_ngữ/Nn
+-/PU Mỗi/Nq ngành/Nn khoa_học/Nn có/Ve hệ_thống/Nn thuật_ngữ/Nn riêng/Aa buộc/Vv người/Nn dùng/Vv phải/Vv hiểu/Vv chính_xác/Aa mới/Cp sử_dụng/Vv được/R ./PU
+Ví_dụ/Cp :/PU Chủ_ngữ/Nn ,/PU vị_ngữ/Nn ,/PU câu/Nn đơn/Aa ,/PU câu/Nn ghép/Vv ,/PU .../PU là/Vc các/Nq thuật_ngữ/Nn của/Cm khoa_học/Nn về/Cm ngôn_ngữ/Nn ./PU
+-/PU Từ_ngữ/Nr dùng/Vv trong/Cm văn_bản/Nn khoa_học/Nn thuộc/Vv lớp/Nn từ_ngữ/Nn chung/Aa ./PU
+Văn_bản/Nn khoa_học/Nn không/R dùng/Vv các/Nq từ_ngữ/Nn địa_phương/Nn ,/PU biệt/Aa ngữ/Nn xã_hội/Nn ,/PU .../PU
+-/PU Văn_bản/Nn khoa_học/Nn đòi_hỏi/Vv tính/Nn khách_quan/Aa ,/PU phi/Vv cá_thể/Aa nên/Cp từ_ngữ/Nn trong/Cm dó/Nn thường/R mang/Vv sắc_thái/Nn biểu_cảm/Vv trung/Aa hòa/Nn ./PU
+3/Nq ./PU
+Về/Cm kiểu/Nn câu/Nn
+-/PU Văn_bản/Nn khoa_học/Nn thường/R dùng/Vv các/Nq kiểu/Nn câu/Nn có/Ve chủ_ngữ/Nn không/R xác_định/Vv ,/PU hoặc/Cp khuyết/Vv chủ_ngữ/Nn ./PU
+Ví_dụ/Cp :/PU
++/PU Để/Cm phát_hiện/Vv các/Nq vật/Nn nhiễm_điện/Vv ,/PU người_ta/Pp dùng/Vv cái/Nc điện_nghiệm/Nn ./PU
+(/PU Vật_lí/Nr 9/Nq )/PU
++/PU Cho/Vv một/Nq hệ/Nn hai/Nq phương_trình/Nn bậc/Nn nhất/An hai/Nq ẩn/Vv ./PU
+(/PU Đại_số/Nr 10/Nq Nâng_cao/Vv )/PU
+-/PU Câu/Nn có/Ve nghĩa/Nn bị_động/Aa và/Cp câu/Nn có/Ve từ/Cm là/Vc được/Vv sử_dụng/Vv thường_xuyên/Aa khi/Nt đánh_giá/Vv ,/PU nhận_xét/Vv ,/PU định_nghĩa/Vv ./PU
+Ví_dụ/Cp :/PU
++/PU Như/Cp vậy/Pp trong/Cm mặt_phẳng/Nn tọa/Nq độ/Nn ,/PU mỗi/Nq nghiệm/Vv của/Cm bất_phương_trình/Nn bậc/Nn nhất/An hai/Nq ẩn/Vv được/Vv biểu_diễn/Vv bởi/Cp một/Nq điểm/Nn và/Cp tập/Vv nghiệm/Vv của/Cm nó/Pp được/Vv hiểu/Vv diễn/Vv bởi/Cp một/Nq tập_hợp/Nn điểm/Nn ./PU
+(/PU Đại_số/Nr 10/Nq Nâng_cao/Vv )/PU
++/PU Muối/Nn là/Vc hợp_chất/Nn mà/Cp phân_tử/Nn gồm/Vv nguyên_tử/Nn kim_loại/Nn liên_kết/Vv với/Cp gốc/Nn axít/Nn ./PU
+(/PU Hóa/Nr học/Vv 9/Nq )/PU
+-/PU Để/Cm trình_bày/Vv những/Nq biện_luận/Vv ,/PU suy_lí/Nq khoa_học/Nn ,/PU văn_bản/Nn khoa_học/Nn dùng/Vv các/Nq kiểu/Nn câu/Nn phức/Aa có/Ve đầy_đủ/Aa các/Nq cặp/Nq quan_hệ/Nn từ/Cm hô/Vv ứng/Vv như/Cp :/PU nếu/Cs .../PU thì/Cs ,/PU vì/Cs .../PU nên/Cs ,/PU tuy/Cs .../PU nhưng/Cs ,/PU v.v./Nn
+Ví_dụ/Cp :/PU
++/PU Nếu/Cp một/Nq đường_thẳng/Nn song_song/Aa với/Cp một/Nq đường_thẳng/Nn nào/Pd đó/Pd của/Cm một/Nq mặt_phẳng/Nn không/R chứa/Vv nó/Pp ,/PU thì/Cp nó/Pp song_song/Aa với/Cp mặt_phẳng/Nn ấy/Pd ./PU
+(/PU Hình_học/Nn 9/Nq )/PU
++/PU Vì/Cs dầu/Nn chỉ/R dính/Vv ướt/Aa quặng/Nn nên/Cs quặng/Nn bám/Vv vào/Cm các/Nq màng/Nn dầu/Nn bao/Vv quanh/Nn bọt/Nn khí/Nn và/Cp các/Nq hạt/Nc quặng/Nn nổi/Vv lên/R cùng/Cp với/Cp bọt/Nn khí/Nn ,/PU còn/Cp bẩn/Aa quặng/Nn thì/Cp chìm/Vv xuống/D đáy/Nn ./PU
+(/PU Vật_lí/Nr 10/Nq Nâng_cao/Vv )/PU
++/PU Tuy/Cs không/R tác_dụng/Vv trực_tiếp/Aa với/Cp oxi/Nn nhưng/Cs clo/Nn tạo/Vv ra/R một/Nq loạt/Nn oxit/Nn được/Vv điều_chế/Vv bằng/Cm con/Nc đường/Nn gián_tiếp/Aa ./PU
+(/PU Hóa/Nr học/Vv 10/Nq Nâng_cao/Vv )/PU
+4/Nq ./PU
+Về/Cm biện_pháp/Nn tu_từ/Nn
+Văn_bản/Nn khoa_học/Nn chuyên_sâu/Aa và/Cp giáo_khoa/Aa thường/R không/R dùng/Vv các/Nq biện_pháp/Nn tu_từ/Nn ./PU
+Song/Cp ,/PU trong/Cm văn_bản/Nn khoa_học/Nn phổ_cập/Vv ,/PU để/Cm tăng/Vv sự/Nc hấp_dẫn/Aa đối_với/Cp người/Nn đọc/Vv và/Cp dễ/Aa phổ_biến/Aa những/Nq kiến_thức/Nn khoa_học/Nn phổ_thông/Nn ,/PU người_ta/Pp cũng/R thường/R sử_dụng/Vv các/Nq biện_pháp/Nn tu_từ/Nn như/Cp ẩn_dụ/Nn ,/PU nhân/Cp hóa/Nn ,/PU so_sánh/Vv ,/PU .../PU
+5/Nq ./PU
+Về/Cm bố_cục/Nn ,/PU trình_bày/Vv
+Cách/Nn trình_bày/Vv ,/PU bố_cục/Nn văn_bản/Nn khoa_học/Nn đòi_hỏi/Vv phái/Nn chặt_chẽ/Aa ,/PU lô_gích/Nn ./PU
+Các/Nq văn_bản/Nn khoa_học/Nn không/R có/Ve khuôn_mẫu/Nn cố_định/Aa ,/PU nhưng/Cp thường/R được/Vv trình_bày/Vv theo/Vv trật_tự/Nn chương/Nn ,/PU mục/Nn ./PU
+Trong/Cm văn_bản/Nn khoa_học/Nn ,/PU ngoài/Nn cách/Nn trình_bày/Vv thông_thường/Aa ,/PU còn/Cp có/Ve bảng/Nn biểu/Nn ,/PU sơ_đồ/Nn ,/PU mô_hình/Nn ,/PU .../PU và/Cp thường/R xuất_hiện/Vv những/Nq chú_thích/Nn ,/PU với/Cp những/Nq quy_định/Nn sử_dụng/Vv chặt_chẽ/Aa ,/PU buộc/Vv phải/Vv tuân/Vv theo/Vv ./PU

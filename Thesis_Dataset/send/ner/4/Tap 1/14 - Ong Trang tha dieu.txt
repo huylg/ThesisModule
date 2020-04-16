@@ -1,0 +1,17 @@
+﻿Ông/Nn/O Trạng/Nn/O thả/Vv/O diều/Nn/O 
+Vào/Cm/O đời/Nn/O vua/Nn/DES_B Trần_Thái_Tông/Nr/PER_B ,/PU/O có/Ve/O một/Nq/NUM_B gia_đình/Nn/O nghèo/Aa/O sinh/Vv/O được/R/O cậu/Nc/O con_trai/Nn/O đặt/Vv/O tên/Nn/O là/Vc/O Nguyễn_Hiền/Nr/PER_B ./PU/O 
+Chú/Nn/O bé/Nn/O rất/R/O ham/Vv/O thả/Vv/O diều/Nn/O ./PU/O 
+Lúc/Nt/O còn/R/O bé/Aa/O ,/PU/O chú/Nn/O đã/R/O biết/Vv/O làm/Vv/O lấy/Vv/O diều/Nn/O để/Cm/O chơi/Vv/O ./PU/O 
+Lên/Vv/O sáu/Nq/MEA_B tuổi/Nn/MEA_I ,/PU/O chú/Nn/O học/Vv/O ông/Nc/O thầy/Nn/O trong/Cm/O làng/Nu/O ./PU/O 
+Thầy/Nn/O phải/Vv/O kinh_ngạc/Vv/O vì/Cp/O chú/Nn/O học/Vv/O đến/Cm/O đâu/Pp/O hiểu/Vv/O ngay/R/O đến/Vd/O đó/Pd/O và/Cp/O có/Ve/O trí_nhớ/Nn/O lạ_thường/Aa/O ./PU/O 
+Có/Ve/O hôm/Nt/O ,/PU/O chú/Nn/O thuộc/Vv/O hai/Nq/NUM_B mươi/Nq/NUM_I trang/Nn/O sách/Nn/O mà/Cp/O vẫn/R/O có/Ve/O thì_giờ/Nn/O chơi/Vv/O diều/Nn/O ./PU/O 
+Sau/Nn/O vì/Cp/O nhà/Nn/O nghèo/Aa/O quá/R/O ,/PU/O chú/Nn/O phải/Vv/O bỏ/Vv/O học/Vv/O ./PU/O 
+Ban_ngày/Nt/O ,/PU/O đi/Vv/O chăn/Vv/O trâu/Nn/O ,/PU/O dù/Cp/O mưa_gió/Nn/O thế_nào/Pp/O ,/PU/O chú/Nn/O cũng/R/O đứng/Vv/O ngoài/Nn/O lớp/Nn/O nghe/Vv/O giảng/Vv/O nhờ/Vv/O ./PU/O 
+Tối/Nt/O đến/D/O ,/PU/O chú/Nn/O đợi/Vv/O bạn/Pp/O học/Vv/O thuộc/Vv/O bài/Nc/O mới/Cp/O mượn/Vv/O vở/Nc/O về/Cm/O học/Vv/O ./PU/O 
+Đã/R/O học/Vv/O thì/Cp/O cũng/R/O phải/Vv/O đèn_sách/Nn/O như/Cp/O ai/Pp/O nhưng/Cp/O sách/Nn/O của/Cm/O chú/Nn/O là/Vc/O lưng/Nn/O trâu/Nn/O ,/PU/O nền/Nc/O cát/Nn/O ,/PU/O bút/Nn/O là/Vc/O ngón/Nn/O tay/Nn/O hay/Cp/O mảnh/Nn/O gạch/Nn/O vỡ/Vv/O ;/PU/O còn/Cp/O đèn/Nn/O là/Vc/O vỏ/Nn/O trứng/Nn/O thả/Vv/O đom_đóm/Nn/O vào/D/O trong/Cm/O ./PU/O 
+Bận/Vv/O làm/Vv/O ,/PU/O bận/Aa/O học/Vv/O như/Cp/O thế/Pp/O mà/Cp/O cánh/Nn/O diều/Nn/O của/Cm/O chú/Nn/O vẫn/R/O bay/Vv/O cao/Aa/O ,/PU/O tiếng/Nn/O sáo/Nn/O vẫn/R/O vi_vút/Aa/O tầng/Nn/O mây/Nn/O ./PU/O 
+Mỗi/Nq/O lần/Nn/O có/Ve/O kì/Nt/O thi/Vv/O ở/Cm/O trường/Nn/O ,/PU/O chú/Nn/O làm/Vv/O bài/Nc/O vào/Vv/O lá/Nn/O chuối/Nn/O khô/Aa/O và/Cp/O nhờ/Vv/O bạn/Pp/O xin/Vv/O thầy/Nn/O chấm/Vv/O hộ/Vv/O ./PU/O 
+Bài/Nc/O của/Cm/O chú/Nc/O chữ/Nn/O tốt/Aa/O văn/Nn/O hay/Aa/O ,/PU/O vượt/Vv/O xa/Aa/O các/Nq/O học_trò/Nn/O của/Cm/O thầy/Nn/O ./PU/O 
+Thế/Pp/O rồi/Cp/O vua/Nn/O mở/Vv/O khoa/Nn/O thi/Vv/O ./PU/O 
+Chú/Nn/O bé/Nn/O thả/Vv/O diều/Nn/O đỗ/Vv/O Trạng_nguyên/Nn/O ,/PU/O ông/Nc/O Trạng/Nn/O khi/Nt/O ấy/Pd/O mới/R/O có/Ve/O mười/Nq/MEA_B ba/Nq/MEA_I tuổi/Nn/MEA_I ./PU/O 
+Đó/Pd/O là/Vc/O Trạng_nguyên/Nq/NUM_B trẻ/Nn/O nhất/An/O của/Cm/O nước/Nn/O Nam/Nn/O ta/Pp/O ./PU/O 

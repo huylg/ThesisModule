@@ -1,0 +1,16 @@
+﻿Vẽ/Vv/O trứng/Nn/O 
+Ngay/M/O từ/Cm/O nhỏ/Aa/O ,/PU/O cậu/Nc/TTL_B bé/Nn/TTL_I Lê-ô-nác-đô/Nr/PER_B đa_Vin-xi/Aa/O đã/R/O rất/R/O thích/Vv/O vẽ/Vv/O ./PU/O 
+Cha/Nn/O cậu/Nn/O đưa/Vv/O cậu/Nc/O đến/Cm/O nhờ/Vv/O nhà/Nn/O danh/Nn/O họa/Nn/O Vê-rô-ki-ô/Nn/O dạy_dỗ/Vv/O ./PU/O 
+Suốt/Aa/O mười/Nq/O mấy/Nq/O ngày/Nt/O đầu/Aa/O ,/PU/O thầy/Nn/O Vê-rô-ki-ô/Nn/O chỉ/R/O cho/Vv/O Lê-ô-nác-đô/Nn/O vẽ/Vv/O trứng/Nn/O ./PU/O 
+Cậu/Nc/O bé/Nn/O vẽ/Vv/O hết/R/O quả/Nc/O này/Pd/O đến/Cm/O quả/Nn/O khác/Aa/O và/Cp/O đã/R/O bắt_đầu/Vv/O tỏ_vẻ/Vv/O chán_ngán/Aa/O ./PU/O 
+Thầy/Nn/O Vê-rô-ki-ô/Nn/O bèn/R/O bảo/Vv/O :/PU/O 
+-/PU/O Con/Pp/O đừng/R/O tưởng/Vv/O vẽ/Vv/O trứng/Nn/O là/Vc/O dễ/Aa/O !/PU/O 
+Trong/Cm/O một/Nq/NUM_B nghìn/Nq/NUM_I quả/Nn/O trứng/Nn/O xưa_nay/Nt/DTM_B không/R/O có/Ve/O lấy/M/O hai/Nq/NUM_B quả/Nn/O hoàn_toàn/Aa/O giống/Vv/O nhau/Nn/O đâu/R/O ./PU/O 
+Muốn/Vv/O thể_hiện/Vv/O thật/R/O đúng/Aa/O hình_dáng/Nn/O của/Cm/O từng/Pp/O quả/M/O trứng/Nn/O ,/PU/O người/Nn/O họa/Nn/O sĩ/Nn/O phải/Vv/O rất/R/O khổ_công/Aa/O mới/Cp/O được/Vv/O ./PU/O 
+Thầy/Nn/O lại/R/O nói/Vv/O :/PU/O 
+-/PU/O Tập/Nn/O vẽ/Vv/O đi/R/O vẽ/Vv/O lại/R/O quả/Nn/O trứng/Nn/O thật/R/O nhiều/Aa/O lần/Nn/O ,/PU/O con/Pp/O sẽ/R/O biết/Vv/O quan_sát/Vv/O sự_vật/Nn/O một_cách/Nn/O tỉ_mỉ/Aa/O và/Cp/O miêu_tả/Vv/O nó/Pp/O trên/Cm/O giấy/Nn/O vẽ/Vv/O một_cách/Nn/O chính_xác/Aa/O ./PU/O 
+Đến/Cm/O lúc/Nt/O ấy/Pd/O ,/PU/O con/Pp/O muốn/Vv/O vẽ/Vv/O bất_cứ/R/O cái/Nc/O gì/Pp/O cũng/R/O đều/R/O có/Ve/O thể_vẽ/Nn/O được/Vv/O như/Cp/O ý/Nn/O ./PU/O 
+Lê-ô-nác-đô/Nn/O hiểu/Vv/O ra/R/O và/Cp/O miệt_mài/Aa/O tập/Vv/O vẽ/Vv/O ./PU/O 
+Sau/Nn/O nhiều/Aa/O năm/Nt/O khổ_luyện/Vv/O ,/PU/O Lê-ô-nác-đô/Nn/O đa_Vin-xi/Aa/O đã/R/O trở_thành/Vv/O nhà/Nn/O danh/Nn/O họa/Nn/O kiệt_xuất/Aa/O ./PU/O 
+Các/Nq/O tác_phẩm/Nn/O của/Cm/O ông/Nn/O được/Vv/O trân_trọng/Vv/O trưng_bày/Vv/O ở/Cm/O nhiều/Aa/O bảo_tàng/Nn/O lớn/Aa/O trên/Cm/O thế_giới/Nn/O ,/PU/O là/Vc/O niềm/Nc/O tự_hào/Aa/O của/Cm/O toàn/Nq/O nhân_loại/Nn/O ./PU/O 
+Không_những/Cp/O thế/Pp/O ,/PU/O Lê-ô-nác-đô/Nn/O đa_Vin-xi/Aa/O còn/R/O là/Vc/O nhà/Nc/O điêu_khắc/Nn/O ,/PU/O kiến_trúc_sư/Nn/DES_B ,/PU/O kĩ_sư/Nn/O và/Cp/O là/Vc/O nhà/Nc/O bác_học/Nn/O lớn/Aa/O của/Cm/O thời_đại/Nt/DTM_B Phục_hưng/Vv/DTM_I ./PU/O 

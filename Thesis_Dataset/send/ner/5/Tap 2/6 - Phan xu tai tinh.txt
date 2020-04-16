@@ -1,0 +1,28 @@
+﻿Phân_xử/Vv/O tài_tình/Aa/O 
+Xưa/Nt/O ,/PU/O có/Ve/O một/Nq/NUM_B vị/Nc/O quan/Nn/O án/Nn/O rất/R/O tài/Nn/O ./PU/O 
+Vụ/Nc/O án/Nn/O nào/Pd/O ,/PU/O ông/Nn/O cũng/R/O tìm/Vv/O ra/R/O manh_mối/Nn/O và/Cp/O phân_xử/Vv/O công_bằng/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O có/Ve/O hai/Nq/NUM_B người/Nc/O đàn_bà/Nn/O đến/Vd/O công_đường/Nn/O ./PU/O 
+Một/Nq/NUM_B người/Nn/O mếu_máo/Vv/O :/PU/O 
+Bẩm/Nr/O quan/Nn/O ,/PU/O con/Pp/O mang/Vv/O vải/Nn/O đi/Vv/O chợ/Nn/O ,/PU/O bà/Nn/O này/Pd/O hỏi/Vv/O mua/Vv/O ,/PU/O rồi/Cp/O cướp/Vv/O tấm/Nc/O vải/Nn/O ,/PU/O bảo/Vv/O là/Vc/O của/Cm/O mình/Pp/O ./PU/O 
+Người/Nn/O kia/Pd/O cũng/R/O rưng_rưng/Vv/O nước_mắt/Nn/O :/PU/O 
+Tấm/Nc/O vải/Nn/O là/Vc/O của/Cm/O con/Nn/O ./PU/O 
+Bà/Nn/O này/Pd/O lấy/Vv/O trộm/Vv/O ./PU/O 
+Đòi/Vv/O người/Nn/O làm/Vv/O chứng/Nc/O nhưng/Cp/O không/R/O có/Ve/O ,/PU/O quan/Nn/O cho/Cp/O lính/Nn/O về/Vd/O nhà/Nn/O họ/Pp/O xem/Vv/O ./PU/O 
+Cả/Pp/O hai/Nq/NUM_B đều/R/O có/Ve/O khung_cửi/Nn/O như/Cp/O nhau/Nn/O ,/PU/O cùng/Aa/O mang/Vv/O vải/Nn/O ra/D/O chợ/Nn/O bán/Vv/O hôm/Nt/O ấy/Pd/O ./PU/O 
+Ngẫm/Vv/O một/Nq/O lát/Nt/O ,/PU/O quan_ôn/Nu/O tồn/Vv/O bảo/Vv/O :/PU/O 
+Hai/Nq/NUM_B người/Nn/O đều/R/O có/Ve/O lí/Nn/O nên/Cp/O ta/Pp/O xử_thế/Vv/O này/Pd/O :/PU/O tấm/Nc/O vải/Nn/O xé/Vv/O đối/Vv/O ,/PU/O mỗi/Nq/O người/Nn/O một/Nq/O nửa/Nq/O ./PU/O 
+Thừa/Aa/O lệnh/Nn/O ,/PU/O lính/Nn/O đo/Vv/O vải/Nn/O xé/Vv/O ngay/R/O ./PU/O 
+Một/Nq/NUM_B người/Nc/O đàn_bà/Nn/O bật/Vv/O khóc/Vv/O ./PU/O 
+Lập_tức/R/O ,/PU/O quan/Nn/O bảo/Vv/O đưa/Vv/O cả/Pp/O tấm/Nc/O vải/Nn/O cho/Cp/O người/Nn/O này/Pd/O rồi/Cp/O thét/Vv/O trói/Vv/O người/Nn/O kia/Pd/O lại/R/O ./PU/O 
+Sau/Nn/O một/Nq/O hồi/Nt/O tra_hỏi/Nt/DTM_B ,/PU/O kẻ/Nn/O kia/Pd/O phải/Vv/O cúi/Vv/O đầu/Nn/O nhận/Vv/O tội/Nn/O ./PU/O 
+Lần/Nn/O khác/Aa/O ,/PU/O quan/Nn/O tới/Vd/O vãn_cảnh/Vv/O một/Nq/NUM_B ngôi/Nc/O chùa/Nn/O ./PU/O 
+Sư_cụ/Nr/ORG_B đón_tiếp/Vv/O kính_cẩn/Aa/O ,/PU/O rồi/Cp/O nhờ/Vv/O tìm/Vv/O hộ/Vv/O số/Nn/O tiền/Nn/O của/Cm/O nhà_chùa/Nn/O bị/Vv/O mất/Ve/O ./PU/O 
+Quan/Nn/O nói/Vv/O sư_cụ/Nn/O biện/Nq/O lễ/Nn/O cúng/Vv/O Phật/Nn/O ,/PU/O rồi/Cp/O gọi/Vv/O hết/Ve/O sư/Nn/O vãi/Nn/O ,/PU/O kẻ_ăn_người/Nn/O ở/Cm/O trong/Cm/O chùa/Nn/O ra/D/O ,/PU/O giao/Vv/O cho/Cp/O mỗi/Nq/O người/Nn/O cầm/Vv/O một/Nq/NUM_B nắm/Nn/O thóc/Nn/O và/Cp/O bảo/Vv/O :/PU/O 
+Chùa/Nn/O ta/Pp/O mất/Ve/O tiền/Nn/O ,/PU/O chưa/R/O rõ/Vv/O thủ_phạm/Nn/O ./PU/O 
+Mỗi/Nq/O người/Nn/O hãy/R/O cầm/Vv/O một/Nq/NUM_B nắm/Nn/O thóc/Nn/O đã/R/O ngâm/Vv/O nước/Nn/O rồi/Cp/O vừa/R/O chạy/Vv/O đàn/Nn/O ,/PU/O vừa/Cs/O niệm/Vv/O Phật/Nn/O ./PU/O 
+Đức/Nr/ORG_B Phật/Nn/O rất/R/O thiêng/Aa/O ./PU/O 
+Ai/Pp/O gian/Nn/O ,/PU/O Phật/Nn/O sẽ/R/O làm/Vv/O cho/Cp/O thóc/Nn/O trong/Cm/O tay/Nn/O kẻ/Vv/O đó/Pd/O nảy/Vv/O mầm/Nn/O ./PU/O 
+Như/Cp/O vậy/Pp/O ,/PU/O ngay/M/O gian/Nn/O sẽ/R/O rõ/Aa/O ./PU/O 
+Mới/R/O vài/Nq/O vòng/Nn/O chạy/Vv/O ,/PU/O đã/R/O thấy/Vv/O một/Nq/NUM_B chú/Nc/O tiểu/Nn/O thỉnh_thoảng/R/O hé/Vv/O bàn_tay/Nn/O cầm/Vv/O thóc/Nn/O ra/D/O xem/Vv/O ./PU/O 
+Quan/Nn/O lập_tức/R/O cho/Vv/O bắt/Vv/O chú/Nn/O tiểu/Vv/O vì/Cp/O chỉ/R/O kẻ/Nn/O có/Ve/O tật/Nn/O mới/Aa/O hay/Cp/O giật_mình/Vv/O ./PU/O 
+Chú/Nn/O tiểu/Vv/O kia/Pd/O đành/Vv/O nhận/Vv/O tội/Nn/O ./PU/O 

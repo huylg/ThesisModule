@@ -1,0 +1,36 @@
+﻿Ai/Pp/O ngoan/Aa/O sẽ/R/O được/Vv/O thưởng/Vv/O 
+Một/Nq/O buổi/Nt/O sáng/Nt/O ,/PU/O Bác/Nn/PER_B Hồ/Nr/PER_I đến/Vd/O thăm/Vv/O trại/Nn/O nhi_đồng/Nn/O ./PU/O 
+Vừa/R/O thấy/Vv/O Bác/Nn/PER_B ,/PU/O các/Nq/O em_nhỏ/Nn/O đã/R/O chạy/Vv/O ùa/Vv/O tới/D/O ,/PU/O quây/Vv/O quanh/Nn/O Bác/Nn/O ./PU/O 
+Ai/Pp/O cũng/R/O muốn/Vv/O nhìn/Vv/O Bác/Nn/PER_B cho/Cp/O thật/R/O rõ/Aa/O ./PU/O 
+Bác/Nn/PER_B đi/Vv/O giữa/Cm/O đoàn/Nn/O học_sinh/Nn/O ,/PU/O tay/Nn/O dắt/Vv/O hai/Nq/NUM_B em_nhỏ/Nn/O nhất/An/O ./PU/O 
+Mắt/Nn/O Bác/Nn/PER_B sáng/Aa/O ,/PU/O da/Nn/O Bác/Nn/O hồng_hào/Aa/O ./PU/O 
+Bác/Nn/O cùng/Cp/O các/Nq/O em/Nn/O đi/Vv/O thăm/Vv/O phòng/Nn/O ngủ/Vv/O ,/PU/O phòng/Nn/O ăn/Vv/O ,/PU/O nhà_bếp/Nn/O ,/PU/O nơi/Nn/O tắm_rửa/Vv/O ,/PU/O .../PU/O 
+Khi/Nt/O trở_lại/Vv/O phòng/Nn/O họp/Vv/O ,/PU/O Bác/Nn/PER_B ngồi/Vv/O giữa/Cm/O các/Nq/O em/Nn/O và/Cp/O hỏi/Vv/O :/PU/O 
+Các/Nq/O cháu/Nn/O chơi/Vv/O có/R/O vui/Aa/O không/R/O ?/PU/O 
+Những/Nq/O lời/Nn/O non_nớt/Aa/O vang/Aa/O lên/R/O :/PU/O 
+Thưa/E/O Bác/Nn/PER_B ,/PU/O vui/Aa/O lắm/R/O ạ/M/O !/PU/O 
+Bác/Nn/PER_B lại/R/O hỏi/Vv/O :/PU/O 
+Các/Nq/O cháu/Nn/O ăn/Vv/O có/R/O no/Aa/O không/R/O ?/PU/O 
+No/Nr/PER_B ạ/M/O !/PU/O 
+Các/Nq/O cô/Nn/O có/R/O mắng/Vv/O phạt/Vv/O các/Nq/O cháu/Pp/O không/R/O ?/PU/O 
+Không/R/O ạ/M/O !/PU/O 
+Bác/Nn/O khen/Vv/O :/PU/O 
+Thế/Pp/O thì/Cp/O tốt/Aa/O lắm/R/O !/PU/O 
+Bây_giờ/Pd/O Bác/Nn/PER_B chia/Vv/O kẹo/Nn/O cho/Cp/O các/Nq/O cháu/Nn/O ./PU/O 
+Các/Nq/O cháu/Nn/O có/R/O thích/Vv/O kẹo/Nn/O không/R/O ?/PU/O 
+Tất_cả/Nq/O cùng/Nn/O reo/Vv/O lên/R/O :/PU/O 
+Có/Ve/O ạ/M/O !/PU/O 
+Có/Ve/O ạ/M/O !/PU/O 
+Một/Nq/NUM_B em_bé/Nn/O giơ/Vv/O tay/Nn/O xin/Vv/O nói/Vv/O :/PU/O 
+Thưa/E/O Bác/Nn/PER_B ,/PU/O ai/Pp/O ngoan/Aa/O thì/Cp/O được/Vv/O ăn/Vv/O kẹo/Nn/O ,/PU/O ai/Pp/O không/R/O ngoan/Aa/O thì/Cp/O không/R/O được/Vv/O ạ/M/O !/PU/O 
+Các/Nq/O cháu/Nn/O có/R/O đồng_ý/Vv/O Không/R/O ?/PU/O 
+Đồng_ý/Vv/O ạ/M/O !/PU/O 
+Các/Nq/O em_nhỏ/Nn/O đứng/Vv/O thành/Vv/O vòng/Nn/O rộng/Aa/O ./PU/O 
+Bác/Nn/O cầm/Vv/O gói/Nn/O kẹo/Nn/O chia/Vv/O cho/Cp/O từng/Pp/O em/Pp/O ./PU/O 
+Đến/Cm/O lượt/Nn/O Tộ/Nr/PER_B ,/PU/O em/Pp/O không/R/O nhận/Vv/O ,/PU/O chỉ/R/O khẽ/Aa/O thưa/Aa/O :/PU/O 
+Thưa/E/O Bác/Nn/PER_B ,/PU/O hôm_nay/Nt/DTM_B cháu/Pp/O không/R/O vâng/Vv/O lời/Nn/O cô/Nn/O ./PU/O 
+Cháu/Pp/O chưa/R/O ngoan/Aa/O nên/Cp/O không/R/O được/Vv/O ăn/Vv/O kẹo/Nn/O của/Cm/O Bác/Nn/PER_B ./PU/O 
+Bác/Nn/PER_B cười/Vv/O trìu_mến/Aa/O :/PU/O 
+Cháu/Pp/O biết/Vv/O nhận/Vv/O lỗi/Nn/O ,/PU/O thế/Pp/O là/Vc/O ngoan/Aa/O lắm/R/O !/PU/O 
+Cháu/Pp/O vẫn/R/O được/Vv/O phần/Nn/O kẹo/Nn/O như/Cp/O các/Nq/O bạn/Nn/O khác/Aa/O ./PU/O 
+Tộ/Nr/PER_B mừng_rỡ/Vv/O nhận/Vv/O lấy/Vv/O kẹo/Nn/O Bác/Nn/O cho/Cp/O ./PU/O 

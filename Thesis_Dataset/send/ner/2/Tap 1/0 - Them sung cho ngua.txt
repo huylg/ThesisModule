@@ -1,0 +1,18 @@
+﻿Thêm/Vv/O sừng/Nn/O cho/Cp/O ngựa/Nn/O 
+Bin/Nr/PER_B rất/R/O ham/Vv/O vẽ/Vv/O ./PU/O 
+Trên/Cm/O nền/Nc/O nhà/Nn/O ,/PU/O ngoài/Nn/O sân/Nn/O gạch/Nn/O ,/PU/O chỗ/Nn/O nào/Pd/O cũng/R/O có/Ve/O những/Nq/O bức/Nc/O vẽ/Vv/O của/Cm/O em/Pp/O ,/PU/O bức/Nc/O thì/Cp/O vẽ/Vv/O bằng/Cm/O phấn/Nn/O ,/PU/O bức/Nn/O lại/R/O vẽ/Vv/O bằng/Cm/O than/Nn/O ./PU/O 
+Thấy/Vv/O thế/Pp/O ,/PU/O mẹ/Nn/O mua/Vv/O cho/Cp/O em/Pp/O một/Nq/NUM_B quyển/Nc/O vở/Nn/O vẽ/Vv/O ,/PU/O một/Nq/NUM_B hộp/Nn/O bút_chì/Nn/O màu/Nn/O và/Cp/O bảo/Vv/O :/PU/O 
+-/PU/O Con/Pp/O vẽ/Vv/O con/Nc/O ngựa/Nn/O của/Cm/O nhà/Nn/O mình/Pp/O cho/Cp/O mẹ/Nn/O xem/Vv/O !/PU/O 
+-/PU/O Bin/Nr/PER_B đem/Vv/O vở/Nc/O và/Cp/O bút/Nn/O ra/D/O chuồng/Nn/O ngựa/Nn/O tập/Vv/O vẽ/Vv/O ./PU/O 
+Hí_hoáy/Nn/O một/Nq/O lúc/Nt/O lâu/Aa/O ,/PU/O vẽ/Vv/O rồi/Cp/O xóa/Nn/O ,/PU/O xóa/Nn/O rồi/Cp/O lại/R/O vẽ/Vv/O ./PU/O 
+Cuối_cùng/Aa/O ,/PU/O Bin/Nr/PER_B cũng/R/O vẽ/Vv/O xong/Aa/O ./PU/O 
+Em/Pp/O đem/Vv/O bức/Nc/O ve/Nn/O vào/Cm/O khoe/Vv/O với/Cp/O mẹ/Nn/O ./PU/O 
+Mẹ/Nn/O ngạc_nhiên/Vv/O :/PU/O 
+-/PU/O Con/Pp/O vẽ/Vv/O con/Nn/O gì/Pp/O đây/M/O ?/PU/O 
+Bin/Nr/PER_B giải_thích/Vv/O :/PU/O 
+-/PU/O Con/Nc/O ngựa/Nn/O đấy/M/O ,/PU/O mẹ/Nn/O ạ/M/O !/PU/O 
+Mẹ/Nn/O bảo/Vv/O :/PU/O 
+-/PU/O Sao/Pp/O mẹ/Nn/O chẳng/R/O thấy/Vv/O giống/Vv/O con/Nc/O ngựa/Nn/O nhỉ/M/O ?/PU/O 
+Bin/Nr/PER_B ngắm/Vv/O bức/Nc/O vẽ/Vv/O một/Nq/O hồi/Nt/O ,/PU/O rồi/Cp/O nói/Vv/O :/PU/O 
+-/PU/O Đúng/Aa/O ,/PU/O không/R/O phải/Aa/O con/Nc/O ngựa/Nn/O ./PU/O 
+Thôi/E/O ,/PU/O để/Cm/O con/Pp/O vẽ/Vv/O thêm/Vv/O hai/Nq/NUM_B cái/Nc/O sừng/Nn/O cho/Cp/O nó/Pp/O thành/Vv/O con/Nc/O bò/Nn/O vậy/M/O ./PU/O 

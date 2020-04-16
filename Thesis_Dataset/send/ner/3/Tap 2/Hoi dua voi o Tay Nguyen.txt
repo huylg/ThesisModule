@@ -1,0 +1,14 @@
+﻿Hội/Nn/O đua/Vv/O voi/Nn/O ở/Cm/O Tây_Nguyên/Nr/LOC_B 
+Trường_đua/Nq/NUM_B voi/Nn/O là/Vc/O một/Nq/NUM_B đường/Nn/O rộng/Aa/O phẳng_lì/Aa/O ,/PU/O dài/Aa/O hơn/Aa/O năm/Nq/MEA_B cây_số/Nu/MEA_I ./PU/O 
+Chiêng/Nn/O khua/Vv/O trống/Aa/O đánh/Vv/O vang_lừng/Nn/O ./PU/O 
+Voi/Nn/O đua/Vv/O từng/Pp/O tốp/Nn/O mười/Nq/NUM_B con/Nc/O dàn/Nn/O hàng/Nn/O ngang/Aa/O ở/Cm/O nơi/Nn/O xuất_phát/Vv/O ./PU/O 
+Trên/Cm/O mỗi/Nq/O con/Nc/O voi/Nn/O ,/PU/O ngồi/Vv/O hai/Nq/NUM_B chàng/Nn/O man-gát/Nn/O ./PU/O 
+Người/Nn/O ngồi/Vv/O phía/Nn/O cổ/Aa/O có/Ve/O vuông/Aa/O vải/Nn/O đỏ/Aa/O thắm/Aa/O ở/Cm/O ngực/Nn/O ./PU/O 
+Người/Nn/O ngồi/Vv/O trên/Cm/O lưng/Nn/O mặc/Vv/O áo/Nn/O xanh/Aa/O da_trời/Nn/O ./PU/O 
+Trông/Vv/O họ/Pp/O rất/R/O bình_tĩnh/Aa/O vì/Cp/O họ/Pp/O thường/R/O là/Vc/O những/Nq/O người/Nn/O phi_ngựa/Vv/O giỏi/Aa/O nhất/R/O ./PU/O 
+Đến/Cm/O giờ/Nt/O xuất_phát/Vv/O ,/PU/O chiêng/Nn/O trống/Aa/O nổi/Vv/O lên/R/O thì/Cp/O cả/M/O mười/Nq/NUM_B con/Nc/O voi/Nn/O lao/Vv/O đầu/Nn/O chạy/Vv/O ./PU/O 
+Cái/Nc/O dáng/Nn/O lầm_lì/Aa/O ,/PU/O chậm_chạp/Aa/O thường_ngày/Aa/O bỗng_dưng/R/O biến_mất/Vv/O ./PU/O 
+Cả/Pp/O bầy/Nn/O hăng_máu/Aa/O phóng/Vv/O như/Cp/O bay/Vv/O ./PU/O 
+Bụi/Nn/O cuốn/Vv/O mù_mịt/Aa/O ./PU/O 
+Các/Nq/O chàng/Nn/O man-gát/Nn/O phải/Vv/O rất/R/O gan_dạ/Aa/O và/Cp/O khéo_léo/Aa/O điều_khiển/Vv/O cho/Cp/O voi/Nn/O về/Cm/O trúng/Vv/O đích/Nn/O ./PU/O 
+Những/Nq/O chú/Nc/O voi/Nn/O chạy/Vv/O đến/D/O đích/Nn/O trước_tiên/Nn/O đều/R/O ghìm/Vv/O đà/Nn/O ,/PU/O huơ/Vv/O vòi/Nn/O chào/Vv/O những/Nq/O khán_giả/Nn/O đã/R/O nhiệt_liệt/Aa/O cổ_vũ/Vv/O ,/PU/O khen_ngợi/Vv/O chúng/Pp/O ./PU/O 

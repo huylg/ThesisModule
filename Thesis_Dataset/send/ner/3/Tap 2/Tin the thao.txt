@@ -1,0 +1,11 @@
+﻿Tin/Nn/O thể_thao/Nn/O 
+Tin/Nn/O từ/Cm/O Hồng_Công/Nr/LOC_B cho_biết/Vv/O :/PU/O vận_động_viên/Nn/O Việt_Nam/Nr/LOC_B Nguyễn_Thúy_Hiền/Nr/PER_B vừa/R/O đoạt/Vv/O Huy_chương/Nn/O Vàng/Nn/O môn/Nn/O trường_quyền/Nn/O nữ/Nn/O tại/Cm/O Giải/Nn/O vô_địch/Nn/O thế_giới/Nn/O về/Cm/O võ_thuật/Nn/O lần/Nn/O thứ/Nn/O năm/An/O tổ_chức/Vv/O ở/Cm/O đây/Pd/O ./PU/O 
+Tại/Cm/O cuộc/Nc/O họp/Vv/O ngày/Nt/O 28/Nq/MEA_B -/PU/MEA_I 3/Nq/MEA_I -/PU/MEA_I 2002/Nt/MEA_I ,/PU/O Ban/Nn/ORG_B tổ_chức/Vv/ORG_I SEA_Games/FW/ORG_I 22/An/ORG_I đã/R/O chọn/Vv/O chú/Nc/O Trâu/Nn/O Vàng/Nn/O ,/PU/O sáng_tác/Vv/O của/Cm/O họa/Nn/O sĩ/Nn/O Nguyễn_Thái_Hùng/Nr/PER_B ,/PU/O làm/Vv/O biểu_tượng/Nn/O của/Cm/O hoạt_động/Nn/O thể_thao/Nn/O lớn/Aa/O nhất/R/O khu_vực/Nn/O lần/Nn/O đầu_tiên/An/O tổ_chức/Vv/O ở/Cm/O nước/Nn/O ta/Pp/O ./PU/O 
+Trong/Cm/O trang_phục/Nn/O của/Cm/O môn/Nn/O vật/Vv/O truyền_thống/Nn/O ,/PU/O chú/Nc/O Trâu/Nn/O Vàng/Nn/O tượng_trưng/Vv/O cho/Cp/O ước_mong/Nn/O ấm_no/Aa/O ,/PU/O hạnh_phúc/Aa/O ,/PU/O sức_mạnh/Nn/O và/Cp/O tinh_thần/Nn/O thượng_võ/Vv/O ./PU/O 
+Am-xtơ-rông/Nn/O lại/R/O đoạt/Vv/O giải/Nn/O vô_địch/Nn/O Vòng/Nr/PER_B đua/Vv/O nước/Nn/LOC_B Pháp/Nr/LOC_I ./PU/O 
+Đây/Pd/O là/Vc/O lần/Nn/O thứ/Nn/O năm/An/O anh/Nn/O đoạt/Vv/O chiếc/Nc/O áo/Nn/O vàng/Aa/O tại/Cm/O giải/Nn/O đua/Vv/O xe_đạp/Nn/O này/Pd/O ./PU/O 
+Như/Cp/O đã/R/O biết/Vv/O ,/PU/O tháng/Nt/DTM_B 10/Nt/DTM_I -/PU/DTM_I 1996/Nt/DTM_I ,/PU/O anh/Nn/O mắc/Vv/O bệnh/Nn/O ung_thư/Nn/O ./PU/O 
+Ba/Nq/MEA_B tháng/Nt/MEA_I sau/Nn/O ,/PU/O ung_thư/Nn/O lên/Vv/O đến/Cm/O não/Nn/O ./PU/O 
+Bệnh_tình/Nn/O nguy_kịch/Aa/O ,/PU/O nhưng/Cp/O anh/Nn/O không/R/O nản_chí/Vv/O ./PU/O 
+Sau/Nn/O khi/Nt/O mổ/Vv/O ,/PU/O anh/Nn/O lại/R/O lao/Vv/O vào/Cm/O luyện_tập/Vv/O ./PU/O 
+Lần/Nn/O đầu_tiên/An/O anh/Nn/O trở_thành/Vv/O vô_địch/Nn/O Vòng/Nr/PER_B đua/Vv/O nước/Nn/LOC_B Pháp/Nr/LOC_I là/Vc/O tháng/Nt/DTM_B 7/Nt/DTM_I -/PU/DTM_I 1999/Nt/DTM_I ./PU/O 

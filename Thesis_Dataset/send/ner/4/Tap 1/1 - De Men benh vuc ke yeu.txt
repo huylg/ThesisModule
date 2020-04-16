@@ -1,0 +1,40 @@
+﻿Dế_Mèn/Nn/O bênh_vực/Vv/O kẻ/Nn/O yếu/Aa/O 
+Một/Nq/O hôm/Nt/O ,/PU/O qua/Cm/O một/Nq/NUM_B vùng/Nn/O cỏ_xước/Nn/O xanh/Aa/O dài/Aa/O ,/PU/O tôi/Pp/O chợt/R/O nghe/Vv/O tiếng/Nn/O khóc/Vv/O tỉ_tê/Vv/O ./PU/O 
+Đi/Vv/O vài/Nq/O bước/Nn/O nữa/R/O ,/PU/O tôi/Pp/O gặp/Vv/O chị/Nn/TTL_B Nhà_Trò/Nr/PER_B ngồi/Vv/O gục/Vv/O đầu/Nn/O bên/Nn/O tảng/Nn/O đá_cuội/Nn/O ./PU/O 
+Chị/Nn/TTL_B Nhà_Trò/Nr/PER_B đã/R/O bé_nhỏ/Aa/O lại/R/O gầy_yếu/Aa/O quá/R/O ,/PU/O người/Nn/O bự/Aa/O những/Nq/O phấn/Nn/O ,/PU/O như/Cp/O mới/Cp/O lột/Vv/O ./PU/O 
+Chị/Nn/O mặc/Vv/O áo/Nn/O thâm/Aa/O dài/Aa/O ,/PU/O đôi/Nq/O chỗ/Nn/O chấm/Vv/O điểm_vàng/Nn/O ,/PU/O hai/Nq/NUM_B cánh/Nn/O mỏng/Aa/O như/Cp/O cánh/Nn/O bướm/Nn/O non/Aa/O ,/PU/O lại/R/O ngắn/Aa/O chùn_chùn/Nn/O ./PU/O 
+Hình_như/R/O cánh/Nn/O yếu/Aa/O quá/R/O ,/PU/O chưa/R/O quen/Vv/O mở/Vv/O ,/PU/O mà/Cp/O cho_dù/Cp/O có/Ve/O khỏe/Nn/O cũng/R/O chẳng/R/O bay/Vv/O được/R/O xa/Aa/O ./PU/O 
+Tôi/Pp/O đến/Vd/O gần/Aa/O ,/PU/O chị/Nn/TTL_B Nhà_Trò/Nr/PER_B vẫn/R/O khóc/Vv/O ./PU/O 
+Nức_nở/Nr/PER_B mãi/R/O ,/PU/O chị/Nn/O mới/R/O kể/Vv/O :/PU/O 
+Năm/Nt/DTM_B trước/Nn/DTM_I ,/PU/O gặp/Vv/O khi/Nt/O trời/M/O làm/Vv/O đói_kém/Aa/O ,/PU/O mẹ/Nn/O em/Pp/O phải/Vv/O vay/Vv/O lương/Nn/O ăn/Vv/O của/Cm/O bọn/Nn/O nhện/Nn/O ./PU/O 
+Sau/Nn/O đấy/M/O ,/PU/O không/R/O may/Aa/O mẹ/Nn/O em/Pp/O mất/Ve/O đi/R/O ,/PU/O còn_lại/Ve/O thui_thủi/Aa/O có/Ve/O mình/Pp/O em/Pp/O ./PU/O 
+Mà/Cp/O em/Pp/O ốm_yếu/Aa/O ,/PU/O kiếm/Vv/O bữa/Nn/O cũng/R/O chẳng/R/O đủ/Aa/O ./PU/O 
+Bao/Nq/O năm/Nt/O nghèo_túng/Aa/O vẫn/R/O hoàn/Vv/O nghèo_túng/Aa/O ./PU/O 
+Mấy/Nq/O bận/Nn/O bọn/Nn/O nhện/Nn/O đã/R/O đánh/Vv/O em/Pp/O ./PU/O 
+Hôm_nay/Nt/DTM_B bọn/Nn/O chúng/Pp/O chăng/M/O tơ/Nn/O ngang/Aa/O đường/Nn/O đe/Vv/O bắt/Vv/O em/Pp/O ,/PU/O vặt/Aa/O chân/Nn/O ,/PU/O vặt/Aa/O cánh/Nn/O ăn/Vv/O thịt/Nn/O em/Pp/O ./PU/O 
+Tôi/Pp/O xòe/Nn/O cả/Pp/O hai/Nq/NUM_B càng/R/O ra/Vd/O ,/PU/O bảo/Vv/O Nhà_Trò/Nr/PER_B :/PU/O 
+Em/Pp/O đừng/R/O sợ/Vv/O ./PU/O 
+Hãy/R/O trở_về/Vv/O cùng/Cp/O với/Cp/O tôi/Pp/O đây/M/O ./PU/O 
+Đứa/Nc/O độc_ác/Aa/O không_thể/R/O cậy/Vv/O khỏe/Nn/O ăn_hiếp/Vv/O kẻ/Nn/O yếu/Aa/O ./PU/O 
+Rồi/Cp/O tôi/Pp/O dắt/Vv/O Nhà_Trò/Nr/PER_B đi/Vv/O ./PU/O 
+Được/Vv/O một/Nq/NUM_B quãng/Nn/O thì/Cp/O tới/Cm/O chỗ/Nn/O mai_phục/Vv/O của/Cm/O bọn/Nn/O nhện/Nn/O ./PU/O 
+Bọn/Nn/O nhện/Nn/O chăng/R/O từ/Cm/O bên/Nn/O nọ/Pd/O sang/Cm/O bên/Nn/O kia/Pd/O đường/Nn/O biết_bao_tơ/Nr/O nhện/Nn/O ./PU/O 
+Lại/R/O thêm/Vv/O sừng_sững/Aa/O giữa/Cm/O lối/Nn/O đi/Vv/O một/Nq/NUM_B anh/Nc/O nhện/Nn/O gộc/Nu/O ./PU/O 
+Nhìn/Vv/O vào/Cm/O các/Nq/O khe/Nn/O đá/Nn/O chung_quanh/Nn/O ,/PU/O tôi/Pp/O thấy/Vv/O lủng_củng/Aa/O những/Nq/O nhện/Nn/O là/Vc/O nhện/Nn/O ./PU/O 
+Chúng/Pp/O đứng/Vv/O im/Aa/O như/Cp/O đá/Vv/O mà/Cp/O coi/Vv/O vẻ/Nn/O hung_dữ/Aa/O ./PU/O 
+Tôi/Pp/O cất/Vv/O tiếng/Nn/O hỏi/Vv/O lớn/Aa/O :/PU/O 
+Ai/Pp/O đứng/Vv/O chóp_bu/Nn/O bọn/Nn/O này/Pd/O ?/PU/O 
+Ra/Vd/O đây/Pd/O ta/Pp/O nói_chuyện/Vv/O ./PU/O 
+Từ/Cm/O trong/Cm/O hốc/Nn/O đá/Nn/O ,/PU/O một/Nq/NUM_B mụ/Nn/O nhện/Nn/O cái/Nc/O cong/Aa/O chân/Nn/O nhảy/Vv/O ra/R/O ,/PU/O hai/Nq/NUM_B bên/Nn/O có/Ve/O hai/Nq/NUM_B nhện/Nn/O vách/Nn/O nhảy/Vv/O kèm/Vv/O ./PU/O 
+Dáng/Nn/O đây/Pd/O là/Vc/O vị/Nn/O chúa/Nn/O trùm/Vv/O nhà/Nn/O nhện/Nn/O ./PU/O 
+Nom/Nr/PER_B cũng/R/O đanh_đá/Aa/O ,/PU/O nặc_nô/Nn/O lắm/R/O ./PU/O 
+Tôi/Pp/O quay/Vv/O phắt/R/O lưng/Nn/O ,/PU/O phóng/Vv/O càng/Cs/O đạp/Vv/O phanh/Nn/O phách/Nn/O ra_oai/Nn/O ./PU/O 
+Mụ/Nn/O nhện/Nn/O co_rúm/Vv/O lại/R/O rồi/R/O cứ/R/O rập/Vv/O đầu/Nn/O xuống/D/O đất/Nn/O như/Cp/O cái/Nc/O chày/Nn/O giã/Vv/O gạo/Nn/O ./PU/O 
+Tôi/Pp/O thét/Vv/O :/PU/O 
+Các/Nq/O người/Nn/O có/Ve/O của/Cm/O ăn_của/Vv/O để/D/O ,/PU/O béo_múp/Aa/O béo/Aa/O míp/Nn/O mà/Cp/O cứ/R/O đòi/Vv/O mãi/R/O một_tí/Nq/O tẹo/Nn/O nợ/Nn/O đã/R/O mấy/Nq/O đời/Nn/O rồi/R/O ./PU/O 
+Lại/R/O còn/R/O kéo_bè_kéo_cánh/ID/O đánh_đập/Vv/O một/Nq/NUM_B cô/Nc/O gái/Nn/O yếu_ớt/Aa/O thế/Pp/O này/Pd/O ./PU/O 
+Thật/R/O đáng/Vv/O xấu_hổ/Vv/O !/PU/O 
+Có/R/O phá/Vv/O hết/Ve/O các/Nq/O vòng_vây/Nn/O đi/Vv/O không/R/O ?/PU/O 
+Bọn/Nn/O nhện/Nn/O sợ_hãi/Aa/O ,/PU/O cùng/Cp/O dạ/E/O ran/R/O ./PU/O 
+Cả/Pp/O bọn/Nn/O cuống_cuồng/Aa/O chạy/Vv/O dọc/Aa/O chạy/Vv/O ngang/Aa/O ,/PU/O phá/Vv/O hết/Ve/O các/Nq/O dây/Nn/O tơ/Nn/O chăng/R/O lối/Nn/O ./PU/O 
+Con/Nc/O đường/Nn/O về/Cm/O tổ/Nu/LOC_B Nhà_Trò/Nr/LOC_I quang/Nn/O hẳn/Aa/O ./PU/O 

@@ -1,0 +1,15 @@
+﻿Lá/Nc/O cờ/Nn/O 
+Ra/Vd/O coi/Vv/O ,/PU/O mau/Aa/O lên/R/O !/PU/O 
+Chị/Nn/O tôi/Pp/O vừa/Cs/O gọi/Vv/O ,/PU/O vừa/Cs/O kéo/Vv/O tôi/Pp/O chạy/Vv/O ra/D/O cửa/Nn/O ./PU/O 
+Chị/Nn/O chỉ/R/O tay/Nn/O về/D/O phía/Nn/O bót/Nn/O :/PU/O 
+Thấy/Vv/O gì/Pp/O chưa/R/O ?/PU/O 
+Tôi/Pp/O thấy/Vv/O rồi/R/O ./PU/O 
+Cờ/Nn/O !/PU/O 
+Cờ/Nn/O đỏ/Aa/O sao/Pp/O vàng/Aa/O trên/Cm/O cột/Nn/O cờ/Nn/O trước/Nn/O bót/Nn/O ./PU/O 
+Tôi/Pp/O ngỡ_ngàng/Aa/O ngắm/Vv/O lá/Nc/O cờ/Nn/O rực_rỡ/Aa/O với/Cp/O ngôi_sao/Nn/O vàng/Nn/O năm/Nt/O cánh/Nn/O đang/R/O bay/Vv/O phấp_phới/Vv/O trên/Cm/O nền/Nn/O trời/Nn/O xanh/Aa/O mênh_mông/Aa/O buổi/Nt/O sáng/Nt/O ./PU/O 
+Cờ/Nn/O mọc/Vv/O trước/Nn/O cửa/Nn/O mỗi/Nq/O nhà/Nn/O ./PU/O 
+Cờ/Nn/O bay/Vv/O trên/Cm/O những/Nq/O ngọn/Nc/O cây_xanh/Nn/O lá/Nn/O ./PU/O 
+Cờ/Nn/O đậu/Vv/O trên/Cm/O tay/Nn/O những/Nq/O người/Nn/O đang/R/O lũ_lượt/R/O đổ/Vv/O về/D/O chợ/Nn/O ./PU/O 
+Trên/Cm/O dòng/Nn/O sông/Nn/O mênh_mông/Aa/O ,/PU/O bao_nhiêu/Pp/O là/Vc/O xuồng/Nn/O với/Cp/O những/Nq/O lá/Nc/O cờ/Nn/O mỗi/Nq/O lúc/Nt/O mỗi/Nq/O gần/Nn/O nhau/Nn/O ,/PU/O đổ/Vv/O về/D/O bến/Nn/O chợ/Nn/O ./PU/O 
+Xuồng/Nn/O nối/Vv/O nhau/Nn/O ,/PU/O san_sát/Aa/O ,/PU/O kết/Vv/O thành/Vv/O một/Nq/NUM_B chiếc/Nc/O bè/Nn/O đầy/Aa/O cờ/Nn/O ,/PU/O bập_bềnh/Vv/O trên/Cm/O sóng/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O buổi/Nt/O mít_tinh/Vv/O đầu_tiên/An/O của/Cm/O dân_làng/Nn/O tôi/Pp/O mừng/Vv/O ngày/Nt/DTM_B Cách_mạng/Nn/DTM_I tháng/Nt/DTM_I Tám/Nt/DTM_I thành_công/Vv/O ./PU/O 

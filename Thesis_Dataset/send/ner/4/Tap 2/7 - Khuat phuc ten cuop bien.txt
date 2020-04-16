@@ -1,0 +1,26 @@
+﻿Khuất_phục/Nq/O tên/Nn/O cướp/Nn/O biển/Nn/O 
+Tên/Nn/O chúa/Nn/DES_B tàu/Nn/O ấy/Pd/O cao/Aa/O lớn/Aa/O ,/PU/O vạm_vỡ/Aa/O ,/PU/O da/Nn/O lưng/Nn/O sạm/Aa/O như/Cp/O gạch/Nn/O nung/Vv/O ./PU/O 
+Trên/Cm/O má/Nn/O hắn/Pp/O có/Ve/O một/Nq/NUM_B vết/Nn/O sẹo/Nn/O chém/Vv/O dọc/Aa/O xuống/D/O ,/PU/O trắng_bệch/Aa/O ./PU/O 
+Hắn/Pp/O uống/Vv/O lắm/R/O rượu/Nn/O đến_nỗi/M/O nhiều/Aa/O đêm/Nt/O như/Cp/O lên_cơn/Vv/O loạn_óc/Nn/O ,/PU/O ngồi/Vv/O hát/Vv/O những/Nq/O bài/Nc/O ca/Vv/O man_rợ/Aa/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O bác_sĩ/Nn/DES_B Ly/Nr/PER_B -/PU/O một/Nq/NUM_B người/Nn/O nổi_tiếng/Aa/O nhân_từ/Aa/O -/PU/O đến/Vd/O thăm/Vv/O bệnh/Nn/O cho/Cp/O ông/Nc/O chủ/Nn/O quán_trọ/Nn/O ./PU/O 
+Tên/Nn/O chúa/Nn/DES_B tàu/Nn/O lúc/Nt/O ấy/Pd/O đang/R/O ê_a/Aa/O bài/Nc/O hát/Vv/O cũ/Aa/O ./PU/O 
+Hát/Vv/O xong/Aa/O ,/PU/O hắn/Pp/O quen/Vv/O lệ/Nn/O đập/Vv/O tay/Nn/O xuống/D/O bàn/Nn/O quát/Vv/O mọi/Nq/O người/Nn/O im/Aa/O ./PU/O 
+Ai_nấy/Pp/O nín_thít/Nn/O ./PU/O 
+Riêng/M/O bác_sĩ/Nn/O vẫn/R/O ôn_tồn/Aa/O giảng/Vv/O cho/Cp/O ông/Nc/O chủ/Nn/O quán_trọ/Nn/O cách/Nn/O trị/Vv/O bệnh/Nn/O ./PU/O 
+Chúa/Nn/DES_B tàu/Nn/O trừng/Vv/O mắt/Nn/O nhìn/Vv/O bác_sĩ/Nn/O ,/PU/O quát/Vv/O :/PU/O 
+Có/Ve/O câm/Aa/O mồm/Nn/O không/R/O ?/PU/O 
+Bác_sĩ/Nn/O điềm_tĩnh/Aa/O hỏi/Vv/O :/PU/O 
+Anh/Nn/O bảo/Vv/O tôi/Pp/O phải/Aa/O không/R/O ?/PU/O 
+Khi/Nt/O tên/Nn/O chúa/Nn/DES_B tàu/Nn/O cục_cằn/Nn/O bảo/Vv/O "/PU/O phải/Vv/O "/PU/O ,/PU/O bác_sĩ/Nn/O nói/Vv/O :/PU/O 
+Anh/Nn/O cứ/R/O uống/Vv/O rượu/Nn/O mãi/R/O như/Cp/O thế/Pp/O thì/Cp/O đến/Cm/O phải/Vv/O tống/Vv/O anh/Nn/O đi/Vv/O nơi/Nn/O khác/Aa/O ./PU/O 
+Cơn/Nc/O tức_giận/Vv/O của/Cm/O tên/Nn/O cướp/Nn/O thật/R/O dữ_dội/Aa/O ./PU/O 
+Hắn/Pp/O đứng/Vv/O phát/Vv/O dậy/Vv/O ,/PU/O rút/Vv/O soạt/Nq/O dao/Nn/O ra/D/O ,/PU/O lăm_lăm/Aa/O chực/Vv/O đâm/Vv/O ./PU/O 
+Bác_sĩ/Nn/DES_B Ly/Nr/PER_B vẫn/R/O dõng_dạc/Aa/O và/Cp/O quả_quyết/Aa/O :/PU/O 
+Nếu/Cp/O anh/Nn/O không/R/O cất/Vv/O dao/Nn/O ,/PU/O tôi/Pp/O quyết/Vv/O làm/Vv/O cho/Cp/O anh/Nn/O bị/Vv/O treo_cổ/Vv/O trong/Cm/O phiên/Nc/O tòa/Nn/O sắp/R/O tới/Aa/O ./PU/O 
+Trông/Vv/O bác_sĩ/Nn/O lúc/Nt/DTM_B này/Pd/DTM_I với/Cp/O gã/Nn/O kia/Pd/O thật/R/O khác/Aa/O nhau/Nn/O một_trời_một_vực/ID/O ./PU/O 
+Một/Nq/NUM_B đằng/Nn/O thì/Cp/O đức_độ/Nn/O ,/PU/O hiền_từ/Aa/O mà/Cp/O nghiêm_nghị/Aa/O ./PU/O 
+Một/Nq/NUM_B đằng/Nn/O thì/Cp/O nanh_ác/Nn/O ,/PU/O hung_hăng/Aa/O như/Cp/O con/Nc/O thú_dữ/Nn/O nhốt/Vv/O chuồng/Nn/O ./PU/O 
+Hai/Nq/NUM_B người/Nn/O gườm/Vv/O gườm/Vv/O nhìn/Vv/O nhau/Nn/O ./PU/O 
+Rốt_cục/R/O ,/PU/O tên/Nn/O cướp/Nn/O biển/Nn/O cúi/Vv/O gằm/Vv/O mặt/Nn/O ,/PU/O tra/Vv/O dao/Nn/O vào/D/O ,/PU/O ngồi/Vv/O xuống/D/O ,/PU/O làu_bàu/Nn/O trong/Cm/O cổ_họng/Nn/O ./PU/O 
+Một/Nq/O lát/Nt/O sau/Nn/O ,/PU/O bác_sĩ/Nn/O lên/Vv/O ngựa/Nn/O ./PU/O 
+Từ/Cm/O đêm/Nt/O ấy/Pd/O ,/PU/O tên/Nn/O chúa/Nn/DES_B tàu/Nn/O im_như_thóc/ID/O ./PU/O 

@@ -1,0 +1,21 @@
+﻿Những/Nq/O người/Nc/O bạn/Nn/O tốt/Aa/O 
+A-ri-ôn/Nn/O là/Vc/O một/Nq/NUM_B nghệ_sĩ/Nn/O nổi_tiếng/Aa/O của/Cm/O nước/Nn/ORG_B Hi_Lạp/Nr/ORG_I cổ/Aa/O ./PU/O 
+Trong/Cm/O một/Nq/NUM_B cuộc/Nc/O thi/Vv/O ca/Nn/O hát/Vv/O ở/Cm/O đảo/Nn/LOC_B Xi-xin/Nr/LOC_I ,/PU/O ông/Nn/O đoạt/Vv/O giải/Nn/O nhất/An/O với/Cp/O nhiều/Aa/O tặng_vật/Nn/O quý_giá/Aa/O ./PU/O 
+Trên/Cm/O đường/Nn/O trở_về/Vv/O kinh_đô/Nn/O ,/PU/O đến/Cm/O giữa/Nn/O biển/Nn/O thì/Cp/O đoàn/Nn/O thủy/Nn/O thủ/Vv/O trên/Cm/O chiếc/Nc/O tàu/Nn/O chở/Vv/O ông/Nn/O nổi/Vv/O lòng/Nn/O tham/Vv/O ,/PU/O cướp/Vv/O hết/Ve/O tặng_vật/Nn/O và/Cp/O đòi/Vv/O giết/Vv/O A-ri-ôn/Nn/O ./PU/O 
+Nghệ_sĩ/Nn/O xin/Vv/O được/Vv/O hát/Vv/O bài/Nn/O ông/Nn/O yêu_thích/Vv/O trước/Nn/O khi/Nt/O chết/Vv/O ./PU/O 
+Bọn/Nn/O cướp/Nn/O đồng_ý/Vv/O ./PU/O 
+A-ri-ôn/Nn/O đứng/Vv/O trên/Cm/O boong/Nn/O tàu/Nn/O cất/Vv/O tiếng/Nn/O hát/Vv/O ,/PU/O đến/Cm/O đoạn/Nn/O mê_say/Vv/O nhất/R/O ,/PU/O ông/Nn/O nhảy/Vv/O xuống/D/O biển/Nn/O ./PU/O 
+Bọn/Nn/O cướp/Nn/O cho/Vv/O rằng/Cp/O A-ri-ôn/Nr/ABB_ORG_B đã/R/O chết/Vv/O liền/Aa/O dong/Nn/O buồm/Nn/O trở_về/Vv/O đất_liền/Nn/O ./PU/O 
+Nhưng/Cp/O những/Nq/O tên/Nc/O cướp/Nn/O đã/R/O nhầm/Vv/O ./PU/O 
+Khi/Nt/O tiếng/Nn/O đàn/Nn/O ,/PU/O tiếng/Nn/O hát/Vv/O của/Cm/O A-ri-ôn/Nn/O vang/Vv/O lên/R/O ,/PU/O có/Ve/O một/Nq/NUM_B đàn/Nn/O cá_heo/Nn/O đã/R/O bơi/Vv/O đến/Cm/O vây/Nn/O quanh/Nn/O tàu/Nn/O ,/PU/O say_sưa/Vv/O thưởng_thức/Vv/O tiếng/Nn/O hát/Vv/O của/Cm/O nghệ_sĩ/Nn/O tài_ba/Aa/O ./PU/O 
+Bầy/Nn/O cá_heo/Nn/O đã/R/O cứu/Vv/O A-ri-ôn/Nn/O ./PU/O 
+Chúng/Pp/O đưa/Vv/O ông/Nn/O trở_về/Vv/O đất_liền/Nn/O nhanh/Aa/O hơn/Aa/O cả/M/O tàu/Nn/O của/Cm/O bọn/Nn/O cướp/Nn/O ./PU/O 
+A-ri-ôn/Nn/O tâu/Vv/O với/Cp/O vua/Nn/O toàn_bộ/Nq/O sự_việc/Nn/O nhưng/Cp/O nhà_vua/Nn/O không/R/O tin/Vv/O ,/PU/O sai/Aa/O giam/Vv/O ông/Nn/O lại/R/O ./PU/O 
+Hai/Nq/MEA_B hôm/Nt/MEA_I sau/Nn/O ,/PU/O bọn/Nn/O cướp/Nn/O mới/Aa/O về/Vv/O tới/D/O đất_liền/Nn/O ./PU/O 
+Vua/Nn/O cho/Vv/O gọi/Vv/O chúng/Pp/O vào/Cm/O gặng/Vv/O hỏi/Vv/O về/Cm/O cuộc/Nc/O hành_trình/Nn/O ./PU/O 
+Chúng/Pp/O bịa/Vv/O chuyện/Nn/O A-ri-ôn/Nn/O ở/Vv/O lại/R/O đảo/Vv/O ./PU/O 
+Đúng/Aa/O lúc/Nt/O đó/Pd/O ,/PU/O A-ri-ôn/Nn/O bước/Vv/O ra/D/O ./PU/O 
+Đám/Nn/O thủy/Nn/O thủ/Vv/O sửng_sốt/Vv/O ,/PU/O không/R/O tin/Vv/O vào/Cm/O mắt/Nn/O mình/Pp/O ./PU/O 
+Vua/Nn/O truyền/Vv/O lệnh/Nn/O trị_tội/Vv/O bọn/Nn/O cướp/Nn/O và/Cp/O trả/Vv/O lại/R/O tự_do/Aa/O cho/Cp/O A-ri-ôn/Nn/O ./PU/O 
+Sau/Nn/O câu_chuyện/Nn/O kì_lạ/Aa/O ấy/Pd/O ,/PU/O ở/Cm/O nhiều/Aa/O thành_phố/Nu/O Hi_Lạp/Nr/LOC_B và/Cp/O La_Mã/Nr/ORG_B đã/R/O xuất_hiện/Vv/O những/Nq/O đồng_tiền/Nn/O khắc/Vv/O hình/Nn/O một/Nq/NUM_B con/Nc/O cá_heo/Nn/O cõng/Vv/O người/Nn/O trên/Cm/O lưng/Nn/O ./PU/O 
+Có_lẽ/R/O đó/Pd/O là/Vc/O đồng_tiền/Nn/O được/Vv/O ra_đời/Vv/O để/Cm/O ghi/Vv/O lại/R/O tình_cảm/Nn/O yêu_quý/Vv/O con_người/Nn/O của/Cm/O loài/Nn/O cá/Nn/O thông_minh/Aa/O ./PU/O 

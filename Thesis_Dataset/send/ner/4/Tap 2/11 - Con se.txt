@@ -1,0 +1,20 @@
+﻿Con/Nc/O sẻ/Nn/O 
+Tôi/Pp/O đi/Vv/O dọc/Aa/O lối/Nn/O vào/Vv/O vườn/Nn/O ./PU/O 
+Con/Nc/O chó/Nn/O chạy/Vv/O trước/Nn/O tôi/Pp/O ./PU/O 
+Chợt/R/O nó/Pp/O dừng/Vv/O chân/Nn/O và/Cp/O bắt_đầu/Vv/O bò/Nn/O ,/PU/O tuồng_như/R/O đánh_hơi/Vv/O thấy/Vv/O vật/Nn/O gì/Pp/O ./PU/O 
+Tôi/Pp/O nhìn/Vv/O dọc/Aa/O lối/Nn/O đi/R/O và/Cp/O thấy/Vv/O một/Nq/NUM_B con/Nc/O sẻ/Nn/O non/Aa/O mép/Nn/O vàng/Aa/O óng/Aa/O ,/PU/O trên/Cm/O đầu/Nn/O có/Ve/O một/Nq/NUM_B nhúm/Nn/O lông_tơ/Nn/O ./PU/O 
+Nó/Pp/O rơi/Vv/O từ/Cm/O trên/Cm/O tổ/Nn/O xuống/D/O ./PU/O 
+Con/Nc/O chó/Nn/O chậm_rãi/Aa/O lại/R/O gần/Aa/O ./PU/O 
+Bỗng/R/O từ/Cm/O trên/Cm/O cây/Nn/O cao/Aa/O gần/Aa/O đó/Pd/O ,/PU/O một/Nq/NUM_B con/Nc/O sẻ/Nn/O già/Aa/O có/Ve/O bộ/Nc/O ức/Nn/O đen_nhánh/Aa/O lao/Vv/O xuống/D/O như/Cp/O hòn/Nc/O đá/Nn/O rơi/Vv/O trước/Nn/O mõm/Nn/O con/Nc/O chó/Nn/O ./PU/O 
+Lông/Nn/O sẻ/Nn/O già/Aa/O dựng/Vv/O ngược/Aa/O ,/PU/O miệng/Nn/O rít/Vv/O lên/R/O tuyệt_vọng/Vv/O và/Cp/O thảm_thiết/Aa/O ./PU/O 
+Nó/Pp/O nhảy/Vv/O hai/Nq/NUM_B ba/Nq/NUM_I bước/Nn/O về/D/O phía/Nn/O cái/Nc/O mõm/Nn/O há/Vv/O rộng/Aa/O đầy/Aa/O răng/Nn/O của/Cm/O con/Nc/O chó/Nn/O ./PU/O 
+Sẻ/Nr/PER_B già/Aa/O lao/Vv/O đến/Cm/O cứu/Vv/O con/Nn/O ,/PU/O lấy/Vv/O thân/Nn/O mình/Pp/O phủ/Vv/O kín/Aa/O sẻ/Nn/O con/Nn/O ./PU/O 
+Giọng/Nn/O nó/Pp/O yếu_ớt/Aa/O nhưng/Cp/O hung_dữ/Aa/O và/Cp/O khản_đặc/Nn/O ./PU/O 
+Trước_mắt/Nn/O nó/Pp/O ,/PU/O con/Nc/O chó/Nn/O như/Cp/O một/Nq/NUM_B con/Nc/O quỷ/Nn/O khổng_lồ/Aa/O ./PU/O 
+Nó/Pp/O sẽ/R/O hi_sinh/Vv/O ./PU/O 
+Nhưng/Cp/O một/Nq/NUM_B sức_mạnh/Nn/O vô_hình/Aa/O vẫn/R/O cuốn/Vv/O nó/Pp/O xuống/D/O đất/Nn/O ./PU/O 
+Con/Nc/O chó/Nn/O của/Cm/O tôi/Pp/O dừng/Vv/O lại/R/O và/Cp/O lùi/Vd/O .../PU/O 
+Dường_như/R/O nó/Pp/O hiểu/Vv/O rằng/Cp/O trước/Nn/O mặt/Nn/O nó/Pp/O có/Ve/O một/Nq/NUM_B sức_mạnh/Nn/O ./PU/O 
+Tôi/Pp/O vội/Aa/O lên_tiếng/Vv/O gọi/Vv/O con/Nc/O chó/Nn/O đang/R/O bối_rối/Aa/O ấy/Pd/O tránh/Vv/O ra/R/O xa/Aa/O ,/PU/O lòng/Nn/O đầy/Aa/O thán_phục/Vv/O ./PU/O 
+Vâng/E/O ,/PU/O lòng/Nn/O tôi/Pp/O đầy/Aa/O thán_phục/Vv/O ,/PU/O xin/Vv/O bạn/Pp/O đừng/R/O cười/Vv/O ./PU/O 
+Tôi/Pp/O kính_cẩn/Aa/O nghiêng_mình/Nn/O trước/Cm/O con/Nc/O chim_sẻ/Nn/O bé_bỏng/Aa/O dũng_cảm/Aa/O kia/Pd/O ,/PU/O trước/Nn/O tình_yêu/Nn/O của/Cm/O nó/Pp/O ./PU/O 

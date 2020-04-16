@@ -1,0 +1,50 @@
+Phong_cách ngôn_ngữ hành_chính 
+I - Khái_quát về phong_cách ngôn_ngữ hành_chính 
+Phong_cách ngôn_ngữ hành_chính là loại phong_cách ngôn_ngữ thể_hiện trong các văn_bản thuộc lĩnh_vực giao_tiếp điều_hành và quản_lí xã_hội , thường gọi là văn_bản hành_chính . 
+Văn_bản hành_chính tồn_tại chủ_yếu dưới dạng viết , bao_gồm : 
+- Văn_bản quy_phạm pháp_luật như : Hiến_pháp , các văn_bản luật , các văn_bản dưới luật , ... 
+- Văn_bản hội_nghị như : biên_bản , báo_cáo , đề_án , nghị_quyết , ... 
+- Văn_bản thủ_tục hành_chính như : công_văn , đơn từ , hợp_đồng , văn_bằng , hóa đơn , ... 
+Phong_cách ngôn_ngữ hành_chính có các đặc_điểm chung như sau . 
+1 . 
+Tính khuôn_mẫu : Văn_bản hành_chính thường được thể hiện theo các khuôn_mẫu xác_định . 
+Tùy tính_chất của mỗi loại văn_bản hành_chính mà mức_độ yêu_cầu về khuôn_mẫu có khác nhau , có_thể chỉ là nhừng nét lớn ( như báo_cáo , biên_bản , ... ) , có_thể chi_tiết hơn ( như hợp_đồng , quyết_định , ... ) , có_thể có mẫu in sẵn ( như văn_bằng , chứng_chỉ , giấy giới_thiệu , ... ) . 
+2 . 
+Tính minh_xác : Văn_bản hành_chính phải đảm_bảo sao cho mọi người đều hiểu và thực_hiện thống_nhất . 
+Do đó , văn_bản hành_chính phải được viết rõ_ràng , chính_xác ; mọi ý phải được trình_bày minh_bạch , hiển_ngôn , không được mơ_hồ , gây nhiều cách hiểu . 
+3 . 
+Tính công_vụ : Văn_bản hành_chính được dùng trong lĩnh_vực điều_hành và quản_lí xã_hội , nên ngôn_ngữ trong văn_bản hành_chính phải có tính trang_trọng , nghiêm_túc . 
+Văn_bản hành_chính thể_hiện tinh_thần trách_nhiệm của người viết và của cơ_quan ban_hành . 
+Văn_bản hành_chính có giá_trị pháp_lí . 
+Do đó , trong văn_bản hành_chính phải ghi rõ họ tên người viết hoặc người kí , ngày_tháng lập văn_bản , thời_hạn có hiệu_lực , phạm_vi tác_động và đối_tượng có trách_nhiệm thi_hành , v.v. 
+II - Cách sử_dụng phương_tiện ngôn_ngữ trong phong_cách ngôn_ngữ hành_chính 
+1 . 
+Về ngữ_âm - chữ_viết 
+Chữ_viết trong văn_bản hành_chính , ngoài các đặc_điểm của chuẩn chính_tả tiếng Việt nói_chung , còn có những đặc_điểm riêng như cách sắp_xếp các mục , cách viết hoa , viết tắt , cách đánh_số , v.v. 
+Ví_dụ , khi viết những số dưới 10 , người_ta thường thêm số 0 vào đàng trước , như : 01,03 , ... 
+2 . 
+Về từ_ngữ 
+- Lớp từ_ngữ trong văn_bản hành_chính là lớp từ_ngữ chung . 
+Văn_bản hành_chính không dùng các từ_ngữ địa_phương , biệt ngữ xã_hội , ... 
+Các từ_ngữ thường được sử_dụng với sắc_thái ý_nghĩa trang_trọng . 
+Văn_bản hành_chính thường sử_dụng những từ_ngữ có tính_chất khuôn_mẫu như : nay ban_hành , theo đề_nghị , căn_cứ vào , quyết_định , thi_hành , có hiệu_lực từ ngày , trân_trọng kính mời , các bên hữu_quan , cơ_quan chủ_quản , ... 
+- Từ_ngữ xưng_hô trong văn_bản hành_chính mang tính_chất xã_hội . 
+Văn_bản hành_chính không dùng những từ_ngữ xưng_hô theo kiểu gia_đình , bạn_bè : bố , con , mẹ , nó , cậu , tớ , ... 
+3 . 
+Về kiểu câu 
+- Câu trong văn_bản hành_chính có kết_cấu chặt_chẽ . 
+Quan_hệ giữa các thành_phần câu rõ_ràng , xác_định . 
+- Văn_bản hành_chính thường sử_dụng kiểu câu trần_thuật . 
+Câu nghi_vấn , câu cảm_thán không thích_hợp với loại văn_bản này . 
+- Để người đọc dễ tiếp_nhận , trong một_số trường_hợp , các vế câu thường được tách thành từng dòng riêng . 
+4 . 
+Về biện_pháp tu_từ 
+Văn_bản hành_chính không sử_dụng các biện_pháp tu_từ , các phương_tiện biểu_cảm . 
+5 . 
+Về bố_cục , trình_bày 
+Văn_bản hành_chính thuộc loại có thể_thức cố_định . 
+Bố_cục thường gập của văn_bản hành_chính gồm ba phần : phần đầu , phần chính và phần cuối . 
+Chẳng_hạn , một văn_bản của cơ_quan Nhà_nước cấp_Bộ thường có bố_cục như sau : 
+Phần đầu : Bên phải là quốc_hiệu , tiêu_ngữ ; dưới tiêu_ngữ là địa_điểm và thời_gian ra văn_bản ; bên trái là tên cơ_quan ra văn_bản , dưới đó là số_hiệu văn_bản . 
+Phần chính : Nội_dung của văn_bản . 
+Phần cuối : Bốn trái là những thông_tin cần_thiết ( như Nơi nhận ... ) ; bên phải là chức_vụ người kí văn_bản , dưới đó là chữ_kí , dấu cơ_quan và họ tên người kí văn_bản . 

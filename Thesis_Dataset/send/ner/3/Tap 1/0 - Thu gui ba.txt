@@ -1,0 +1,15 @@
+﻿Thư/Nn/O gửi/Vv/O bà/Nn/O 
+Hải_Phòng/Nr/ORG_B ,/PU/O ngày/Nt/O 6/Nq/MEA_B tháng/Nt/MEA_I 11/Nt/DTM_B năm/Nt/DTM_I 2003/Nt/DTM_I 
+Bà/Nn/O kính_yêu/Vv/O !/PU/O 
+Lâu/Aa/O rồi/R/O ,/PU/O cháu/Nn/O chưa/R/O được/Vv/O về/Vd/O quê/Nn/O ,/PU/O cháu/Nn/O nhớ/Vv/O bà/Nn/O lắm/R/O ./PU/O 
+Dạo/Nt/DTM_B này/Pd/DTM_I bà/Nn/O có/Ve/O khỏe/Nn/O không/R/O ạ/M/O ?/PU/O 
+Gia_đình/Nn/O cháu/Nn/O ngoài/Nn/O này/Pd/O vẫn/R/O bình_thường/Aa/O ./PU/O 
+Năm/Nt/DTM_B nay/Nt/DTM_I ,/PU/O cháu/Nn/O học/Vv/O lớp/Nn/O 3/An/O ./PU/O 
+Từ/Cm/O đầu/Nn/O năm_học/Nn/O đến/Vd/O giờ/Nt/O ,/PU/O cháu/Nn/O được/Vv/O tám/Nq/NUM_B điểm/Nn/O 10/Nq/NUM_B rồi/R/O đấy/M/O ./PU/O 
+Bà/Nn/O ạ/M/O !/PU/O 
+Ngày/Nt/O nghỉ/Vv/O ,/PU/O cháu/Nn/O thường/R/O được/Vv/O bố_mẹ/Nn/O cháu/Nn/O cho/Vv/O đi/Vv/O chơi/Vv/O ./PU/O 
+Cháu/Pp/O vẫn/R/O nhớ/Vv/O năm_ngoái/Nt/DTM_B được/Vv/O về/Vd/O quê/Nn/O ,/PU/O thả/Vv/O diều/Nn/O cùng/Cp/O anh/Nn/TTL_B Tuấn/Nr/PER_B trên/Cm/O đê/Nn/O và/Cp/O đêm_đêm/R/O ngồi/Vv/O nghe/Vv/O bà/Nn/O kể/Vv/O chuyện/Nn/O cổ_tích/Nn/O dưới/Nn/O ánh/Nc/O trăng/Nn/O ./PU/O 
+Cháu/Pp/O hứa/Vv/O với/Cp/O bà/Nn/O sẽ/R/O học/Vv/O thật/R/O giỏi/Aa/O ,/PU/O luôn/R/O chăm/Aa/O ngoan/Aa/O để/Cm/O bà/Nn/O vui/Aa/O ./PU/O 
+Cháu/Pp/O kính/Nn/O chúc/Vv/O bà/Nn/O luôn/R/O mạnh/Aa/O khỏe/Nn/O ,/PU/O sống/Vv/O lâu/Aa/O ./PU/O 
+Cháu/Pp/O mong/Vv/O chóng/Aa/O đến/Cm/O hè/Nt/DTM_B để/Cm/O được/Vv/O về/Vd/O quê/Nn/O thăm/Vv/O bà/Nn/O ./PU/O 
+Cháu/Nn/O của/Cm/O bà/Nn/O 

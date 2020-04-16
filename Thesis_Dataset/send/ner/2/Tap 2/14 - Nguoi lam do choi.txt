@@ -1,0 +1,26 @@
+﻿Người/Nn/O làm/Vv/O đồ_chơi/Nn/O 
+Bác/Nn/TTL_B Nhân/Nr/PER_B ,/PU/O hàng_xóm/Nn/O nhà/Nn/O tôi/Pp/O ,/PU/O là/Vc/O một/Nq/NUM_B người/Nn/O làm/Vv/O đồ_chơi/Nn/O bằng/Cm/O bột/Nn/O màu/Nn/O ./PU/O 
+Ở/Cm/O ngoài/Cm/O phố/Nn/O ,/PU/O cái/Nc/O sào/Nn/O nứa/Nn/O cắm/Vv/O đồ_chơi/Nn/O của/Cm/O bác/Nn/O dựng/Vv/O chỗ/Nn/O nào/Pd/O là/Vc/O chỗ/Nn/O ấy/Pd/O trẻ_con/Nn/O xúm/Vv/O lại/R/O ./PU/O 
+Các/Nq/O bạn/Nn/O ngắm/Vv/O đồ_chơi/Nn/O ,/PU/O tò_mò/Aa/O xem/Vv/O bác/Nc/O nặn/Vv/O những/Nq/O ông/Nn/O Bụt/Nn/O ,/PU/O Thạch_Sanh/Nr/PER_B ,/PU/O Tôn_Ngộ_Không/Nr/PER_B ,/PU/O những/Nq/O con/Nc/O vịt/Nn/O ,/PU/O con/Nc/O gà/Nn/O ,/PU/O .../PU/O sắc_màu/Nn/O sặc_sỡ/Aa/O ./PU/O 
+Bác/Nn/TTL_B Nhân/Nr/PER_B rất/R/O vui/Aa/O với/Cp/O công_việc/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Mỗi/Nq/O chiều/Nn/O bán/Vv/O hàng/Nn/O về/D/O ,/PU/O bác/Nn/O lại/R/O kể/Vv/O cho/Cp/O tôi/Pp/O nghe/Vv/O trẻ/Nn/O nhỏ/Aa/O thích/Vv/O đồ_chơi/Nn/O của/Cm/O bác/Nn/O như/Cp/O thế_nào/Pp/O ./PU/O 
+Dạo/Nt/DTM_B này/Pd/DTM_I ,/PU/O hàng/R/O của/Cm/O bác/Nn/TTL_B Nhân/Nr/PER_B bỗng/R/O bị/Vv/O ế/Aa/O ./PU/O 
+Những/Nq/O đồ_chơi/Nn/O mới/Aa/O bằng/Cm/O nhựa/Nn/O đã/R/O xuất_hiện/Vv/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O bác/Nn/TTL_B Nhân/Nr/PER_B bảo/Vv/O :/PU/O 
+Bác/Nn/PER_B sắp/R/O về/Vd/O quê/Nn/O làm_ruộng/Vv/O ,/PU/O không/R/O nặn/Vv/O đồ_chơi/Nn/O nữa/R/O ./PU/O 
+Tôi/Pp/O suýt/R/O khóc/Vv/O ,/PU/O nhưng/Cp/O cố/Vv/O tỏ_ra/Vv/O bình_tĩnh/Aa/O :/PU/O 
+Bác/Nn/PER_B đừng/R/O về/Vd/O ./PU/O 
+Bác/Nn/O ở/Cm/O đây/Pd/O làm/Vv/O đồ_chơi/Nn/O bán/Vv/O cho/Cp/O chúng/Pp/O cháu/Nn/O ./PU/O 
+Nhưng/Cp/O độ/Nn/O này/Pd/O chả/R/O mấy_ai/ID/O mua/Vv/O đồ_chơi/Nn/O của/Cm/O bác/Nn/O nữa/R/O ./PU/O 
+Cháu/Pp/O mua/Vv/O và/Cp/O sẽ/R/O rủ/Vv/O bạn/Pp/O cháu/Nn/O cùng/Aa/O mua/Vv/O ./PU/O 
+Bác/Nn/O cảm_động/Aa/O ôm/Vv/O lấy/R/O tôi/Pp/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I là/Vc/O buổi/Nt/O bán/Vv/O hàng/Nn/O cuối_cùng/Aa/O của/Cm/O bác/Nn/TTL_B Nhân/Nr/PER_B ./PU/O 
+Sáng/Nt/O ấy/Pd/O ,/PU/O tôi/Pp/O đập/Vv/O con/Nc/O lợn/Nn/O đất/Nn/O ,/PU/O đếm/Vv/O được/R/O hơn/Aa/O mười/Nq/MEA_B nghìn/Nq/MEA_I đồng/Nu/MEA_I ./PU/O 
+Tôi/Pp/O chia/Vv/O nhỏ/Aa/O món/Nc/O tiền/Nn/O nhờ/Cm/O mấy/Nq/O bạn/Nn/O trong/Cm/O lớp/Nn/O mua/Vv/O giúp/Vv/O đồ_chơi/Nn/O của/Cm/O bác/Nn/O ./PU/O 
+Gặp/Vv/O bác/Nc/O chiều/Nt/O ấy/Pd/O ,/PU/O tôi/Pp/O thấy/Vv/O bác/Nc/O rất/R/O vui/Aa/O ./PU/O 
+Bác/Nn/PER_B tặng/Vv/O tôi/Pp/O hai/Nq/NUM_B con/Nn/O giống/Vv/O ,/PU/O rồi/Cp/O kể/Vv/O :/PU/O 
+Hôm_nay/Nt/DTM_B ,/PU/O bác/Nn/O bán/Vv/O hết_nhẵn/Nq/O hàng/Nn/O ./PU/O 
+Thì_ra/Cp/O ,/PU/O vẫn/R/O còn/Ve/O nhiều/Aa/O trẻ/Nn/O nhỏ/Aa/O thích/Vv/O đồ_chơi/Nn/O của/Cm/O bác/Nn/O ./PU/O 
+Bác/Nn/PER_B còn/R/O bảo/Vv/O :/PU/O 
+Về/Cm/O quê/Nn/O ,/PU/O bác/Nn/O cũng/R/O sẽ/R/O nặn/Vv/O đồ_chơi/Nn/O để/Cm/O bán/Vv/O ./PU/O 
+Nghe/Vv/O nói/Vv/O trẻ/Nn/O ở/Cm/O nông_thôn/Nn/O thích/Vv/O thứ/Nn/O này/Pd/O hơn/Aa/O trẻ/Nn/O thành_phố/Nu/O ./PU/O 

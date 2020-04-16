@@ -1,0 +1,25 @@
+﻿Bài_tập/Nn/O làm/Vv/O văn/Nn/O 
+Có/Ve/O lần/Nn/O ,/PU/O cô_giáo/Nn/O ra/D/O cho/Cp/O chúng_tôi/Pp/O một/Nq/NUM_B đề/Nn/O văn/Nn/O ở/Cm/O lớp/Nn/O :/PU/O 
+Em/Pp/O đã/R/O làm/Vv/O gì/Pp/O để/Cm/O giúp_đỡ/Vv/O mẹ/Nn/O ?/PU/O 
+Tôi/Pp/O loay_hoay/Vv/O mất/Vv/O một/Nq/O lúc/Nt/O ,/PU/O rồi/Cp/O cầm/Vv/O bút/Nn/O và/Cp/O bắt_đầu/Vv/O viết/Vv/O :/PU/O 
+Em/Pp/O đã/R/O nhiều/Aa/O lần/Nn/O giúp_đỡ/Vv/O mẹ/Nn/O ./PU/O 
+Em/Pp/O quét/Vv/O nhà/Nn/O và/Cp/O rửa/Vv/O bát/Nn/O đĩa/Nn/O ./PU/O 
+Đôi_khi/R/O ,/PU/O em/Pp/O giặt/Vv/O khăn/Nn/O mùi_soa/Nn/O ./PU/O 
+Đến/Cm/O đây/Pd/O ,/PU/O tôi/Pp/O bỗng/R/O thấy/Vv/O bí/Nn/O ./PU/O 
+Quả_thật/R/O ,/PU/O ở/Cm/O nhà/Nn/O ,/PU/O mẹ/Nn/O thường/R/O làm/Vv/O mọi/Nq/O việc/Nn/O ./PU/O 
+Thỉnh_thoảng/R/O ,/PU/O mẹ/Nn/O bận/Aa/O ,/PU/O định/Vv/O bảo/Vv/O tôi/Pp/O giúp_việc/Vv/O này/Pd/O việc/Nn/O kia/Pd/O ,/PU/O nhưng/Cp/O thấy/Vv/O tôi/Pp/O đang/R/O học/Vv/O ,/PU/O mẹ/Nn/O lại/R/O thôi/M/O ./PU/O 
+Tôi/Pp/O nhìn/Vv/O sang/Cm/O Liu-xi-a/Nn/O ,/PU/O thấy/Vv/O bạn/Nn/O ấy/Pd/O đang/R/O viết/Vv/O lia_lịa/Nn/O ./PU/O 
+Thế/Pp/O là/Vc/O tôi/Pp/O bỗng/R/O nhớ/Vv/O có/Ve/O lần/Nn/O tôi/Pp/O giặt/Vv/O bít_tất/Nn/O của/Cm/O mình/Pp/O ,/PU/O bèn/R/O viết/Vv/O thêm/Vv/O :/PU/O 
+Em/Pp/O còn/R/O giặt/Vv/O bít_tất/Nn/O ./PU/O 
+Nhưng/Cp/O chẳng_lẽ/R/O lại/R/O nộp/Vv/O một/Nq/NUM_B bài/Nc/O văn/Nn/O ngắn_ngủn/Aa/O như/Cp/O thế/Pp/O này/Pd/O ?/PU/O 
+Tôi/Pp/O nhìn/Vv/O xung_quanh/Nn/O ,/PU/O mọi/Nq/O người/Nn/O vẫn/R/O viết/Vv/O ./PU/O 
+Lạ/Aa/O thật/Aa/O ,/PU/O các/Nq/O bạn/Pp/O viết/Vv/O gì/Pp/O mà/Cp/O nhiều/Aa/O thế/Nn/O ?/PU/O 
+Tôi/Pp/O cố/Vv/O nghĩ/Vv/O ,/PU/O rồi/Cp/O viết/Vv/O tiếp/Vv/O :/PU/O 
+Em/Pp/O giặt/Vv/O cả/Pp/O áo_lót/Nn/O ,/PU/O áo/Nn/O sơ_mi/Nn/O và/Cp/O quần/Nn/O ./PU/O 
+Cuối_cùng/Aa/O ,/PU/O tôi/Pp/O kết_thúc/Vv/O bài/Nc/O văn/Nn/O của/Cm/O mình/Pp/O :/PU/O 
+Em/Pp/O muốn/Vv/O giúp/Vv/O mẹ/Nn/O nhiều/Aa/O việc/Nn/O hơn/Aa/O ,/PU/O để/Cm/O mẹ/Nn/O đỡ/Vv/O vất_vả/Aa/O ./PU/O 
+Mấy/Nq/O hôm/Nt/O sau/Nn/O ,/PU/O sáng/Nt/DTM_B chủ_nhật/Nt/DTM_I ,/PU/O mẹ/Nn/O bảo/Vv/O tôi/Pp/O :/PU/O 
+Cô-li-a/Nn/O này/Pd/O !/PU/O 
+Hôm_nay/Nt/DTM_B con/Pp/O giặt/Vv/O áo/Nn/O sơ_mi/Nn/O và/Cp/O quần_áo/Nn/O lót/Vv/O đi/Vv/O nhé/M/O !/PU/O 
+Tôi/Pp/O tròn_xoe/Aa/O mắt/Nn/O ./PU/O 
+Nhưng/Cp/O rồi/Cp/O tôi/Pp/O vui_vẻ/Aa/O nhận_lời/Vv/O ,/PU/O vì/Cs/O đó/Pd/O là/Vc/O việc/Nn/O làm/Vv/O mà/Cs/O tôi/Pp/O đã/R/O nói/Vv/O trong/Cm/O bài_tập/Nn/O làm/Vv/O văn/Nn/O ./PU/O 

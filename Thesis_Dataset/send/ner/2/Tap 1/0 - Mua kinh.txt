@@ -1,0 +1,13 @@
+﻿Mua/Vv/O kính/Nn/O 
+Có/Ve/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O lười/Aa/O học/Vv/O nên/Cp/O không/R/O biết/Vv/O chữ/Nn/O ./PU/O 
+Thấy/Vv/O nhiều/Aa/O người/Nn/O khi/Nt/O đọc/Vv/O sách/Nn/O phải/Vv/O đeo/Vv/O kính/Nn/O ,/PU/O cậu/Nn/O tưởng/Vv/O rằng/Cp/O cứ/R/O đeo/Vv/O kính/Nn/O thì/Cp/O đọc/Vv/O được/R/O sách/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O cậu/Nn/O vào/Vv/O một/Nq/NUM_B cửa_hàng/Nn/O để/Cm/O mua/Vv/O kính/Nn/O ./PU/O 
+Cậu/Nn/O giở/Vv/O một/Nq/NUM_B cuốn/Nc/O sách/Nn/O ra/D/O đọc/Vv/O thử/Vv/O ./PU/O 
+Cậu/Nn/O thử/Vv/O đến/Cm/O năm_bảy/Nq/O chiếc/Nc/O kính/Nn/O khác/Aa/O nhau/Nn/O mà/Cp/O vẫn/R/O không/R/O đọc/Vv/O được/R/O ./PU/O 
+Bác/Nn/O bán_kính/Nn/O thấy/Vv/O thế/Pp/O liền/R/O hỏi/Vv/O :/PU/O 
+Hay_là/Cp/O cháu/Pp/O không/R/O biết/Vv/O đọc/Vv/O ?/PU/O 
+Cậu/Nc/O bé/Nn/O ngạc_nhiên/Vv/O :/PU/O 
+Nếu/Cs/O cháu/Nn/O mà/Cp/O biết/Vv/O đọc/Vv/O thì/Cs/O cháu/Nn/O còn/R/O phải/Vv/O mua/Vv/O kính/Nn/O làm/Vv/O gì/Pp/O ?/PU/O 
+Bác/Nn/O bán_kính/Nn/O phì_cười/Vv/O :/PU/O 
+Chẳng/R/O có/Ve/O thứ/Nn/O kính/Nn/O nào/Pd/O đeo/Vv/O vào/Cm/O mà/Cp/O biết/Vv/O đọc/Vv/O được/R/O đâu/Pp/O !/PU/O 
+Cháu/Pp/O muốn/Vv/O đọc/Vv/O sách/Nn/O thì/Cp/O phải/Vv/O học/Vv/O đi/Vv/O đã/R/O ./PU/O 

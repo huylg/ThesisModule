@@ -1,0 +1,12 @@
+﻿Đi/Vv/O chợ/Nn/O 
+Có/Ve/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O được/Vv/O bà/Nn/O sai/Aa/O đi/Vv/O chợ/Nn/O ./PU/O 
+Bà/Nn/O đưa/Vv/O cho/Cp/O cậu/Nn/O hai/Nq/MEA_B đồng/Nu/MEA_I và/Cp/O hai/Nq/NUM_B cái/Nc/O bát/Nn/O ,/PU/O dặn/Vv/O :/PU/O 
+Cháu/Pp/O mua/Vv/O một/Nq/MEA_B đồng/Nu/MEA_I tương/Nn/O ,/PU/O một/Nq/MEA_B đồng/Nu/MEA_I mắm/Nn/O nhé/M/O !/PU/O 
+Cậu/Nc/O bé/Nn/O vâng_dạ/Vv/O ,/PU/O đi/Vv/O ngay/R/O ./PU/O 
+Gần/Aa/O tới/Cm/O chợ/Nn/O ,/PU/O cậu/Nn/O bỗng/R/O hớt_hải/Aa/O chạy/Vv/O về/D/O ,/PU/O hỏi/Vv/O bà/Nn/O :/PU/O 
+Bà/Pp/O ơi/E/O ,/PU/O bát/Nn/O nào/Pd/O đựng/Vv/O tương/Nn/O ,/PU/O bát/Nn/O nào/Pd/O đựng/Vv/O mắm/Nn/O ?/PU/O 
+Bà/Nn/O phì_cười/Vv/O :/PU/O 
+Bát/Nr/O nào/Pd/O đựng/Vv/O tương/Nn/O ,/PU/O bát/Nn/O nào/Pd/O đựng/Vv/O mắm/Nn/O mà/Cp/O chẳng/R/O được/R/O ./PU/O 
+Cậu/Nc/O bé/Nn/O lại/R/O ra_đi/Vv/O ./PU/O 
+Đến/Cm/O chợ/Nn/O ,/PU/O cậu/Nn/O lại/R/O ba_chân_bốn_cẳng/ID/O chạy/Vv/O về/D/O ,/PU/O hỏi/Vv/O :/PU/O 
+Nhưng/Cp/O đồng/Nu/O nào/Pd/O mua/Vv/O mắm/Nn/O ,/PU/O đồng/Nn/O nào/Pd/O mua/Vv/O tương/Nn/O ạ/M/O ?/PU/O 

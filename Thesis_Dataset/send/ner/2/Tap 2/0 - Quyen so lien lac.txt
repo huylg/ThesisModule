@@ -1,0 +1,18 @@
+﻿Quyển/Nc/O sổ/Nn/O liên_lạc/Vv/O 
+Ai/Pp/O cũng/R/O bảo/Vv/O bố/Nn/O Trung/Nn/O lắm/R/O hoa_tay/Nn/O ./PU/O 
+Bố/Nn/O làm/Vv/O gì/Pp/O cũng/R/O khéo/Aa/O ,/PU/O viết/Vv/O chữ/Nn/O thì/Cp/O đẹp/Aa/O ./PU/O 
+Chẳng/R/O hiểu/Vv/O sao/Pp/O ,/PU/O Trung/Nr/PER_B không/R/O có/Ve/O được/M/O hoa_tay/Nn/O như/Cp/O thế/Pp/O ./PU/O 
+Tháng/Nt/O nào/Pd/O ,/PU/O trong/Cm/O sổ/Nn/O liên_lạc/Vv/O ,/PU/O cô_giáo/Nn/O cũng/R/O nhắc/Vv/O Trung/Nr/PER_B phải/Vv/O tập/Vv/O viết/Vv/O thêm/Vv/O ở/Cm/O nhà/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O bố/Nn/O lấy/Vv/O trong/Cm/O tủ/Nn/O ra/D/O một/Nq/NUM_B quyển/Nc/O sổ/Nn/O mỏng/Aa/O đã/R/O ngả/Vv/O màu/Nn/O ,/PU/O đưa/Vv/O cho/Cp/O Trung/Nr/PER_B ./PU/O 
+Trung/Nr/PER_B ngạc_nhiên/Vv/O :/PU/O 
+Đó/Pd/O là/Vc/O quyển/Nc/O sổ/Nn/O liên_lạc/Vv/O của/Cm/O bố/Nn/O ngày/Nt/O bố/Nn/O còn/R/O là/Vc/O một/Nq/NUM_B cậu/Nc/O học_trò/Nn/O lớp/Nn/O hai/An/O ./PU/O 
+Trang/Nn/O sổ/Nn/O nào/Pd/O cũng/R/O ghi/Vv/O lời/Nn/O thầy/Nn/O khen/Vv/O bố/Nn/O Trung/Nn/O chăm/Vv/O ngoan/Aa/O ,/PU/O học/Vv/O giỏi/Aa/O ./PU/O 
+Nhưng/Cp/O cuối/Nn/O lời/Nn/O phê/Vv/O ,/PU/O thầy/Nn/O thường/R/O nhận_xét/Vv/O chữ/Nn/O bố/Nn/O Trung/Nn/O nguệch_ngoạc/Aa/O ,/PU/O cần/Vv/O luyện/Vv/O viết/Vv/O nhiều/Aa/O hơn/Aa/O ./PU/O 
+Trung/Nr/PER_B băn_khoăn/Aa/O :/PU/O 
+Sao/Pp/O chữ/Nn/O bố/Nn/O đẹp/Aa/O thế/Pp/O mà/Cp/O thầy/Nn/O còn/R/O chê/Vv/O ?/PU/O 
+Bố/Nn/O bảo/Vv/O :/PU/O 
+Đấy/Pd/O là/Vc/O do/Cp/O sau/Nn/O này/Pd/O bố/Nn/O tập/Vv/O viết/Vv/O rất/R/O nhiều/Aa/O ,/PU/O chữ/Nn/O mới/R/O được/Vv/O như/Cp/O vậy/Pp/O ./PU/O 
+Thế/Pp/O bố/Nn/O có/Ve/O được/M/O thầy/Nn/O khen/Vv/O không/R/O ?/PU/O 
+Giọng/Nn/O bố/Nn/O buồn/Aa/O hẳn/Aa/O :/PU/O 
+Không/R/O ./PU/O 
+Năm/Nt/O bố/Nn/O học/Vv/O lớp/Nn/O ba/An/O ,/PU/O thầy/Nn/O đi/Vv/O bộ_đội/Nn/O rồi/Cp/O hi_sinh/Vv/O ./PU/O 

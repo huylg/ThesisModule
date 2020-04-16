@@ -1,0 +1,16 @@
+Sơn_Tinh/Nr ,/PU Thủy/Nr tinh/Nn
+Hùng_Vương/Nr thứ/Nn mười/An tám/Nq có/Ve một/Nq người/Nc con_gái/Nn đẹp/Aa tuyệt_trần/Aa ,/PU tên/Nn là/Vc Mị_Nương/Nr ./PU
+Nhà_vua/Nn muốn/Vv kén/Aa cho/Cp công_chúa/Nn một/Nq người/Nc chồng/Nn tài_giỏi/Aa ./PU
+Một/Nq hôm/Nt ,/PU có/Ve hai/Nq chàng/Nc trai/Nn đến/Vd cầu_hôn/Vv công_chúa/Nn ./PU
+Một/Nq người/Nn là/Vc Sơn_Tinh/Nr ,/PU chúa/Nn miền/Nn non/Aa cao/Aa ,/PU còn/Cp người/Nn kia/Pd là/Vc Thủy_Tinh/Nr ,/PU vua/Nn vùng/Nn nước/Nn thẳm/Aa ./PU
+Hùng_Vương/Nr chưa/R biết/Vv chọn/Vv ai/Pp ,/PU bèn/R nói/Vv :/PU
+Ngày_mai/Nt ,/PU ai/Pp đem/Vv lễ_vật/Nn đến/Cm trước/Nn thì/Cp được/Vv lấy/Vv Mị_Nương/Nr ./PU
+Hãy/R đem/Vv đủ/Aa một/Nq trăm/Nq ván/Nn cơm/Nn nếp/Nn ,/PU hai/Nq trăm/Nq nệp/Nn bánh_chưng/Nn ,/PU voi/Nn chín/Nq ngà/Nn ,/PU gà/Nn chín/Nq cựa/Vv ,/PU ngựa/Nn chín/Nq hồng_mao/Nn ./PU
+Hôm/Nt sau/Nn ,/PU Sơn_Tinh/Nr mang/Vv lễ_vật/Nn đến/Cm trước/Nn và/Cp được/Vv đón_dâu/Nn về/D ./PU
+Thủy_Tinh/Nr đến/Vd sau/Nn ,/PU không/R lấy/Vv được/R Mị_Nương/Nr ,/PU đùng_đùng/R tức_giận/Vv ,/PU cho/Cp quân/Nn đuổi/Vv đánh/Vv Sơn_Tinh/Nr ./PU
+Thủy_Tinh/Nr hô/Vv mưa/Nn ,/PU gọi/Vv gió/Nn ,/PU dâng/Vv nước/Nn lên/D cuồn_cuộn/Vv ./PU
+Nhà_cửa/Nn ,/PU ruộng_đồng/Nn chìm/Vv trong/Cm biển/Nn nước/Nn ./PU
+Sơn_Tinh/Nr hóa/Nq phép/Nn bốc/Vv từng/Pp quả/M đồi/Nn ,/PU dời/Vv từng/Pp dãy/Nn núi/Nn chặn/Vv dòng/Nn nước/Nn lũ/Nn ./PU
+Thủy_Tinh/Nr dâng/Vv nước/Nn lên/D cao/Aa bao_nhiêu/Pp ,/PU Sơn_Tinh/Nr lại/R nâng/Vv đồi/Nn núi/Nn cao/Aa lên/R bấy_nhiêu/Pp ./PU
+Cuối_cùng/Aa ,/PU Thủy_Tinh/Nr đuối/Aa sức/Nn ,/PU đành/Vv phải/Vv rút_lui/Vv ./PU
+Từ/Cm đó/Pd ,/PU năm/Nt nào/Pd Thủy_Tinh/Nr cũng/R dâng/Vv nước/Nn đánh/Vv Sơn_Tinh/Nr ,/PU gây/Vv lũ_lụt/Nn khắp/Aa nơi/Nn nhưng/Cp lần/Nn nào/Pd Thủy_Tinh/Nr cũng/R chịu/Vv thua/Vv ./PU

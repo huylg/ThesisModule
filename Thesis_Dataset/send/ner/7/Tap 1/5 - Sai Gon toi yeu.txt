@@ -1,0 +1,57 @@
+﻿Sài_Gòn/Nr/LOC_B tôi/Pp/O yêu/Vv/O 
+Sài_Gòn/Nr/LOC_B vẫn/R/O trẻ/Aa/O ./PU/O 
+Tôi/Pp/O thì/Cp/O đương/Nn/O già/Aa/O ./PU/O 
+Ba/Nq/MEA_B trăm/Nq/MEA_I năm/Nt/MEA_I so/Vv/O với/Cp/O năm/Nt/O ngàn/Nq/O năm/Nt/O tuổi/Nn/O của/Cm/O Đất_nước/Nn/O thì/Cp/O cái/Nc/O đô_thị/Nn/O này/Pd/O còn/R/O xuân/Nt/DTM_B chán/Vv/O ./PU/O 
+Sài_Gòn/Nr/LOC_B cứ/R/O trẻ/Aa/O hoài/R/O như/Cp/O một/Nq/NUM_B cây/Nc/O tơ/Nn/O đương/Nq/O độ/Nn/O nõn_nà/Aa/O ,/PU/O trên/Cm/O đà/Nn/O thay/Vv/O da/Nn/O ,/PU/O đổi/Vv/O thịt/Nn/O ,/PU/O miễn_là/Cp/O cư_dân/Nn/O ngày_nay/Nt/DTM_B và/Cp/O cả/M/O ngày_mai/Nt/DTM_B biết/Vv/O cách/Nn/O tưới_tiêu/Vv/O ,/PU/O chăm_bón/Vv/O ,/PU/O trân_trọng/Vv/O giữ_gìn/Vv/O cái/Nc/O đô_thị/Nn/O ngọc_ngà/Nn/O này/Pd/O ./PU/O 
+Tôi/Pp/O yêu/Vv/O Sài_Gòn/Nr/LOC_B da_diết/Aa/O .../PU/O 
+Tôi/Pp/O yêu/Vv/O trong/Cm/O nắng/Nn/O sớm/Aa/O ,/PU/O một/Nq/NUM_B thứ/Nn/O nắng/Nn/O ngọt_ngào/Aa/O ,/PU/O vào/Cm/O buổi/Nt/O chiều/Nn/O lộng_gió/Aa/O nhớ_thương/Vv/O ,/PU/O dưới/Nn/O những/Nq/O cây/Nc/O mưa/Nn/O nhiệt_đới/Nn/O bất_ngờ/Aa/O ./PU/O 
+Tôi/Pp/O yêu/Vv/O thời_tiết/Nn/O trái_chứng/Nn/O với/Cp/O trời/Nn/O đang/R/O ui_ui/Aa/O buồn_bã/Aa/O ,/PU/O bỗng_nhiên/R/O trong_vắt/Aa/O lại/R/O như/Cp/O thủy/Nq/O tinh/Nn/O ./PU/O 
+Tôi/Pp/O yêu/Vv/O cả/Pp/O đêm/Nt/O khuya/Nt/O thưa_thớt/Aa/O tiếng/Nn/O ồn/Aa/O ./PU/O 
+Tôi/Pp/O yêu/Vv/O phố_phường/Nn/O náo_động/Vv/O ,/PU/O dập_dìu/Aa/O xe_cộ/Nn/O vào/Cm/O những/Nq/O giờ/Nt/O cao_điểm/Nn/O ./PU/O 
+Yêu/Vv/O cả/Pp/O cái/Nc/O tĩnh_lặng/Aa/O của/Cm/O buổi/Nt/O sáng/Nt/O tinh_sương/Aa/O với/Cp/O làn/Nc/O không_khí/Nn/O mát_dịu/Aa/O ,/PU/O thanh_sạch/Aa/O trên/Cm/O một_số/Nq/O đường/Nn/O còn/Ve/O nhiều/Aa/O cây_xanh/Nn/O che_chở/Vv/O ./PU/O 
+Nếu/Cp/O cho/Vv/O là/Cp/O cường_điệu/Vv/O ,/PU/O xin/Vv/O thưa/E/O :/PU/O 
+Yêu/Vv/O nhau/Nn/O yêu/Vv/O cả/Pp/O đường/Nn/O đi/Vv/O 
+Ghét/Vv/O nhau/Nn/O ghét/Vv/O cả/Pp/O tông_chi/Nn/O họ_hàng/Nn/O ./PU/O 
+Ở/Cm/O trên/Cm/O đất/Nn/O này/Pd/O ,/PU/O không/R/O có/Ve/O người/Nc/O Bắc/Nn/O ,/PU/O không/R/O có/Ve/O người/Nn/O Trung/Nn/O ,/PU/O người/Nc/O Nam/Nn/O ,/PU/O người/Nn/O Hoa/Nr/O ,/PU/O người/Nn/O Khơ-me/Nr/O .../PU/O mà/Cp/O chỉ/R/O toàn/R/O là/M/O người/Nn/O Sài_Gòn/Nr/LOC_B cả/M/O ./PU/O 
+Sống/Vv/O lâu/Aa/O ,/PU/O sống/Vv/O quen/Aa/O một/Nq/O thời_gian/Nn/O dài/Aa/O ở/Cm/O Sài_Gòn/Nr/LOC_B ,/PU/O rồi/Cp/O cứ/R/O ngỡ/Vv/O là/Cp/O mình/Pp/O đã/R/O sinh/Vv/O ra/R/O ở/Cm/O đây/Pd/O và/Cp/O vô_hình_trung/R/O đã/R/O thừa_nhận/Vv/O nơi/Nn/O đây/Pd/O là/Vc/O quê_quán/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Sài_Gòn/Nr/LOC_B bao_giờ/Pp/O cũng/R/O dang/Vv/O hai/Nq/NUM_B cánh_tay/Nn/O mở_rộng/Vv/O mà/Cp/O đón/Vv/O nhiều/Aa/O người/Nn/O từ/Cm/O trăm/Nq/O nẻo/Nn/O đất_nước/Nn/O kéo/Vv/O đến/D/O ./PU/O 
+Nếu/Cs/O siêng_năng/Aa/O ,/PU/O chịu_khó/Aa/O thì/Cs/O bạn/Pp/O sẽ/R/O được/Vv/O đãi_ngộ/Vv/O thân_tình/Aa/O như/Cp/O hàng/R/O triệu/Nq/O người/Nn/O khác/Aa/O ./PU/O 
+Cách/Vv/O ngày_nay/Nt/DTM_B gần/Aa/DTM_I năm/Nt/DTM_I mươi/Nt/DTM_I năm/Nt/DTM_I ,/PU/O vào/Cm/O đây/Pd/O được/Vv/O gần_gũi/Aa/O với/Cp/O người/Nn/O Sài_Gòn/Nr/LOC_B ,/PU/O tôi/Pp/O đã/R/O thấy/Vv/O phong_cách/Nn/O bản_địa/Nn/O mang/Vv/O nhiều/Aa/O nét/Nn/O đặc_trưng/Aa/O ./PU/O 
+Họ/Pp/O ăn_nói/Vv/O tự_nhiên/Aa/O ,/PU/O nhiều/Aa/O lúc/Nt/O hề/M/O hà/M/O dễ_dãi/Aa/O ./PU/O 
+Phần_đông/Nq/O ít/Nn/O dàn_dựng/Vv/O ,/PU/O tính_toán/Vv/O ./PU/O 
+Người/Nn/O Sài_Gòn/Nr/LOC_B cũng/R/O như/Cp/O phần_lớn/Nq/O người/Nn/O Lục/Vv/O tỉnh/Nu/O rất/R/O chơn/Aa/O thành/Vv/O ,/PU/O bộc_trực/Aa/O ./PU/O 
+Các/Nq/O cô/Nc/O gái/Nn/O thị/Nn/O thiềng/Nn/O lúc/Nt/O đó/Pd/O thì/Cp/O tóc/Nn/O buông_thõng/Vv/O trên/Cm/O vai/Nn/O ,/PU/O trên/Cm/O lưng/Nn/O ./PU/O 
+Có_khi/R/O tết/Nt/O bím/Nn/O ./PU/O 
+Đội/Nn/O nón/Nn/O vải/Nn/O trắng/Aa/O ,/PU/O vành/Nn/O rộng/Aa/O ,/PU/O như/Cp/O nón/Nn/O Hướng_đạo/Nn/O ./PU/O 
+Áo/Nn/O bà_ba/Nn/O trắng/Aa/O ,/PU/O đính/Vv/O một/Nq/NUM_B túi/Nn/O nhỏ_xíu/Aa/O duy_nhất/Aa/O bên/Nn/O thân/Aa/O mặt/Nn/O áo/Nn/O ./PU/O 
+Quần/Nn/O đen/Aa/O rộng/Aa/O ./PU/O 
+Mang/Vv/O giày/Nn/O bố/Nn/O trắng/Aa/O (/PU/O giày/Nn/O vải/Nn/O ,/PU/O giày/Nn/O ba-ta/Nn/O )/PU/O hay/Cp/O xăng/Nn/O dan/Nq/O da/Nn/O ./PU/O 
+Có/Ve/O người/Nn/O đi/Vv/O guốc/Nn/O vông/Nn/O trơn/Aa/O trắng_nõn/Aa/O ,/PU/O quai/Nn/O da/Nn/O ,/PU/O dạng/Nn/O chiếc/Nc/O xuồng/Nn/O hay/Cp/O hình_hộp/Nn/O cá_mòi/Nn/O ./PU/O 
+Dáng/Nn/O đi/Vv/O khỏe/Nn/O khoắn/Nn/O ,/PU/O mạnh_dạn/Aa/O ./PU/O 
+Cái/Nc/O đẹp/Aa/O thật/R/O đơn_sơ/Aa/O ,/PU/O đôn_hậu/Aa/O ./PU/O 
+Cũng/R/O yểu_điệu/Aa/O ,/PU/O thướt_tha/Aa/O ,/PU/O nhưng/Cp/O theo/Vv/O cung_cách/Nn/O Bến_Nghé/Nr/LOC_B ./PU/O 
+Cũng/R/O e_thẹn/Vv/O ,/PU/O ngượng_nghịu/Aa/O như/Cp/O vừng/Nn/O trăng/Nn/O mới/R/O ló/Vv/O ,/PU/O còn/R/O ngập_ngừng/Vv/O giấu/Vv/O nửa/Nq/O vành/Nn/O sau/Nn/O áng/Nn/O mây/Nn/O ./PU/O 
+Nụ_cười/Nn/O thiệt_tình/Aa/O ,/PU/O tươi_tắn/Aa/O và/Cp/O ít_nhiều/Aa/O thơ_ngây/Aa/O ./PU/O 
+Bấy_giờ/Pd/O ,/PU/O khi/Nt/O chào/Vv/O người_lớn/Nn/O ,/PU/O các/Nq/O cô/Nn/O ấy/Pd/O (/PU/O trước/Nn/DTM_B 1945/Nt/DTM_I )/PU/O cúi/Vv/O đầu/Nn/O ,/PU/O chắp/Vv/O hai/Nq/NUM_B bàn_tay/Nn/O lại/R/O và/Cp/O xá/Vv/O ./PU/O 
+Gặp/Vv/O trang_lứa/Nn/O bạn_bè/Nn/O thì/Cp/O hơi/R/O cúi/Vv/O đầu/Nn/O và/Cp/O cười/Vv/O ./PU/O 
+Cười/Vv/O ngậm_miệng/Nn/O ,/PU/O cười/Vv/O chúm_chím/Vv/O ,/PU/O cười/Vv/O mủm_mỉm/Nn/O ,/PU/O cười/Vv/O he_hé/Vv/O ,/PU/O chỉ/R/O để/Vv/O lộ/Vv/O vài/Nq/O cái/Nc/O răng/Nn/O hay/Cp/O lộ/Vv/O cả/Pp/O hàm/Nn/O ,/PU/O tùy/Nn/O theo/Vv/O mức_độ/Nn/O thân/Aa/O quen/Aa/O ./PU/O 
+Đặc_biệt/Aa/O là/Vc/O cặp/Nq/O mắt/Nn/O sáng/Aa/O rỡ/Aa/O ,/PU/O nhí_nhảnh/Aa/O ,/PU/O đôi/Nq/O lúc/Nt/O lại/R/O ánh/Nc/O lên/R/O vài/Nq/O tia/Nn/O hóm_hỉnh/Aa/O ./PU/O 
+Tuy/Cs/O phong_cách/Nn/O tiếp_cận/Vv/O người/Nn/O quen/Aa/O hay/Cp/O khách/Nn/O lạ/Aa/O có_vẻ/R/O hơi/R/O "/PU/O cổ_xưa/Aa/O "/PU/O nhưng/Cs/O lại/R/O rõ_ràng/Aa/O dân_chủ/Aa/O ./PU/O 
+Không/R/O có/Ve/O tư_thế/Nn/O khúm_núm/Nn/O hay/Cp/O màu_mè/Aa/O ./PU/O 
+Không/R/O một_chút/Nq/O mặc_cảm/Nn/O ,/PU/O tự_ti/Aa/O ./PU/O 
+Tuy_nhiên/Cp/O ,/PU/O đến/Cm/O những/Nq/O hồi/Nt/O nghiêm_trọng/Aa/O và/Cp/O sôi_sục/Vv/O nhứt/Nn/O của/Cm/O đất_nước/Nn/O ,/PU/O thì/Cp/O các/Nq/O cô/Nc/O gái/Nn/O ấy/Pd/O cũng/R/O như/Cp/O các/Nq/O chàng/Nc/O trai/Nn/O và/Cp/O các/Nq/O giới/Nn/O đồng_bào/Nn/O của/Cm/O Sài_Gòn/Nr/ORG_B bất_khuất/Aa/O ,/PU/O không/R/O chút/Nq/O do_dự/Vv/O ,/PU/O dấn_thân/Vv/O vào/Cm/O khó_khăn/Nn/O ,/PU/O nguy_hiểm/Aa/O và/Cp/O có/Ve/O khi/Nt/O hi_sinh/Vv/O cả/Pp/O tánh/Nn/O mạng/Nn/O ,/PU/O xuyên_suốt/Aa/O ba/Nq/MEA_B chục/Nq/MEA_I năm/Nt/MEA_I từ/Cm/DTM_B 1945/Nt/DTM_I đến/Cm/DTM_I 1975/Nt/DTM_I ./PU/O 
+Miền/Nn/O Nam/Nn/O là/Vc/O đất/Nn/O lành/Aa/O thì/Cp/O Sài_Gòn/Nr/LOC_B ,/PU/O đứng/Vv/O ở/Cm/O góc_độ/Nn/O nào/Pd/O đó/Pd/O mà/Cp/O xem_xét/Vv/O ,/PU/O cũng/R/O là/Vc/O một/Nq/NUM_B đô_thị/Nn/O hiền/Aa/O hòa/Nn/O ./PU/O 
+Sài_Gòn/Nr/LOC_B ngày_nay/Nt/DTM_B cũng/R/O rất/R/O ít/Aa/O chim/Nn/O ./PU/O 
+Đến/Cm/O mùa/Nn/O ,/PU/O một_ít/Nq/O nhạn/Nn/O ,/PU/O én/Nn/O bay/Vv/O về/D/O trú/Vv/O đông/Aa/O ,/PU/O dưới/Nn/O các/Nq/O mái/Nn/O nhà/Nn/O cao_tầng/Aa/O ,/PU/O mái_đình/Nn/O ,/PU/O mái/Nn/O chùa/Nn/O ./PU/O 
+Thỉnh_thoảng/R/O mới/R/O thấy/Vv/O vài/Nq/O chị/Nn/O quạ/Nn/O ,/PU/O chị/Nn/O sáo/Nn/O ,/PU/O vài/Nq/O chị/Nn/O vành_khuyên/Nn/O ,/PU/O sắc/Aa/O ô/Nn/O ,/PU/O áo/Nn/O già/Aa/O .../PU/O 
+Nhiều/Aa/O nhứt/Nn/O là/Vc/O họ_hàng/Nn/O se_sẻ/Nn/O mà/Cp/O bây_giờ/Pd/O cũng/R/O thấy/Vv/O thưa_thớt/Aa/O dần/R/O ./PU/O 
+Trước_kia/Nt/DTM_B ,/PU/O rất/R/O nhiều/Aa/O ,/PU/O cả/Pp/O cò/Nn/O ,/PU/O cả/Pp/O vạc/Nn/O sổng/Vv/O lồng/Nn/O trong/Cm/O sở_thú/Nn/O bay/Vv/O ra/R/O làm/Vv/O tổ/Nn/O trên/Cm/O mấy/Nq/O ngọn/Nc/O cây/Nn/O dầu/Nn/O ,/PU/O cây/Nn/O sao/Pp/O cao_ngất/Aa/O với/Cp/O các/Nq/O chị/Nn/O cu_gáy/Nn/O ,/PU/O chị/Nn/O quạ/Nn/O ,/PU/O chị/Nn/O sáo/Nn/O ./PU/O 
+Những/Nq/O kẻ/Nn/O vô_trách_nhiệm/Aa/O với/Cp/O môi_trường/Nn/O sống/Vv/O và/Cp/O chẳng/R/O thèm/Vv/O đếm_xỉa/Nn/O đến/Cm/O luật/Nn/TRM_B bảo_vệ/Vv/TRM_I thiên_nhiên/Nn/TRM_I ,/PU/O với/Cp/O những/Nq/O nòng/Nn/O súng_hơi/Nn/O ác_độc/Aa/O ,/PU/O đang_tay/Nn/O bắn/Vv/O giết/Vv/O chim/Nn/O và/Cp/O dơi/Nn/O của/Cm/O thành_phố/Nu/O ./PU/O 
+Thành_phố/Nu/O hiếm_hoi/Aa/O dần/R/O chim_chóc/Nn/O ./PU/O 
+Thì/Cp/O đã/R/O có/Ve/O người/Nn/O ./PU/O 
+Sài_Gòn/Nr/LOC_B rộng_mở/Aa/O và/Cp/O hào_phóng/Aa/O là/Vc/O nơi/Nn/O rất/R/O thuận_lợi/Aa/O cho/Cp/O người/Nc/O tứ_xứ/Nn/O đến/Vd/O đây/Pd/O sinh_sống/Vv/O ./PU/O 
+Ngày_nay/Nt/DTM_B đã/R/O leo/Vv/O lên/R/O hơn/Aa/O năm/Nt/O triệu/Nq/O ./PU/O 
+Vậy/Pp/O đó/Pd/O mà/Cp/O tôi/Pp/O yêu/Vv/O Sài_Gòn/Nr/LOC_B và/Cp/O yêu/Vv/O cả/Pp/O con_người/Nn/O ở/Cm/O đây/Pd/O ./PU/O 
+Một/Nq/NUM_B mối/Nc/O tình/Nn/O dai_dẳng/Aa/O ,/PU/O bền_chặt/Aa/O ./PU/O 
+Thương_mến/Nn/O bao_nhiêu/Pp/O cũng/R/O không/R/O uổng/Vv/O công/Nn/O ,/PU/O hoài_của/Nn/O ./PU/O 
+Tôi/Pp/O ước_mong/Nn/O mọi/Nq/O người/Nn/O nhất/An/O là/Vc/O các/Nq/O bạn/Nn/O trẻ/Aa/O ,/PU/O đều/R/O yêu/Vv/O Sài_Gòn/Nr/LOC_B như/Cp/O tôi/Pp/O ./PU/O 

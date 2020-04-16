@@ -1,0 +1,11 @@
+﻿Lam/Nr/PER_B việc/Nn/O thật/R/O là/Vc/O vui/Aa/O 
+Quanh/Nn/O ta/Pp/O ,/PU/O mọi/Nq/O vật/Nn/O ,/PU/O mọi/Nq/O người/Nn/O đều/R/O làm_việc/Vv/O ./PU/O 
+Cái/Nc/O đồng_hồ/Nn/O tích_tắc/Aa/O ,/PU/O tích_tắc/Nn/O báo/Nn/O phút/Nt/O ,/PU/O báo/Nn/O giờ/Nt/O ./PU/O 
+Con/Nc/O gà/Nn/O trống/Aa/O gáy/Nn/O vang/Vv/O ò/Nn/O .../PU/O ó/Nn/O .../PU/O o/Nn/O .../PU/O ,/PU/O báo/Vv/O cho/Cp/O mọi/Nq/O người/Nn/O biết/Vv/O trời/Nn/O sắp/R/O sáng/Aa/O ,/PU/O mau_mau/Aa/O thức_dậy/Vv/O ./PU/O 
+Con/Nc/O tu_hú/Nn/O kêu/Vv/O tu_hú/Nn/O ,/PU/O tu_hú/Nn/O ./PU/O 
+Thế/Pp/O là/Vc/O sắp/R/O đến/Vd/O mùa/Nn/O vải/Nn/O chín/Nq/NUM_B ./PU/O 
+Chim/Nn/O bắt/Vv/O sâu/Aa/O ,/PU/O bảo_vệ/Vv/O mùa_màng/Nn/O ./PU/O 
+Cành/Nn/O đào/Vv/O nở/Vv/O hoa/Nn/O cho/Cp/O sắc/Nn/O xuân/Nt/DTM_B thêm/Vv/O rực_rỡ/Aa/O ,/PU/O ngày/Nt/DTM_B xuân/Nt/DTM_I thêm/Vv/O tưng_bừng/Aa/O ./PU/O 
+Như/Cp/O mọi/Nq/O vật/Nn/O ,/PU/O mọi/Nq/O người/Nn/O ,/PU/O bé/Nn/O cũng/R/O làm_việc/Vv/O ./PU/O 
+Bé/Nn/O làm/Vv/O bài/Nn/O ,/PU/O bé/Nn/O đi/Vv/O học/Vv/O ,/PU/O bé/Nn/O quét/Vv/O nhà/Nn/O ,/PU/O nhặt/Vv/O rau/Nn/O ,/PU/O chơi/Vv/O với/Cp/O em/Pp/O đỡ/Vv/O mẹ/Nn/O ./PU/O 
+Bé/Nn/O luôn_luôn/R/O bận_rộn/Aa/O ,/PU/O mà/Cp/O lúc/Nt/O nào/Pd/O cũng/R/O vui/Aa/O ./PU/O 

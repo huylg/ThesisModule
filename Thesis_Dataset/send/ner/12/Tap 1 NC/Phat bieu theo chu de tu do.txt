@@ -1,0 +1,27 @@
+﻿Phát_biểu/Vv/O theo/Vv/O chủ/Nn/O để/Cm/O tự_do/Nn/O 
+Trong/Cm/O cuộc_sống/Nn/O học_tập/Vv/O ,/PU/O lao_động/Nn/O và/Cp/O sinh_hoạt/Vv/O hàng/R/O ngày/Nt/O ,/PU/O có/Ve/O rất/R/O nhiều/Aa/O tình_huống/Nn/O đòi_hỏi/Vv/O con_người/Nn/O cần/Vv/O thể_hiện/Vv/O những/Nq/O suy_nghĩ/Nn/O ,/PU/O tình_cảm/Nn/O ,/PU/O thái_độ/Nn/O .../PU/O của/Cm/O mình/Pp/O trước/Nn/O mọi/Nq/O người/Nn/O bằng/Cm/O cách/Nn/O phát_biểu/Vv/O ./PU/O 
+Nhìn_chung/Cp/O có/Ve/O hai/Nq/NUM_B dạng/Nn/O :/PU/O phát_biểu/Vv/O theo/Vv/O chủ_đề/Nn/O và/Cp/O phát_biểu/Nn/O tự_do/Aa/O ./PU/O 
+Phát_biểu/Vv/O theo/Vv/O chủ_đề/Nn/O là/Vc/O phát_biểu/Nn/O có/Ve/O nội_dung/Nn/O đã/R/O được/Vv/O chuẩn_bị/Vv/O ,/PU/O được/Vv/O báo/Vv/O trước/Nn/O ,/PU/O theo/Vv/O một/Nq/NUM_B đề_tài/Nn/O ,/PU/O chủ_đề/Nn/O nào/Pd/O dó/Nn/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O Hãy/R/O chuẩn_bị/Vv/O bài/Nc/O phát_biểu/Vv/O về/Cm/O chủ_đề/Nn/O :/PU/O Phải_chăng/Cp/O văn/Nn/O hóa/Nn/O đọc/Vv/O của/Cm/O tuổi_trẻ/Nn/O Việt_Nam/Nr/LOC_B hiện_nay/Nt/DTM_B đang/R/O suy_giảm/Vv/O ?/PU/O 
+Phát_biểu/Vv/O tự_do/Aa/O là/Vc/O phát_biểu/Nn/O một_cách/Nn/O tức_thời/Aa/O ,/PU/O không/R/O chuẩn_bị/Vv/O trước/Nn/O ,/PU/O nội_dung/Nn/O phát_biểu/Vv/O phụ_thuộc/Vv/O vào/Cm/O tình_huống/Nn/O giao_tiếp/Vv/O cụ_thể/Aa/O ./PU/O 
+Ví_dụ/Cp/O ,/PU/O trong/Cm/O buổi/Nt/O sinh_hoạt/Vv/O "/PU/O Thanh_niên/Nn/O nhớ/Vv/O về/Cm/O cội_nguồn/Nn/O "/PU/O ,/PU/O lớp/Nn/O anh/Nn/O (/PU/O chị/Nn/O )/PU/O bất_ngờ/Aa/O được/Vv/O đón/Vv/O một/Nq/NUM_B cựu_chiến_binh/Nn/O ./PU/O 
+Người/Nn/O ấy/Pd/O đã/R/O từng/R/O ra/Vd/O trận/Nn/O và/Cp/O hiện/Nt/O mang/Vv/O trong/Cm/O mình/Pp/O nhiều/Aa/O thương_tật/Nn/O ./PU/O 
+Thay_mặt/Vv/O lớp/Nn/O ,/PU/O anh/Nn/O (/PU/O chị/Nn/O )/PU/O sẽ/R/O phát_biểu/Vv/O như/Cp/O thế_nào/Pp/O để/Cm/O chào_đón/Vv/O người/Nn/O cựu_chiến_binh/Nn/O ấy/Pd/O ?/PU/O 
+Để/Cm/O phát_biểu/Nn/O có/Ve/O chất_lượng/Nn/O ,/PU/O trong/Cm/O cả/Pp/O hai/Nq/NUM_B trường_hợp/Nn/O trên/Nn/O ,/PU/O người/Nn/O phát_biểu/Vv/O cần/Vv/O chú_ý/Vv/O một_số/Nq/O yêu_cầu/Nn/O nhất_định/Aa/O ./PU/O 
+1/Nq/NUM_B ./PU/O 
+Yêu_cầu/Nn/O chung/Aa/O 
+Dù/Cp/O phát_biểu/Vv/O theo/Vv/O chủ_đề/Nn/O hay/Cp/O phát_biểu/Nn/O tự_do/Aa/O ,/PU/O người/Nn/O phát_biểu/Vv/O cũng/R/O cần/Vv/O chú_ý/Vv/O một_số/Nq/O yêu_cầu/Nn/O sau/Nn/O đây/Pd/O :/PU/O 
+-/PU/O Mục_đích/Nn/O ,/PU/O động_cơ/Nn/O của/Cm/O việc/Nn/O phát_biểu/Vv/O :/PU/O mục_đích/Nn/O rõ_ràng/Aa/O ,/PU/O động_cơ/Nn/O trong_sáng/Aa/O ./PU/O 
+-/PU/O Đối_tượng/Nn/DES_B người/Nn/O nghe/Vv/O :/PU/O lứa/Nn/O tuổi/Nn/O ,/PU/O nghề_nghiệp/Nn/O ,/PU/O trình_độ/Nn/O ,/PU/O .../PU/O 
+-/PU/O Nội_dung/Nn/O phát_biểu/Vv/O :/PU/O đúng/Aa/O trọng_tâm/Nn/O ,/PU/O nhiều/Aa/O thông_tin/Nn/O ,/PU/O không/R/O trùng_lặp/Vv/O với/Cp/O người/Nn/O khác/Aa/O ,/PU/O .../PU/O 
+-/PU/O Cách/Nn/O phát_biểu/Vv/O :/PU/O có/Ve/O mở_đầu/Nn/O ,/PU/O có/Ve/O kết_thúc/Nn/O ;/PU/O rõ_ràng/Aa/O ,/PU/O ngắn_gọn/Aa/O ,/PU/O nêu/Vv/O được/R/O trọng_tâm/Nn/O ,/PU/O tránh/Vv/O lan_man/Aa/O ,/PU/O dài_dòng/Aa/O ;/PU/O có/Ve/O tư_thế/Nn/O ,/PU/O cử_chỉ/Nn/O ,/PU/O ngôn_ngữ/Nn/O phù_hợp/Aa/O với/Cp/O nội_dung/Nn/O ,/PU/O đối_tượng/Nn/O và/Cp/O hoàn_cảnh/Nn/O giao_tiếp/Vv/O ;/PU/O có/Ve/O cách/Nn/O nói/Vv/O hấp_dẫn/Aa/O ,/PU/O lôi_cuốn/Vv/O và/Cp/O gây/Vv/O được/R/O ấn_tượng/Aa/O đối_với/Cp/O người/Nn/O nghe/Vv/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Yêu_cầu/Nn/O riêng/Aa/O 
+a/Nr/O )/PU/O Phát_biểu/Vv/O theo/Vv/O chủ_đề/Nn/O 
+-/PU/O Một/Nq/NUM_B chủ_đề/Nn/O có_thể/Aa/O có/Ve/O nhiều/Aa/O nội_dung/Nn/O ,/PU/O vì/Cp/O thế/Pp/O cần/Vv/O lựa_chọn/Vv/O nội_dung/Nn/O phù_hợp/Aa/O với/Cp/O hiểu_biết/Nn/O và/Cp/O sở_trường/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+-/PU/O Để/Cm/O phát_biểu/Nn/O có/Ve/O chất_lượng/Nn/O ,/PU/O cần/Vv/O suy_nghĩ/Vv/O và/Cp/O chuẩn_bị/Vv/O các/Nq/O nội_dung/Nn/O cụ_thể/Aa/O sẽ/R/O phát_biểu/Vv/O ./PU/O 
+-/PU/O Cần/Vv/O lập/Vv/O đề_cương/Nn/O phát_biểu/Vv/O ./PU/O 
+-/PU/O Phát_biểu/Vv/O bằng/Cm/O cách/Nn/O trình_bày/Vv/O miệng/Nn/O ,/PU/O không/R/O đọc/Vv/O bài/Nc/O viết/Vv/O sẵn/Aa/O ./PU/O 
+b/Nr/O )/PU/O Phát_biểu/Vv/O tự_do/Aa/O 
+-/PU/O Tùy/Nr/LOC_B vào/Cm/O hoàn_cảnh/Nn/O ,/PU/O đối_tượng/Nn/O ,/PU/O nội_dung/Nn/O được/Vv/O nói/Vv/O tới/Cm/O mà/Cp/O xác_định/Vv/O ,/PU/O lựa_chọn/Vv/O ý_kiến/Nn/O cần/Vv/O phát_biểu/Vv/O ./PU/O 
+-/PU/O Biết/Vv/O phản_xạ/Nn/O nhanh/Aa/O ,/PU/O linh_hoạt/Aa/O trước/Nn/O các/Nq/O tình_huống/Nn/O giao_tiếp/Vv/O ./PU/O 

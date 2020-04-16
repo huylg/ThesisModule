@@ -1,0 +1,18 @@
+﻿Đối_đáp/Nn/O với/Cp/O vua/Nn/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O vua/Nn/DES_B Minh_Mạng/Nr/PER_B từ/Cm/O kinh_đô/Nn/LOC_B Huế/Nr/LOC_I ngự_giá/Nn/O ra/R/O Thăng_Long/Nr/LOC_B (/PU/O Hà_Nội/Nr/LOC_B )/PU/O ./PU/O 
+Vua/Nn/O cho/Cp/O xa_giá/Nn/O đến/Cm/O Hồ_Tây/Nr/PER_B ngắm/Vv/O cảnh/Nn/O ./PU/O 
+Xa_giá/Nr/PER_B đi/Vv/O đến/Cm/O đâu/Pp/O ,/PU/O quân_lính/Nn/O cũng/R/O thét/Vv/O đuổi/Vv/O tất_cả/Nq/O mọi/Nq/O người/Nn/O ,/PU/O không/R/O cho/Vv/O ai/Pp/O đến/Vd/O gần/Aa/O ./PU/O 
+Cao_Bá_Quát/Nr/PER_B ,/PU/O khi/Nt/O ấy/Pd/O còn/R/O là/Vc/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O ,/PU/O muốn/Vv/O nhìn/Vv/O rõ/Aa/O mặt/Nn/O vua/Nn/O ./PU/O 
+Cậu/Nn/O nảy/Vv/O ra/R/O một/Nq/NUM_B ý/Nn/O ,/PU/O liền/R/O cởi/Vv/O hết/Ve/O quần_áo/Nn/O ,/PU/O nhảy/Vv/O xuống/D/O hồ/Nn/O tắm/Vv/O ./PU/O 
+Quân_lính/Nn/O nhìn/Vv/O thấy/Vv/O ,/PU/O hốt_hoảng/Vv/O xúm/Vv/O vào/Cm/O bắt/Vv/O trói/Vv/O đứa/Nc/O trẻ/Nn/O táo_tợn/Aa/O ./PU/O 
+Cậu/Nc/O bé/Nn/O không/R/O chịu/Vv/O ,/PU/O la_hét/Vv/O ,/PU/O vùng_vẫy/Vv/O ,/PU/O gây/Vv/O nên/Vv/O cảnh/Nn/O náo_động/Vv/O ở/Cm/O hồ/Nn/O ./PU/O 
+Thấy/Vv/O thế/Pp/O ,/PU/O vua/Nn/DES_B Minh_Mạng/Nr/PER_B truyền/Vv/O lệnh/Nn/O dẫn/Vv/O cậu/Nc/O tới/Cm/O hỏi/Vv/O ./PU/O 
+Cậu/Nc/O bé/Nn/O bị/Vv/O dẫn/Vv/O đến/Cm/O trước/Nn/O mặt/Nn/O nhà_vua/Nn/O ./PU/O 
+Cậu/Nn/O tự_xưng/Vv/O là/Vc/O học_trò/Nn/O mới/Aa/O ở/Cm/O quê/Nn/O ra/D/O chơi/Vv/O nên/Cp/O không/R/O biết/Vv/O gì/M/O ./PU/O 
+Thấy/Vv/O nói/Vv/O là/Cp/O học_trò/Nn/O ,/PU/O vua/Nn/O ra_lệnh/Vv/O cho/Cp/O cậu/Nn/O phải/Vv/O đối/Vv/O được/R/O một/Nq/NUM_B vế/Nn/O đối/Vv/O thì/Cp/O mới/Cp/O tha/Vv/O ./PU/O 
+Nhìn/Vv/O thấy/Vv/O trên/Cm/O mặt/Nn/O hồ/Nn/O lúc/Nt/O đó/Pd/O có/Ve/O đàn/Nn/O cá/Nn/O đang/R/O đuổi/Vv/O nhau/Nn/O ,/PU/O vua/Nn/O tức_cảnh/Aa/O đọc/Vv/O vế/Nn/O đối/Vv/O như/Cp/O sau/Nn/O :/PU/O 
+Nước/Nn/O trong/Cm/O leo_lẻo/Nq/O cá/Nn/O đớp/Vv/O cá/Nn/O ./PU/O 
+Chẳng/R/O cần/Vv/O nghĩ_ngợi/Vv/O lâu_la/Nn/O gì/Pp/O ,/PU/O Cao_Bá_Quát/Nr/PER_B lấy/Vv/O cảnh/Nn/O mình/Pp/O đang/R/O bị/Vv/O trói/Vv/O ,/PU/O đối/Vv/O lại/R/O luôn/R/O :/PU/O 
+Trời/Nn/O nắng/Nn/O chang_chang/Aa/O người/Nn/O trói/Vv/O người/Nn/O ./PU/O 
+Vế/Nr/PER_B đối/Vv/O vừa/R/O cứng_cỏi/Aa/O vừa/Cs/O rất/R/O chỉnh/Vv/O ,/PU/O biểu_lộ/Vv/O sự/Nc/O nhanh_trí/Aa/O ,/PU/O thông_minh/Aa/O ./PU/O 
+Vua/Nn/O nguôi/Vv/O giận/Vv/O ,/PU/O truyền/Vv/O lệnh/Nn/O cởi/Vv/O trói/Vv/O ,/PU/O tha/Vv/O cho/Cp/O cậu/Nc/O bé/Nn/O ./PU/O 

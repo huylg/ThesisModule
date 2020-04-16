@@ -1,0 +1,12 @@
+﻿Tà/Nn/O áo_dài/Nn/O Việt_Nam/Nr/LOC_B 
+Phụ_nữ/Nn/O Việt_Nam/Nr/LOC_B xưa/Aa/O hay/Cp/O mặc/Vv/O áo/Nn/O lối/Nn/O mớ/Nn/O ba/An/O ,/PU/O mớ/Nn/O bảy/Nq/NUM_B ,/PU/O tức_là/Vv/O mặc/Vv/O nhiều/Aa/O áo_cánh/Nn/O lồng/Vv/O vào/Cm/O nhau/Nn/O ./PU/O 
+Tuy_nhiên/Cp/O ,/PU/O với/Cp/O phong_cách/Nn/O tế_nhị/Aa/O ,/PU/O kín_đáo/Aa/O ,/PU/O người/Nc/O phụ_nữ/Nn/O Việt/Nr/LOC_B thường/R/O mặc/Vv/O chiếc/Nc/O áo_dài/Nn/O thẫm/Aa/O màu/Nn/O bên/Aa/O ngoài/Nn/O ,/PU/O lấp_ló/Vv/O bên/Nn/O trong/Nn/O mới/Aa/O là/Vc/O các/Nq/O lớp/Nn/O áo_cánh/Nn/O nhiều/Aa/O màu/Nn/O (/PU/O vàng/Nn/O mỡ/Nn/O gà/Nn/O ,/PU/O vàng/Nn/O chanh/Nn/O ,/PU/O hồng/Nn/O cánh_sen/Nn/O ,/PU/O hồng_đào/Aa/O ,/PU/O xanh/Aa/O hồ/Nn/LOC_B thủy/Nr/LOC_I ,/PU/O .../PU/O )/PU/O ./PU/O 
+Từ/Cm/DTM_B đầu/Nn/DTM_I thế_kỉ/Nt/DTM_I XIX/Nt/DTM_I đến/Cm/DTM_I sau/Nn/DTM_I năm/Nt/DTM_I 1945/Nt/DTM_I ,/PU/O ở/Cm/O một_số/Nq/O vùng/Nn/O ,/PU/O người_ta/Pp/O mặc/Vv/O áo_dài/Nn/O kể_cả/M/O khi/Nt/O lao_động/Vv/O nặng_nhọc/Aa/O ./PU/O 
+Áo_dài/Nn/O phụ_nữ/Nn/O có/Ve/O hai/Nq/NUM_B loại/Nn/O :/PU/O áo_tứ_thân/Nn/O và/Cp/O áo_năm_thân/Nn/O ./PU/O 
+Phổ_biến/Aa/O hơn/Aa/O là/Vc/O áo_tứ_thân/Nn/O ,/PU/O được/Vv/O may/Vv/O từ/Cm/O bốn/Nq/NUM_B mảnh/Nn/O vải/Nn/O ,/PU/O hai/Nq/NUM_B mảnh/Nn/O sau/Nn/O ghép/Vv/O liền/Aa/O ở/Cm/O giữa/Nn/O sống_lưng/Nn/O ./PU/O 
+Đằng/Nn/O trước/Nn/O là/Vc/O hai/Nq/NUM_B vạt/Nn/O áo/Nn/O ,/PU/O không/R/O có/Ve/O khuy/Nn/O ,/PU/O khi/Nt/O mặc/Vv/O bỏ/Vv/O buông/Vv/O hoặc/Cp/O buộc/Vv/O thắt/Vv/O vào/Cm/O nhau/Nn/O ./PU/O 
+Áo_năm_thân/Nn/O cũng/R/O may/Aa/O như/Cp/O áo_tứ_thân/Nn/O ,/PU/O chỉ/R/O có/Ve/O điều/Nc/O vạt/Nn/O trước/Nn/O phía/Nn/O trái/Aa/O may/Vv/O ghép/Vv/O từ/Cm/O hai/Nq/NUM_B thân/Nn/O vải/Nn/O ,/PU/O thành_ra/Cp/O rộng/Aa/O gấp/Vv/O đôi/Nq/O vạt/Nn/O phải/Vv/O ./PU/O 
+Từ/Cm/O những/Nq/DTM_B năm/Nt/DTM_I 30/Nt/DTM_I của/Cm/O thế_kỉ/Nt/DTM_B XX/Nt/DTM_I ,/PU/O chiếc/Nc/O áo_dài/Nn/O cổ_truyền/Aa/O được/Vv/O cải_tiến/Vv/O dần/R/O thành/Vv/O chiếc/Nc/O áo_dài/Nn/O tân_thời/Aa/O ./PU/O 
+Chiếc/Nc/O áo/Nn/O tân_thời/Aa/O là/Vc/O sự/Nc/O kết_hợp/Vv/O hài/Aa/O hòa/Nn/O giữa/Cm/O phong_cách/Nn/O dân_tộc/Nn/O tế_nhị/Aa/O ,/PU/O kín_đáo/Aa/O với/Cp/O phong_cách/Nn/O phương/Nn/LOC_B Tây/Nn/LOC_I hiện_đại/Aa/O ,/PU/O trẻ_trung/Aa/O ./PU/O 
+Áo_dài/Nn/O trở_thành/Vv/O biểu_tượng/Nn/O cho/Cp/O y_phục/Nn/O truyền_thống/Aa/O của/Cm/O Việt_Nam/Nr/ORG_B ./PU/O 
+Trong/Cm/O tà/Nn/O áo_dài/Nn/O ,/PU/O hình_ảnh/Nn/O người/Nc/O phụ_nữ/Nn/O Việt_Nam/Nr/LOC_B như/Cp/O đẹp/Aa/O hơn/Aa/O ,/PU/O tự_nhiên/Aa/O ,/PU/O mềm_mại/Aa/O và/Cp/O thanh_thoát/Aa/O hơn/Aa/O ./PU/O 

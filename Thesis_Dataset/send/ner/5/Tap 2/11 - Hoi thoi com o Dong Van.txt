@@ -1,0 +1,16 @@
+﻿Hội/Nn/O thổi/Vv/O cơm/Nn/O ở/Cm/O Đồng_Vân/Nr/LOC_B 
+Hội/Nn/O thổi/Vv/O cơm/Nn/O thi/Vv/O ở/Cm/O làng/Nu/LOC_B Đồng_Vân/Nr/LOC_I bắt_nguồn/Vv/O từ/Cm/O các/Nq/O cuộc/Nc/O trẩy/Nq/O quân/Nn/O đánh/Vv/O giặc/Nn/O của/Cm/O người/Nn/O Việt/Nr/LOC_B cổ/Nn/O bên/Nn/O bờ/Nn/O sông/Nn/LOC_B Đáy/Nr/LOC_I xưa/Aa/O ./PU/O 
+Hội_thi/Nn/O bắt_đầu/Vv/O bằng/Cm/O việc/Nn/O lấy/Vv/O lửa/Nn/O ./PU/O 
+Khi/Nt/O tiếng/Nn/O trống/Nn/O hiệu/Nn/O vừa/R/O dứt/Vv/O ,/PU/O bốn/Nq/NUM_B thanh_niên/Nn/O của/Cm/O bốn/Nq/NUM_B đội/Nn/O nhanh/Aa/O như/Cp/O sóc/Nn/O ,/PU/O thoăn_thoắt/Aa/O leo/Vv/O lên/R/O bốn/Nq/NUM_B cây/Nc/O chuối/Nn/O bôi/Vv/O mỡ/Nn/O bóng/Nn/O nhẫy/Aa/O để/Cm/O lấy/Vv/O nén/Nn/O hương/Nn/O cắm/Vv/O ở/Cm/O trên/Nn/O ngọn/Nc/O ./PU/O 
+Có/Ve/O người/Nn/O leo/Vv/O lên/R/O ,/PU/O tụt/Vv/O xuống/D/O ,/PU/O lại/R/O leo/Vv/O lên/R/O .../PU/O 
+Khi/Nt/O mang/Vv/O được/Vv/O nén/Vv/O hương/Nn/O xuống/D/O ,/PU/O người/Nn/O dự_thi/Vv/O được/Vv/O phát/Vv/O ba_que/Nq/O diêm/Nn/O để/Cm/O châm/Vv/O vào/Cm/O hương/Nn/O cho/Vv/O cháy/Vv/O thành/Vv/O ngọn/Nc/O lửa/Nn/O ./PU/O 
+Trong/Cm/O khi/Nt/O đó/Pd/O ,/PU/O những/Nq/O người/Nn/O trong/Cm/O đội/Nn/O ,/PU/O mỗi/Nq/O người/Nn/O một/Nq/NUM_B việc/Nn/O ./PU/O 
+Người/Nn/O thì/Cp/O ngồi/Vv/O vót/Vv/O những/Nq/O thanh/Nc/O tre/Nn/O già/Aa/O thành/Vv/O những/Nq/O chiếc/Nc/O đũa/Nn/O bông/Nn/O ./PU/O 
+Người/Nn/O thì/Cp/O nhanh/Aa/O tay/Nn/O giã/Vv/O thóc/Nn/O ,/PU/O giần_sàng/Nu/O thành/Nu/O gạo/Nn/O ,/PU/O người/Nn/O thì/Cp/O lấy/Vv/O nước/Nn/O và/Cp/O bắt_đầu/Vv/O thổi/Vv/O cơm/Nn/O ./PU/O 
+Mỗi/Nq/O người/Nn/O nấu/Vv/O cơm/Nn/O đều/R/O mang/Vv/O một/Nq/NUM_B cái/Nc/O cần/Vv/O tre/Nn/O được/Vv/O cắm/Vv/O rất/R/O khéo/Aa/O vào/Cm/O dây_lưng/Nn/O ,/PU/O uốn/Vv/O cong/Aa/O hình/Nn/O cánh_cung/Nn/O từ/Cm/O phía/Nn/O sau/Nn/O ra/D/O trước/Nn/O mặt/Nn/O ,/PU/O đầu/Nn/O cần/Vv/O treo/Vv/O cái/Nc/O nồi/Nn/O nho_nhỏ/Aa/O ./PU/O 
+Người/Nn/O nấu/Vv/O cơm/Nn/O tay/Nn/O giữ/Vv/O cần/Vv/O ,/PU/O tay/Nn/O cầm/Vv/O đuốc/Nn/O đung_đưa/Vv/O cho/Cp/O ánh/Nc/O lửa/Nn/O bập_bùng/Aa/O ./PU/O 
+Các/Nq/O đội/Nn/O vừa/Cs/O thổi/Vv/O cơm/Nn/O vừa/Cs/O đan_xen/Vv/O nhau/Nn/O uốn_lượn/Vv/O trên/Cm/O sân/Nn/O đình/Nn/O trong/Cm/O sự/Nc/O cổ_vũ/Vv/O nồng_nhiệt/Aa/O của/Cm/O người/Nn/O xem/Vv/O hội/Nn/O ./PU/O 
+Sau/Nn/O độ/Nn/O một/Nq/MEA_B giờ/Nt/MEA_I rưỡi/Nq/MEA_I ,/PU/O các/Nq/O nồi/Nn/O cơm/Nn/O được/Vv/O lần_lượt/R/O trình/Vv/O trước/Nn/O cửa/Nn/O đình/Nn/O ./PU/O 
+Mỗi/Nq/O nồi/Nn/O cơm/Nn/O được/Vv/O đánh/Vv/O một_số/Nq/O để/Cm/O giữ/Vv/O bí_mật/Aa/O ./PU/O 
+Ban/Nn/O giám_khảo/Nn/O chấm/Vv/O theo/Vv/O ba/Nq/NUM_B tiêu_chuẩn/Nn/O :/PU/O cơm/Nn/O trắng/Aa/O ,/PU/O dẻo/Aa/O và/Cp/O không/R/O có/R/O cháy/Vv/O ./PU/O 
+Cuộc/Nc/O thi/Vv/O nào/Pd/O cũng/R/O hồi_hộp/Vv/O và/Cp/O việc/Nn/O giật/Vv/O giải/Nn/O đã/R/O trở_thành/Vv/O niềm/Nc/O tự_hào/Aa/O khó/Aa/O có/Ve/O gì/M/O sánh/Vv/O nổi/R/O đối_với/Cp/O dân_làng/Nn/O ./PU/O 

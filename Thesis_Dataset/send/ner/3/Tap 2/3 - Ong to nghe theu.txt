@@ -1,0 +1,19 @@
+﻿Ông/Nn/O tổ/Nn/O nghề/Nn/O thêu/Vv/O 
+Hồi/Nt/O còn/R/O nhỏ/Aa/O ,/PU/O cậu/Nc/TTL_B bé/Nn/TTL_I Trần_Quốc_Khái/Nr/PER_B rất/R/O ham/Vv/O học/Vv/O ./PU/O 
+Cậu/Nn/O học/Vv/O cả/M/O khi/Nt/O đi/Vv/O đốn/Vv/O củi/Nn/O ,/PU/O lúc/Nt/O kéo/Vv/O vó/Nn/O tôm/Nn/O ./PU/O 
+Tối/Nt/O đến/D/O ,/PU/O nhà/Nn/O không/R/O có/Ve/O đèn/Nn/O ,/PU/O cậu/Nn/O bắt/Vv/O đom_đóm/Nn/O bỏ/Vv/O vào/D/O vỏ/Nn/O trứng/Nn/O ,/PU/O lấy/Vv/O ánh_sáng/Nn/O đọc/Vv/O sách/Nn/O ./PU/O 
+Chẳng/R/O bao_lâu/Aa/O ,/PU/O Khái/Nr/PER_B đỗ/Vv/O tiến_sĩ/Nn/O ,/PU/O rồi/Cp/O làm/Vv/O quan/Nn/O to/Aa/O trong/Cm/O triều_đình/Nn/O nhà/Nn/ORG_B Lê/Nr/ORG_I ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O Trần_Quốc_Khái/Nr/PER_B được/Vv/O triều_đình/Nn/O cử/Vv/O đi/Vv/O sứ/Nn/O bên/Nn/O Trung_Quốc/Nr/LOC_B ./PU/O 
+Vua/Nn/DES_B Trung_Quốc/Nr/PER_B muốn/Vv/O thử/Vv/O tài/Nn/O sứ_thần/Nn/O ,/PU/O sai/Aa/O dựng/Vv/O một/Nq/NUM_B cái/Nc/O lầu/Nn/O cao/Aa/O ,/PU/O mời/Vv/O ông/Nn/O lên/D/O chơi/Vv/O ,/PU/O rồi/Cp/O cất/Vv/O thang/Nn/O đi/Vv/O ./PU/O 
+Không/R/O còn/Ve/O lối/Nn/O xuống/D/O ,/PU/O ông/Nn/O đành/Vv/O ở/Vv/O lại/R/O trên/Cm/O lầu/Nn/O ./PU/O 
+Lầu/Nr/PER_B chỉ/R/O có/Ve/O hai/Nq/NUM_B pho/Nc/O tượng/Nn/O Phật/Nn/O ,/PU/O hai/Nq/NUM_B cái/Nc/O lọng/Nn/O ,/PU/O một/Nq/NUM_B bức/Nc/O trướng/Nn/O thêu/Vv/O ba/Nq/NUM_B chữ/Nn/O "/PU/O Phật/Nn/O trong/Cm/O lòng/Nn/O "/PU/O và/Cp/O một/Nq/NUM_B vò/Vv/O nước/Nn/O ./PU/O 
+Bụng/Nn/O đói/Aa/O mà/Cp/O không/R/O có/Ve/O cơm/Nn/O ăn/Vv/O ,/PU/O Trần_Quốc_Khái/Nr/PER_B lẩm_nhẩm/Vv/O đọc/Vv/O ba/Nq/NUM_B chữ/Nn/O trên/Cm/O bức/Nc/O trướng/Nn/O ,/PU/O rồi/Cp/O mỉm_cười/Vv/O ,/PU/O ông/Nn/O bẻ/Vv/O tay/Nn/O pho/Nc/O tượng/Nn/O nếm/Vv/O thử/Vv/O ./PU/O 
+Thì_ra/Cp/O hai/Nq/NUM_B pho/Nc/O tượng/Nn/O ấy/Pd/O nặn/Vv/O bằng/Cm/O bột/Nn/O chè_lam/Nn/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O ngày/Nt/O hai/Nq/NUM_B bữa/Nn/O ,/PU/O ông/Nn/O cứ/R/O ung_dung/Aa/O bẻ/Vv/O dần/R/O tượng/Nn/O mà/Cp/O ăn/Vv/O ./PU/O 
+Nhân/Cp/O được/Vv/O nhàn_rỗi/Aa/O ,/PU/O ông/Nn/O mày_mò/Vv/O quan_sát/Vv/O ,/PU/O nhớ/Vv/O nhập_tâm/Vv/O cách/Nn/O thêu/Vv/O và/Cp/O làm/Vv/O lọng/Nn/O ./PU/O 
+Học/Vv/O được/R/O cách/Nn/O thêu/Vv/O và/Cp/O làm/Vv/O lọng/Nn/O rồi/R/O ,/PU/O ông/Nn/O tìm/Vv/O đường/Nn/O xuống/Vd/O ./PU/O 
+Thấy/Vv/O những/Nq/O con/Nc/O dơi/Nn/O xòe/Nq/O cánh/Nn/O chao/Vv/O đi/R/O chao/Nn/O lại/R/O như/Cp/O chiếc/Nc/O lá/Nn/O bay/Vv/O ,/PU/O ông/Nn/O liền/R/O ôm/Vv/O lọng/Nn/O nhảy/Vv/O xuống/D/O đất/Nn/O bình_an/Aa/O vô_sự/Aa/O ./PU/O 
+Vua/Nn/O Trung_Quốc/Nr/LOC_B khen/Vv/O ông/Nn/O là/Vc/O người/Nn/O có/Ve/O tài/Nn/O ,/PU/O đặt/Vv/O tiệc/Nn/O to/Aa/O tiễn/Vv/O về/Vd/O nước/Nn/O ./PU/O 
+Về/Cm/O đến/Vd/O nước_nhà/Nn/O ,/PU/O Trần_Quốc_Khái/Nr/PER_B truyền/Vv/O dạy/Vv/O cho/Cp/O dân/Nn/O nghề/Nn/O thêu/Vv/O và/Cp/O nghề/Nn/O làm/Vv/O lọng/Nn/O ./PU/O 
+Dần_dần/R/O ,/PU/O nghề/Nn/O thêu/Vv/O lan/Vv/O rộng/Aa/O ra/R/O khắp/Aa/O nơi/Nn/O ./PU/O 
+Nhân_dân/Nn/O vùng/Nn/LOC_B Thường_Tín/Nr/LOC_I ,/PU/O quê/Nn/O ông/Nn/O ,/PU/O lập/Vv/O đền/Nn/O thờ/Vv/O và/Cp/O tôn_ông/Nn/O là/Vc/O ông/Nc/O tổ/Nn/O nghề/Nn/O thêu/Vv/O ./PU/O 

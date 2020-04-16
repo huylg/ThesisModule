@@ -1,0 +1,25 @@
+﻿Thưa/E/O chuyện/Nn/O với/Cp/O mẹ/Nn/O 
+Từ/Cm/O ngày/Nt/O phải/Vv/O nghỉ/Vv/O học/Vv/O ,/PU/O Cương/Nr/PER_B đâm_ra/Vv/O nhớ/Vv/O cái/Nc/O lò_rèn/Nn/O cạnh/Nn/O trường/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O em/Pp/O ngỏ/Vv/O ý/Nn/O với/Cp/O mẹ/Nn/O :/PU/O 
+Mẹ/Nn/O nói/Vv/O với/Cp/O thầy/Nn/O cho/Cp/O con/Nn/O đi/Vv/O học/Vv/O nghề/Nn/O rèn/Vv/O ./PU/O 
+Mẹ/Nn/TTL_B Cương/Nr/PER_B đã/R/O nghe/Vv/O rõ/Aa/O mồn_một/Aa/O lời/Nn/O con/Nn/O ,/PU/O nhưng/Cp/O bà/Nn/O vẫn/R/O hỏi/Vv/O lại/R/O :/PU/O 
+Con/Pp/O vừa/R/O bảo/Vv/O gì/Pp/O ?/PU/O 
+Mẹ/Nn/O xin/Vv/O thầy/Nn/O cho/Cp/O con/Nn/O đi/Vv/O làm/Vv/O thợ_rèn/Nn/O ./PU/O 
+Ai/Pp/O xui/Aa/O con/Nc/O thế/Nn/O ?/PU/O 
+Cương/Nr/PER_B cố/Vv/O cắt_nghĩa/Vv/O cho/Cp/O mẹ/Nn/O hiểu/Vv/O :/PU/O 
+Thưa/E/O mẹ/Nn/O ,/PU/O tự_ý/Aa/O con/Pp/O muốn/Vv/O thế/Pp/O ./PU/O 
+Con/Pp/O thương/Vv/O mẹ/Nn/O vất_vả/Aa/O ,/PU/O đã/R/O phải/Vv/O nuôi/Vv/O bằng/Cm/O ấy/Pd/O đứa/Nc/O em/Nn/O lại/R/O còn/R/O phải/Vv/O nuôi/Vv/O con/Nn/O .../PU/O 
+Con/Pp/O muốn/Vv/O học/Vv/O một/Nq/NUM_B nghề/Nn/O để/Cm/O kiếm_sống/Vv/O .../PU/O 
+Mẹ/Nn/TTL_B Cương/Nr/PER_B như/Cp/O đã/R/O hiểu/Vv/O lòng/Nn/O con/Nn/O ./PU/O 
+Bà/Nn/O cảm_động/Aa/O ,/PU/O xoa/Vv/O đầu/Nn/O Cương/Nr/PER_B và/Cp/O bảo/Vv/O :/PU/O 
+Con/Pp/O muốn/Vv/O giúp/Vv/O mẹ/Nn/O như/Cp/O thế/Pp/O là/Vc/O phải/Vv/O ./PU/O 
+Nhưng/Cp/O biết/Vv/O thầy/Nn/O có/R/O chịu/Vv/O nghe/Vv/O không/R/O ?/PU/O 
+Nhà/Nn/O ta/Pp/O tuy/Cs/O nghèo/Aa/O nhưng/Cs/O dòng_dõi/Nn/O quan/Nn/O sang/Cm/O ./PU/O 
+Không_lẽ/R/O bây_giờ/Pd/O mẹ/Nn/O để/Cm/O con/Pp/O phải/Vv/O làm/Vv/O đầy_tớ/Nn/O anh/Nc/O thợ_rèn/Nn/O ./PU/O 
+Cương/Nr/PER_B thấy/Vv/O nghèn_nghẹn/Vv/O ở/Cm/O cổ/Nn/O ./PU/O 
+Em/Pp/O nắm/Vv/O lấy/Vv/O tay/Nn/O mẹ/Nn/O ,/PU/O thiết_tha/Aa/O :/PU/O 
+Mẹ/Pp/O ơi/E/O !/PU/O 
+Người_ta/Pp/O ai/Pp/O cũng/R/O phải/Vv/O có/Ve/O một/Nq/NUM_B nghề/Nn/O ./PU/O 
+Làm_ruộng/Vv/O hay/Cp/O buôn_bán/Vv/O ,/PU/O làm/Vv/O thầy/Nn/O hay/Cp/O làm/Vv/O thợ/Nn/O đều/R/O đáng/Vv/O trọng/Vv/O như/Cp/O nhau/Nn/O ./PU/O 
+Chỉ/R/O những_ai/Pp/O trộm_cắp/Vv/O hay/Cp/O ăn_bám/Vv/O mới/Cp/O đáng/Vv/O bị/Vv/O coi_thường/Vv/O ./PU/O 
+Bất_giác/R/O ,/PU/O em/Pp/O lại/R/O nhớ/Vv/O đến/Cm/O ba/Nq/NUM_B người/Nc/O thợ/Nn/O nhễ_nhại/Aa/O mồ_hôi/Nn/O mà/Cp/O vui_vẻ/Aa/O bên/Nn/O tiếng/Nn/O bễ/Nn/O thổi/Vv/O "/PU/O phì/Aa/O phào/Vv/O "/PU/O ,/PU/O tiếng/Nn/O búa/Nn/O con/Nn/O ,/PU/O búa/Nn/O lớn/Aa/O theo/Vv/O nhau/Nn/O đập/Vv/O "/PU/O cúc/Nn/O cắc/ON/O "/PU/O và/Cp/O những/Nq/O tàn/Nn/O lửa/Nn/O đỏ/Aa/O hồng/Aa/O ,/PU/O bắn/Vv/O tóe/Nn/O lên/R/O như/Cp/O khi/Nt/O đốt/Vv/O cây/Nn/O bông/Nn/O ./PU/O 
