@@ -1,18 +1,19 @@
+ #-*- coding: utf-8 -*-
 import re
-from underthesea import sent_tokenize
-commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding = 'utf-8')
-commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding = 'utf-8')
-sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r',encoding='utf-8')
-dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r',encoding='utf-8')
+import underthesea
+commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r')
+commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r')
+sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r')
+dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r')
 
-#inputFilePath = input()
-#inputFile = open(inputFilePath,mode='r',encoding = 'utf-8')
+inputFilePath = raw_input()
+inputFile = open(inputFilePath,mode='r')
 
 rawCommonWordList = commonWordFile.read()
 rawCommonSyllableList = commonSyllableFile.read()
 rawSinoVietWordSet = sinoVietWordFile.read()
 rawDialectWordSet = dialectWordFile.read()
-rawInputData = input()
+rawInputData = inputFile.read()
 
 commonWordSet = set(rawCommonWordList.split('\n'))
 commonSyllableSet = set(rawCommonSyllableList.split('\n'))
@@ -23,8 +24,8 @@ sentenceMarkList = set([',','.','!','?',':',';','-'])
 #preprocesing
 rawInputData = rawInputData.lower()
 
-sentenceList = sent_tokenize(text)
-
+sentenceList = underthesea.sent_tokenize('Taylor cho biết lúc đầu cô cảm thấy ngại với cô bạn thân Amanda nhưng rồi mọi thứ trôi qua nhanh chóng. Amanda cũng thoải mái với mối quan hệ này.')
+print(sentenceList)
 #count index
 
 # average sentence length in word
