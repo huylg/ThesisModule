@@ -109,6 +109,4 @@ class TextAnalysiser:
         wdIndex =  pswIndex*100
         return 0.27*wdIndex + 0.13*aslcIndex +1.74
 
-textAnalysiser = TextAnalysiser("Chợ thịt chó nổi tiếng ở Sài Gòn bị truy quét")
-
-print(textAnalysiser.commonWordSet)
+print(TextAnalysiser("Bán chó . \nChó nhà Giang đẻ những sáu con .").wordList)

@@ -4,6 +4,7 @@ import underthesea
 class TextAnalysiser:
 
     def __init__(self,rawInputData):
+        rawInputData = rawInputData.lower()
         self.rawIntput = rawInputData
         self.__loadDataFromFile()
         self.sentenceMarkList = set([',','.','!','?',':',';','-'])
@@ -98,7 +99,7 @@ class TextAnalysiser:
     #calculate score
     @staticmethod
     def calculateLAVFomula(aslcIndex, awlcIndex, pdwIndex ):
-        return 0.004*aslsIndex + 0.1905*awlcIndex + 2.7147*pdwIndex - 0.7295
+        return 0.004*aslcIndex + 0.1905*awlcIndex + 2.7147*pdwIndex - 0.7295
  
     @staticmethod
     def calculateNH1982(aslcIndex,awlcIndex):
@@ -108,7 +109,3 @@ class TextAnalysiser:
     def calculateNH1985(aslcIndex, pswIndex):
         wdIndex =  pswIndex*100
         return 0.27*wdIndex + 0.13*aslcIndex +1.74
-
-textAnalysiser = TextAnalysiser("Chợ thịt chó nổi tiếng ở Sài Gòn bị truy quét")
-
-print(textAnalysiser.commonWordSet)
