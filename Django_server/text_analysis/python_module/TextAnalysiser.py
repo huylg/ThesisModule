@@ -23,10 +23,10 @@ class TextAnalysiser:
         self.posWordList = underthesea.pos_tag(rawInputData)
 
     def __loadDataFromFile(self):
-        commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r')
-        commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r')
-        sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r')
-        dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r')
+        commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
+        commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
+        sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
+        dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
 
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
