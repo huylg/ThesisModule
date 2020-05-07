@@ -1,0 +1,12 @@
+﻿Đôi/Nq/O bạn/Nn/O 
+Búp_Bê/Nr/PER_B làm_việc/Vv/O suốt/Aa/O ngày/Nt/O ,/PU/O hết/R/O quét/Vv/O nhà/Nn/O lại/R/O rửa/Vv/O bát/Nn/O ,/PU/O nấu/Vv/O cơm/Nn/O ./PU/O 
+Lúc/Nt/O ngồi/Vv/O nghỉ/Vv/O ,/PU/O Búp_Bê/Nr/PER_B bỗng/R/O nghe/Vv/O có/Ve/O tiếng/Nn/O hát/Vv/O rất/R/O hay/Aa/O ./PU/O 
+Nó/Pp/O bèn/R/O hỏi/Vv/O :/PU/O 
+-/PU/O Ai/Pp/O hát/Vv/O đấy/M/O ?/PU/O 
+Có/Ve/O tiếng/Nn/O trả_lời/Vv/O :/PU/O 
+-/PU/O Tôi/Pp/O hát/Vv/O đây/Pd/O ./PU/O 
+Tôi/Pp/O là/Vc/O Dế_Mèn/Nn/O ./PU/O 
+Thấy/Vv/O bạn/Pp/O vất_vả/Aa/O ,/PU/O tôi/Pp/O hát/Vv/O để/Cm/O tặng/Vv/O bạn/Pp/O đấy/M/O ./PU/O 
+Búp_Bê/Nr/PER_B nói/Vv/O :/PU/O 
+-/PU/O Cảm_ơn/Vv/O bạn/Pp/O ./PU/O 
+Tiếng/Nn/O hát/Vv/O của/Cm/O bạn/Pp/O làm/Vv/O tôi/Pp/O hết/Nn/O mệt/Aa/O ./PU/O 

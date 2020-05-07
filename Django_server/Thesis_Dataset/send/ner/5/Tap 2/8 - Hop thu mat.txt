@@ -1,0 +1,19 @@
+﻿Hộp_thư/Nn/O mật/Aa/O 
+Hai/Nq/NUM_B Long/Nr/PER_B phóng/Vv/O xe/Nn/O về/Vd/O phía/Nn/O Phú_Lâm/Nr/ORG_B tìm/Vv/O hộp_thư/Nn/O mật/Aa/O ./PU/O 
+Người/Nn/O đặt/Vv/O hộp_thư/Nn/O lần/Nn/O nào/Pd/O cũng/R/O tạo/Vv/O cho/Cp/O anh/Nn/O sự/Nc/O bất_ngờ/Aa/O ./PU/O 
+Bao_giờ/Pp/O hộp_thư/Nn/O cũng/R/O được/Vv/O đặt/Vv/O tại/Cm/O một/Nq/NUM_B nơi/Nn/O dễ/Aa/O tìm/Vv/O mà/Cp/O lại/R/O ít/Aa/O bị/Vv/O chú/Nc/O ý/Nn/O nhất/An/O ./PU/O 
+Nhiều/Aa/O lúc/Nt/O ,/PU/O người/Nn/O liên_lạc/Vv/O còn/R/O gửi_gắm/Vv/O vào/Cm/O đây/Pd/O một_chút/Nq/O tình_cảm/Nn/O của/Cm/O mình/Pp/O ,/PU/O thường/R/O bằng/Cm/O những/Nq/O vật/Nn/O gợi/Vv/O ra/R/O hình/Nn/O chữ/Nn/O V/Nr/O mà/Cp/O chỉ/R/O anh/Nn/O mới/R/O nhận_thấy/Vv/O ./PU/O 
+Đó/Pd/O là/Vc/O tên/Nn/O Tổ_quốc/Nn/O Việt_Nam/Nr/LOC_B ,/PU/O là/Vc/O lời/Nn/O chào/Vv/O chiến_thắng/Nn/O ./PU/O 
+Đôi/Nq/O lúc/Nt/O Hai_Long/Nr/PER_B đã/R/O đáp/Vv/O lại/R/O ./PU/O 
+Anh/Nn/O dừng/Vv/O xe/Nn/O trước/Nn/O một/Nq/NUM_B cột/Nn/O cây_số/Nn/O ven/Nn/O đường/Nn/O ,/PU/O giữa/Cm/O cánh_đồng/Nn/O vắng/Aa/O ./PU/O 
+Tháo/Vv/O chiếc/Nc/O bu-gi/Nn/O ra/R/O xem/Vv/O ,/PU/O nhưng/Cp/O đôi/Nq/O mắt/Nn/O anh/Nn/O không/R/O nhìn/Vv/O chiếc/Nc/O bu-gi/Nn/O mà/Cp/O chăm_chú/Aa/O quan_sát/Vv/O mặt/Nn/O đất/Nn/O phía/Nn/O sau/Nn/O cột/Nn/O cây_số/Nn/O ./PU/O 
+Nó/Pp/O kia/Pd/O rồi/R/O !/PU/O 
+Một/Nq/NUM_B hòn/Nc/O đá/Nn/O hình/Nn/O mũi_tên/Nn/O (/PU/O lại/R/O chữ/Nn/O V/Nr/O quen_thuộc/Aa/O )/PU/O trỏ/Vv/O vào/Cm/O một/Nq/NUM_B hòn/Nc/O đá/Nn/O dẹt/Aa/O chỉ/R/O cách/Vv/O anh/Nn/O ba/An/O bước/Vv/O chân/Nn/O ./PU/O 
+Hai/Nq/NUM_B Long/Nr/PER_B tới/Vd/O ngồi/Vv/O cạnh/Nn/O hòn/Nc/O đá/Nn/O ,/PU/O nhìn/Vv/O trước/Nn/O nhìn/Vv/O sau/Nn/O ,/PU/O một/Nq/NUM_B tay/Nc/O vẫn/R/O cầm/Vv/O chiếc/Nc/O bu-gi/Nn/O ,/PU/O một/Nq/NUM_B tay/Nc/O bẩy/Nn/O nhẹ/Aa/O hòn/Nc/O đá/Nn/O ./PU/O 
+Hộp_thư/Nn/O lần/Nn/O này/Pd/O là/Vc/O một/Nq/NUM_B chiếc/Nc/O vỏ/Nn/O đựng/Vv/O thuốc/Nn/O đánh/Vv/O răng/Nn/O ./PU/O 
+Anh/Nn/O nhẹ_nhàng/Aa/O cạy/Vv/O đáy/Nn/O hộp/Nn/O thuốc/Nn/O ,/PU/O rút/Vv/O ra/D/O một/Nq/NUM_B mảnh/Nn/O giấy/Nn/O nhỏ/Aa/O ,/PU/O thay/Vv/O vào/Cm/O đó/Pd/O thư/Nn/O báo_cáo/Vv/O của/Cm/O mình/Pp/O ,/PU/O rồi/Cp/O trả/Vv/O hộp/Nn/O thuốc/Nn/O về/Cm/O chỗ/Nn/O cũ/Aa/O ./PU/O 
+Công_việc/Nn/O thế/Pp/O là/Cp/O xong/Vv/O ./PU/O 
+Một/Nq/MEA_B giờ/Nt/MEA_I nữa/R/O sẽ/R/O có/Ve/O người/Nn/O tới/Vd/O lấy/Vv/O thư/Nn/O ./PU/O 
+Anh/Nn/O trở_lại/Vv/O bên/Nn/O xe/Nn/O ,/PU/O lắp/Vv/O bu-gi/Nn/O vào/Cm/O rồi/Cp/O đạp/Vv/O cần/Vv/O khởi_động/Vv/O máy/Nn/O ./PU/O 
+Tiếng_động/Nq/O cơ/Nn/O nổ/Vv/O giòn/Aa/O ./PU/O 
+Chưa/R/O đầy/Aa/O nửa/Nq/MEA_B giờ/Nt/MEA_I sau/Nn/O ,/PU/O anh/Nn/O đã/R/O hòa/Nn/O lẫn/Cp/O vào/Cm/O dòng/Nn/O người/Nn/O giữa/Cm/O phố_phường/Nn/O náo_nhiệt/Aa/O ./PU/O 

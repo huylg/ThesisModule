@@ -1,0 +1,15 @@
+﻿Người/Nn/O đi/Vv/O săn/Vv/O và/Cp/O con/Nc/O vượn/Nn/O 
+Ngày_xưa/Nt/DTM_B có/Ve/O một/Nq/NUM_B người/Nn/O săn_bắn/Vv/O rất/R/O tài/Nn/O ./PU/O 
+Nếu/Cs/O con/Nc/O thú/Nn/O rừng/Nn/O nào/Pd/O không/R/O may/Aa/O gặp/Vv/O bác/Nc/O ta/Pp/O thì/Cs/O hôm/Nt/O ấy/Pd/O coi/Vv/O như/Cp/O ngày/Nt/DTM_B tận_số/Nt/DTM_I ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O người/Nn/O đi/Vv/O săn/Vv/O xách/Vv/O nỏ/Nn/O vào/D/O rừng/Nn/O ./PU/O 
+Bác/Nn/PER_B thấy/Vv/O một/Nq/NUM_B con/Nc/O vượn/Nn/O lông/Nn/O xám/Aa/O đang/R/O ngồi/Vv/O ôm/Vv/O con/Nn/O trên/Cm/O tảng/Nn/O đá/Nn/O ./PU/O 
+Bác/Nn/O nhẹ_nhàng/Aa/O rút/Vv/O mũi_tên/Nn/O bắn/Vv/O trúng/Aa/O vượn/Nn/O mẹ/Nn/O ./PU/O 
+Vượn/Nr/PER_B mẹ/Nn/O giật_mình/Vv/O ,/PU/O hết/R/O nhìn/Vv/O mũi_tên/Nn/O lại/R/O nhìn/Vv/O về/Cm/O phía/Nn/O người/Nn/O đi/Vv/O săn/Vv/O bằng/Cm/O đôi/Nq/O mắt/Nn/O căm_giận/Vv/O ,/PU/O tay/Nn/O không/R/O rời/Vv/O con/Nn/O ./PU/O 
+Máu/Nn/O ở/Cm/O vết_thương/Nn/O rỉ/Vv/O ra/R/O loang/Vv/O khắp/Aa/O ngực/Nn/O ./PU/O 
+Người/Nn/O đi/Vv/O săn/Vv/O đứng/Vv/O im/Aa/O chờ/Vv/O kết_quả/Nn/O .../PU/O 
+Bỗng/R/O vượn/Nn/O mẹ/Nn/O nhẹ_nhàng/Aa/O đặt/Vv/O con/Nn/O xuống/D/O ,/PU/O vơ/Vv/O vội/Aa/O nắm/Vv/O bùi_nhùi/Nn/O gối/Nn/O lên/Vv/O đầu/Nn/O con/Nn/O ,/PU/O rồi/Cp/O nó/Pp/O hái/Vv/O cái/Nc/O lá/Nn/O to/Aa/O ,/PU/O vắt/Vv/O sữa/Nn/O vào/D/O và/Cp/O đặt/Vv/O lên/R/O miệng/Nn/O con/Nn/O ./PU/O 
+Sau/Nn/O đó/Pd/O ,/PU/O vượn/Nn/O mẹ/Nn/O nghiến/Vv/O răng/Nn/O ,/PU/O giật/Vv/O phắt/R/O mũi_tên/Nn/O ra/D/O ,/PU/O hét/Vv/O lên/R/O một/Nq/NUM_B tiếng/Nn/O thật/R/O to/Aa/O rồi/Cp/O ngã/Vv/O xuống/D/O ./PU/O 
+Người/Nn/O đi/Vv/O săn/Vv/O đứng/Vv/O lặng/Aa/O ./PU/O 
+Hai/Nq/NUM_B giọt/Nn/O nước_mắt/Nn/O từ_từ/Aa/O lăn/Vv/O trên/Cm/O má/Nn/O ./PU/O 
+Bác/Nn/PER_B cắn/Vv/O môi/Nn/O ,/PU/O bẻ/Vv/O gãy/Vv/O nỏ/Nn/O và/Cp/O lẳng_lặng/R/O quay/Vv/O gót/Nn/O ra/D/O về/Vd/O ./PU/O 
+Từ/Cm/O đấy/Pd/O ,/PU/O bác/Nn/O không/R/O bao_giờ/Pp/O đi/Vv/O săn/Vv/O nữa/R/O ./PU/O 

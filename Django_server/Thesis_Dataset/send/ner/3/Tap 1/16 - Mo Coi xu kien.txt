@@ -1,0 +1,33 @@
+﻿Mồ_côi/Aa/O xử/Vv/O kiện/Vv/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O ở/Cm/O một/Nq/NUM_B vùng/Nn/O quê/Nn/O nọ/Pd/O ,/PU/O có/Ve/O chàng/Nn/TTL_B Mồ_Côi/Nr/PER_B được/Vv/O dân/Nn/O tin_cậy/Vv/O giao/Vv/O cho/Cp/O việc/Nn/O xử/Vv/O kiện/Vv/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O có/Ve/O người/Nc/O chủ/Nn/O quán/Nn/O đưa/Vv/O một/Nq/NUM_B bác/Nc/O nông_dân/Nn/O đến/Vd/O công_đường/Nn/O ./PU/O 
+Chủ/Nn/O quán/Nn/O thưa/Aa/O :/PU/O 
+Bác/Nn/O này/Pd/O vào/Cm/O quán/Nn/O của/Cm/O tôi/Pp/O hít/Vv/O hết/Ve/O mùi/Nn/O thơm/Aa/O lợn/Nn/O quay/Vv/O ,/PU/O gà/Nn/O luộc/Vv/O ,/PU/O vịt/Nn/O rán/Vv/O mà/Cp/O không/R/O trả/Vv/O tiền/Nn/O ./PU/O 
+Nhờ/Cm/O Ngài/Nn/O xét/Vv/O cho/Cp/O ./PU/O 
+Mồ_Côi/Nr/PER_B hỏi/Vv/O bác/Nc/O nông_dân/Nn/O ./PU/O 
+Bác/Nn/PER_B trả_lời/Vv/O :/PU/O 
+Tôi/Pp/O chỉ/R/O vào/D/O quán/Nn/O ngồi/Vv/O nhờ/Vv/O để/Cm/O ăn/Vv/O miếng/Nn/O cơm/Nn/O nắm/Vv/O ./PU/O 
+Tôi/Pp/O không/R/O mua/Vv/O gì/M/O cả/M/O ./PU/O 
+Mồ_Côi/Nr/PER_B bảo/Vv/O :/PU/O 
+Nhưng/Cp/O bác/Nn/O có/R/O hít/Vv/O hương/Nn/O thơm/Aa/O thức_ăn/Nn/O trong/Cm/O quán/Nn/O không/R/O ?/PU/O 
+Bác/Nn/O nông_dân/Nn/O đáp/Vv/O :/PU/O 
+Thưa/E/O có/Ve/O ./PU/O 
+Mồ_Côi/Nr/PER_B nói/Vv/O :/PU/O 
+Thế/Pp/O thì/Cp/O bác/Nn/O phải/Vv/O bồi_thường/Vv/O ./PU/O 
+Chủ/Nn/O quán/Nn/O muốn/Vv/O bồi_thường/Vv/O bao_nhiêu/Pp/O ?/PU/O 
+Thưa/E/O Ngài/Pp/O ,/PU/O hai/Nq/MEA_B mươi/Nq/MEA_I đồng/Nu/MEA_I ./PU/O 
+Bác/Nn/O hãy/R/O đưa/Vv/O hai/Nq/MEA_B mươi/Nq/MEA_I đồng/Nu/MEA_I đây/Pd/O ,/PU/O tôi/Pp/O phân_xử/Vv/O cho/Cp/O !/PU/O 
+Nghe/Vv/O nói/Vv/O ,/PU/O bác/Nn/O nông_dân/Nn/O giãy_nảy/Vv/O :/PU/O 
+Tôi/Pp/O có/R/O đụng_chạm/Vv/O gì/Pp/O đến/Cm/O thức_ăn/Nn/O trong/Cm/O quán/Nn/O đâu/R/O mà/Cp/O phải/Vv/O trả/Vv/O tiền/Nn/O ?/PU/O 
+Bác/Nn/O cứ/R/O đưa/Vv/O tiền/Nn/O đây/Pd/O ./PU/O 
+Bác/Nn/O nông_dân/Nn/O ấm_ức/Aa/O :/PU/O 
+Nhưng/Cp/O tôi/Pp/O chỉ/R/O có/Ve/O hai/Nq/MEA_B đồng/Nu/MEA_I ./PU/O 
+Cũng/R/O được/R/O -/PU/O Mồ_Côi/Nr/PER_B vừa/Cs/O nói/Vv/O vừa/Cs/O thản_nhiên/Aa/O cầm/Vv/O lấy/Vv/O hai/Nq/NUM_B đồng_bạc/Nn/O bỏ/Vv/O vào/D/O một/Nq/NUM_B cái/Nc/O bát/Nn/O ,/PU/O rồi/Cp/O úp/Vv/O một/Nq/NUM_B cái/Nc/O bát/Nn/O khác/Aa/O lên/R/O ,/PU/O đưa/Vv/O cho/Cp/O bác/Nn/O nông_dân/Nn/O ,/PU/O nói/Vv/O :/PU/O 
+Bác/Nn/O hãy/R/O xóc/Vv/O lên/R/O cho/Vv/O đủ/Aa/O mười/Nq/NUM_B lần/Nn/O ./PU/O 
+Còn/Cp/O ông_chủ/Nn/O quán/Nn/O ,/PU/O ông/Nn/O hãy/R/O chịu_khó/Aa/O mà/Cp/O nghe/Vv/O ./PU/O 
+Hai/Nq/NUM_B người/Nn/O tuy/Cs/O chưa/R/O hiểu/Vv/O gì/Pp/O nhưng/Cs/O cũng/R/O củ/Nn/O làm/Vv/O theo/Vv/O ./PU/O 
+Khi/Nt/O đồng_bạc/Nn/O trong/Cm/O bát/Nn/O úp/Vv/O đã/R/O kêu/Vv/O lạch_cạch/Aa/O đến/Cm/O lần/Nn/O thứ/Nn/O mười/An/O ,/PU/O Mồ_Côi/Nr/PER_B phán/Vv/O :/PU/O 
+Bác/Nn/O này/Pd/O đã/R/O bồi_thường/Vv/O cho/Cp/O chủ/Nn/O quán/Nn/O đủ/Aa/O số/Nn/O tiền/Nn/O ./PU/O 
+Một/Nq/NUM_B bên/Nn/O "/PU/O hít/Vv/O mùi/Nn/O thịt/Nn/O "/PU/O ,/PU/O một/Nq/NUM_B bên/Nn/O "/PU/O nghe/Vv/O tiếng/Nn/O bạc/Nn/O "/PU/O ./PU/O 
+Thế/Pp/O là/Vc/O công_bằng/Aa/O ./PU/O 
+Nói/Vv/O xong/Aa/O ,/PU/O Mồ_Côi/Nr/PER_B trả/Vv/O hai/Nq/NUM_B đồng_bạc/Nn/O cho/Cp/O bác/Nn/O nông_dân/Nn/O rồi/Cp/O tuyên_bố/Vv/O kết_thúc/Vv/O phiên/Nc/O xử/Vv/O ./PU/O 

@@ -1,0 +1,21 @@
+﻿Bông/Nc/O hoa/Nn/O Niềm_Vui/Nr/PER_B 
+Mới/R/O sáng/Nt/DTM_B tinh_mơ/Nt/DTM_I ,/PU/O Chi/Nr/PER_B đã/R/O vào/Vv/O vườn/Nn/O hoa/Nn/O của/Cm/O trường/Nn/O ./PU/O 
+Em/Pp/O đến/Vd/O tìm/Vv/O những/Nq/O bông/Nc/O cúc/Nn/O màu/Nn/O xanh/Aa/O ,/PU/O được/Vv/O cả/Pp/O lớp/Nn/O gọi/Vv/O là/Cp/O hoa/Nn/O Niềm_Vui/Nr/PER_B ./PU/O 
+Bố/Nn/O của/Cm/O Chi/Nr/PER_B đang/R/O nằm/Vv/O bệnh_viện/Nn/O ./PU/O 
+Em/Pp/O muốn/Vv/O đem/Vv/O tặng/Vv/O bố/Nn/O một/Nq/NUM_B bông/Nc/O hoa/Nn/O Niềm_Vui/Nr/PER_B để/Cm/O bố/Nn/O dịu/Aa/O cơn/Nc/O đau/Aa/O ./PU/O 
+Những/Nq/O bông/Nc/O hoa_màu/Nn/O xanh/Aa/O lộng_lẫy/Aa/O dưới/Cm/O ánh/Nc/O mặt_trời/Nn/O buổi/Nt/O sáng/Nt/O ./PU/O 
+Chi/Vv/O giơ/Vv/O tay/Nn/O định/Vv/O hái/Vv/O ,/PU/O nhưng/Cp/O em/Pp/O bỗng/R/O chần_chừ/Vv/O vì/Cp/O không/R/O ai/Pp/O được/Vv/O ngắt/Vv/O hoa/Nn/O trong/Cm/O vườn/Nn/O ./PU/O 
+Mọi/Nq/O người/Nn/O vun_trồng/Nn/O và/Cp/O chỉ/R/O đến/Vd/O đây/Pd/O để/Cm/O ngắm/Vv/O vẻ_đẹp/Nn/O của/Cm/O hoa/Nn/O ./PU/O 
+Cánh/Nn/O cửa/Nn/O kẹt/Vv/O mở/Vv/O ./PU/O 
+Cô_giáo/Nn/O đến/Vd/O ./PU/O 
+Cô/Nn/O không/R/O hiểu/Vv/O vì_sao/Nn/O Chi/Nr/PER_B đến/Vd/O đây/Pd/O sớm/Aa/O thế/Pp/O ./PU/O 
+Chi/Vv/O nói/Vv/O :/PU/O 
+-/PU/O Xin/Vv/O cô/Nn/O cho/Cp/O em/Pp/O được/Vv/O hái/Vv/O một/Nq/NUM_B bông/Nc/O hoa/Nn/O ./PU/O Bố/Nn/O em/Pp/O đang/R/O ốm/Vv/O nặng/Aa/O ./PU/O 
+Cô_giáo/Nn/O đã/R/O hiểu/Vv/O ./PU/O 
+Cô/Nn/O ôm/Vv/O em/Pp/O vào/Cm/O lòng/Nn/O :/PU/O 
+-/PU/O Em/Pp/O hãy/R/O hái/Vv/O thêm/Vv/O hai/Nq/NUM_B bông/Nc/O nữa/R/O ./PU/O 
+Chi/Vv/O ạ/M/O !/PU/O 
+Một/Nq/NUM_B bông/Nc/O cho/Cp/O em/Pp/O ,/PU/O vì/Cp/O trái_tim/Nn/O nhân_hậu/Aa/O của/Cm/O em/Pp/O ./PU/O 
+Một/Nq/NUM_B bông/Nc/O cho/Cp/O mẹ/Nn/O ,/PU/O vì/Cp/O cả/M/O bố/Nn/O và/Cp/O mẹ/Nn/O đã/R/O dạy_dỗ/Vv/O em/Pp/O thành/Vv/O một/Nq/NUM_B cô/Nc/O bé/Nn/O hiếu_thảo/Aa/O ./PU/O 
+Khi/Nt/O bố/Nn/O khỏi/Vv/O bệnh/Nn/O ,/PU/O Chi/Nr/PER_B cùng/Cp/O bố/Nn/O đến/D/O trường/Nn/O cảm_ơn/Vv/O cô_giáo/Nn/O ./PU/O 
+Bố/Nn/O còn/R/O tặng/Vv/O nhà_trường/Nn/O một/Nq/NUM_B khóm/Nn/O hoa_cúc/Nn/O đại_đóa/Nq/O màu/Nn/O tím/Aa/O đẹp/Aa/O mê_hồn/Aa/O ./PU/O 

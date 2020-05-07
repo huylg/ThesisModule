@@ -1,0 +1,61 @@
+Phong_cách ngôn_ngữ khoa_học 
+I - Khái_quát về phong_cách ngôn_ngữ khoa_học 
+Phong_cách ngôn_ngữ khoa_học là loại phong_cách ngôn_ngữ dùng trong các văn_bản thuộc lĩnh_vực khoa_học - công_nghệ , thường gọi là văn_bản khoa_học . 
+Văn_bản khoa_học tồn_tại ở cả hai dạng : dạng viết và dạng nói . 
+Ở dạng viết , đó là các văn_bản khoa_học đăng_tải trong sách , báo . 
+Ở dạng nói , đó là các lời giảng bài trong nhà_trường , lời thuyết_trình , báo_cáo trong hội_thảo khoa_học , ... 
+Dù ở dạng nào , văn_bản khoa_học cũng thường có ba loại : văn_bản khoa_học chuyên_sâu ( công_trình nghiên_cứu , chuyên_luận , luận_án , ... ) , văn_bản khoa_học giáo_khoa ( giáo_khoa , giáo_trình , ... ) và văn_bản khoa_học phổ_cập ( phổ_biến kiến_thức khoa_học phổ_thông , ... ) . 
+Phong_cách ngôn_ngữ khoa_học có các đặc_điểm chung như sau . 
+1 . 
+Tính khái_quát , trừu_tượng : Khoa_học không dừng lại ở những hiện_tượng cá_biệt , riêng_lẻ mà nhắm tới những quy_luật khái_quát , trừu_tượng . 
+Do đó , ngôn_ngữ trong văn_bản khoa_học cũng phải đảm_bảo tính khái_quát , trừu_tượng . 
+2 . 
+Tính lí_trí , lô_gích : Để diễn_đạt những thành_quả của tư_duy khoa_học và thuyết_phục người đọc tin vào những kết_luận khoa_học , ngôn_ngữ trong văn_bản khoa_học phải đảm_bảo tính lí_trí , lô_gích . 
+3 . 
+Tính khách_quan , phi cá_thể : Mục_đích của khoa_học là khám_phá các quy_luật của xã_hội , tự_nhiên . 
+Do vậy , ngôn_ngữ được sử_dụng trong các văn_bản khoa_học phải có tính khách_quan , thường không mang dấu_ấn cá_nhân . 
+Các đặc_điểm của phong_cách ngôn_ngữ khoa_học được_thể_hiện ở những mức_độ nghiêm_ngặt khác nhau tùy theo loại văn_bản khoa_học : chuyên_sâu , giáo_khoa hay phổ_cập . 
+II - Cách sử_dụng phương_tiện ngôn_ngữ trong phong_cách ngôn_ngữ khoa_học 
+1 . 
+Về ngữ_âm - chữ_viết 
+Ở dạng nói , văn_bản khoa_học tuân theo những yêu_cầu phổ_biến về phát_âm , tạo nên sức thu_hút người nghe . 
+Ở dạng viết , ngoài những đặc_điểm của chuẩn chính_tả tiếng Việt nói_chung , văn_bản khoa_học còn có những điểm riêng về hệ_thống kí_hiệu khoa_học mà người viết và người đọc phải biết mới sử_dụng và tiếp_nhận được . 
+Ví_dụ : các kí_hiệu m , m2 , kg , S , F , a , H2O , ... 
+2 . 
+Về từ_ngữ 
+- Mỗi ngành khoa_học có hệ_thống thuật_ngữ riêng buộc người dùng phải hiểu chính_xác mới sử_dụng được . 
+Ví_dụ : Chủ_ngữ , vị_ngữ , câu đơn , câu ghép , ... là các thuật_ngữ của khoa_học về ngôn_ngữ . 
+- Từ_ngữ dùng trong văn_bản khoa_học thuộc lớp từ_ngữ chung . 
+Văn_bản khoa_học không dùng các từ_ngữ địa_phương , biệt ngữ xã_hội , ... 
+- Văn_bản khoa_học đòi_hỏi tính khách_quan , phi cá_thể nên từ_ngữ trong dó thường mang sắc_thái biểu_cảm trung hòa . 
+3 . 
+Về kiểu câu 
+- Văn_bản khoa_học thường dùng các kiểu câu có chủ_ngữ không xác_định , hoặc khuyết chủ_ngữ . 
+Ví_dụ : 
++ Để phát_hiện các vật nhiễm_điện , người_ta dùng cái điện_nghiệm . 
+( Vật_lí 9 ) 
++ Cho một hệ hai phương_trình bậc nhất hai ẩn . 
+( Đại_số 10 Nâng_cao ) 
+- Câu có nghĩa bị_động và câu có từ là được sử_dụng thường_xuyên khi đánh_giá , nhận_xét , định_nghĩa . 
+Ví_dụ : 
++ Như vậy trong mặt_phẳng tọa độ , mỗi nghiệm của bất_phương_trình bậc nhất hai ẩn được biểu_diễn bởi một điểm và tập nghiệm của nó được hiểu diễn bởi một tập_hợp điểm . 
+( Đại_số 10 Nâng_cao ) 
++ Muối là hợp_chất mà phân_tử gồm nguyên_tử kim_loại liên_kết với gốc axít . 
+( Hóa học 9 ) 
+- Để trình_bày những biện_luận , suy_lí khoa_học , văn_bản khoa_học dùng các kiểu câu phức có đầy_đủ các cặp quan_hệ từ hô ứng như : nếu ... thì , vì ... nên , tuy ... nhưng , v.v. 
+Ví_dụ : 
++ Nếu một đường_thẳng song_song với một đường_thẳng nào đó của một mặt_phẳng không chứa nó , thì nó song_song với mặt_phẳng ấy . 
+( Hình_học 9 ) 
++ Vì dầu chỉ dính ướt quặng nên quặng bám vào các màng dầu bao quanh bọt khí và các hạt quặng nổi lên cùng với bọt khí , còn bẩn quặng thì chìm xuống đáy . 
+( Vật_lí 10 Nâng_cao ) 
++ Tuy không tác_dụng trực_tiếp với oxi nhưng clo tạo ra một loạt oxit được điều_chế bằng con đường gián_tiếp . 
+( Hóa học 10 Nâng_cao ) 
+4 . 
+Về biện_pháp tu_từ 
+Văn_bản khoa_học chuyên_sâu và giáo_khoa thường không dùng các biện_pháp tu_từ . 
+Song , trong văn_bản khoa_học phổ_cập , để tăng sự hấp_dẫn đối_với người đọc và dễ phổ_biến những kiến_thức khoa_học phổ_thông , người_ta cũng thường sử_dụng các biện_pháp tu_từ như ẩn_dụ , nhân hóa , so_sánh , ... 
+5 . 
+Về bố_cục , trình_bày 
+Cách trình_bày , bố_cục văn_bản khoa_học đòi_hỏi phái chặt_chẽ , lô_gích . 
+Các văn_bản khoa_học không có khuôn_mẫu cố_định , nhưng thường được trình_bày theo trật_tự chương , mục . 
+Trong văn_bản khoa_học , ngoài cách trình_bày thông_thường , còn có bảng biểu , sơ_đồ , mô_hình , ... và thường xuất_hiện những chú_thích , với những quy_định sử_dụng chặt_chẽ , buộc phải tuân theo . 

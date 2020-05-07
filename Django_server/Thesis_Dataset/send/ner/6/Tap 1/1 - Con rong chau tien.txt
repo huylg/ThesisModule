@@ -1,0 +1,25 @@
+﻿Con/Nc/O rồng/Nn/O cháu/Nn/O tiên/Nn/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O ở/Cm/O miền/Nn/O đất/Nn/O Lạc_Việt/Nr/LOC_B ,/PU/O cứ/Vv/O như/Cp/O bây_giờ/Pd/O là/Vc/O Bắc_Bộ/Nr/PER_B nước/Nn/O ta/Pp/O ,/PU/O có/Ve/O một/Nq/NUM_B vị/Nc/O thần/Nn/O thuộc/Vv/O nòi/Nq/O rồng/Nn/O ,/PU/O con_trai/Nn/O thần/Aa/O Long_Nữ/Nr/O ,/PU/O tên/Nn/O là/Vc/O Lạc_Long_Quân/Nr/PER_B ./PU/O 
+Thần/Nn/O mình/Pp/O rồng/Nn/O ,/PU/O thường/R/O ở/Cm/O dưới/Cm/O nước/Nn/O ,/PU/O thỉnh_thoảng/R/O lên/Vv/O sống/Vv/O trên/Cm/O cạn/Nn/O ,/PU/O sức/Nn/O khỏe/Nq/O vô_địch/Nn/O ,/PU/O có/Ve/O nhiều/Aa/O phép/Nn/O lạ/Aa/O ./PU/O 
+Thần/Nn/O giúp/Vv/O dân/Nn/O diệt_trừ/Vv/O Ngư_Tinh/Nr/PER_B ,/PU/O Hồ_Tinh/Nr/PER_B ,/PU/O Mộc_Tinh/Nr/PER_B -/PU/O những/Nq/O loài/Nn/O yêu_quái/Nn/O là/Vc/O hại/Vv/O dân/Nn/O lành/Aa/O ./PU/O 
+Thần/Nn/O dạy/Vv/O dân/Nn/O cách/Nn/O trồng_trọt/Vv/O ,/PU/O chăn_nuôi/Vv/O và/Cp/O cách/Nn/O ăn_ở/Vv/O ./PU/O 
+Xong/Vv/O việc/Nn/O ,/PU/O thần/Nn/O thường/R/O về/Vd/O thủy/Nq/O cung/Nn/O với/Cp/O mẹ/Nn/O ,/PU/O khi/Nt/O có/Ve/O việc/Nn/O cần/Vv/O ,/PU/O thần/Nn/O mới/Aa/O hiện/Vv/O lên/R/O ./PU/O 
+Bấy_giờ/Pd/O ,/PU/O ở/Cm/O vùng/Nn/LOC_B núi/Nn/LOC_I cao/Aa/LOC_I phương/Nn/LOC_I Bắc/Nn/LOC_I ,/PU/O có/Ve/O nàng/Nn/TTL_B Âu_Cơ/Nr/PER_B thuộc/Vv/O dòng_họ/Nn/O Thần_Nông/Nr/PER_B ,/PU/O xinh_đẹp/Aa/O tuyệt_trần/Aa/O ./PU/O 
+Nghe/Vv/O tiếng/Nn/O vùng_đất_Lạc/Nn/O có/Ve/O nhiều/Aa/O hoa/Nn/O thơm/Aa/O cỏ/Nn/O lạ/Aa/O ,/PU/O nàng/Nn/O bèn/R/O tìm/Vv/O đến/Vd/O thăm/Vv/O ./PU/O 
+Âu_Cơ/Nr/O và/Cp/O Lạc_Long_Quân/Nr/LOC_B gặp/Vv/O nhau/Nn/O ,/PU/O đem_lòng/Vv/O yêu/Vv/O nhau/Nn/O rồi/Cp/O trở_thành/Vv/O vợ_chồng/Nn/O ,/PU/O cùng/Aa/O chung/Vv/O sống/Vv/O trên/Cm/O cạn/Nn/O ở/Cm/O cung_điện/Nn/LOC_B Long_Trang/Nr/LOC_I ./PU/O 
+Ít_lâu/Nn/O sau/Nn/O ,/PU/O Âu_Cơ/Nr/LOC_B có/R/O mang/Vv/O ./PU/O 
+Đến/Cm/O kì/Nt/O sinh/Vv/O ,/PU/O chuyện/Nn/O thật/R/O lạ/Aa/O ,/PU/O nàng/Nn/O sinh/Vv/O ra/R/O một/Nq/NUM_B cái/Nc/O bọc/Vv/O trăm/Nq/O Trứng/Nn/O ;/PU/O trăm/Nq/O trứng/Nn/O nở/Vv/O ra/R/O một/Nq/NUM_B trăm/Nq/NUM_I người/Nc/O con/Nn/O hồng_hào/Aa/O ,/PU/O đẹp_đẽ/Aa/O lạ_thường/Aa/O ./PU/O 
+Đàn/Nn/O con/Nn/O không/R/O cần/Vv/O bú_mớm/Vv/O mà/Cp/O tự/Pp/O lớn/Vv/O lên/R/O như/Cp/O thổi/Vv/O ,/PU/O mặt_mũi/Nn/O khôi_ngô/Aa/O ,/PU/O khỏe/Nn/O mạnh/Aa/O như/Cp/O thần/Nn/O ./PU/O 
+Thế/Pp/O rồi/Cp/O một/Nq/O hôm/Nt/O ,/PU/O Lạc_Long_Quân/Nr/LOC_B vốn/R/O quen/Vv/O ở/Cm/O nước/Nn/O cảm_thấy/Vv/O mình/Pp/O không_thể/R/O sống/Vv/O mãi/R/O trên/Cm/O cạn/Nn/O được/R/O ,/PU/O đành/Vv/O từ_biệt/Vv/O Âu_Cơ/Nr/LOC_B và/Cp/O đàn/Nn/O con/Nn/O để/Cm/O trở_về/Vv/O thủy/Nq/O cung/Nn/O ./PU/O 
+Âu/Nr/LOC_B cơ/M/O ở/Vv/O lại/R/O một_mình/R/O nuôi/Vv/O con/Nn/O ,/PU/O tháng_ngày/Nt/O chờ_mong/Vv/O ,/PU/O buồn_tủi/Aa/O ./PU/O 
+Cuối_cùng/Aa/O nàng/Nn/O gọi/Vv/O chồng/Nn/O lên/D/O và/Cp/O than_thở/Vv/O :/PU/O 
+-/PU/O Sao/Pp/O chàng/Nn/O bỏ/Vv/O thiếp/Vv/O mà/Cp/O đi/Vv/O ,/PU/O không/R/O cùng/Aa/O thiếp/Vv/O nuôi/Vv/O các/Nq/O con/Nn/O ?/PU/O 
+Lạc_Long_Quân/Nr/PER_B nói/Vv/O :/PU/O 
+-/PU/O Ta/Pp/O vốn/R/O nồi/Nn/O Rồng/Nn/O ở/Cm/O miền/Nn/O nước/Nn/O thẳm/Aa/O ,/PU/O nàng/Nn/O là/Vc/O dòng/Nn/O tiên/Nn/O ở/Cm/O chốn/Nn/O non/Aa/O cao/Aa/O ./PU/O 
+Kẻ/Nn/O ở/Cm/O cạn/Nn/O ,/PU/O người/Nn/O ở/Cm/O nước/Nn/O ,/PU/O tính_tình/Nn/O ,/PU/O tập_quán/Nn/O khác/Aa/O nhau/Nn/O ,/PU/O khó/Aa/O mà/Cp/O ăn_ở/Vv/O cùng/Cp/O nhau/Nn/O một/Nq/NUM_B nơi/Nn/O lâu_dài/Aa/O được/R/O ./PU/O 
+Nay/Nt/O ta/Pp/O đưa/Vv/O năm/Nt/DTM_B mươi/Nt/DTM_I con/Pp/O xuống/D/O biển/Nn/O ,/PU/O nàng/Nn/O đưa/Vv/O năm/Nt/DTM_B mươi/Nt/DTM_I con/Pp/O lên/Vd/O núi/Nn/O ,/PU/O chia/Vv/O nhau/Nn/O cai_quản/Vv/O các/Nq/O phương/Nn/O ./PU/O 
+Kẻ/Nn/O miềm/Nq/O núi/Nn/O ,/PU/O người/Nn/O miềm/Nq/O biển/Nn/O ,/PU/O khi/Nt/O có/Ve/O việc/Nn/O gì/Pp/O thì/Cp/O giúp_đỡ/Vv/O nhau/Nn/O ,/PU/O đừng/R/O quên/Vv/O lời/Nn/O hẹn/Vv/O ./PU/O 
+Âu/Nr/LOC_B cơ/M/O và/Cp/O trăm/Nq/O con/Nn/O nghe/Vv/O theo/Vv/O ,/PU/O rồi/Cp/O chia_tay/Vv/O nhau/Nn/O lên_đường/Vv/O ./PU/O 
+Người/Nn/O con/Nc/O trưởng/Nn/O theo/Vv/O Âu_Cơ/Nr/O được/Vv/O tôn/Nn/O lên/D/O làm/Vv/O vua/Nn/O ,/PU/O lấy/Vv/O hiệu/Nn/O là/Vc/O Hùng_Vương/Nr/PER_B ,/PU/O đóng_đô/Vv/O ở/Cm/O đất/Nn/O Phong_Châu/Nr/LOC_B ,/PU/O đặt/Vv/O tên/Nn/O nước/Nn/O là/Vc/O Văn_Lang/Nr/PER_B ./PU/O 
+triều_đình/Nn/O có/Ve/O tướng/Nn/O văn/Nn/O ,/PU/O tướng/Nn/O võ/Nn/O ;/PU/O con_trai/Nn/O vua/Nn/O gọi/Vv/O là/Cp/O lang/Nn/O ,/PU/O con_gái/Nn/O vua/Nn/O gọi/Vv/O là/Cp/O mị/Nq/O nương/Nn/O ;/PU/O khi/Nt/O cha/Nn/O thì/Cp/O ngôi/Nc/O được/Vv/O truyền/Vv/O cho/Cp/O con/Nc/O trưởng/Nn/O ,/PU/O mười/Nq/O mấy/Nq/O đời/Nn/O truyền/Vv/O nối_ngôi/Vv/O vua/Nn/O đều/R/O lấy/Vv/O hiệu/Nn/O là/Vc/O Hùng_Vương/Nr/PER_B ,/PU/O không_thể/R/O thay_đổi/Vv/O ./PU/O 
+Cũng/R/O bởi/Cs/O sự/Nc/O tích/Vv/O này/Pd/O mà/Cs/O về/Vv/O sau/Nn/O ,/PU/O người/Nn/O Việt_Nam/Nr/LOC_B ta/Pp/O -/PU/O con_cháu/Nn/O vua/Nn/DES_B Hùng/Nr/PER_B -/PU/O khi/Nt/O nhắc/Vv/O đến/Cm/O nguồn_gốc/Nn/O của/Cm/O mình/Pp/O ,/PU/O thường/R/O xưng/Vv/O là/Cp/O con/Nc/O Rồng/Nn/O cháu/Nn/O Tiên/Nn/O ./PU/O 

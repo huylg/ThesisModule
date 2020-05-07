@@ -1,0 +1,30 @@
+﻿Chiếc/Nc/O áo/Nn/O len/Nn/O 
+Năm/Nt/DTM_B nay/Nt/DTM_I ,/PU/O mùa/Nn/DTM_B đông/Nt/DTM_I đến/Cm/O sớm/Aa/O ./PU/O 
+Gió/Nn/O thổi/Vv/O từng/Pp/O cơn/Nc/O lạnh/Aa/O buốt/Aa/O ./PU/O 
+Đã/R/O hơn/Aa/O một/Nq/MEA_B tuần/Nt/MEA_I nay/Nt/O ,/PU/O Lan/Nr/PER_B thấy/Vv/O Hòa/Nr/PER_B có/Ve/O chiếc/Nc/O áo/Nn/O len/Nn/O màu/Nn/O vàng/Aa/O thật/R/O đẹp/Aa/O ./PU/O 
+Áo/Nn/O có/Ve/O dây/Nn/O kéo/Vv/O ở/Cm/O giữa/Nn/O ,/PU/O lại/R/O có/Ve/O cả/M/O mũ/Nn/O để/Cm/O đội/Nn/O khi/Nt/O có/Ve/O gió/Nn/O lạnh/Aa/O hoặc/Cp/O mưa/Nn/O lất_phất/Vv/O ./PU/O 
+Lan/Nr/PER_B đã/R/O mặc/Vv/O thử/Vv/O ,/PU/O ấm/Aa/O ơi_là/E/O ấm/Aa/O ./PU/O 
+Đêm/Nt/O ấy/Pd/O ,/PU/O em/Pp/O nói/Vv/O với/Cp/O mẹ/Nn/O là/Vc/O em/Pp/O muốn/Vv/O có/Ve/O một/Nq/NUM_B chiếc/Nc/O áo/Nn/O len/Nn/O như/Cp/O của/Cm/O bạn/Nn/TTL_B Hòa/Nr/PER_B ./PU/O 
+Mẹ/Nn/O đang/R/O định/Vv/O mua/Vv/O áo_ấm/Nn/O cho/Cp/O hai/Nq/NUM_B anh_em/Nn/O Tuấn/Nr/PER_B ,/PU/O Lan/Nr/PER_B ./PU/O 
+Thấy/Vv/O con_gái/Nn/O nói/Vv/O vậy/Pp/O ,/PU/O mẹ/Nn/O bối_rối/Aa/O :/PU/O 
+Cái/Nc/O áo/Nn/O của/Cm/O Hòa/Nr/PER_B đắt/Aa/O bằng/Cm/O tiền/Nn/O cả/Pp/O hai/Nq/NUM_B cái/Nc/O áo/Nn/O của/Cm/O anh_em/Nn/O con/Nn/O đấy/M/O ./PU/O 
+Lan/Nr/PER_B phụng_phịu/Vv/O :/PU/O 
+Nhưng/Cp/O con/Nn/O chỉ/R/O muốn/Vv/O một/Nq/NUM_B chiếc/Nc/O áo/Nn/O như/Cp/O thế/Pp/O thôi/M/O ./PU/O 
+Dỗi/Nr/PER_B mẹ/Nn/O ,/PU/O Lan/Nr/PER_B đi/Vv/O nằm/Vv/O ngay/R/O ./PU/O 
+Em/Pp/O vờ/Vv/O ngủ/Vv/O ./PU/O 
+Một/Nq/O lúc/Nt/O lâu/Aa/O ,/PU/O bỗng/R/O em/Pp/O nghe/Vv/O tiếng/Nn/O anh/Nn/TTL_B Tuấn/Nr/PER_B thì_thào/Vv/O với/Cp/O mẹ/Nn/O :/PU/O 
+Mẹ/Pp/O ơi/E/O ,/PU/O mẹ/Nn/O dành/Vv/O hết/Ve/O tiền/Nn/O mua/Vv/O cái/Nc/O áo/Nn/O ấy/Pd/O cho/Cp/O em/Nn/TTL_B Lan/Nr/PER_B đi/Vv/O ./PU/O 
+Con/Pp/O không/R/O cần/Vv/O thêm/Vv/O áo/Nn/O đâu/R/O ./PU/O 
+Giọng/Nn/O mẹ/Nn/O trầm/Aa/O xuống/D/O :/PU/O 
+Năm/Nt/DTM_B nay/Nt/DTM_I trời/M/O lạnh/Aa/O lắm/R/O ./PU/O 
+Không/R/O có/Ve/O áo_ấm/Nn/O ,/PU/O con/Pp/O sẽ/R/O ốm/Vv/O mất/Ve/O ./PU/O 
+Con/Pp/O khỏe/Nn/O lắm/R/O ,/PU/O mẹ/Nn/O ạ/M/O ./PU/O 
+Con/Pp/O sẽ/R/O mặc/Vv/O thêm/Vv/O nhiều/Aa/O áo/Nn/O cũ/Aa/O ở/Cm/O bên/Nn/O trong/Nn/O ./PU/O 
+Tiếng/Nn/O mẹ/Nn/O âu_yếm/Aa/O :/PU/O 
+Để/Cm/O mẹ/Nn/O nghĩ/Vv/O đã/R/O ./PU/O 
+Con/Pp/O đi/Vv/O ngủ/Vv/O đi/Vv/O ./PU/O 
+Nằm/Vv/O cuộn/Vv/O tròn/Aa/O trong/Cm/O chiếc/Nc/O chăn/Nn/O bông/Nn/O ấm_áp/Aa/O ,/PU/O Lan/Nr/PER_B ân_hận/Vv/O quá/R/O ./PU/O 
+Em/Pp/O muốn/Vv/O ngồi/Vv/O dậy/Vv/O xin_lỗi/Vv/O mẹ/Nn/O và/Cp/O anh/Pp/O ,/PU/O nhưng/Cp/O lại/R/O xấu_hổ/Vv/O vì/Cp/O mình/Pp/O đã/R/O vờ/Vv/O ngủ/Vv/O ./PU/O 
+Áp/Nq/O mặt/Nn/O xuống/D/O gối/Nn/O ,/PU/O em/Pp/O mong/Vv/O trời/Nn/O mau/Aa/O sáng/Nt/O để/Cm/O nói/Vv/O với/Cp/O mẹ/Nn/O :/PU/O 
+Con/Pp/O không/R/O thích/Vv/O chiếc/Nc/O áo/Nn/O đó/Pd/O nữa/R/O ./PU/O 
+Mẹ/Nn/O hãy/R/O để/Vv/O tiền/Nn/O mua/Vv/O áo_ấm/Nn/O cho/Cp/O cả/M/O hai/Nq/NUM_B anh_em/Nn/O ./PU/O 

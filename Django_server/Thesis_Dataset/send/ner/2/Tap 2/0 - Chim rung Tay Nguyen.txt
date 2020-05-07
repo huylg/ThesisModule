@@ -1,0 +1,9 @@
+﻿Chim/Nn/O rừng/Nn/O Tây_Nguyên/Nr/LOC_B 
+Những/Nq/O cơn/Nc/O gió/Nn/O nhẹ/Aa/O làm/Vv/O mặt/Nn/O nước/Nn/O hồ/Nn/LOC_B Y-rơ-pao/Nr/LOC_I rung_động/Vv/O ./PU/O 
+Bầu_trời/Nn/O trong/Cm/O xanh/Aa/O soi/Vv/O bóng/Nn/O xuống/D/O đáy/Nn/O hồ/Nn/O ,/PU/O mặt/Nn/O hồ/Nn/O càng_xanh/Nr/O thêm/Vv/O và/Cp/O như/Cp/O rộng/Aa/O ra/R/O mênh_mông/Aa/O ./PU/O 
+Nơi/Nn/O đây/Pd/O cất/Vv/O lên/R/O những/Nq/O tiếng/Nn/O chim/Nn/O ríu_rít/Aa/O ./PU/O 
+Chim/Nn/O đại_bàng/Nn/O chân/Nn/O vàng/Nn/O mỏ/Nn/O đỏ/Aa/O đang/R/O chao/Vv/O lượn/Vv/O ,/PU/O bóng/Nn/O che/Vv/O rợp/Aa/O mặt/Nn/O đất/Nn/O ./PU/O 
+Mỗi/Nq/O lần/Nn/O đại_bàng/Nn/O vỗ/Vv/O cánh/Nn/O lại/R/O phát/Vv/O ra/R/O những/Nq/O tiếng/Nn/O vi_vu/Aa/O vi_vút/Aa/O từ/Cm/O trên/Cm/O nền/Nn/O trời/Nn/O xanh/Aa/O thắm/Aa/O ,/PU/O giống/Vv/O như/Cp/O có/Ve/O hàng/R/O trăm/Nq/O chiếc/Nc/O đàn/Nn/O cùng/Aa/O hòa/Nq/O âm/Nn/O ./PU/O 
+Bầy/Nn/O thiên_nga/Nn/O trắng_muốt/Aa/O đang/R/O bơi_lội/Vv/O ./PU/O 
+Những/Nq/O con/Nc/O chim/Nn/O kơ/Nq/O púc/Nu/O mình/Pp/O đỏ_chót/Aa/O và/Cp/O nhỏ/Aa/O như/Cp/O quả/Nn/O ớt/Nn/O cố/Vv/O rướn/Vv/O cặp/Nq/O mỏ/Nn/O thanh_mảnh/Aa/O của/Cm/O mình/Pp/O hót/Vv/O lên/R/O lanh_lảnh/Aa/O nghe/Vv/O như/Cp/O tiếng/Nn/O sáo/Nn/O ./PU/O 
+Họ/Pp/O nhà/Nn/O chim/Nn/O đủ/Aa/O các/Nq/O loại/Nn/O ,/PU/O đủ/Aa/O các/Nq/O màu_sắc/Nn/O ríu_rít/Aa/O bay/Vv/O đến/Cm/O đậu/Vv/O ở/Cm/O những/Nq/O bụi/Nn/O cây/Nn/O quanh/Nn/O hồ/Nn/O ,/PU/O tiếng/Nn/O hót/Vv/O rộn/Vv/O vang/Aa/O cả/Pp/O mặt/Nn/O nước/Nn/O ./PU/O 

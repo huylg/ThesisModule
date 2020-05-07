@@ -1,0 +1,18 @@
+﻿Chuyện/Nn/O một/Nq/NUM_B khu/Nn/O vườn/Nn/O nhỏ/Aa/O 
+Bé/Nn/TTL_B Thu/Nr/PER_B rất/R/O khoái/Aa/O ra/R/O ban_công/Nn/O ngồi/Vv/O với/Cp/O ông/Nn/O nội/Nn/O ,/PU/O nghe/Vv/O ông/Nn/O rủ_rỉ/Vv/O giảng/Vv/O về/Cm/O từng/Pp/O loài/Nn/O cây/Nn/O ./PU/O 
+Cây/Nn/O quỳnh/Nn/O lá/Nn/O dày/Aa/O ,/PU/O giữ/Vv/O được/R/O nước/Nn/O ,/PU/O chẳng/R/O phải/Vv/O tưới/Vv/O nhiều/Aa/O ./PU/O 
+Cây/Nn/O hoa/Nn/O ti_gôn/Nn/O thích/Vv/O leo_trèo/Vv/O ,/PU/O cứ/R/O thò/Vv/O những/Nq/O cái/Nc/O râu/Nn/O ra/D/O ,/PU/O theo/Vv/O gió/Nn/O mà/Cp/O ngọ_nguậy/Vv/O như/Cp/O những/Nq/O cái/Nc/O vòi_voi/Nn/O bé_xíu/Aa/O ./PU/O 
+Cây/Nn/O hoa_giấy/Nn/O mọc/Vv/O ngay/R/O bên/Nn/O cạnh/Nn/O bị/Vv/O nó/Pp/O cuốn/Vv/O chặt/Vv/O một/Nq/NUM_B cành/Nn/O ./PU/O 
+Những/Nq/O chiếc/Nc/O vòi/Nn/O quấn/Vv/O chắc/Aa/O nhiều/Aa/O vòng/Nn/O ,/PU/O rồi/Cp/O một/Nq/NUM_B chùm/Nn/O ti_gôn/Nn/O hé/Vv/O nở/Vv/O ./PU/O 
+Cây/Nn/O đa/Nn/O Ấn_Độ/Nr/LOC_B thì/Cp/O liên_tục/Aa/O bật/Vv/O ra/D/O những/Nq/O búp/Nn/O đỏ/Aa/O hồng/Aa/O nhọn_hoắt/Aa/O ./PU/O 
+Khi/Nt/O đủ/Aa/O lớn/Aa/O ,/PU/O nó/Pp/O xòe/Nn/O ra/R/O thành/Vv/O chiếc/Nc/O lá/Nn/O nâu/Aa/O rõ/Aa/O to/Aa/O ,/PU/O ở/Vv/O trong/Vv/O lại/R/O hiện/Vv/O ra/R/O cái/Nc/O búp/Nn/O đa/Nn/O mới/Aa/O nhọn_hoắt/Aa/O ,/PU/O đỏ/Aa/O hồng/Aa/O .../PU/O 
+Có_điều/Cp/O Thu/Nr/PER_B chưa/R/O vui/Aa/O :/PU/O Cái_Hằng/Nr/PER_B ở/Cm/O nhà/Nn/O dưới/Nn/O cứ/R/O bảo_ban/Vv/O công/Nn/O nhà/Nn/O Thu_không/Nn/O phải/Vv/O là/Vc/O vườn/Nn/O !/PU/O 
+Một/Nq/O sớm/Nt/O chủ_nhật/Nt/DTM_B đầu/Nn/DTM_I xuân/Nt/DTM_I ,/PU/O khi/Nt/O mặt_trời/Nn/O vừa/R/O hé/Vv/O mây/Nn/O nhìn/Vv/O xuống/D/O ,/PU/O Thu/Nr/PER_B phát_hiện/Vv/O ra/R/O chú/Pp/O chim/Nn/O lông/Nn/O xanh_biếc/Aa/O sà/Vv/O xuống/D/O cành/Nn/O lựu/Nn/O ./PU/O 
+Nó/Pp/O săm_soi/Vv/O ,/PU/O mổ/Vv/O mổ/Vv/O mấy/Nq/O con/Nc/O sâu/Nn/O rồi/Cp/O thản_nhiên/Aa/O rỉa/Nq/O cánh/Nn/O ,/PU/O hót/Vv/O lên/R/O mấy/Nq/O tiếng/Nt/O líu_ríu/Aa/O ./PU/O 
+Thu/Vv/O vội/Aa/O xuống/D/O nhà/Nn/O Hằng/Nr/PER_B mời/Vv/O bạn/Pp/O lên/Vd/O xem/Vv/O để/Cm/O biết/Vv/O rằng/Cp/O :/PU/O Ban_công/Nn/O có/Ve/O chim/Nn/O về/Cm/O đậu/Vv/O tức_là/Vv/O vườn/Nn/O rồi/R/O !/PU/O 
+Chẳng/R/O ngờ/Vv/O ,/PU/O khi/Nt/O hai/Nq/NUM_B bạn/Nn/O lên/Vv/O đến/Cm/O nơi/Nn/O thì/Cp/O chú/Nc/O chim/Nn/O đã/R/O bay/Vv/O đi/Vv/O ./PU/O 
+Sợ/Vv/O Hằng/Nr/PER_B không/R/O tin/Vv/O ,/PU/O Thu/Nr/PER_B cầu_viện/Vv/O ông/Nn/O :/PU/O 
+Ông/Pp/O ơi/E/O ,/PU/O đúng/Aa/O là/Vc/O có/Ve/O chú/Nc/O chim/Nn/O vừa/R/O đỗ/Vv/O ở/Cm/O đây/Pd/O bắt/Vv/O sâu/Aa/O và/Cp/O hót/Vv/O nữa/R/O ông/Nn/O nhỉ/M/O !/PU/O 
+Ông/Nn/O nó/Pp/O hiền_hậu/Aa/O quay/Vv/O lại/R/O xoa/Vv/O đầu/Nn/O cả/Pp/O hai/Nq/NUM_B đứa/Nc/O :/PU/O 
+Ừ/E/O ,/PU/O đúng/Aa/O rồi/R/O !/PU/O 
+Đất_lành_chim_đậu/Nn/O ,/PU/O có/Ve/O gì/M/O lạ/Aa/O đâu/R/O hả/M/O cháu/Nn/O ?/PU/O 

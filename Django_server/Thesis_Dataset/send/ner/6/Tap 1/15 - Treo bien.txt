@@ -1,0 +1,17 @@
+﻿Treo/Nr/BRN_B biển/Nn/O 
+Một/Nq/NUM_B cửa_hàng/Nn/O bán/Vv/O cá/Nn/O làm/Vv/O cái/Nc/O biển/Nn/O đề/Nn/O mấy/Nq/O chữ/Nn/O to_tướng/Aa/O :/PU/O 
+"/PU/O Ở/Cm/O đay/Nn/O có/R/O bán/Vv/O cá/Nn/O tươi/Aa/O "/PU/O 
+Biển/Nn/O vừa/R/O treo/Vv/O lên/R/O ,/PU/O có/Ve/O người/Nn/O qua/Cm/O đường/Nn/O xem/Vv/O ,/PU/O cười/Vv/O bảo/Vv/O :/PU/O 
+-/PU/O Nhà/Nn/O này/Pd/O xưa/Aa/O quen/Aa/O bán/Vv/O cá/Nn/O ươn/Aa/O hay/Cp/O sao/Pp/O mà/Cp/O bây_giờ/Pd/O phải/Vv/O đề/Nn/O biển/Nn/O là/Vc/O cá/Nn/O "/PU/O tươi/Aa/O "/PU/O ?/PU/O 
+Nhà_hàng/Nn/O nghe/Vv/O nói/Vv/O ,/PU/O bỏ/Vv/O ngay/R/O chữ/Nn/O "/PU/O tươi/Aa/O "/PU/O đi/Vv/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O có/Ve/O người/Nc/O khách/Nn/O đến/Vd/O mua/Vv/O cá/Nn/O ,/PU/O cũng/R/O nhìn/Vv/O lên/R/O biển/Nn/O ,/PU/O cười/Vv/O bảo/Vv/O :/PU/O 
+-/PU/O Người_ta/Pp/O chẳng_nhẽ/Nn/O ra/R/O hàng/Nn/O hoa/Aa/O mua/Vv/O cá/Nn/O hay/Cp/O sao/Pp/O ,/PU/O mà/Cp/O phải/Vv/O đề/Nn/O là/Vc/O "/PU/O ở/Cm/O đây/Pd/O "/PU/O ?/PU/O 
+Nhà_hàng/Nn/O nghe/Vv/O nói/Vv/O ,/PU/O bỏ/Vv/O ngay/R/O hai/Nq/NUM_B chữ/Nn/O "/PU/O ở/Cm/O đây/Pd/O "/PU/O đi/Vv/O ./PU/O 
+Cách/Vv/O vài/Nq/O hôm/Nt/O ,/PU/O lại/R/O có/Ve/O một/Nq/NUM_B người/Nc/O khách/Nn/O đến/Vd/O mua/Vv/O cá/Nn/O ,/PU/O cũng/R/O nhìn/Vv/O lên/R/O biển/Nn/O ,/PU/O cười/Vv/O bảo/Vv/O :/PU/O 
+-/PU/O Ở/Cm/O đây/Pd/O chẳng/R/O bán/Vv/O cá/Nn/O thì/Cp/O bày/Vv/O cá/Nn/O ra/D/O để/Cm/O khoe/Vv/O hay/Cp/O sao/Pp/O mà/Cp/O phải/Vv/O đề/Nn/O là/Vc/O "/PU/O có/R/O bán/Vv/O "/PU/O ?/PU/O 
+Nhà_hàng/Nn/O nghe/Vv/O nói/Vv/O lại/R/O bỏ/Vv/O ngay/R/O hai/Nq/NUM_B chữ/Nn/O "/PU/O có/R/O bán/Vv/O "/PU/O đi/Vv/O ./PU/O 
+Thành_ra/Cp/O biển/Nn/O chỉ/R/O còn/R/O có/Ve/O mỗi_một/Nq/O chữ/Nn/O "/PU/O cá/Nn/O "/PU/O ./PU/O 
+Anh/Nn/O ta/Pp/O nghĩ/Vv/O trong/Cm/O bụng/Nn/O chắc/Aa/O từ/Cm/O bây_giờ/Pd/O không/R/O còn/Ve/O ai/Pp/O bắt_bẻ/Vv/O gì/Pp/O nữa/R/O ./PU/O 
+Vài/Nq/O hôm/Nt/O sau/Nn/O ,/PU/O người/Nc/O láng_giềng/Nn/O sang/Cm/O chơi/Vv/O ,/PU/O nhìn/Vv/O cái/Nc/O biển/Nn/O ,/PU/O nói/Vv/O :/PU/O 
+-/PU/O Chưa/R/O đi/Vv/O đến/Cm/O đầu/Nn/O phố/Nn/O đã/R/O ngửi/Vv/O mùi/Nn/O tanh/Aa/O ,/PU/O đến/Cm/O gần/Aa/O nhà/Nn/O thấy/Vv/O đầy/Aa/O những/Nq/O cá/Nn/O ,/PU/O ai/Pp/O chẳng/R/O biết/Vv/O là/Cp/O bán/Vv/O cá/Nn/O ,/PU/O còn/Cp/O đề/Nn/O biển/Nn/O làm/Vv/O gì/Pp/O nữa/R/O ?/PU/O 
+Thế/Pp/O là/Vc/O nhà_hàng/Nn/O cất/Vv/O nốt/R/O cái/Nc/O biển/Nn/O !/PU/O 

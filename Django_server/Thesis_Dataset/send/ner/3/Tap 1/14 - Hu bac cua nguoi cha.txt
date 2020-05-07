@@ -1,0 +1,26 @@
+﻿Hũ/Nr/PER_B bạc/Nn/O của/Cm/O người/Nc/O cha/Nn/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O có/Ve/O một/Nq/NUM_B nông_dân/Nn/O người/Nn/O Chăm/Nr/O rất/R/O siêng_năng/Aa/O ./PU/O 
+Về/Cm/O già/Aa/O ,/PU/O ông/Nn/O để_dành/Vv/O được/R/O một/Nq/O hũ/Nn/O bạc/Nn/O ./PU/O 
+Tuy_vậy/Cp/O ,/PU/O ông/Nn/O rất/R/O buồn/Aa/O vì/Cp/O cậu/Nc/O con_trai/Nn/O lười_biếng/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O ông/Nn/O bảo/Vv/O con/Nn/O :/PU/O 
+Cha/Nn/O muốn/Vv/O trước/Nn/O khi/Nt/O nhắm_mắt/Vv/O thấy/Vv/O con/Nn/O kiếm/Vv/O nổi/R/O bát/Nn/O cơm/Nn/O ./PU/O 
+Con/Pp/O hãy/R/O đi/Vv/O làm/Vv/O và/Cp/O mang/Vv/O tiền/Nn/O về/Cm/O đây/Pd/O !/PU/O 
+Bà/Nn/O mẹ/Nn/O sợ/Vv/O con/Nn/O vất_vả/Aa/O ,/PU/O liền/R/O dúi/Vv/O cho/Cp/O một_ít/Nq/O tiền/Nn/O ./PU/O 
+Anh/Nn/O này/Pd/O cầm/Vv/O tiền/Nn/O đi/Vv/O chơi/Vv/O mấy/Nq/O hôm/Nt/O ,/PU/O khi/Nt/O chỉ/R/O còn/Ve/O vài/Nq/O đồng/Nu/O mới/Cp/O trở_về/Vv/O đưa/Vv/O cho/Cp/O cha/Nn/O ./PU/O 
+Người/Nn/O cha/Nn/O vứt/Vv/O ngay/R/O nắm/Vv/O tiền/Nn/O xuống/D/O ao/Nn/O ./PU/O 
+Thấy/Vv/O con/Nn/O vẫn/R/O thản_nhiên/Aa/O ,/PU/O ông/Nn/O nghiêm/Aa/O giọng/Nn/O :/PU/O 
+Đây/Pd/O không/R/O phải/Aa/O tiền/Nn/O con/Nn/O làm/Vv/O ra/R/O ./PU/O 
+Người/Nn/O con/Nn/O lại/R/O ra_đi/Vv/O ./PU/O 
+Bà/Nn/O mẹ/Nn/O chỉ/R/O dám/Vv/O cho/Cp/O ít/Aa/O tiền/Nn/O ăn_đường/Vv/O ./PU/O 
+Ăn/Vv/O hết/Ve/O tiền/Nn/O ,/PU/O anh/Nn/O ta/Pp/O đành/Vv/O tìm/Vv/O vào/Cm/O một/Nq/NUM_B làng/Nu/O xin/Vv/O xay/Vv/O thóc/Nn/O thuê/Vv/O ./PU/O 
+Xay/Vv/O một/Nq/NUM_B thúng/Nn/O thóc/Nn/O được/Vv/O trả/Vv/O công/Nn/O hai/Nq/NUM_B bát/Nn/O gạo/Nn/O ,/PU/O anh/Nn/O chỉ/R/O dám/Vv/O ăn/Vv/O một/Nq/NUM_B bát/Nn/O ./PU/O 
+Suốt/Aa/O ba/Nq/MEA_B tháng/Nt/MEA_I ,/PU/O dành_dụm/Vv/O được/Vv/O chín/Vv/O mươi/Nq/O bát/Nn/O gạo/Nn/O ,/PU/O anh/Nn/O bán/Vv/O lấy/Vv/O tiền/Nn/O ./PU/O 
+Hôm/Nt/O đó/Pd/O ,/PU/O ông/Nc/O lão/Nn/O đang/R/O ngồi/Vv/O sưởi/Vv/O lửa/Nn/O thì/Cp/O con/Nn/O đem/Vv/O tiền/Nn/O về/D/O ./PU/O 
+Ông/Pp/O liền/R/O ném/Vv/O luôn/R/O mấy/Nq/O đồng/Nu/O vào/Cm/O bếp/Nn/O lửa/Nn/O ./PU/O 
+Người/Nn/O con/Nn/O vội/Aa/O thọc/Vv/O tay/Nn/O vào/D/O lửa/Nn/O lấy/Vv/O ra/D/O ./PU/O 
+Ông/Nn/O lão/Nn/O cười/Vv/O chảy/Vv/O nước_mắt/Nn/O :/PU/O 
+Bây_giờ/Pd/O cha/Nn/O tin/Nn/O tiền/Nn/O đó/Pd/O chính/M/O tay/Nn/O con/Nn/O làm/Vv/O ra/R/O ./PU/O 
+Có/R/O làm_lụng/Vv/O vất_vả/Aa/O ,/PU/O người_ta/Pp/O mới/R/O biết/Vv/O quý/Aa/O đồng_tiền/Nn/O ./PU/O 
+Ông/Nn/O đào/Vv/O hũ/Nn/O bạc/Nn/O lên/Vv/O ,/PU/O đưa/Vv/O cho/Cp/O con/Nn/O và/Cp/O bảo/Vv/O :/PU/O 
+Nếu/Cp/O con/Nn/O lười_biếng/Aa/O ,/PU/O dù/Cp/O cha/Nn/O cho/Cp/O một/Nq/NUM_B trăm/Nq/NUM_I hũ/Nn/O bạc/Nn/O cũng/R/O không/R/O đủ/Aa/O ./PU/O 
+Hũ/Nr/PER_B bạc/Nn/O tiêu/Vv/O không/R/O bao_giờ/Pp/O hết/Nn/O chính/M/O là/Vc/O hai/Nq/NUM_B bàn_tay/Nn/O con/Nn/O ./PU/O 

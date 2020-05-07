@@ -1,0 +1,15 @@
+﻿Một/Nq/NUM_B trường/Nn/O tiểu_học/Nn/O vùng_cao/Nn/O 
+Nghe/Vv/O nói/Vv/O ở/Cm/O xã/Nu/LOC_B Sủng_Thài/Nr/LOC_I có/Ve/O trường/Nn/O nội_trú/Vv/O ,/PU/O chúng_tôi/Pp/O lặn_lội/Vv/O lên/R/O thăm/Vv/O ./PU/O 
+Hội_đồng/Nn/O giáo_viên/Nn/O đang/R/O họp/Vv/O nên/Vv/O em/Nn/TTL_B Sùng_Tờ_Dìn/Nr/PER_B ,/PU/O liên_đội_trưởng/Nr/O ,/PU/O dẫn/Vv/O chúng_tôi/Pp/O đi/Vv/O thăm/Vv/O trường/Nn/O ./PU/O 
+Trường/Nn/O có/Ve/O đủ/Aa/O phòng/Nn/O học/Vv/O cho/Cp/O năm/Nt/O lớp/Nn/O ,/PU/O có/Ve/O bếp/Nn/O ,/PU/O phòng/Nn/O ăn/Vv/O và/Cp/O nhà_ở/Nn/O ./PU/O 
+Các/Nq/O thầy_cô/Nn/O ăn_ở/Vv/O cùng/Cp/O học_sinh/Nn/O ./PU/O 
+Vừa/R/O đi/Vv/O ,/PU/O Dìn/Nr/PER_B vừa/R/O kể/Vv/O :/PU/O 
+Cứ/Vv/O sáng/Nt/DTM_B thứ_hai/Nt/DTM_I ,/PU/O chúng/R/O em/Pp/O đến/D/O trường/Nn/O cùng/Cp/O với/Cp/O gạo/Nn/O ăn/Vv/O một/Nq/MEA_B tuần/Nt/MEA_I ,/PU/O chiều/Nt/DTM_B thứ_bảy/Nt/DTM_I lại/R/O về/Vd/O ./PU/O 
+Nhà/Nn/O ai/Pp/O nghèo/Aa/O thì/Cp/O Ủy/Nq/NUM_B ban/Nn/O xã/Nu/O giúp/Vv/O gạo/Nn/O ./PU/O 
+Tôi/Pp/O hỏi/Vv/O :/PU/O 
+Hằng/R/O ngày/Nt/O ,/PU/O các/Nq/O em/Nn/O làm_việc/Vv/O gì/Pp/O ?/PU/O 
+Buổi/Nt/O sáng/Nt/O ,/PU/O chúng/R/O em/Pp/O học/Vv/O trên/Cm/O lớp/Nn/O ,/PU/O buổi/Nt/O chiều/Nt/O làm/Vv/O bài/Nc/O ./PU/O 
+Ngoài/Nn/O giờ/Nt/O học/Vv/O ,/PU/O chúng/R/O em/Pp/O hát/Vv/O múa/Vv/O ,/PU/O chơi/Vv/O thể_thao/Nn/O hoặc/Cp/O trồng/Vv/O rau/Nn/O ,/PU/O nuôi/Vv/O gà/Nn/O để/Cm/O cải_thiện/Vv/O bữa/Nn/O ăn/Vv/O ./PU/O 
+Đi/Vv/O học/Vv/O cả/Pp/O tuần/Nt/O ,/PU/O Dìn/Nr/PER_B có/R/O nhớ/Vv/O nhà/Nn/O không/R/O ?/PU/O 
+Lúc/Nt/O đầu/Aa/O ,/PU/O chúng/R/O em/Pp/O cũng/R/O nhớ/Vv/O ,/PU/O nhưng/Cp/O ở/Cm/O trường/Nn/O rất/R/O vui/Aa/O ./PU/O 
+Về/Cm/O nhà/Nn/O ,/PU/O ai/Pp/O cũng/R/O mong/Vv/O sớm/Aa/O đến/Cm/O sáng/Nt/DTM_B thứ_hai/Nt/DTM_I để/Vv/O lại/R/O được/Vv/O gặp/Vv/O nhau/Nn/O ./PU/O 

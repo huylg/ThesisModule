@@ -1,0 +1,9 @@
+﻿Cháy/Vv/O nhà_hàng_xóm/Nn/O 
+Trong/Cm/O làng/Nu/O nọ/Pd/O có/Ve/O nhà/Nn/O bị/Vv/O cháy/Vv/O ./PU/O 
+Cả/Pp/O làng/Nu/O đổ/Vv/O ra/D/O ,/PU/O kẻ/Nn/O thùng/Nn/O ,/PU/O người/Nc/O chậu/Nn/O ,/PU/O ai_nấy/Pp/O ra_sức/Vv/O tìm/Vv/O cách/Nn/O dập/Vv/O đám/Nn/O cháy/Vv/O ./PU/O 
+Riêng/M/O có/Ve/O một/Nq/NUM_B người/Nc/O nhà/Nn/O ở/Cm/O ngay/M/O bên/Nn/O cạnh/Nn/O vẫn/R/O trùm_chăn/Nn/O ,/PU/O bình_chân_như_vại/ID/O ,/PU/O nghĩ/Vv/O :/PU/O 
+Cháy/Vv/O nhà_hàng_xóm/Nn/O ,/PU/O chẳng/R/O việc/Nn/O gì/M/O mình/Pp/O phải/Vv/O bận_tâm/Aa/O ./PU/O 
+Nào_ngờ/Cp/O ,/PU/O lửa/Nn/O mỗi/Nq/O lúc/Nt/O một/Nq/NUM_B to/Nn/O ,/PU/O gió/Nn/O thổi/Vv/O mạnh/Aa/O làm/Vv/O tàn/Vv/O lửa/Nn/O bay/Vv/O tứ_tung/Aa/O ,/PU/O bén/Vv/O sang/Cm/O mái_nhà/Nn/O ông/Nn/O ta/Pp/O ./PU/O 
+Lúc/Nt/O bấy_giờ/Pd/O người/Nn/O kia/Pd/O mới/R/O chồm/Vv/O dậy/Vv/O ,/PU/O cuống_cuồng/Aa/O tìm/Vv/O cách/Nn/O dập/Vv/O lửa/Nn/O ./PU/O 
+Nhưng/Cp/O không/R/O kịp/Aa/O nữa/R/O rồi/R/O ./PU/O 
+Nhà_cửa/Nn/O ,/PU/O của_cải/Nn/O của/Cm/O ông/Nn/O ta/Pp/O đã/R/O bị/Vv/O ngọn/Nc/O lửa/Nn/O thiêu/Vv/O sạch/Aa/O ./PU/O 

@@ -1,0 +1,17 @@
+﻿Ngu/Nr/ORG_B Công_xã/Nn/ORG_I Trịnh_Tường/Nr/ORG_I 
+Khách/Nn/O đến/Vd/O xã/Nu/LOC_B Trịnh_Tường/Nr/LOC_I ,/PU/O huyện/Nu/LOC_B Bát_Xát/Nr/LOC_I ,/PU/O tỉnh/Nu/LOC_B Lào_Cai/Nr/LOC_I sẽ/R/O không/R/O khỏi/Vv/O ngỡ_ngàng/Aa/O thấy/Vv/O một/Nq/NUM_B dòng/Nn/O mương/Nn/O ngoằn_ngoèo/Aa/O vắt/Vv/O ngang/Aa/O những/Nq/O đồi/Nn/O cao/Aa/O ./PU/O 
+Dân/Nn/O bản/Nc/O gọi/Vv/O dòng/Nn/O mương/Nn/O ấy/Pd/O là/Vc/O con_nước/Nn/O ông/Nn/TTL_B Lìn/Nr/PER_B ./PU/O 
+Để/Cm/O thay_đổi/Vv/O tập_quán/Nn/O làm/Vv/O lúa_nương/Nn/O ,/PU/O ông/Nn/TTL_B Phàn_Phù_Lìn/Nr/PER_B ,/PU/O người/Nn/O Dao/Nr/O ở/Cm/O thôn/Nu/LOC_B Phin_Ngan/Nr/LOC_I đã/R/O lần_mò/Vv/O cả/Pp/O tháng/Nt/O trong/Cm/O rừng/Nn/O tìm/Vv/O nguồn/Nn/O nước/Nn/O ./PU/O 
+Nhưng/Cp/O tìm/Vv/O được/R/O nguồn/Nn/O nước/Nn/O rồi/R/O ,/PU/O mọi/Nq/O người/Nn/O vẫn/R/O không/R/O tin/Vv/O có_thể/Aa/O dẫn/Vv/O nước/Nn/O về/D/O ./PU/O 
+Ông/Nn/O cùng/Cp/O vợ_con/Nn/O đào/Vv/O suốt/Aa/O một/Nq/MEA_B năm/Nt/MEA_I trời/M/O được/Vv/O gần/Aa/O bốn/Nq/MEA_B cây_số/Nu/MEA_I mương/Nn/O xuyên/Vv/O đồi/Nn/O dẫn/Vv/O nước/Nn/O từ/Cm/O rừng_già/Nn/O về/Cm/O thôn/Nu/O ,/PU/O trồng/Vv/O một/Nq/MEA_B héc_ta/Nu/MEA_I lúa/Nn/O nước/Nn/O để/Cm/O bà_con/Nn/O tin/Nn/O ./PU/O 
+Rồi/Cp/O ông/Nn/O vận_động/Vv/O mọi/Nq/O người/Nn/O cùng/Aa/O mở_rộng/Vv/O con/Nc/O mương/Nn/O ,/PU/O vỡ/Vv/O thêm/Vv/O đất/Nn/O hoang/Aa/O trồng/Vv/O lúa/Nn/O ./PU/O 
+Con_nước/Nr/O nhỏ/Aa/O đã/R/O làm/Vv/O thay_đổi/Vv/O tập_quán/Nn/O canh_tác/Vv/O và/Cp/O cuộc_sống/Nn/O của/Cm/O trên/Nn/O 50/Nq/NUM_B hộ/Nn/O trong/Cm/O thôn/Nu/O ./PU/O 
+Những/Nq/O nương/Nn/O lúa/Nn/O quanh_năm/Nn/O khát/Vv/O nước/Nn/O được/Vv/O thay/Vv/O dần/R/O bằng/Cm/O ruộng_bậc_thang/Nn/O ./PU/O 
+Những/Nq/O giống/Nn/O lúa/Nn/O lai/Aa/O cao_sản/Aa/O được/Vv/O ông/Nn/TTL_B Lìn/Nr/PER_B đưa/Vv/O về/D/O vận_động/Vv/O bà_con/Nn/O trồng/Vv/O cấy/Vv/O ,/PU/O nhờ/Cm/O vậy/Pp/O mà/Cp/O cả/M/O thôn/Nu/O không/R/O còn/Ve/O hộ/Nn/O đói/Aa/O ./PU/O 
+Từ/Cm/O khi/Nt/O nước/Nn/O được/Vv/O dẫn/Vv/O về/Cm/O thôn/Nu/O ,/PU/O nhà/Nn/O ai/Pp/O cũng/R/O cấy/Vv/O lúa/Nn/O nước/Nn/O chứ/Cp/O không/R/O phá/Vv/O rừng/Nn/O làm/Vv/O nương/Nn/O như/Cp/O trước/Nn/O nữa/R/O ./PU/O 
+Muốn/Vv/O có/Ve/O nước/Nn/O cấy/Vv/O lúa/Nn/O thì/Cp/O phải/Vv/O giữ/Vv/O rừng/Nn/O ,/PU/O ông/Nn/TTL_B Lìn/Nr/PER_B lặn_lội/Vv/O đến/D/O các/Nq/O xã/Nu/O bạn_học/Nn/O cách/Nn/O trồng/Vv/O cây_thảo/Nn/O quả/Nn/O về/Cm/O hướng_dẫn/Vv/O cho/Cp/O bà_con/Nn/O cùng/Aa/O làm/Vv/O ./PU/O 
+Nhiều/Aa/O hộ/Nn/O trong/Cm/O thôn/Nu/O mỗi/Nq/O năm/Nt/DTM_B thu/Nt/DTM_I được/Vv/O mấy/Nq/O chục/Nq/O triệu/Nq/O đồng/Nu/O từ/Cm/O loại/Nn/O cây/Nn/O này/Pd/O ./PU/O 
+Riêng/M/O gia_đình/Nn/O ông/Nn/TTL_B Un_mỗi/Nr/PER_B năm/Nt/DTM_B thu/Nt/DTM_I hai/Nq/NUM_B trăm/Nq/NUM_I triệu/Nq/NUM_I ./PU/O 
+Phin_Ngan/Nr/PER_B từ/Cm/O thôn/Nu/O nghèo/Aa/O nhất/R/O đã/R/O vươn/Vv/O lên/R/O thành/Vv/O thôn/Nu/O có/Ve/O mức_sống/Nn/O khá/R/O nhất/R/O của/Cm/O xã/Nu/ORG_B Trịnh_Tường/Nr/ORG_I ./PU/O 
+Chuyện/Nn/O của/Cm/O Ngu_Công_xã/Nr/ORG_B Trịnh_Tường/Nr/LOC_B nhanh_chóng/Aa/O bay/Vv/O về/D/O Thủ_đô/Nn/O ./PU/O 
+Ông/Nn/TTL_B Phàn_Phù_Lìn/Nr/PER_B vinh_dự/Aa/O được/Vv/O Chủ_tịch/Nn/O nước/Nn/O gửi/Vv/O thư/Nn/O khen_ngợi/Vv/O ./PU/O 

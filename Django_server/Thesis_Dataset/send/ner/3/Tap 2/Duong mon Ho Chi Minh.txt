@@ -1,0 +1,13 @@
+﻿Trên/Cm/O đường_mòn/Nn/LOC_B Hồ_Chí_Minh/Nr/LOC_I 
+Đường/Nn/O lên/Vv/O dốc/Nn/O trơn/Aa/O và/Cp/O lầy/Nn/O ./PU/O 
+Người/Nn/O nọ/Pd/O đi/Vv/O tiếp/Vv/O sau/Nn/O người/Nn/O kia/Pd/O ./PU/O 
+Đoàn/Nn/O quân/Nn/O nối/Vv/O thành/Vv/O vệt/Nn/O dài/Aa/O từ/Cm/O thung_lũng/Nn/O tới/Aa/O đỉnh_cao/Nn/O như/Cp/O một/Nq/NUM_B sợi/Nn/O dây/Nn/O kéo/Vv/O thẳng_đứng/Aa/O ./PU/O 
+Họ/Pp/O nhích/Vv/O từng/Pp/O bước/Nn/O ./PU/O 
+Nhìn/Vv/O lên/R/O chỉ/R/O thấy/Vv/O những/Nq/O chiếc/Nc/O ba_lô/Nn/O lù_lù/Aa/O nối/Vv/O nhau/Nn/O trên/Cm/O những/Nq/O cái/Nc/O lưng/Nn/O cong_cong/Aa/O ./PU/O 
+Nhìn/Vv/O xuống/D/O là/Cp/O những/Nq/O chiếc/Nc/O mũ_tai_bèo/Nn/O lúp_xúp/Aa/O trên/Cm/O những/Nq/O mái/Nn/O đầu/Aa/O đang/R/O cắm/Vv/O về/Cm/O phía/Nn/O trước/Nn/O ./PU/O 
+Những/Nq/O khuôn_mặt/Nn/O đỏ_bừng/Aa/O ./PU/O 
+Đoàn/Nn/O quân/Nn/O đột_ngột/Aa/O chuyển/Vv/O mạnh/Aa/O ./PU/O 
+Những/Nq/O dặm/Nu/O rừng/Nn/O đỏ/Aa/O lên/R/O vì/Cp/O bom/Nn/O Mĩ/Nr/LOC_B ./PU/O 
+Những/Nq/O dặm/Nu/O rừng/Nn/O xám/Aa/O đi/R/O vì/Cp/O chất_độc_hóa/Nn/O học/Vv/O Mĩ/Nr/PER_B ./PU/O 
+Những/Nq/O dặm/Nu/O rừng/Nn/O đen/Aa/O lại/R/O ,/PU/O cây/Nn/O cháy/Vv/O thành/Vv/O than/Nn/O chọc/Vv/O lên/R/O nền/Nc/O trời/Nn/O mây/Nn/O .../PU/O 
+Tất_cả/Nq/O ,/PU/O tất_cả/Nq/O lướt/Vv/O qua/D/O rất/R/O nhanh/Aa/O ./PU/O 

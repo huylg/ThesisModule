@@ -1,0 +1,26 @@
+﻿Chiếc/Nc/O bút/Nn/O mực/Nn/O 
+Ở/Cm/O lớp/Nn/O 1A/Nr/O ,/PU/O học_sinh/Nn/O bắt_đầu/Vv/O được/Vv/O viết/Vv/O bút/Nn/O mực/Nn/O ,/PU/O chỉ/R/O còn/Cp/O Mai/Nr/PER_B và/Cp/O Lan/Nr/PER_B vẫn/R/O phải/Vv/O viết/Vv/O bút_chì/Nn/O ./PU/O 
+Sáng/Nt/O hôm/Nt/O ấy/Pd/O ,/PU/O cô_giáo/Nn/O gọi/Vv/O Lan/Nr/PER_B lên/D/O bàn/Vv/O cô/Nn/O lấy/Vv/O mực/Nn/O ./PU/O 
+Mai/Nt/O hồi_hộp/Vv/O nhìn/Vv/O cô/Nn/O ,/PU/O nhưng/Cp/O cô/Nn/O chẳng/R/O nói/Vv/O gì/M/O ./PU/O 
+Mai/Nt/O buồn/Aa/O lắm/R/O ./PU/O 
+Thế/Pp/O là/Vc/O trong/Cm/O lớp/Nn/O chỉ/R/O còn/Ve/O mình/Pp/O em/Pp/O viết/Vv/O bút_chì/Nn/O ./PU/O 
+Bỗng_Lan/Nr/PER_B gục/Vv/O đầu/Nn/O xuống/D/O bàn/Nn/O khóc/Vv/O nức_nở/Vv/O ./PU/O 
+Cô_giáo/Nn/O ngạc_nhiên/Vv/O :/PU/O 
+Em/Pp/O làm_sao/Pp/O thế/Pp/O ?/PU/O 
+Lan/Nr/PER_B nói/Vv/O trong/Cm/O nước_mắt/Nn/O :/PU/O 
+Tối_qua/Nt/DTM_B ,/PU/O anh_trai/Nn/O em/Pp/O mượn/Vv/O bút/Nn/O ,/PU/O quên/Vv/O không/R/O bỏ/Vv/O vào/D/O cặp/Nq/O cho/Cp/O em/Pp/O ./PU/O 
+Lúc/Nt/DTM_B này/Pd/DTM_I ,/PU/O Mai/Nr/PER_B cứ/R/O loay_hoay/Vv/O mãi/R/O với/Cp/O cái/Nc/O hộp/Nn/O đựng/Vv/O bút/Nn/O ./PU/O 
+Em/Pp/O mở/Vv/O ra/D/O ,/PU/O đóng/Vv/O lại/R/O .../PU/O 
+Cuối_cùng/Aa/O ,/PU/O em/Pp/O lấy/Vv/O bút/Nn/O đưa/Vv/O cho/Cp/O Lan/Nr/PER_B :/PU/O 
+Bạn/Pp/O cầm/Vv/O lấy/Vv/O ./PU/O 
+Mình/Pp/O đang/R/O viết/Vv/O bút_chì/Nn/O ./PU/O 
+Lan/Nr/PER_B rất/R/O ngạc_nhiên/Vv/O ./PU/O 
+Còn/Cp/O cô_giáo/Nn/O thì/Cp/O rất/R/O vui/Aa/O ./PU/O 
+Cô/Nn/O khen/Vv/O :/PU/O 
+Mai/Nt/O ngoan/Aa/O lắm/R/O !/PU/O 
+Nhưng/Cp/O hôm_nay/Nt/DTM_B cô/Nn/O cũng/R/O định/Vv/O cho/Cp/O em/Pp/O viết/Vv/O bút/Nn/O mực/Nn/O vì/Cp/O em/Pp/O viết/Vv/O khá/R/O rồi/R/O ./PU/O 
+Mai/Nt/O thấy/Vv/O tiếc/Vv/O nhưng/Cp/O rồi/Cp/O em/Pp/O nói/Vv/O :/PU/O 
+Thôi/E/O cô/Pp/O ạ/M/O ,/PU/O cứ/Vv/O để/Vv/O bạn/Nn/TTL_B Lan/Nr/PER_B viết/Vv/O trước/Nn/O ./PU/O 
+Cô_giáo/Nn/O mỉm_cười/Vv/O ,/PU/O lấy/Vv/O trong/Cm/O cặp/Nq/O ra/Vv/O một/Nq/NUM_B chiếc/Nc/O bút/Nn/O mới_tinh/Aa/O ./PU/O 
+Cô/Nn/O cho/Cp/O em/Pp/O mượn/Vv/O ./PU/O 
+Em/Pp/O thật/R/O đáng/Vv/O khen/Vv/O ./PU/O 

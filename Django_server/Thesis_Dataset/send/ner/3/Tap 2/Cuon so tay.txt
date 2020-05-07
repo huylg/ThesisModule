@@ -1,0 +1,27 @@
+﻿Cuốn/Nc/O sổ_tay/Nn/O 
+Tuấn/Nr/PER_B và/Cp/O Lân/Nr/PER_B ra/Vd/O chơi/Vv/O muộn/Aa/O ./PU/O 
+Lúc/Nt/O đi/Vv/O ngang/Aa/O qua/D/O bàn/Nn/O Thanh/Nr/PER_B ,/PU/O chợt/R/O thấy/Vv/O quyển/Nc/O sổ/Nn/O để/Cm/O trên/Cm/O bàn/Nn/O ,/PU/O Tuấn/Nr/PER_B tò_mò/Aa/O ,/PU/O toan/Vv/O cầm/Vv/O lên/R/O xem/Vv/O ./PU/O 
+Lân/Nr/PER_B vội/Aa/O can/Nn/O :/PU/O 
+Đừng/R/O !/PU/O 
+Sao/Pp/O lại/R/O xem/Vv/O sổ_tay/Nn/O của/Cm/O bạn/Pp/O ?/PU/O 
+Vừa/R/O lúc/Nt/O ấy/Pd/O ,/PU/O Thanh/Nr/PER_B bước/Vv/O vào/D/O ./PU/O 
+Nghe/Vv/O Lân/Nr/PER_B nói/Vv/O ,/PU/O Thanh/Nr/PER_B bảo/Vv/O :/PU/O 
+Để/Cm/O mang/Vv/O ra/D/O sân/Nn/O cùng/Aa/O xem/Vv/O !/PU/O 
+Các/Nq/O bạn/Pp/O đang/R/O đố/Vv/O nhau/Nn/O về/Cm/O các/Nq/O nước/Nn/O ,/PU/O nhờ/Cm/O tớ/Pp/O làm/Vv/O trọng_tài/Nn/O ./PU/O 
+Cả/Pp/O ba/Nq/NUM_B cùng/Nn/O chạy/Vv/O ào/R/O ra/D/O sân/Nn/O ./PU/O 
+Quyển/Nc/O sổ/Nn/O được/Vv/O mở/Vv/O ra/D/O ./PU/O 
+Những/Nq/O dòng/Nn/O chữ/Nn/O nắn_nót/Vv/O ghi/Vv/O nội_dung/Nn/O họp/Vv/O ,/PU/O các/Nq/O việc/Nn/O cần/Vv/O làm/Vv/O ,/PU/O những/Nq/O chuyện/Nn/O lí_thú/Nn/O .../PU/O 
+Thanh/Nr/PER_B lên_tiếng/Vv/O :/PU/O 
+Đây/Pd/O rồi/R/O !/PU/O 
+Mô-na-cô/Nn/O đúng/Aa/O là/Vc/O nước/Nn/O vào/Cm/O loại/Nn/O nhỏ/Aa/O nhất/R/O ,/PU/O diện_tích/Nn/O chỉ/R/O gần/Aa/O bằng/Cm/O nửa/Nq/O Hồ_Tây/Nr/PER_B ở/Cm/O thủ_đô/Nn/LOC_B Hà_Nội/Nr/LOC_I ./PU/O 
+Nhưng/Cp/O Va-ti-căng/Nn/O còn/R/O nhỏ/Aa/O hơn/Aa/O :/PU/O Quốc_gia/Nn/O đặc_biệt/Aa/O này/Pd/O rộng/Aa/O chưa/R/O bằng/Cm/O một/Nq/NUM_B phần/Nn/O năm/Nt/DTM_B Mô-na-cô/Nt/DTM_I ./PU/O 
+Nước/Nn/O lớn/Aa/O nhất/R/O là/Vc/O Nga/Nr/ORG_B ,/PU/O rộng/Aa/O hơn/Aa/O nước/Nn/O ta/Pp/O trên/Cm/O 50/Nq/NUM_B lần/Nn/O ./PU/O 
+Bốn/Nq/NUM_B ,/PU/O năm/Nt/O bạn/Nn/O cùng/Aa/O reo/Vv/O lên/R/O ./PU/O 
+Riêng/M/O Tùng/Nr/PER_B chưa/R/O chịu/Vv/O thua/Vv/O :/PU/O 
+Thế/Pp/O nước/Nn/O nào/Pd/O ít/Aa/O dân/Nn/O nhất/R/O ?/PU/O 
+Tất_cả/Nq/O nhìn/Vv/O nhau/Nn/O ,/PU/O rồi/Cp/O nhìn/Vv/O Tùng/Nr/PER_B ./PU/O 
+Anh_chàng/Nn/O vẻ/Nn/O rất/R/O tự_tin/Aa/O :/PU/O 
+Cũng/R/O là/Vc/O Va-ti-căng/Nt/DTM_B ./PU/O 
+Đúng/Aa/O đấy/M/O !/PU/O 
+-/PU/O Thanh/Nr/PER_B giải_thích/Vv/O -/PU/O Va-ti-căng/Nn/O chỉ/R/O có/Ve/O khoảng/Nn/O 700/Nq/NUM_B người/Nn/O ./PU/O 
+Còn/Cp/O nước/Nn/O đông/Aa/O dân/Nn/O nhất/An/O là/Vc/O Trung_Quốc/Nr/ORG_B :/PU/O hơn/Aa/O 1/Nq/NUM_B tỉ/Nq/NUM_I 200/Nq/NUM_I triệu/Nq/NUM_I ./PU/O 

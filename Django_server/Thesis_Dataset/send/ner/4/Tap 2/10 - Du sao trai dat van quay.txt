@@ -1,0 +1,14 @@
+﻿Dù_sao/Cp/O trái_đất/Nn/O vẫn/R/O quay/Vv/O !/PU/O 
+Xưa/Nt/O kia/Pd/O ,/PU/O người_ta/Pp/O cứ/R/O nghĩ/Vv/O rằng/Cp/O trái_đất/Nn/O là/Vc/O trung_tâm/Nn/O của/Cm/O vũ_trụ/Nn/O ,/PU/O đứng/Vv/O yên/Aa/O một/Nq/NUM_B chỗ/Nn/O ,/PU/O còn/Cp/O mặt_trời/Nn/O ,/PU/O mặt_trăng/Nn/O và/Cp/O muôn_ngàn/Nq/O vì_sao/Pp/O phải/Vv/O quay/Vv/O xung_quanh/Nn/O cái/Nc/O tâm/Nn/O này/Pd/O ./PU/O 
+Người/Nn/O đầu_tiên/An/O bác_bỏ/Vv/O ý_kiến/Nn/O sai_lầm/Aa/O đó/Pd/O là/Vc/O nhà/Nc/O thiên_văn_học/Nn/O Ba_Lan/Nr/LOC_B Cô-péc-ních/Nn/O ./PU/O 
+Năm/Nt/DTM_B 1543/Nt/DTM_I ,/PU/O Cô-péc-ních/Nn/O cho/Vv/O xuất_bản/Vv/O một/Nq/NUM_B cuốn/Nc/O sách/Nn/O chứng_minh/Vv/O rằng/Cp/O chính/M/O trái_đất/Nn/O mới/Aa/O là/Vc/O một/Nq/NUM_B hành_tinh/Nn/O quay/Vv/O xung_quanh/Nn/O mặt_trời/Nn/O ./PU/O 
+Phát_hiện/Nn/O của/Cm/O nhà/Nn/O thiên_văn_học/Nn/O làm/Vv/O mọi/Nq/O người/Nn/O sửng_sốt/Vv/O ,/PU/O thậm_chí/R/O nó/Pp/O còn/R/O bị/Vv/O coi/Vv/O là/Cp/O tà_thuyết/Nn/O vì/Cp/O nó/Pp/O ngược/Vv/O với/Cp/O những/Nq/O lời/Nn/O phán/Vv/O bảo/Vv/O của/Cm/O Chúa_trời/Nn/O ./PU/O 
+Chưa/R/O đầy/Aa/O một/Nq/MEA_B thế_kỉ/Nt/MEA_I sau/Nn/O ,/PU/O năm/Nt/DTM_B 1632/Nt/DTM_I ,/PU/O nhà/Nc/DES_B thiên_văn_học/Nn/DES_I Ga-li-lê/Nr/PER_B lại/R/O cho/Vv/O ra_đời/Vv/O một/Nq/NUM_B cuốn/Nc/O sách/Nn/O mới/R/O cổ_vũ/Vv/O cho/Cp/O ý_kiến/Nn/O của/Cm/O Cô-péc-ních/Nn/O ./PU/O 
+Lập_tức/R/O ,/PU/O tòa/Nn/O án_quyết/Nn/O định/Vv/O cấm/Vv/O cuốn/Nc/O sách/Nn/O ấy/Pd/O và/Cp/O mang/Vv/O Ga-li-lê/Nn/O ra/R/O xét_xử/Vv/O ./PU/O 
+Khi/Nt/O đó/Pd/O ,/PU/O nhà/Nc/O bác_học/Nn/O đã/R/O gần/Aa/O bảy/Nq/MEA_B chục/Nq/MEA_I tuổi/Nn/MEA_I ./PU/O 
+Bị/Vv/O coi/Vv/O là/Cp/O tội_phạm/Nn/O ,/PU/O nhà/Nc/O bác_học/Nn/O già/Aa/O buộc/Vv/O phải/Vv/O thề/Vv/O từ_bỏ/Vv/O ý_kiến/Nn/O cho/Vv/O rằng/Cp/O trái_đất/Nn/O quay/Vv/O ./PU/O 
+Nhưng/Cp/O vừa/R/O bước/Vv/O ra/D/O khỏi/Vv/O cửa/Nn/O tòa/Nq/O án/Nn/O ,/PU/O ông/Nn/O đã/R/O bực_tức/Vv/O nói/Vv/O to/Aa/O :/PU/O 
+Dù_sao/Cp/O trái_đất/Nn/O vẫn/R/O quay/Vv/O !/PU/O 
+Ga-li-lê/Nn/O phải/Vv/O trải_qua/Vv/O những/Nq/O năm/Nt/O cuối/Nn/O đời/Nn/O trong/Cm/O cảnh/Nn/O tù_đày/Vv/O ./PU/O 
+Nhưng/Cp/O cuối_cùng/Aa/O ,/PU/O lẽ_phải/Nn/O đã/R/O thắng/Vv/O ./PU/O 
+Tư_tưởng/Nn/O của/Cm/O hai/Nq/NUM_B nhà/Nc/O bác_học/Nn/O dũng_cảm/Aa/O đã/R/O trở_thành/Vv/O chân_lí/Nn/O giản_dị/Aa/O trong/Cm/O đời_sống/Nn/O ngày_nay/Nt/DTM_B ./PU/O 

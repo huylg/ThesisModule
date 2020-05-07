@@ -1,0 +1,29 @@
+﻿Người/Nn/O mẹ/Nn/O hiền/Aa/O 
+Giờ/Nt/O ra/Vd/O chơi/Vv/O ,/PU/O Minh/Nr/PER_B thầm_thì/Vv/O với/Cp/O Nam/Nr/PER_B :/PU/O 
+Ngoài/Nn/O phố/Nn/O có/Ve/O gánh/Nn/O xiếc/Nn/O ./PU/O 
+Bọn/Nn/O mình/Pp/O ra/R/O xem/Vv/O đi/Vv/O !/PU/O 
+Nghe/Vv/O vậy/Pp/O ,/PU/O Nam/Nn/O không/R/O nén/Vv/O nổi/R/O tò_mò/Aa/O ./PU/O 
+Nhưng/Cp/O cổng/Nn/O trường/Nn/O khóa/Nn/O ,/PU/O trốn/Vv/O ra_sao/Pp/O được/R/O ./PU/O 
+Minh/Nr/PER_B bảo/Vv/O :/PU/O 
+Tớ/Pp/O biết/Vv/O có/Ve/O một/Nq/NUM_B chỗ/Nn/O tường/Nn/O thủng/Aa/O ./PU/O 
+Hết/Ve/O giờ/Nt/O ra/Vd/O chơi/Vv/O ,/PU/O hai/Nq/NUM_B em/Nn/O đã/R/O ở/Cm/O bên/Nn/O bức/Nc/O tường/Nn/O ./PU/O 
+Minh/Nr/PER_B chui/Vv/O đầu/Nn/O ra/D/O ./PU/O 
+Nam_đẩy/Nn/O Minh/Nr/PER_B lọt/Vv/O ra/D/O ngoài/Nn/O ./PU/O 
+Đến/Cm/O lượt/Nn/O Nam/Nn/O đang/R/O cố/Vv/O lách/Vv/O ra/R/O thì/Cp/O bác/Nn/O bảo_vệ/Vv/O vừa/Cs/O tới/Vd/O ,/PU/O nắm/Vv/O chặt/Aa/O hai/Nq/NUM_B chân/Nn/O em/Pp/O :/PU/O 
+Cậu/Nn/O nào/Pd/O đây/M/O ?/PU/O 
+Trốn/Vv/O học/Vv/O hả/M/O ?/PU/O 
+Nam_vùng_vẫy/Nn/O ./PU/O 
+Bác/Nn/PER_B càng/R/O nắm/Vv/O chặt/Aa/O cổ_chân/Nn/O Nam/Nn/O ./PU/O 
+Sợ/Vv/O quá/R/O ,/PU/O Nam/Nn/O khóc/Vv/O toáng/Aa/O lên/R/O ./PU/O 
+Bỗng/R/O có/Ve/O tiếng/Nn/O cô_giáo/Nn/O :/PU/O 
+Bác/Nn/O nhẹ_tay/Aa/O kẻo/Cp/O cháu/Nn/O đau/Aa/O ./PU/O 
+Cháu/Pp/O này/Pd/O là/Vc/O học_sinh/Nn/O lớp/Nn/O tôi/Pp/O ./PU/O 
+Cô/Nn/O nhẹ_nhàng/Aa/O kéo/Vv/O Nam/Nn/O lùi/Vd/O lại/R/O rồi/Cp/O đỡ/Vv/O em/Pp/O ngồi/Vv/O dậy/Vv/O ./PU/O 
+Cô/Nn/O phủi/Vv/O đất_cát/Nn/O lấm_lem/Aa/O trên/Cm/O người/Nc/O Nam/Nn/O và/Cp/O đưa/Vv/O em/Pp/O về/Cm/O lớp/Nn/O ./PU/O 
+Vừa/R/O đau/Aa/O vừa/Cs/O xấu_hổ/Vv/O ,/PU/O Nam/Nn/O bật/Vv/O khóc/Vv/O ./PU/O 
+Cô/Nn/O xoa/Vv/O đầu/Nn/O Nam/Nn/O và/Cp/O gọi/Vv/O Minh/Nr/PER_B đang/R/O thập_thò/Vv/O ở/Cm/O cửa/Nn/O lớp/Nn/O vào/D/O ,/PU/O nghiêm/Aa/O giọng/Nn/O hỏi/Vv/O :/PU/O 
+Từ/Cm/O nay/Nt/O các/Nq/O em/Nn/O có/R/O trốn/Vv/O học/Vv/O đi/Vv/O chơi/Vv/O nữa/M/O không/R/O ?/PU/O 
+Hai/Nq/NUM_B em/Nn/O cùng/Aa/O đáp/Vv/O :/PU/O 
+Thưa/E/O cô/Pp/O ,/PU/O không/R/O ạ/M/O ./PU/O 
+Chúng/Pp/O em/Pp/O xin_lỗi/Vv/O cô/Nn/O ./PU/O 
+Cô/Nn/O hài_lòng/Vv/O ,/PU/O bảo/Vv/O hai/Nq/NUM_B em/Nn/O về/Cm/O chỗ/Nn/O ,/PU/O rồi/Cp/O tiếp_tục/Vv/O giảng/Vv/O bài/Nc/O ./PU/O 

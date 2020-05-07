@@ -1,0 +1,32 @@
+﻿Ai/Pp/O có/Ve/O lỗi/Nn/O 
+Tôi/Pp/O đang/R/O nắn_nót/Vv/O viết/Vv/O từng/Pp/O chữ/Nn/O thì/Cp/O Cô-rét-ti/Nn/O chạm/Vv/O khuỷu/Nn/O tay/Nn/O vào/Cm/O tôi/Pp/O ,/PU/O làm/Vv/O cho/Cp/O cây_bút/Nn/O nguệch/Nn/O ra/R/O một/Nq/NUM_B đường/Nn/O rất/R/O xấu/Aa/O ./PU/O 
+Tôi/Pp/O nổi_giận/Vv/O ./PU/O 
+Cô-rét-ti/Nn/O cười/Vv/O ,/PU/O đáp/Vv/O :/PU/O "/PU/O Mình/Pp/O không/R/O cố_ý/Vv/O đâu/Pp/O !/PU/O "/PU/O 
+Cái/Nc/O cười/Vv/O của/Cm/O cậu/Nn/O làm/Vv/O tôi/Pp/O càng/Cs/O tức/Vv/O ./PU/O 
+Tôi/Pp/O nghĩ/Vv/O là/Cp/O cậu/Nn/O vừa/R/O được/Vv/O phần_thưởng/Nn/O nên/Cp/O kiêu_căng/Aa/O ./PU/O 
+Lát/Nt/DTM_B sau/Nn/DTM_I ,/PU/O để/Cm/O trả_thù/Vv/O ,/PU/O tôi/Pp/O đẩy/Vv/O Cô-rét-ti/Nn/O một/Nq/NUM_B cái/Nc/O đến_nỗi/M/O hỏng/Aa/O hết/Ve/O trang/Nn/O tập/Vv/O viết/Vv/O của/Cm/O cậu/Nc/O ./PU/O 
+Cậu/Nn/O ta/Pp/O giận/Vv/O đỏ/Aa/O mặt/Nn/O ,/PU/O giơ/Vv/O tay/Nn/O dọa/Nn/O tôi/Pp/O ,/PU/O nói/Vv/O :/PU/O 
+Cậu/Nn/O cố_ý/Vv/O đấy/M/O nhé/M/O !/PU/O 
+Thấy/Vv/O thầy_giáo/Nn/O nhìn/Vv/O ,/PU/O cậu/Nn/O hạ/Vv/O tay/Nn/O xuống/D/O ,/PU/O nhưng/Cp/O lại/R/O nói/Vv/O thêm/Vv/O :/PU/O 
+Lát/Nt/O nữa/R/O ta/Pp/O gặp/Vv/O nhau/Nn/O ở/Cm/O cổng/Nn/O ./PU/O 
+Cơn/Nc/O giận/Vv/O lắng/Vv/O xuống/D/O ./PU/O 
+Tôi/Pp/O bắt_đầu/Vv/O thấy/Vv/O hối_hận/Vv/O ./PU/O 
+Chắc/Aa/O là/Vc/O Cô-rét-ti/Nn/O không/R/O cố_ý/Vv/O chạm/Vv/O vào/D/O khuỷu/Nn/O tay/Nn/O tôi/Pp/O thật/Aa/O ./PU/O 
+Tôi/Pp/O nhìn/Vv/O cậu/Nc/O ,/PU/O thấy/Vv/O vai/Nn/O áo/Nn/O cậu/Nn/O sứt/Vv/O chỉ/R/O ,/PU/O chắc/Aa/O vì/Cp/O cậu/Nn/O đã/R/O vác/Vv/O củi/Nn/O giúp/Vv/O mẹ/Nn/O ./PU/O 
+Bỗng_nhiên/R/O ,/PU/O tôi/Pp/O muốn/Vv/O xin_lỗi/Vv/O Cô-rét-ti/Nn/O ,/PU/O nhưng/Cp/O không/R/O đủ/Aa/O can_đảm/Aa/O ./PU/O 
+Tan/Vv/O học/Vv/O ,/PU/O tôi/Pp/O thấy/Vv/O Cô-rét-ti/Nn/O đi/Vv/O theo/Vv/O mình/Pp/O ./PU/O 
+Tôi/Pp/O đứng/Vv/O lại/R/O ,/PU/O rút/Vv/O cây/Nn/O thước_kẻ/Nn/O cầm/Vv/O tay/Nn/O ./PU/O 
+Cậu/Nn/O ta/Pp/O đi/Vv/O tới/D/O ,/PU/O tôi/Pp/O giơ/Vv/O thước/Nn/O lên/D/O ./PU/O 
+Ấy/M/O đừng/R/O !/PU/O 
+-/PU/O Cô-rét-ti/Nn/O cười/Vv/O hiền_hậu/Aa/O 
+Ta/Pp/O lại/R/O thân/Aa/O nhau/Nn/O như/Cp/O trước/Nn/O đi/Vv/O !/PU/O 
+Tôi/Pp/O ngạc_nhiên/Vv/O ,/PU/O ngây/Aa/O ra/R/O một/Nq/O lúc/Nt/O ,/PU/O rồi/Cp/O ôm_chầm/Vv/O lấy/Vv/O bạn/Pp/O ./PU/O 
+Cô-rét-ti/Nn/O nói/Vv/O :/PU/O 
+Chúng_ta/Pp/O sẽ/R/O không/R/O bao_giờ/Pp/O giận/Vv/O nhau/Nn/O nữa/R/O ,/PU/O phải/Aa/O không/R/O En-ri-cô/Nn/O ?/PU/O 
+Không/R/O bao_giờ/Pp/O !/PU/O 
+Không/R/O bao_giờ/Pp/O !/PU/O 
+-/PU/O Tôi/Pp/O trả_lời/Vv/O ./PU/O 
+Về/Cm/O nhà/Nn/O ,/PU/O tôi/Pp/O kể/Vv/O chuyện/Nn/O cho/Cp/O bố/Nn/O nghe/Vv/O ,/PU/O tưởng/Vv/O bố/Nn/O sẽ/R/O vui_lòng/Aa/O ./PU/O 
+Nào_ngờ/Cp/O bố/Nn/O mắng/Vv/O :/PU/O 
+Đáng_lẽ/R/O chính/M/O con/Pp/O phải/Vv/O xin_lỗi/Vv/O bạn/Pp/O vì/Cp/O con/Nn/O có/Ve/O lỗi/Nn/O ./PU/O 
+Thế/Pp/O mà/Cp/O con/Nn/O lại/R/O giơ/Vv/O thước/Nn/O dọa/Nn/O đánh/Vv/O bạn/Pp/O ./PU/O 

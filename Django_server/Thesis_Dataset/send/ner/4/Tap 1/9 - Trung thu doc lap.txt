@@ -1,0 +1,12 @@
+﻿Trung_thu/Nt/DTM_B độc_lập/Aa/O 
+Đêm/Nt/DTM_B nay/Nt/DTM_I anh/Nn/O đứng/Vv/O gác/Vv/O ở/Cm/O trại/Nn/O ./PU/O 
+Trăng/Nn/O ngàn/Nq/O và/Cp/O gió/Nn/O núi/Nn/O bao_la/Aa/O khiến/Vv/O lòng/Nn/O anh/Nn/O man_mác/Aa/O nghĩ/Vv/O tới/Cm/O trung_thu/Nt/DTM_B và/Cp/O nghĩ/Vv/O tới/Cm/O các/Nq/O em/Nn/O ./PU/O 
+Trăng/Nn/O đêm/Nt/DTM_B nay/Nt/DTM_I soi/Vv/O sáng/Aa/O xuống/D/O nước/Nn/LOC_B Việt_Nam/Nr/LOC_I độc_lập/Aa/O yêu_quý/Vv/O của/Cm/O các/Nq/O em/Nn/O ./PU/O 
+Trăng/Nn/O sáng/Aa/O mùa/Nn/DTM_B thu/Nt/DTM_I vằng_vặc/Aa/O chiếu/Vv/O khắp/Aa/O thành_phố/Nu/O ,/PU/O làng_mạc/Nn/O ,/PU/O núi_rừng/Nn/O ,/PU/O nơi/Nn/O quê_hương/Nn/O thân_thiết/Aa/O của/Cm/O các/Nq/O em/Nn/O .../PU/O 
+Anh/Nn/O nhìn/Vv/O trăng/Nn/O và/Cp/O nghĩ/Vv/O tới/Cm/O ngày_mai/Nt/DTM_B .../PU/O 
+Ngày_mai/Nt/DTM_B ,/PU/O các/Nq/O em/Nn/O có/Ve/O quyền/Nn/O mơ_tưởng/Vv/O một/Nq/NUM_B cuộc_sống/Nn/O tươi_đẹp/Aa/O vô_cùng/R/O ./PU/O 
+Mươi/Nr/PER_B mười/Nq/MEA_B lăm/Nq/MEA_I năm/Nt/MEA_I nữa/R/O thôi/M/O ,/PU/O các/Nq/O em/Nn/O sẽ/R/O thấy/Vv/O cũng/R/O dưới/Nn/O ánh/Nc/O trăng/Nn/O này/Pd/O ,/PU/O dòng/Nn/O thác/Nn/O nước/Nn/O đổ/Vv/O xuống/D/O làm/Vv/O chạy/Vv/O máy_phát/Nn/O điện/Nn/O ;/PU/O ở/Cm/O giữa/Nn/O biển/Nn/O rộng/Aa/O ,/PU/O cờ/Nn/O đỏ/Aa/O sao/Pp/O vàng/Aa/O phấp_phới/Vv/O bay/Vv/O trên/Cm/O những/Nq/O con/Nc/O tàu/Nn/O lớn/Aa/O ./PU/O 
+Trăng/Nn/O của/Cm/O các/Nq/O em/Nn/O sẽ/R/O soi/Vv/O sáng/Aa/O những/Nq/O ống_khói/Nn/O nhà_máy/Nn/O chi_chít/Aa/O ,/PU/O cao/Aa/O thẳm/Aa/O ,/PU/O rải/Vv/O trên/Cm/O đồng/Nn/O lúa/Nn/O bát_ngát/Aa/O vàng/Aa/O thơm/Aa/O ,/PU/O cùng/Cp/O với/Cp/O nông_trường/Nn/O to_lớn/Aa/O ,/PU/O vui_tươi/Aa/O ./PU/O 
+Trăng/Nn/O đêm/Nt/O nay/Nt/O sáng/Nt/O quá/R/O !/PU/O 
+Trăng/Nn/O mai/Nn/O còn/R/O sáng/Aa/O hơn/Aa/O ./PU/O 
+Anh/Nn/O mừng/Vv/O cho/Cp/O các/Nq/O em/Nn/O vui/Aa/O Tết/Nt/DTM_B Trung_thu/Nt/DTM_I độc_lập/Aa/O đầu_tiên/An/O và/Cp/O anh/Pp/O mong_ước/Vv/O ngày_mai/Nt/DTM_B đây/Pd/O ,/PU/O những/Nq/O tết/Nt/O trung_thu/Nt/DTM_B tươi_đẹp/Aa/O hơn/Aa/O nữa/R/O sẽ/R/O đến/Vv/O với/Cp/O các/Nq/O em/Nn/O ./PU/O 

@@ -1,0 +1,11 @@
+﻿Nhưng/Cp/O nó/Pp/O phải/Vv/O bằng/Cm/O hai/Nq/NUM_B mày/Pp/O 
+Làng/Nu/O kia/Pd/O có/Ve/O một/Nq/NUM_B viên/Nn/O lí_trưởng/Nn/O nổi_tiếng/Aa/O xử/Vv/O kiện/Vv/O giỏi/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O nọ/Pd/O ,/PU/O Cải/Nr/PER_B với/Cp/O Ngô/Nr/PER_B đánh/Vv/O nhau/Nn/O ,/PU/O rồi/Cp/O mang/Vv/O nhau/Nn/O đi/Vv/O kiện/Vv/O ./PU/O 
+Cải/Nr/PER_B sợ/Vv/O kém/Aa/O thế/Pp/O ,/PU/O lót/Vv/O trước/Nn/O cho/Cp/O thầy/Nn/O lí/Nn/O năm/Nq/MEA_B đồng/Nu/MEA_I ./PU/O 
+Ngô/Nr/PER_B biện/Nq/NUM_B chè_lá/Nn/O những/Nq/O mười/Nq/MEA_B đồng/Nu/MEA_I ./PU/O 
+Khi/Nt/O xử/Vv/O kiện/Vv/O ,/PU/O thầy/Nn/DES_B lí/Nn/O nói/Vv/O :/PU/O 
+-/PU/O Thằng/Nn/TTL_B Cải/Nr/PER_B đánh/Vv/O thằng/Nc/O Ngô_đau/Nn/O hơn/Aa/O ,/PU/O phạt/Vv/O một/Nq/NUM_B chục/Nq/NUM_I roi/Nn/O ./PU/O 
+Cải/Nr/PER_B vội/Aa/O xòe/Nn/O năm/Nt/O ngón/Nn/O tay/Nn/O ,/PU/O ngẩng/Vv/O mặt/Nn/O nhìn/Vv/O thầy/Nn/O lí/Nn/O ,/PU/O khẽ/Aa/O bẩm/Nn/O :/PU/O 
+-/PU/O Xin/Vv/O xét/Vv/O lại/R/O ,/PU/O lẽ_phải/Nn/O về/Cm/O con/Nc/O mà/M/O !/PU/O 
+Thầy/Nn/O lí/Nn/O cũng/R/O xòe/Nn/O năm/Nt/O ngón/Nn/O tay/Nn/O trái/Aa/O úp/Vv/O lên/R/O trên/Cm/O năm/Nt/O ngón/Nn/O tay/Nn/O mặt/Nn/O ,/PU/O nói/Vv/O :/PU/O 
+-/PU/O Tao/Pp/O biết/Vv/O mày/Pp/O phải/Vv/O .../PU/O nhưng/Cp/O nó/Pp/O lại/R/O phải/Vv/O .../PU/O bằng/Cm/O hai/Nq/NUM_B mày/Pp/O !/PU/O 

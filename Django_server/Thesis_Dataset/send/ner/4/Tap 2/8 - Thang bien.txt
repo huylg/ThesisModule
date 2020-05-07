@@ -1,0 +1,19 @@
+﻿Thắng/Vv/O biển/Nn/O 
+Mặt_trời/Nn/O lên/Vv/O cao/Aa/O dần/R/O ./PU/O 
+Gió/Nn/O đã/R/O bắt_đầu/Vv/O mạnh/Aa/O ./PU/O 
+Gió/Nn/O lên/Vv/O ,/PU/O nước/Nn/O biển/Nn/O càng/Cs/O dữ/Aa/O ./PU/O 
+Khoảng/Nn/O mênh_mông/Aa/O ầm_ĩ/Aa/O càng/R/O lan/Vv/O rộng/Aa/O mãi/R/O vào/D/O ./PU/O 
+Biển_cả/Nn/O muốn/Vv/O nuốt_tươi/Vv/O con/Nc/O đê/Nn/O mỏng_manh/Aa/O như/Cp/O con/Nn/O mập/Aa/O đớp/Vv/O con/Nc/O cá_chim/Nn/O nhỏ_bé/Aa/O ./PU/O 
+Một/Nq/MEA_B tiếng/Nt/MEA_I ào/Vv/O dữ_dội/Aa/O ./PU/O 
+Như/Cp/O một/Nq/NUM_B đàn/Nn/O cá_voi/Nn/O lớn/Aa/O ,/PU/O sóng/Nn/O trào/Vv/O qua/D/O những/Nq/O cây/Nc/O vẹt/Nn/O cao/Aa/O nhất/R/O ,/PU/O vụt/Vv/O vào/Cm/O thân/Nn/O đê/Nn/O rào_rào/Aa/O ./PU/O 
+Một/Nq/NUM_B cuộc/Nc/O vật_lộn/Vv/O dữ_dội/Aa/O diễn_ra/Vv/O ./PU/O 
+Một/Nq/NUM_B bên/Nn/O là/Vc/O biển/Nn/O ,/PU/O là/Vc/O gió/Nn/O ,/PU/O trong/Cm/O một/Nq/NUM_B cơn/Nc/O giận_dữ/Aa/O điên_cuồng/Aa/O ./PU/O 
+Một/Nq/NUM_B bên/Nn/O là/Vc/O hàng/R/O ngàn/Nq/O người/Nn/O với/Cp/O hai/Nq/NUM_B bàn_tay/Nn/O và/Cp/O những/Nq/O dụng_cụ/Nn/O thô_sơ/Aa/O ,/PU/O với/Cp/O tinh_thần/Nn/O quyết_tâm/Vv/O chống/Vv/O giữ/Vv/O ./PU/O 
+Một/Nq/MEA_B tiếng/Nt/MEA_I reo/Vv/O to/Aa/O nổi/Vv/O lên/R/O ,/PU/O rồi/Cp/O ầm_ầm/Aa/O ,/PU/O hơn/Aa/O hai/Nq/NUM_B chục/Nq/NUM_I thanh_niên/Nn/O cả/Pp/O nam/Nn/O lẫn/Cp/O nữ/Nn/O ,/PU/O mỗi/Nq/O người/Nn/O vác/Vv/O một/Nq/NUM_B vác/Vv/O củi/Nn/O vẹt/Nn/O ,/PU/O nhảy/Vv/O xuống/D/O dòng/Nn/O nước/Nn/O đang/R/O cuốn/Vv/O dữ/R/O ./PU/O 
+Họ/Pp/O khoác/Vv/O vai/Nn/O nhau/Nn/O thành/Vv/O một/Nq/NUM_B sợi/Nn/O dây/Nn/O dài/Aa/O ,/PU/O lấy/Vv/O thân/Nn/O mình/Pp/O ngăn/Vv/O dòng/Nn/O nước_mặn/Nn/O ./PU/O 
+Nước/Nn/O quật/Vv/O vào/D/O mặt/Nn/O ,/PU/O vào/Cm/O ngực/Nn/O ,/PU/O trào/Vv/O qua/D/O đầu_hàng/Vv/O rào/Nn/O sống/Vv/O ./PU/O 
+Họ/Pp/O ngụp/Vv/O xuống/D/O ,/PU/O trồi/Vv/O lên/R/O ,/PU/O ngụp/Vv/O xuống/D/O ./PU/O 
+Trong/Cm/O đám/Nn/O thanh_niên/Nn/O xung_kích/Vv/O ,/PU/O có/Ve/O người/Nn/O ngã/Vv/O ,/PU/O có/Ve/O người/Nn/O ngạt/Aa/O ./PU/O 
+Nhưng/Cp/O những/Nq/O bàn_tay/Nn/O khoác/Vv/O vai/Nn/O nhau/Nn/O vẫn/R/O cứng/Aa/O như/Cp/O sắt/Nn/O ,/PU/O và/Cp/O thân_hình/Nn/O họ/Pp/O cột/Nn/O chặt/Vv/O lấy/Vv/O những/Nq/O cọc/Nn/O tre/Nn/O đóng/Vv/O chắc/Aa/O ,/PU/O dẻo/Aa/O như/Cp/O chão/Nn/O ./PU/O 
+Tóc/Nn/O dài/Aa/O các/Nq/O cô/Nn/O quấn/Vv/O chặt/Aa/O vào/Cm/O cổ/Nn/O các/Nq/O cậu/Nc/O con_trai/Nn/O ,/PU/O mồ_hôi/Nn/O như/Cp/O suối/Nn/O ,/PU/O hòa/Nn/O lẫn/Cp/O với/Cp/O nước/Nn/O chát/ON/O mặn/Aa/O ./PU/O 
+Đám/Nn/O người/Nn/O không/R/O sợ/Vv/O chết/Vv/O đã/R/O cứu/Vv/O được/R/O quãng/Nn/O đê/Nn/O sống/Vv/O lại/R/O ./PU/O 

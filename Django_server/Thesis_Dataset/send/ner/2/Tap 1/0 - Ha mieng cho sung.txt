@@ -1,0 +1,11 @@
+﻿Há_miệng_chờ_sung/Nn/O 
+Xưa/Nt/O có/Ve/O một/Nq/NUM_B anh_chàng/Nn/O mồ_côi/Aa/O cha_mẹ/Nn/O nhưng/Cp/O chẳng/R/O chịu/Vv/O học_hành/Vv/O ,/PU/O làm_lụng/Vv/O gì/Pp/O cả/M/O ./PU/O 
+Hằng/R/O ngày/Nt/O ,/PU/O anh/Nn/O ta/Pp/O cứ/R/O nằm/Vv/O ngửa/Aa/O dưới/Cm/O gốc/Nn/O cây/Nn/O sung/Nn/O ,/PU/O há/Vv/O miệng/Nn/O ra/D/O thật/R/O to/Aa/O ,/PU/O chờ/Vv/O cho/Cp/O sung/Nn/O rụng/Vv/O vào/Cm/O thì/Cp/O ăn/Vv/O ./PU/O 
+Nhưng/Cp/O đợi/Vv/O mãi/R/O mà/Cp/O chẳng/R/O có/Ve/O quả/Nn/O sung/Nn/O nào/Pd/O rụng/Vv/O trúng/Aa/O miệng/Nn/O ./PU/O 
+Bao_nhiêu/Pp/O quả/M/O rụng/Vv/O đều/R/O rơi/Vv/O chệch/Aa/O ra/D/O ngoài/Nn/O ./PU/O 
+Chợt/R/O có/Ve/O người/Nn/O đi/Vv/O qua/Cm/O đường/Nn/O ,/PU/O chàng/Nn/O lười/Aa/O gọi/Vv/O lại/R/O ,/PU/O nhờ/Cm/O nhặt/Vv/O sung/Vv/O bỏ/Vv/O hộ/Vv/O vào/Cm/O miệng/Nn/O ./PU/O 
+Không/R/O may/Aa/O ,/PU/O gặp/Vv/O phải/R/O một/Nq/NUM_B tay/Nc/O cũng/R/O lười/Aa/O ./PU/O 
+Hắn/Pp/O ta/Pp/O lấy/Vv/O hai/Nq/NUM_B ngón/Nn/O chân/Nn/O cặp/Nq/O quả/Nn/O sung/Nn/O ,/PU/O bỏ/Vv/O vào/D/O miệng/Nn/O cho/Cp/O chàng/Nn/O lười/Aa/O ./PU/O 
+Anh_chàng/Nn/O bực/Vv/O lắm/R/O ,/PU/O gắt/Aa/O :/PU/O 
+Ôi_chao/E/O !/PU/O 
+Người/Nn/O đâu/R/O mà/Cp/O lười/Aa/O thế/Pp/O !/PU/O 

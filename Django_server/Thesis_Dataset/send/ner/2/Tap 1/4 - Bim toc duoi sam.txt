@@ -1,0 +1,27 @@
+﻿Bím/Nr/PER_B tóc/Nn/O đuôi_sam/Nn/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Hà/Nr/PER_B nhờ/Cm/O mẹ/Nn/O tết/Nt/O cho/Cp/O hai/Nq/NUM_B bím/Nn/O tóc/Nn/O nhỏ/Aa/O ,/PU/O mỗi/Nq/O bím/Nn/O buộc/Vv/O một/Nq/NUM_B cái/Nc/O nơ/Nn/O 
+Khi/Nt/O Hà/Nr/PER_B đến/D/O trường/Nn/O ,/PU/O mấy/Nq/O bạn_gái/Nn/O cùng/Cp/O lớp/Nn/O reo/Vv/O lên/R/O :/PU/O 
+Ái_chà/E/O chà/Vv/O !/PU/O 
+Bím/Nr/PER_B tóc/Nn/O đẹp/Aa/O quá/R/O !/PU/O 
+Điều/Nc/O đó/Pd/O làm/Vv/O Hà/Nr/PER_B rất/R/O vui/Aa/O ./PU/O 
+Nhưng/Cp/O Tuấn/Nr/PER_B bỗng/R/O sấn/Vv/O tới/D/O ,/PU/O nắm/Vv/O bím/Nn/O tóc/Nn/O và/Cp/O nói/Vv/O :/PU/O 
+Tớ/Pp/O mệt/Aa/O quá/R/O ./PU/O 
+Cho/Vv/O tớ/Pp/O vịn/Vv/O vào/Cm/O nó/Pp/O một/Nq/O lúc/Nt/O ./PU/O 
+Tuấn/Nr/PER_B lớn/Aa/O hơn/Aa/O Hà/Nr/PER_B ./PU/O 
+Vì/Cp/O vậy/Pp/O ,/PU/O mỗi/Nq/O lần/Nn/O cậu/Nn/O kéo/Vv/O bím/Nn/O tóc/Nn/O ,/PU/O cô/Nc/O bé/Nn/O lại/R/O loạng_choạng/Aa/O và/Cp/O cuối_cùng/Aa/O ngã/Vv/O phịch/Aa/O xuống/D/O đất/Nn/O ./PU/O 
+Tuấn/Nr/PER_B vẫn/R/O đùa/Vv/O dai/Aa/O ,/PU/O cứ/R/O cầm/Vv/O bím/Nn/O tóc/Nn/O mà/Cp/O kéo/Vv/O ./PU/O 
+Hà/Nr/PER_B òa/Nn/O khóc/Vv/O ./PU/O 
+Rồi/Cp/O vừa/R/O khóc/Vv/O ,/PU/O em/Pp/O vừa/R/O chạy/Vv/O đi/Vv/O mách/Vv/O thầy/Nn/O ./PU/O 
+Thầy_giáo/Nn/O nhìn/Vv/O hai/Nq/NUM_B bím/Nn/O tóc/Nn/O xinh_xinh/Aa/O của/Cm/O Hà/Nr/PER_B ,/PU/O vui_vẻ/Aa/O nói/Vv/O :/PU/O 
+Đừng/R/O khóc/Vv/O ,/PU/O tóc/Nn/O em/Pp/O đẹp/Aa/O lắm/R/O !/PU/O 
+Hà/Nr/PER_B ngước/Vv/O khuôn_mặt/Nn/O đầm_đìa/Aa/O nước_mắt/Nn/O lên/Vv/O ,/PU/O hỏi/Vv/O :/PU/O 
+Thật/R/O không/R/O ạ/M/O ?/PU/O 
+Thật/R/O chứ/M/O !/PU/O 
+Nghe/Vv/O thầy/Nn/O nói/Vv/O thế/Pp/O ,/PU/O Hà/Nr/PER_B nín/Vv/O hẳn/Aa/O :/PU/O 
+Thưa/E/O thầy/Nn/O ,/PU/O em/Pp/O sẽ/R/O không/R/O khóc/Vv/O nữa/R/O ./PU/O 
+Thầy_giáo/Nn/O cười/Vv/O ./PU/O 
+Hà/Nr/PER_B cũng/R/O cười/Vv/O ./PU/O 
+Tan/Vv/O học/Vv/O ,/PU/O Tuấn/Nr/PER_B đến/Vd/O trước/Nn/O mặt/Nn/O Hà/Nr/PER_B ,/PU/O gãi/Vv/O đầu/Nn/O ngượng_nghịu/Aa/O :/PU/O 
+Tớ/Pp/O xin_lỗi/Vv/O vì/Cp/O lúc/Nt/O nãy/Pd/O kéo/Vv/O bím/Nn/O tóc/Nn/O của/Cm/O bạn/Pp/O ./PU/O 
+Thầy_giáo/Nn/O đã/R/O phê_bình/Vv/O tớ/Pp/O ./PU/O 
+Thầy/Nn/O bảo/Vv/O phải/Vv/O đối_xử/Vv/O tốt/Aa/O với/Cp/O các/Nq/O bạn_gái/Nn/O ./PU/O 

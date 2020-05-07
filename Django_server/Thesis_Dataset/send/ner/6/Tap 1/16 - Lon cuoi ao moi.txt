@@ -1,0 +1,8 @@
+﻿Lợn/Nr/PER_B cưới/Vv/O ,/PU/O áo/Nn/O mới/Aa/O 
+Có/Ve/O anh/Nn/O tính/Vv/O hay/Cp/O khoe/Vv/O của/Cm/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O may/Aa/O được/Vv/O cái/Nc/O áo/Nn/O mới/Aa/O ,/PU/O liền/R/O đem/Vv/O ra/D/O mặc/Vv/O ,/PU/O rồi/Cp/O đứng/Vv/O hóng/Vv/O ở/Cm/O cửa/Nn/O ,/PU/O đợi/Vv/O có/Ve/O ai/Pp/O đi/Vv/O qua/D/O người_ta/Pp/O khen/Vv/O ./PU/O 
+Đứng/Vv/O mãi/R/O từ/Cm/O sáng/Nt/O đến/Cm/O chiều/Nt/O chả/R/O thấy/Vv/O ai/Pp/O hỏi/Vv/O cả/M/O ,/PU/O anh/Nn/O ta/Pp/O tức/Vv/O lắm/R/O ./PU/O 
+Đang/R/O tức_tối/Aa/O ,/PU/O chợt/R/O thấy/Vv/O một/Nq/NUM_B anh/Pp/O ,/PU/O tính/Vv/O cũng/R/O hay/R/O khoe/Vv/O ,/PU/O tất_tưởi/Nn/O chạy/Vv/O đến/D/O hỏi/Vv/O to/Aa/O :/PU/O 
+-/PU/O Bác/Nn/PER_B có/R/O thấy/Vv/O con/Nc/O lợn/Nn/O cưới/Vv/O của/Cm/O tôi/Pp/O chạy/Vv/O qua/D/O đây/Pd/O không/R/O ?/PU/O 
+Anh/Nn/O kia/Pd/O liền/R/O giơ/Vv/O ngay/R/O vạt/Vv/O áo/Nn/O ra/D/O ,/PU/O bảo/Vv/O :/PU/O 
+-/PU/O Từ/Cm/O lúc/Nt/O tôi/Pp/O mặc/Vv/O cái/Nc/O áo/Nn/O mới/Aa/O này/Pd/O ,/PU/O tôi/Pp/O chẳng/R/O thấy/Vv/O con/Nc/O lợn/Nn/O nào/Pd/O chạy/Vv/O qua/D/O đây/Pd/O cả/M/O !/PU/O 

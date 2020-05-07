@@ -1,0 +1,28 @@
+﻿Buổi/Nt/O học/Vv/O thể_dục/Nn/O 
+Hôm_nay/Nt/DTM_B có/Ve/O buổi/Nt/O học/Vv/O thể_dục/Nn/O ./PU/O 
+Thầy_giáo/Nn/O dẫn/Vv/O chúng_tôi/Pp/O đến/Vd/O bên/Nn/O một/Nq/NUM_B cái/Nc/O cột/Nn/O cao/Aa/O ,/PU/O thẳng_đứng/Aa/O ./PU/O 
+Chúng_tôi/Pp/O phải/Vv/O leo/Vv/O lên/Vv/O đến/M/O trên/Cm/O cùng/Aa/O ,/PU/O rồi/Cp/O đứng/Vv/O thẳng/Aa/O người/Nn/O trên/Cm/O chiếc/Nc/O xà_ngang/Nn/O ./PU/O 
+Đê-rốt-xi/Nn/O và/Cp/O Cô-rét-ti/Nn/O leo/Vv/O như/Cp/O hai/Nq/NUM_B con/Nc/O khỉ/Nn/O ./PU/O 
+Xtác-đi/Nn/O thì/Cp/O thở/Vv/O hồng_hộc/Aa/O ,/PU/O mặt/Nn/O đỏ/Aa/O như/Cp/O chú/Nc/O gà_tây/Nn/O ./PU/O 
+Ga-rô-nê/Nn/O leo/Vv/O dễ/Aa/O như/Cp/O không/R/O ./PU/O 
+Tưởng_chừng/Vv/O cậu/Nc/O có_thể_vác/Nn/O thêm/Vv/O một/Nq/NUM_B người/Nn/O nữa/R/O trên/Cm/O vai/Nn/O vì/Cp/O cậu/Nn/O khỏe/Nn/O chẳng/R/O khác/Aa/O gì/M/O một/Nq/NUM_B con/Nc/O bò/Nn/O mộng/Vv/O non/Aa/O ./PU/O 
+Đến/Cm/O lượt/Nn/O Nen-li/Nr/PER_B ./PU/O 
+Bạn/Pp/O này/Pd/O được/Vv/O miễn/Vv/O học/Vv/O thể_dục/Nn/O vì/Cp/O bị/Vv/O tật/Nn/O từ/Cm/O nhỏ/Aa/O ,/PU/O nhưng/Cp/O cố/Vv/O xin/Vv/O thầy/Nn/O cho/Vv/O được/Vv/O tập/Vv/O như/Cp/O mọi/Nq/O người/Nn/O ./PU/O 
+Nen-li/Nr/PER_B bắt_đầu/Vv/O leo/Vv/O một_cách/Nn/O rất/R/O chật_vật/Aa/O ./PU/O 
+Mặt/Nn/O cậu/Nn/O đỏ/Aa/O như/Cp/O lửa/Nn/O ,/PU/O mồ_hôi/Nn/O ướt/Aa/O đẫm/Aa/O trán/Nn/O ./PU/O 
+Thầy_giáo/Nn/O bảo/Vv/O cậu/Nc/O có_thể/Aa/O xuống/D/O ./PU/O 
+Nhưng/Cp/O cậu/Nn/O vẫn/R/O cố/Vv/O sức/Nn/O leo/Vv/O ./PU/O 
+Mọi/Nq/O người/Nn/O vừa/R/O thấp_thỏm/Vv/O sợ/Vv/O cậu/Nn/O tuột/Vv/O tay/Nn/O ngã_xuống/Vv/O đất/Nn/O ,/PU/O vừa/Cs/O luôn/R/O miệng/Nn/O khuyến_khích/Vv/O :/PU/O 
+Cố/Vv/O lên/R/O !/PU/O 
+Cố/Vv/O lên/R/O !/PU/O 
+Nen-li/Nr/PER_B rướn/Vv/O người/Nn/O lên/D/O và/Cp/O chỉ/R/O còn/Ve/O cách/Vv/O xà_ngang/Nn/O hai/Nq/NUM_B ngón/Nn/O tay/Nn/O ./PU/O 
+Hoan_hô/Nn/O !/PU/O 
+Cố/Vv/O tí/Nq/O nữa/R/O thôi/M/O !/PU/O 
+Mọi/Nq/O người/Nn/O reo/Vv/O lên/R/O ./PU/O 
+Lát/Nt/DTM_B sau/Nn/DTM_I ,/PU/O Nen-li/Nr/PER_B đã/R/O nắm/Vv/O chặt/Aa/O được/Vv/O cái/Nc/O xà/Nn/O ./PU/O 
+Thầy_giáo/Nn/O nói/Vv/O :/PU/O 
+Giỏi/Nr/PER_B lắm/R/O !/PU/O 
+Thôi/E/O ,/PU/O con/Nc/O xuống/D/O đi/Vv/O !/PU/O 
+Nhưng/Cp/O Nen-li/Nr/PER_B còn/R/O muốn/Vv/O đứng/Vv/O lên/D/O cái/Nc/O xà/Nn/O như/Cp/O những/Nq/O người/Nn/O khác/Aa/O ./PU/O 
+Sau/Nn/O vài/Nq/O lần/Nn/O cố_gắng/Vv/O ,/PU/O cậu/Nn/O đặt/Vv/O được/R/O hai/Nq/NUM_B khuỷu/Nn/O tay/Nn/O ,/PU/O rồi/Cp/O hai/Nq/NUM_B đầu_gối/Nn/O ,/PU/O cuối_cùng/Aa/O là/Vc/O hai/Nq/NUM_B bàn_chân/Nn/O lên/Vv/O xà/Nn/O ./PU/O 
+Thế/Pp/O là/Vc/O cậu/Nn/O đứng/Vv/O thẳng/Aa/O người/Nn/O lên/Vv/O ,/PU/O thở_dốc/Vv/O ,/PU/O nhưng/Cp/O nét/Nn/O mặt/Nn/O rạng_rỡ/Aa/O vẻ/Nn/O chiến_thắng/Vv/O ,/PU/O nhìn/Vv/O xuống/D/O chúng_tôi/Pp/O ./PU/O 

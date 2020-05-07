@@ -1,0 +1,26 @@
+﻿Trí/Nn/O dũng/Nn/O song_toàn/Nn/O 
+Mùa/Nn/DTM_B đông/Nt/DTM_I năm/Nt/DTM_I 1637/Nt/DTM_I ,/PU/O thám_hoa_Giang_Văn_Minh/Nn/O được/Vv/O vua/Nn/DES_B Lê_Thần_Tông/Nr/PER_B cử/Vv/O đi/Vv/O sứ/Nn/O Trung_Quốc/Nr/LOC_B ./PU/O 
+Chờ/Vv/O rất/R/O lâu/Aa/O mà/Cp/O vẫn/R/O không/R/O được/Vv/O vua/Nn/O nhà/Nn/O Minh/Nr/PER_B cho/Vv/O tiếp_kiến/Nn/O ,/PU/O ông/Nn/O vờ/Vv/O khóc_lóc/Vv/O rất/R/O thảm_thiết/Aa/O ./PU/O 
+Vua/Nn/DES_B Minh/Nr/PER_B liền/R/O hạ/Vv/O chỉ/R/O mời/Vv/O ông/Nn/O đến/Vd/O hỏi/Vv/O cho/Vv/O ra/Vv/O lẽ/Nn/O ./PU/O 
+Thám_hoa/Nn/O vừa/Cs/O khóc/Vv/O vừa/Cs/O than/Vv/O rằng/Cp/O :/PU/O 
+Hôm_nay/Nt/DTM_B là/Vc/O ngày/Nt/O giỗ/Nn/O cụ/Nn/O tổ/Nn/O năm/Nt/O đời/Nn/O của/Cm/O thần/Nn/O ,/PU/O nhưng/Cp/O thần/Nn/O không/R/O có/Ve/O mặt/Nn/O ở/Cm/O nhà/Nn/O để/Cm/O cúng_giỗ/Vv/O ./PU/O 
+Thật/R/O là/Vc/O bất_hiếu/Aa/O với/Cp/O tổ_tiên/Nn/O !/PU/O 
+Vua/Nn/DES_B Minh/Nr/PER_B phán/Vv/O :/PU/O 
+Không/R/O ai/Pp/O phải/Vv/O giỗ/Nn/O người/Nn/O đã/R/O chết/Vv/O từ/Cm/O năm/Nt/O đời/Nn/O ./PU/O 
+Sứ_thần/Nn/O khóc_lóc/Vv/O như/Cp/O vậy/Pp/O thật/R/O không/R/O phải/Aa/O lẽ/Nn/O !/PU/O 
+Giang_Văn_Minh/Nr/PER_B nghe/Vv/O vậy/Pp/O ,/PU/O bèn/R/O tâu/Vv/O :/PU/O 
+Vậy/Pp/O ,/PU/O tướng/Nn/DES_B Liễu_Thăng/Nr/PER_B tử_trận/Vv/O đã/R/O mấy/Nq/O trăm/Nq/O năm/Nt/O ,/PU/O sao/Pp/O hằng/R/O năm/Nt/O nhà_vua/Nn/O vẫn/R/O bắt/Vv/O nước/Nn/O tôi/Pp/O cử/Vv/O người/Nn/O mang/Vv/O lễ_vật/Nn/O sang/Cm/O cúng_giỗ/Vv/O ?/PU/O 
+Biết/Vv/O đã/R/O mắc_mưu/Vv/O sứ_thần/Nn/O ,/PU/O vua/Nn/DES_B Minh/Nr/PER_B vẫn/R/O phải/Vv/O nói/Vv/O :/PU/O 
+Từ/Cm/O nay/Nt/O trở/Vv/O đi/R/O ,/PU/O nước/Nn/O ngươi/Pp/O không/R/O phải/Vv/O góp/Vv/O giỗ/Nn/O Liễu_Thăng/Nr/PER_B nữa/R/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O nước/Nn/O ta/Pp/O mới/R/O thoát/Vv/O khỏi/Vv/O nạn/Nn/O mỗi/Nq/MEA_B năm/Nt/MEA_I cống_nạp/Vv/O một/Nq/NUM_B tượng/Nn/O vàng/Nn/O để/Cm/O đền_mạng/Nn/O Liễu_Thăng/Nr/PER_B ./PU/O 
+Lần/Nn/O khác/Aa/O ,/PU/O khi/Nt/O Giang_Văn_Minh/Nr/PER_B vào/Cm/O yết_kiến/Nn/O ,/PU/O vua/Nn/DES_B Minh/Nr/PER_B sai/Vv/O một/Nq/NUM_B đại_thần/Nn/O ra/D/O vế/Nn/O đối/Vv/O :/PU/O 
+Đồng/Nu/O trụ/Nn/O đến/Vd/O giờ/Nt/O rêu/Nn/O vẫn/R/O mọc/Vv/O ./PU/O 
+Biết/Vv/O họ/Pp/O ngạo_mạn/Aa/O nhắc/Vv/O chuyện/Nn/O Mã_Viện/Nr/PER_B dẹp/Vv/O cuộc/Nc/O nổi_dậy/Vv/O của/Cm/O Hai/Nq/NUM_B Bà/Nn/O Trung/Nn/O ,/PU/O Giang_Văn_Minh/Nr/PER_B cứng_cỏi/Aa/O đối/Vv/O lại/R/O ngay/R/O :/PU/O 
+Bạch_Đằng/Nr/LOC_B thuở/Nn/O trước/Nn/O máu/Nn/O còn/R/O loang/Vv/O ./PU/O 
+Thấy/Vv/O sứ_thần/Nn/O Việt_Nam/Nr/LOC_B dám/Vv/O lấy/Vv/O việc/Nn/O quân_đội/Nn/O cả/Pp/O ba/Nq/NUM_B triều_đại/Nn/O Nam_Hán/Nr/PER_B ,/PU/O Tống/Nr/PER_B và/Cp/O Nguyên/Nr/PER_B đều/R/O thảm_bại/Vv/O trên/Cm/O sông/Nn/LOC_B Bạch_Đằng/Nr/LOC_I để/Cm/O đối/Vv/O lại/R/O ,/PU/O vua/Nn/DES_B Minh/Nr/PER_B giận/Vv/O quá/R/O ,/PU/O sai/Aa/O người/Nn/O ám_hại/Vv/O ông/Nn/O ./PU/O 
+Thi_hài/Nn/DES_B Giang_Văn_Minh/Nr/PER_B được/Vv/O đưa/Vv/O về/D/O nước/Nn/O ./PU/O 
+Vua/Nn/DES_B Lê_Thần_Tông/Nr/PER_B đến/Vd/O tận/Cm/O linh_cữu/Nn/O ông/Nn/O ,/PU/O khóc/Vv/O rằng/Cp/O :/PU/O 
+Sứ_thần/Nn/O không/R/O làm_nhục/Vv/O mệnh/Nn/O vua/Nn/O ,/PU/O xứng_đáng/Aa/O là/Vc/O anh_hùng/Nn/O thiên_cổ/Nn/O ./PU/O 
+Điếu_văn/Nn/O của/Cm/O vua/Nn/DES_B Lê/Nr/PER_B còn/R/O có/Ve/O câu/Nn/O :/PU/O 
+Ai/Pp/O cũng/R/O sống/Vv/O ,/PU/O sống/Vv/O như/Cp/O ông/Nn/O ,/PU/O thật/R/O đáng/Vv/O sống/Vv/O ./PU/O 
+Ai/Pp/O cũng/R/O chết/Vv/O ,/PU/O chết/Vv/O như/Cp/O ông/Nn/O ,/PU/O chết/Vv/O như/Cp/O sống/Vv/O ./PU/O 

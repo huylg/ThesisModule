@@ -1,0 +1,21 @@
+﻿Chim/Nn/O sơn_ca/Nn/O và/Cp/O bông/Nc/O cúc_trắng/Nn/O 
+Bên/Nn/O bờ_rào/Nn/O ,/PU/O giữa/Cm/O đám/Nn/O cỏ/Nn/O dại/Aa/O ,/PU/O có/Ve/O bông/Nc/O cúc_trắng/Nn/O ./PU/O 
+Một/Nq/NUM_B chú/Nc/O sơn_ca/Nn/O sà/Vv/O xuống/D/O ,/PU/O hót/Vv/O rằng/Cp/O :/PU/O 
+Cúc/Nr/PER_B ơi/E/O !/PU/O 
+Cúc/Nr/PER_B xinh_xắn/Aa/O làm_sao/E/O !/PU/O 
+Cúc_sung_sướng/Nn/O khôn_tả/R/O ./PU/O 
+Chim/Nn/O véo_von/Aa/O mãi/R/O rồi/Cp/O mới/R/O bay/Vv/O về/D/O bầu_trời/Nn/O xanh/Aa/O thẳm/Aa/O ./PU/O 
+Nhưng/Cp/O sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O khi/Nt/O vừa/R/O xòe/Nq/O cánh/Nn/O đón/Vv/O bình_minh/Nt/O ,/PU/O bông/Nc/O cúc/Nn/O đã/R/O nghe/Vv/O thấy/Vv/O tiếng/Nn/O sơn_ca/Nn/O buồn_thảm/Aa/O ./PU/O 
+Thì_ra/Cp/O ,/PU/O sơn_ca/Nn/O đã/R/O bị/Vv/O nhốt/Vv/O trong/Cm/O lồng/Nn/O ./PU/O 
+Bông/Nc/O cúc/Nn/O muốn/Vv/O cứu/Vv/O chim/Nn/O nhưng/Cp/O chẳng/R/O làm/Vv/O gì/M/O được/R/O ./PU/O 
+Bỗng/R/O có/Ve/O hai/Nq/NUM_B cậu/Nc/O bé/Nn/O đi/Vv/O vào/Vv/O vườn/Nn/O ,/PU/O cắt/Vv/O cả/Pp/O đám/Nn/O cỏ/Nn/O lẫn/Cp/O bông/Nc/O cúc/Nn/O đem/Vv/O về/Cm/O bỏ/Vv/O vào/D/O lồng/Nn/O sơn_ca/Nn/O ./PU/O 
+Con/Nc/O chim/Nn/O bị/Vv/O cầm_tù/Vv/O ,/PU/O họng/Nn/O khô/Aa/O bỏng/Aa/O vì/Cp/O khát/Vv/O ,/PU/O rúc/Vv/O mỏ/Nn/O vặt/Aa/O đám/Nn/O cỏ/Nn/O ẩm_ướt/Aa/O ./PU/O 
+Cúc/Nr/PER_B tỏa/Nq/O hương/Nn/O thơm/Aa/O ngào_ngạt/Aa/O an_ủi/Vv/O chim/Nn/O ./PU/O 
+Sơn_ca/Nr/O dù/Cp/O khát/Vv/O ,/PU/O phải/Vv/O vặt/Aa/O hết/R/O nắm/Vv/O cỏ/Nn/O ,/PU/O vẫn/R/O không/R/O đụng/Vv/O đến/Cm/O bông/Nc/O hoa/Nn/O ./PU/O 
+Tối/Nt/O rồi/R/O ,/PU/O chẳng/R/O ai/Pp/O cho/Cp/O con/Nc/O chim/Nn/O khốn_khổ/Aa/O một/Nq/NUM_B giọt/Nn/O nước/Nn/O ./PU/O 
+Đêm/Nt/O ấy/Pd/O ,/PU/O sơn_ca/Nn/O lìa/Vv/O đời/Nn/O ./PU/O 
+Bông/Nc/O cúc/Nn/O héo/Vv/O lả/Vv/O đi/R/O vì/Cp/O thương_xót/Vv/O ./PU/O 
+Sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O thấy/Vv/O sơn_ca/Nn/O đã/R/O chết/Vv/O ,/PU/O hai/Nq/NUM_B cậu/Nc/O bé/Nn/O đặt/Vv/O con/Nc/O chim/Nn/O vào/Cm/O một/Nq/NUM_B chiếc/Nc/O hộp/Nn/O rất/R/O đẹp/Aa/O và/Cp/O chôn_cất/Vv/O thật/R/O long_trọng/Aa/O ./PU/O 
+Tội_nghiệp/Aa/O con/Nc/O chim/Nn/O !/PU/O 
+Khi/Nt/O nó/Pp/O còn/R/O sống/Vv/O và/Cp/O ca_hát/Vv/O ,/PU/O các/Nq/O cậu/Nc/O đã/R/O để/Vv/O mặc/Vv/O nó/Pp/O chết/Vv/O vì/Cp/O đói_khát/Aa/O ./PU/O 
+Còn/Cp/O bông/Nc/O hoa/Nn/O ,/PU/O giá/Nn/O các/Nq/O cậu/Nc/O đừng/R/O ngắt/Vv/O nó/Pp/O thì/Cp/O hôm_nay/Nt/DTM_B chắc/Aa/O nó/Pp/O vẫn/R/O đang/R/O tắm/Vv/O nắng/Nn/O mặt_trời/Nn/O ./PU/O 

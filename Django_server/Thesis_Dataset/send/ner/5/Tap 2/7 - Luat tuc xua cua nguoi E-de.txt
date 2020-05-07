@@ -1,0 +1,23 @@
+﻿Luật/Nn/TRM_B tục/Nn/TRM_I xưa/Aa/O của/Cm/O người/Nn/O Ê-đê/Nn/O 
+Về/Cm/O cách/Nn/O xử_phạt/Vv/O 
+Chuyện/Nn/O nhỏ/Aa/O thì/Cp/O xử/Vv/O nhẹ/Aa/O ,/PU/O chuyện/Nn/O lớn/Aa/O thì/Cp/O xử/Vv/O nặng/Aa/O ;/PU/O chuyện/Nn/O giữa/Cm/O những/Nq/O người/Nc/O bà_con/Nn/O ,/PU/O anh_em/Nn/O cũng/R/O xử/Vv/O như/Cp/O vậy/Pp/O ./PU/O 
+Nếu/Cs/O là/Vc/O chuyện/Nn/O nhỏ/Aa/O thì/Cs/O phạt/Vv/O tiền/Nn/O một/Nq/NUM_B song/Cp/O ,/PU/O chuyện/Nn/O lớn/Aa/O thì/Cs/O phạt/Vv/O tiền/Nn/O một/Nq/NUM_B co/Vv/O ./PU/O 
+Nếu/Cs/O là/Vc/O chuyện/Nn/O quá_sức/Aa/O con_người/Nn/O ,/PU/O gánh/Vv/O không/R/O nổi/R/O ,/PU/O vác/Vv/O không/R/O kham/Vv/O thì/Cs/O người/Nn/O phạm/Vv/O tội/Nn/O phải/Vv/O chịu/Vv/O chết/Vv/O ./PU/O 
+Về/Cm/O tang_chứng/Nn/O và/Cp/O nhân_chứng/Nn/O 
+Phải/Vv/O nhìn/Vv/O tận/Cm/O mặt/Nn/O ,/PU/O phải/Vv/O bắt/Vv/O tận_tay/Aa/O kẻ/Nn/O phạm/Vv/O tội/Nn/O ;/PU/O phải/Vv/O lấy/Vv/O được/R/O ,/PU/O giữ/Vv/O được/Vv/O gùi/Vv/O ,/PU/O khăn/Nn/O ,/PU/O áo/Nn/O ,/PU/O dao/Nn/O ,/PU/O .../PU/O của/Cm/O kẻ/Nn/O phạm/Vv/O tội/Nn/O ./PU/O 
+Phải/Vv/O khoanh/Vv/O một/Nq/NUM_B vòng_tròn/Nn/O dưới/Cm/O đất/Nn/O ,/PU/O khắc/Vv/O một/Nq/NUM_B dấu/Nn/O trên/Cm/O cột/Nn/O nhà/Nn/O ;/PU/O nếu/Cp/O ở/Cm/O trong/Cm/O rừng/Nn/O phải/Vv/O bẻ/Vv/O nhánh/Nn/O cây/Nn/O ,/PU/O khắc/Vv/O dấu/Nn/O vào/D/O cây/Nn/O rừng/Nn/O để/Cm/O làm/Vv/O dấu/Nn/O nơi/Nn/O xảy_ra/Vv/O sự_việc/Nn/O ./PU/O 
+Phải/Vv/O có/Ve/O bốn/Nq/MEA_B năm/Nq/MEA_I người/Nn/MEA_I hoặc/Cp/O vài_ba/Nq/O người/Nn/O có_mặt/Aa/O khi/Nt/O việc/Nn/O xảy_ra/Vv/O ./PU/O 
+Mọi/Nq/O người/Nc/O tai/Nn/O đều/R/O đã/R/O nghe/Vv/O ,/PU/O mắt/Nn/O đều/R/O đã/R/O thấy/Vv/O ./PU/O 
+Có/Ve/O như/Cp/O vậy/Pp/O ,/PU/O các/Nq/O tang_chứng/Nn/O mới/Aa/O chắc_chắn/Aa/O ./PU/O 
+Về/Cm/O các/Nq/O tội/Nn/O 
+Tội/Nn/O không/R/O hỏi/Vv/O mẹ_cha/Nn/O 
+Có/Ve/O cây/Nn/O đa/Nn/O phải/Vv/O hỏi/Vv/O cây/Nn/O đa/Nn/O ,/PU/O có/Ve/O cây/Nn/O sung/Nn/O phải/Vv/O hỏi/Vv/O cây/Nn/O sung/Nn/O ,/PU/O có/Ve/O mẹ_cha/Nn/O phải/Vv/O hỏi/Vv/O mẹ_cha/Nn/O ./PU/O 
+Đi/Vv/O rừng/Nn/O lấy/Vv/O củi/Nn/O mà/Cp/O không/R/O hỏi/Vv/O cha/Nn/O ,/PU/O đi/Vv/O suối/Nn/O lấy/Vv/O nước/Nn/O mà/Cp/O chẳng/R/O nói/Vv/O với/Cp/O mẹ/Nn/O ;/PU/O bán/Vv/O cái/Nc/O này/Pd/O ,/PU/O mua/Vv/O cái/Nc/O nọ/Pd/O mà/Cp/O không/R/O hỏi/Vv/O ông_già_bà_cả/Nn/O là/Vc/O sai/Aa/O ;/PU/O phải/Vv/O đưa/Vv/O ra/R/O xét_xử/Vv/O ./PU/O 
+Tội/Nn/O ăn_cắp/Vv/O 
+Kẻ/Nn/O thò/Vv/O tay/Nn/O ra/D/O để/Cm/O đánh_cắp/Vv/O của/Cm/O người/Nn/O khác/Aa/O là/Vc/O kẻ/Nn/O có/Ve/O tội/Nn/O ./PU/O 
+Kẻ/Nn/O đó/Pd/O phải/Vv/O trả/Vv/O lại/R/O đủ/Aa/O giá/Nn/O ;/PU/O ngoài_ra/Cp/O phải/Vv/O bồi_thường/Vv/O gấp/Vv/O đôi/Nq/O số/Nn/O của_cải/Nn/O đã/R/O lấy/Vv/O cắp/Vv/O ./PU/O 
+Tội/Nn/O giúp/Vv/O kẻ/Nn/O có/Ve/O tội/Nn/O 
+Kẻ/Nn/O đi/Vv/O cùng/Aa/O đi/R/O ,/PU/O bước/Vv/O cùng/Aa/O bước/Vv/O ,/PU/O nói/Vv/O cùng/Aa/O nói/Vv/O với/Cp/O kẻ/Nn/O có/Ve/O tội/Nn/O cũng/R/O là/Vc/O có/Ve/O tội/Nn/O ./PU/O 
+Tội/Nn/O dẫn/Vv/O đường/Nn/O cho/Cp/O địch/Nn/O đến/Vd/O đánh/Vv/O làng/Nu/O mình/Pp/O 
+Kẻ/Nn/O mà/Cp/O địch/Nn/O không/R/O đi/Vv/O được/R/O thì/Cp/O cõng/Vv/O ,/PU/O địch/Nn/O không/R/O ăn/Vv/O được/R/O thì/Cp/O mớm/Vv/O ,/PU/O địch/Nn/O không/R/O biết/Vv/O thì/Cp/O nói/Vv/O cho_biết/Vv/O ,/PU/O làm/Vv/O hàng/R/O trăm/Nq/O dân_làng/Nn/O bị/Vv/O địch/Nn/O bắt/Vv/O ,/PU/O hàng/R/O nghìn/Nq/O dân_làng/Nn/O bị/Vv/O địch/Nn/O giết/Vv/O là/Vc/O kẻ/Nn/O có/Ve/O tội/Nn/O lớn/Aa/O ./PU/O 
+Phải/Vv/O xử/Vv/O kẻ/Nn/O đó/Pd/O bằng/Cm/O dao/Nn/O sắc/Aa/O ,/PU/O gươm/Nn/O lớn/Aa/O và/Cp/O bỏ_xác/Nn/O hắn/Pp/O cho/Cp/O diều/Nn/O tha/Vv/O quạ/Nn/O mổ/Vv/O ./PU/O 

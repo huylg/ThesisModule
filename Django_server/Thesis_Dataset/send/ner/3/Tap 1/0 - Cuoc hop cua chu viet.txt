@@ -1,0 +1,26 @@
+﻿Cuộc/Nc/O họp/Vv/O của/Cm/O chữ_viết/Nn/O 
+Vừa/R/O tan/Vv/O học/Vv/O ,/PU/O các/Nq/O chữ_cái/Nn/O và/Cp/O dấu_câu/Nn/O đã/R/O ngồi/Vv/O lại/R/O họp/Vv/O ./PU/O 
+Bác/Nn/O Chữ_A/Nn/O dõng_dạc/Aa/O mở_đầu/Vv/O :/PU/O 
+Thưa/E/O các/Nq/O bạn/Pp/O !/PU/O 
+Hôm_nay/Nt/DTM_B ,/PU/O chúng_ta/Pp/O họp/Vv/O để/Cm/O tìm/Vv/O cách/Nn/O giúp_đỡ/Vv/O em/Nn/TTL_B Hoàng/Nr/PER_B ./PU/O 
+Hoàng/Nr/PER_B hoàn_toàn/Aa/O không/R/O biết/Vv/O chấm_câu/Nn/O ./PU/O 
+Có/Ve/O đoạn/Nn/O văn/Nn/O em/Pp/O viết/Vv/O thế/Pp/O này/Pd/O :/PU/O 
+Chú/Nn/O lính/Nn/O bước/Vv/O vào/Cm/O đầu/Nn/O chú/Nn/O ./PU/O 
+Đội/Nn/O chiếc/Nc/O mũ/Nn/O sắt/Nn/O dưới/Cm/O chân/Nn/O ./PU/O 
+Đi_đôi/Vv/O giày/Nn/O da/Nn/O trên/Cm/O trán/Nn/O lấm_tấm/Aa/O mồ_hôi/Nn/O ./PU/O 
+Có/Ve/O tiếng/Nn/O xì_xào/Vv/O :/PU/O 
+Thế/Pp/O nghĩa_là/Vv/O gì/Pp/O nhỉ/M/O ?/PU/O 
+Nghĩa_là/Vv/O thế/Pp/O này/Pd/O :/PU/O 
+Chú/Nn/O lính/Nn/O bước/Vv/O vào/D/O ./PU/O 
+Đầu/Nn/O chú/Nc/O đội/Nn/O chiếc/Nc/O mũ/Nn/O sắt/Nn/O ./PU/O 
+Dưới/Cm/O chân/Nn/O đi/Vv/O đôi/Nq/O giày/Nn/O da/Nn/O ./PU/O 
+Trên/Cm/O trán/Nn/O lấm_tấm/Aa/O mồ_hôi/Nn/O ./PU/O 
+Tiếng/Nn/O cười_rộ/Nn/O lên/R/O ./PU/O 
+Dấu/Nn/O Chấm/Vv/O nói/Vv/O :/PU/O 
+Theo/Vv/O tôi/Pp/O ,/PU/O tất_cả/An/O là/Vc/O do/Cp/O cậu/Nn/O này/Pd/O chẳng/R/O bao_giờ/Pp/O để_ý/Vv/O đến/Cm/O dấu_câu/Nn/O ./PU/O 
+Mỏi/Nr/PER_B tay/Nn/O chỗ/Nn/O nào/Pd/O ,/PU/O cậu/Nn/O ta/Pp/O chấm/Vv/O chỗ/Nn/O ấy/Pd/O ./PU/O 
+Cả/Pp/O mấy/Nq/O dấu_câu/Nn/O đều/R/O lắc_đầu/Vv/O :/PU/O 
+Ẩu/Nn/O thế/Pp/O nhỉ/M/O !/PU/O 
+Bác/Nn/O Chữ_A/Nn/O đề_nghị/Vv/O :/PU/O 
+Từ/Cm/O nay/Nt/O ,/PU/O mỗi/Nq/O khi/Nt/O em/Pp/O Hoàng_định/Nn/O chấm_câu/Nn/O ,/PU/O anh/Pp/O Dấu_Chấm/Nr/PER_B cần/Vv/O yêu_cầu/Nn/O Hoàng_đọc/Nn/O lại/R/O câu/Nn/O văn/Nn/O một/Nq/NUM_B lần/Nn/O nữa/R/O đã/R/O ./PU/O 
+Được/Vv/O không/R/O nào/R/O ?/PU/O 

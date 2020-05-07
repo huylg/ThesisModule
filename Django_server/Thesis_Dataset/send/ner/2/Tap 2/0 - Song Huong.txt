@@ -1,0 +1,7 @@
+﻿Sông/Nn/LOC_B Hương/Nr/LOC_I 
+Sông/Nn/LOC_B Hương/Nr/LOC_I là/Vc/O một/Nq/NUM_B bức/Nc/O tranh/Nn/O phong_cảnh/Nn/O gồm/Vv/O nhiều/Aa/O đoạn/Nn/O mà/Cp/O mỗi/Nq/O đoạn/Nn/O đều/R/O có/Ve/O vẻ_đẹp/Nn/O riêng/Aa/O của/Cm/O nó/Pp/O ./PU/O 
+Bao_trùm/Vv/O lên/Vv/O cả/M/O bức/Nc/O tranh/Nn/O là/Vc/O một/Nq/NUM_B màu/Nn/O xanh/Aa/O có/Ve/O nhiều/Aa/O sắc_độ/Nn/O đậm/Aa/O nhạt/Aa/O khác/Aa/O nhau/Nn/O :/PU/O màu/Nn/O xanh/Aa/O thẳm/Aa/O của/Cm/O da_trời/Nn/O ,/PU/O màu/Nn/O xanh_biếc/Aa/O của/Cm/O cây/Nn/O lá/Nn/O ,/PU/O màu/Nn/O xanh_non/Aa/O của/Cm/O những/Nq/O bãi/Nn/O ngô/Nn/O ,/PU/O thảm/Nn/O cỏ/Nn/O in/Vv/O trên/Cm/O mặt/Nn/O nước/Nn/O ./PU/O 
+Mỗi/Nq/O mùa/Nn/DTM_B hè/Nt/DTM_I tới/Aa/DTM_I ,/PU/O hoa_phượng/Nn/O vĩ/Nn/O nở/Vv/O đỏ_rực/Aa/O hai/Nq/NUM_B bên/Nn/O bờ/Nn/O ./PU/O 
+Hương_Giang/Nr/PER_B bỗng/R/O thay/Vv/O chiếc/Nc/O áo/Nn/O xanh/Aa/O hằng/R/O ngày/Nt/O thành/Vv/O dải/Nc/O lụa/Nn/O đào/Vv/O ửng/Aa/O hồng/Aa/O cả/Pp/O phố_phường/Nn/O ./PU/O 
+Những/Nq/O đêm/Nt/O trăng/Nn/O sáng/Aa/O ,/PU/O dòng/Nn/O sông/Nn/O là/Vc/O một/Nq/NUM_B đường/Nn/O trăng/Nn/O lung_linh/Aa/O dát/Vv/O vàng/Aa/O ./PU/O 
+Sông/Nn/LOC_B Hương/Nr/LOC_I là/Vc/O một/Nq/NUM_B đặc_ân/Nn/O của/Cm/O thiên_nhiên/Nn/O dành/Vv/O cho/Cp/O Huế/Nr/ORG_B ,/PU/O làm/Vv/O cho/Cp/O không_khí/Nn/O thành_phố/Nu/O trở_nên/Vv/O trong_lành/Aa/O ,/PU/O làm/Vv/O tan_biến/Vv/O những/Nq/O tiếng/Nn/O ồn_ào/Aa/O của/Cm/O chợ_búa/Nn/O ,/PU/O tạo/Vv/O cho/Cp/O thành_phố/Nu/O một/Nq/NUM_B vẻ/Nn/O êm_đềm/Aa/O ./PU/O 

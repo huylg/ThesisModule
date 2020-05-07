@@ -1,0 +1,17 @@
+﻿Câu_chuyện/Nn/O bó/Vv/O đũa/Nn/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O ở/Cm/O một/Nq/NUM_B gia_đình/Nn/O kia/Pd/O ,/PU/O có/Ve/O hai/Nq/NUM_B anh_em/Nn/O ./PU/O 
+Lúc/Nt/O nhỏ/Aa/O ,/PU/O anh_em/Nn/O rất/R/O hòa/Nn/O thuận/Aa/O ./PU/O 
+Khi/Nt/O lớn/Vv/O lên/R/O ,/PU/O anh/Pp/O có/Ve/O vợ/Nn/O ,/PU/O em/Pp/O có/Ve/O chồng/Nn/O ,/PU/O tuy/Cs/O mỗi/Nq/O người/Nn/O một/Nq/NUM_B nhà/Nn/O ,/PU/O nhưng/Cs/O vẫn/R/O hay/R/O va_chạm/Vv/O ./PU/O 
+Thấy/Vv/O các/Nq/O con/Nn/O không/R/O yêu_thương/Vv/O nhau/Nn/O ,/PU/O người/Nc/O cha/Nn/O rất/R/O buồn_phiền/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O ông/Nn/O đặt/Vv/O một/Nq/NUM_B bó/Nn/O đũa/Nn/O và/Cp/O một/Nq/NUM_B túi_tiền/Nn/O trên/Cm/O bàn/Nn/O ,/PU/O rồi/Cp/O gọi/Vv/O các/Nq/O con/Nn/O ,/PU/O cả/Pp/O trai/Nn/O ,/PU/O gái/Nn/O ,/PU/O dâu/Nn/O ,/PU/O rể/Nn/O lại/R/O và/Cp/O bảo/Vv/O :/PU/O 
+-/PU/O Ai/Pp/O bẻ/Vv/O gãy/Vv/O được/Vv/O bó/Vv/O đũa/Nn/O này/Pd/O thì/Cp/O cha/Nn/O thưởng/Vv/O cho/Cp/O túi_tiền/Nn/O ./PU/O 
+Bốn/Nq/NUM_B người/Nc/O con/Nn/O lần_lượt/R/O bẻ/Vv/O bó/Nn/O đũa/Nn/O ./PU/O 
+Ai/Pp/O cũng/R/O cố/Vv/O hết_sức/R/O mà/Cp/O không/R/O sao/Pp/O bẻ/Vv/O gãy/Vv/O được/R/O ./PU/O 
+Người/Nn/O cha/Nn/O bèn/R/O cởi/Vv/O bó/Nn/O đũa/Nn/O ra/D/O ,/PU/O rồi/Cp/O thong_thả/Aa/O bẻ/Vv/O gãy/Vv/O từng/Pp/O chiếc/Nc/O một_cách/Nn/O dễ_dàng/Aa/O ./PU/O 
+Thấy/Vv/O vậy/Pp/O ,/PU/O bốn/Nq/NUM_B người/Nc/O con/Nn/O cùng/Aa/O nói/Vv/O :/PU/O 
+-/PU/O Thưa/E/O cha/Nn/O ,/PU/O lấy/Vv/O từng/Pp/O chiếc/Nc/O mà/Cp/O bẻ/Vv/O thì/Cp/O có/Ve/O khó/Aa/O gì/M/O !/PU/O 
+Người/Nn/O cha/Nn/O liền/R/O bảo/Vv/O :/PU/O 
+-/PU/O Đúng/Aa/O ./PU/O 
+Như/Cp/O thế/Pp/O là/Vc/O các/Nq/O con/Nn/O đều/R/O thấy/Vv/O rằng/Cp/O chia/Vv/O lẻ/Aa/O ra/R/O thì/Cp/O yếu/Aa/O ,/PU/O hợp/Vv/O lại/R/O thì/Cp/O mạnh/Aa/O ./PU/O 
+Vậy/Pp/O các/Nq/O con/Nn/O phải/Vv/O biết/Vv/O thương_yêu/Vv/O ,/PU/O đùm_bọc/Vv/O lẫn/R/O nhau/Nn/O ./PU/O 
+Có/R/O đoàn_kết/Vv/O thì/Cp/O mới/Cp/O có/Ve/O sức_mạnh/Nn/O ./PU/O 

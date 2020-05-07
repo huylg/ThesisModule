@@ -1,0 +1,22 @@
+﻿Quang_cảnh/Nn/O làng_mạc/Nn/O ngày_mùa/Nn/O 
+Mùa/Nn/DTM_B đông/Nt/DTM_I ,/PU/O giữa/Cm/O ngày_mùa/Nn/O ,/PU/O làng/Nu/O quê/Nn/O toàn/Nq/O màu/Nn/O vàng/Aa/O -/PU/O những/Nq/O màu/Nn/O vàng/Aa/O rất/R/O khác/Aa/O nhau/Nn/O ./PU/O 
+Có_lẽ/R/O bắt_đầu/Vv/O từ/Cm/O những/Nq/O đêm/Nt/O sương_sa/Nn/O thì/Cp/O bóng_tối/Nn/O đã/R/O hơi/R/O cứng/Aa/O và/Cp/O sáng/Nt/O ngày/Nt/O ra/Vd/O thì/Cp/O trông_thấy/Aa/O màu/Nn/O trời/Aa/O có/Ve/O vàng/Nn/O hơn/Aa/O thường/R/O khi/Nt/O ./PU/O 
+Màu/Nn/O lúa/Nn/O chín/Nq/NUM_B dưới/Cm/O đồng/Nn/O vàng_xuộm/Aa/O lại/R/O ./PU/O 
+Nắng/Nn/O nhạt/Aa/O ngả/Vv/O màu/Nn/O vàng_hoe/Aa/O ./PU/O 
+Trong/Cm/O vườn/Nn/O ,/PU/O lắc_lư/Vv/O những/Nq/O chùm/Nn/O quả/Nn/O xoan/Nn/O vàng/Nn/O lịm/Vv/O không/R/O trông/Vv/O thấy/Vv/O cuống/Nn/O ,/PU/O như/Cp/O những/Nq/O chuỗi/Nn/O tràng_hạt/Nn/O bồ_đề/Nn/O treo/Vv/O lơ_lửng/Aa/O ./PU/O 
+Từng/R/O chiếc/Nc/O lá/Nn/O mít/Nn/O vàng_ối/Nn/O ./PU/O 
+Tàu/Nn/O đu_đủ/Nn/O ,/PU/O chiếc/Nc/O lá/Nn/O sắn/Nn/O héo/Vv/O lại/R/O mở/Vv/O năm/Nt/O cánh/Nn/O vàng/Nn/O tươi/Aa/O ./PU/O 
+Buồng/Nn/O chuối/Nn/O đốm/Aa/O quả/Nn/O chín/Nq/NUM_B vàng/Nn/O ./PU/O 
+Những/Nq/O tàu/Nn/O lá/Nn/O chuối/Nn/O vàng_ối/Nn/O xõa/Nn/O xuống/D/O như/Cp/O những/Nq/O đuôi/Nn/O áo/Nn/O ,/PU/O vạt/Nn/O áo/Nn/O ./PU/O 
+Nắng/Nn/O vườn/Nn/O chuối/Nn/O đương/Nn/O có/Ve/O gió/Nn/O lẫn/Cp/O với/Cp/O lá/Nn/O vàng/Nn/O như/Cp/O những/Nq/O vạt/Nn/O áo/Nn/O nắng/Nn/O ,/PU/O đuôi/Nn/O áo/Nn/O nắng/Nn/O ,/PU/O vẫy/Vv/O vẫy/Vv/O ./PU/O 
+Bụi/Nn/O mía/Nn/O vàng/Nn/O xọng/Nn/O ,/PU/O đốt/Vv/O ngầu/Aa/O phấn_trắng/Nu/O ./PU/O 
+Dưới/Cm/O sân/Nn/O ,/PU/O rơm/Nn/O và/Cp/O thóc/Nn/O vàng/Nn/O giòn/Aa/O ./PU/O 
+Quanh/Nn/O đó/Pd/O ,/PU/O con/Nc/O gà/Nn/O ,/PU/O con/Nc/O chó/Nn/O cũng/R/O vàng/Aa/O mượt/Aa/O ./PU/O 
+Mái_nhà/Nn/O phủ/Vv/O một/Nq/NUM_B màu/Nn/O rơm/Aa/O vàng/Nn/O mới/Aa/O ./PU/O 
+Lác_đác/Aa/O cây/Nn/O lụi/Vv/O có/Ve/O mấy/Nq/O chiếc/Nc/O lá/Nn/O đỏ/Aa/O ./PU/O 
+Qua/Cm/O khe/Nn/O giậu/Nn/O ,/PU/O ló/Vv/O ra/R/O mấy/Nq/O quả/Nn/O ớt/Nn/O đỏ_chói/Aa/O ./PU/O 
+Tất_cả/Nq/O đượm/Vv/O một/Nq/NUM_B màu/Nn/O vàng/Aa/O trù_phú/Aa/O ,/PU/O đầm_ấm/Aa/O lạ_lùng/Aa/O ./PU/O 
+Không/R/O còn/R/O có/Ve/O cảm_giác/Nn/O héo/Vv/O tàn/Vv/O hanh_hao/Aa/O lúc/Nt/O sắp/R/O bước/Vv/O vào/Cm/O mùa/Nn/DTM_B đông/Nt/DTM_I ./PU/O 
+Hơi_thở/Nn/O của/Cm/O đất_trời/Nn/O ,/PU/O mặt/Nn/O nước/Nn/O thơm_thơm/Aa/O ,/PU/O nhè_nhẹ/Aa/O ./PU/O 
+Ngày/Nt/O không/R/O nắng/Aa/O ,/PU/O không/R/O mưa/Vv/O ,/PU/O hồ/Nn/O như/Cp/O không/R/O ai/Pp/O tưởng/Vv/O đến/Cm/O ngày/Nt/O hay/Cp/O đêm/Nt/O ,/PU/O mà/Cp/O chỉ/R/O mải_miết/Vv/O đi/Vv/O gặt/Vv/O ,/PU/O kéo/Vv/O đá/Nn/O ,/PU/O cắt/Vv/O rạ/Nn/O ,/PU/O chia/Vv/O thóc/Nn/O hợp_tác_xã/Nn/O ./PU/O 
+Ai/Pp/O cũng/R/O vậy/Pp/O ,/PU/O cứ/R/O buông/Vv/O bát/Nn/O đũa/Nn/O lại/R/O đi/Vv/O ngay/R/O ,/PU/O cứ/R/O trở/Vv/O dậy/R/O là/Cp/O ra/Vv/O đồng/Nu/O ngay/R/O ./PU/O 

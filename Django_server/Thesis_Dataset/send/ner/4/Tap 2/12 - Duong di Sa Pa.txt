@@ -1,0 +1,16 @@
+﻿Đường/Nn/O đi/Vv/O Sa_Pa/Nr/LOC_B 
+Xe/Nn/O chúng_tôi/Pp/O leo/Vv/O chênh_vênh/Aa/O trên/Cm/O dốc/Nn/O cao/Aa/O của/Cm/O con/Nc/O đường/Nn/O xuyên/Vv/O tỉnh/Nu/O ./PU/O 
+Những/Nq/O đám/Nn/O mây/Nn/O trắng/Aa/O nhỏ/Aa/O sà/Vv/O xuống/D/O cửa_kính/Nn/O ô_tô/Nn/O tạo/Vv/O nên/Vv/O cảm_giác/Nn/O bồng_bềnh/Vv/O huyền_ảo/Aa/O ./PU/O 
+Chúng_tôi/Pp/O đang/R/O đi/Vv/O bên/Nn/O những/Nq/O thác/Nn/O trắng/Aa/O xóa/Nq/O tựa/Nn/O mây/Nn/O trời/Nn/O ,/PU/O những/Nq/O rừng/Nn/O cây/Nn/O âm_âm/Nn/O ,/PU/O những/Nq/O bông/Nc/O hoa_chuối/Nn/O rực/Aa/O lên/R/O như/Cp/O ngọn/Nc/O lửa/Nn/O ./PU/O 
+Tôi/Pp/O lim_dim/Vv/O mắt/Nn/O ngắm/Vv/O mấy/Nq/O con/Nc/O ngựa/Nn/O đang/R/O ăn/Vv/O cỏ/Nn/O trong/Cm/O một/Nq/NUM_B vườn/Nn/O đào/Vv/O ven/Nn/O đường/Nn/O ./PU/O 
+Con_đen/Nr/BRN_B huyền/Nn/O ,/PU/O con/Nn/O trắng/Aa/O tuyết/Nn/O ,/PU/O con_đỏ/Nq/O son/Nn/O ,/PU/O chân/Nn/O dịu_dàng/Aa/O ,/PU/O chùm/Nn/O đuôi/Nn/O cong/Aa/O lướt_thướt/Nq/O liễu/Nn/O rủ/Vv/O ./PU/O 
+Buổi/Nt/O chiều/Nt/O ,/PU/O xe/Nn/O dừng/Vv/O lại/R/O ở/Cm/O một/Nq/NUM_B thị_trấn/Nu/O nhỏ/Aa/O ./PU/O 
+Nắng/Nn/O phố/Nn/O huyện/Nu/O vàng_hoe/Aa/O ./PU/O 
+Những/Nq/O em_bé/Nn/O Hmông/Nr/PER_B ,/PU/O những/Nq/O em_bé/Nn/O Tu_Dí/Nr/PER_B ,/PU/O Phù_Lá/Nr/PER_B cổ/Aa/O đeo/Vv/O móng/Nn/O hổ/Nn/O ,/PU/O quần_áo/Nn/O sặc_sỡ/Aa/O đang/R/O chơi_đùa/Vv/O trước/Nn/O cửa_hàng/Nn/O ./PU/O 
+Hoàng_hôn/Nt/O ,/PU/O áp/Vv/O phiên/Nc/O của/Cm/O phiên/Nc/O chợ/Nn/O thị_trấn/Nu/O ,/PU/O người_ngựa/Nn/O dập_dìu/Aa/O chìm/Vv/O trong/Cm/O sương/Nn/O núi/Nn/O tím/Aa/O nhạt/Aa/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I chúng_tôi/Pp/O đi/Vv/O Sa_Pa/Nr/LOC_B ./PU/O 
+Phong_cảnh/Nn/O ở/Cm/O đây/Pd/O thật/R/O đẹp/Aa/O ./PU/O 
+Thoắt/Nr/O cái/Nn/O ,/PU/O lá/Nn/O vàng/Nn/O rơi/Vv/O trong/Cm/O khoảnh_khắc/Nn/O mùa/Nn/DTM_B thu/Nt/DTM_I ./PU/O 
+Thoắt/Nr/PER_B cái/Nc/O ,/PU/O trắng/Aa/O long_lanh/Aa/O một/Nq/NUM_B cơn/Nc/O mưa_tuyết/Nn/O trên/Cm/O những/Nq/O cành/Nn/O đào/Vv/O ,/PU/O lê/Nn/O ,/PU/O mận/Nn/O ./PU/O 
+Thoắt/Nr/O cái/Nn/O ,/PU/O gió/Nn/O xuân/Nt/DTM_B hây_hẩy/Nt/DTM_I nồng_nàn/Aa/O với/Cp/O những/Nq/O bông/Nc/O hoa_lay_ơn/Nn/O màu/Nn/O đen/Aa/O nhung/Nn/O hiếm/Aa/O quý/Aa/O ./PU/O 
+Sa_Pa/Nr/PER_B quả/M/O là/Vc/O món/Nc/O quà/Nn/O tặng/Vv/O diệu_kì/Aa/O mà/Cp/O thiên_nhiên/Nn/O dành/Vv/O cho/Cp/O đất_nước/Nn/O ta/Pp/O ./PU/O 

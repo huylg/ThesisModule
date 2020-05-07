@@ -1,0 +1,10 @@
+﻿Trên/Cm/O chiếc/Nc/O bè/Nn/O 
+Tôi/Pp/O và/Cp/O Dế_Trũi/Nr/PER_B rủ/Vv/O nhau/Nn/O đi/Vv/O ngao_du/Vv/O thiên_hạ/Nn/O ./PU/O 
+Chúng_tôi/Pp/O ngày/Nt/O đi_đêm/Vv/O nghỉ/Vv/O ,/PU/O cùng/Cp/O nhau/Nn/O say/Vv/O ngắm/Vv/O dọc/Aa/O đường/Nn/O ./PU/O 
+Ngày_kia/Nn/O ,/PU/O đến/Cm/O một/Nq/NUM_B bờ/Nn/O sông/Nn/O ,/PU/O chúng_tôi/Pp/O ghép/Vv/O ba/Nq/NUM_B bốn/Nq/NUM_I lá/Nc/O bèo/Aa/O sen/Nn/O lại/R/O ,/PU/O làm/Vv/O một/Nq/NUM_B chiếc/Nc/O bè/Nn/O ./PU/O 
+Bè/Nn/O theo/Vv/O dòng/Nn/O nước/Nn/O trôi/Vv/O băng_băng/Aa/O ./PU/O 
+Mùa/Nn/DTM_B thu/Nt/DTM_I mới/R/O chớm/Vv/O nhưng/Cp/O nước/Nn/O đã/R/O trong_vắt/Aa/O ,/PU/O trông/Vv/O thấy/Vv/O cả/Pp/O hòn/Nc/O cuội/Nn/O trắng_tinh/Aa/O nằm/Vv/O dưới/Cm/O đáy/Nn/O ./PU/O 
+Nhìn/Vv/O hai/Nq/NUM_B bên/Nn/O bờ/Nn/O sông/Nn/O ,/PU/O cỏ_cây/Nn/O và/Cp/O những/Nq/O làng/Nu/O gần/Aa/O ,/PU/O núi/Nn/O xa/Aa/O luôn_luôn/R/O mới/Aa/O ./PU/O 
+Những/Nq/O anh/Nc/O gọng_vó/Nn/O đen/Aa/O sạm/Aa/O ,/PU/O gầy/Aa/O và/Cp/O cao/Aa/O ,/PU/O nghênh/Nn/O cặp/Nq/O chân/Nn/O gọng_vó/Nn/O đứng/Vv/O trên/Cm/O bãi/Nn/O lầy/Nn/O bái_phục/Vv/O nhìn/Vv/O theo/Vv/O chúng_tôi/Pp/O ./PU/O 
+Những/Nq/O ả/Nc/O cua/Nn/O kềnh/Vv/O cũng/R/O giương/Vv/O đôi/Nq/O mắt/Nn/O lồi/Aa/O ,/PU/O âu_yếm/Vv/O ngó/Vv/O theo/Vv/O ./PU/O 
+Đàn/Nn/O săn_sắt/Nn/O và/Cp/O cá/Nn/O thầu_dầu/Nn/O thoáng/Aa/O gặp/Vv/O đâu/Pp/O cũng/R/O lăng_xăng/Vv/O cố/Vv/O bơi/Vv/O theo/Vv/O chiếc/Nc/O bè/Nn/O ,/PU/O hoan_nghênh/Vv/O váng/Nn/O cả/Pp/O mặt/Nn/O nước/Nn/O ./PU/O 

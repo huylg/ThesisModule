@@ -1,0 +1,22 @@
+﻿Sự_tích/Nn/O chú/Nn/O Cuội/Nr/O cung_trăng/Nn/O 
+Ngày_xửa_ngày_xưa/Nt/O có/Ve/O một/Nq/NUM_B tiều_phu/Nn/O tên/Nn/O là/Vc/O Cuội/Nr/PER_B ./PU/O 
+Một/Nq/O hôm/Nt/O Cuội/Nr/PER_B vào/Cm/O rừng/Nn/O ,/PU/O bỗng_đâu/Nn/O gặp/Vv/O một/Nq/NUM_B con/Nc/O hổ/Nn/O con/Nn/O xông/Vv/O đến/D/O ./PU/O 
+Không/R/O kịp/Aa/O tránh/Vv/O ,/PU/O anh/Nn/O đành/Vv/O liều_mạng/Vv/O vung/Vv/O rìu/Nn/O lên/D/O đánh/Vv/O nhau/Nn/O với/Cp/O hổ/Nn/O ./PU/O 
+Hổ/Nn/O còn/R/O non/Aa/O nên/Cp/O thua/Vv/O sức/Nn/O người/Nn/O ,/PU/O bị/Vv/O Cuội/Nr/PER_B bổ/Aa/O một/Nq/NUM_B rìu/Nn/O lăn_quay/Vv/O ra/R/O đất/Nn/O ./PU/O 
+Vừa/R/O lúc/Nt/O đó/Pd/O ,/PU/O hổ/Nn/O mẹ/Nn/O về/Vv/O tới/D/O nơi/Nn/O ./PU/O 
+Cuội/Nr/PER_B chỉ/R/O kịp/Aa/O quăng/Vv/O rìu/Nn/O ,/PU/O leo/Vv/O tót/Vv/O lên/R/O cây/Nn/O ./PU/O 
+Từ/Cm/O trên/Nn/O cao/Aa/O nhìn/Vv/O xuống/D/O ,/PU/O Cuội/Nr/PER_B thấy/Vv/O hổ/Nn/O mẹ/Nn/O chạy/Vv/O đến/D/O một/Nq/NUM_B bụi/Nn/O cây/Nn/O gần/Aa/O đó/Pd/O ,/PU/O đớp/Vv/O một_ít/Nq/O lá/Nc/O về/Cm/O nhai/Vv/O mớm/Vv/O cho/Cp/O con/Nn/O ./PU/O 
+Khoảng/Nn/O giập/Vv/O bã_trầu/Nn/O ,/PU/O hổ/Nn/O con/Nn/O tự_nhiên/Aa/O cựa_quậy/Vv/O ,/PU/O vẫy/Vv/O đuôi/Nn/O rồi/Cp/O sống/Vv/O lại/R/O ./PU/O 
+Chờ/Vv/O cho/Cp/O hổ/Nn/O mẹ/Nn/O tha/Vv/O con/Nn/O đi/Vv/O nơi/Nn/O khác/Aa/O ,/PU/O Cuội/Nr/PER_B tìm/Vv/O đến/Vv/O bụi/Nn/O cây/Nn/O kia/Pd/O ,/PU/O đào/Vv/O gốc/Nn/O mang/Vv/O về/D/O ./PU/O 
+Từ/Cm/O khi/Nt/O có/Ve/O cây_thuốc/Nn/O quý/Aa/O ,/PU/O Cuội/Nr/PER_B cứu/Vv/O sống/Vv/O được/R/O rất/R/O nhiều/Aa/O người/Nn/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O Cuội/Nr/PER_B cứu/Vv/O được/R/O con_gái/Nn/O một/Nq/MEA_B phú_ông/Nu/MEA_I ,/PU/O được/Vv/O phú_ông/Nu/O gả/Vv/O cô/Nc/O gái/Nn/O ấy/Pd/O cho/Cp/O ./PU/O 
+Vợ_chồng/Nn/O Cuội/Nr/PER_B sống/Vv/O với/Cp/O nhau/Nn/O thật/R/O êm_ấm/Aa/O ./PU/O 
+Nhưng/Cp/O một/Nq/NUM_B lần/Nn/O ,/PU/O vợ/Nn/O Cuội/Nr/PER_B trượt/Vv/O chân/Nn/O ngã/Vv/O vỡ/Vv/O đầu/Nn/O ,/PU/O Cuội/Nr/PER_B rịt/Nq/O lá/Nn/O thuốc/Nn/O cho/Vv/O mà/Cp/O mãi/R/O vẫn/R/O không/R/O tỉnh/Vv/O lại/R/O ./PU/O 
+Thương/Vv/O vợ/Nn/O ,/PU/O Cuội/Nr/PER_B nặn/Vv/O thử/Vv/O bộ_óc/Nn/O bằng/Cm/O đất/Nn/O cho/Cp/O vợ/Nn/O rồi/Cp/O rịt/Nq/O thuốc/Nn/O lại/R/O ./PU/O 
+Không/R/O ngờ/Vv/O vợ/Nn/O Cuội/Nr/PER_B sống/Vv/O lại/R/O ,/PU/O tươi_tỉnh/Aa/O như/Cp/O thường/R/O ./PU/O 
+Nhưng/Cp/O từ/Cm/O đó/Pd/O ,/PU/O người/Nc/O vợ/Nn/O mắc/Vv/O chứng/Nc/O hay/Aa/O quên/Vv/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O vợ/Nn/O Cuội/Nr/PER_B quên/Vv/O lời/Nn/O chồng/Nn/O dặn/Vv/O ,/PU/O đem/Vv/O nước/Nn/O giải/Nn/O tưới/Vv/O cho/Cp/O cây_thuốc/Nn/O ./PU/O 
+Vừa/R/O tưới/Vv/O xong/Aa/O ,/PU/O ai/Pp/O ngờ/Vv/O cây/Nn/O thuốc/Nn/O lừng_lững/Aa/O bay/Vv/O lên/D/O trời/Nn/O ./PU/O 
+Thấy/Vv/O thế/Pp/O ,/PU/O Cuội/Nr/PER_B vội/Aa/O nhảy_bổ/Vv/O đến/Cm/O ,/PU/O túm/Vv/O vào/Cm/O rễ/Nn/O cây/Nn/O ./PU/O 
+Nhưng/Cp/O cây_thuốc/Nn/O cứ/R/O bay/Vv/O lên/D/O ,/PU/O kéo_theo/Vv/O cả/Pp/O Cuội/Nr/PER_B lên/Vv/O tít/R/O cung_trăng/Nn/O ./PU/O 
+Ngày_nay/Nt/DTM_B ,/PU/O mỗi/Nq/O khi/Nt/O nhìn/Vv/O lên/R/O mặt/Nn/O trăng/Nn/O ,/PU/O ta/Pp/O vẫn/R/O thấy/Vv/O chú/Nn/TTL_B Cuội/Nr/PER_B ngồi/Vv/O dưới/Cm/O gốc/Nn/O cây/Nn/O thuốc/Nn/O quý/Aa/O ./PU/O 

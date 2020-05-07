@@ -1,0 +1,18 @@
+﻿Đất/Nn/O Cà_Mau/Nr/LOC_B 
+Cà_Mau/Nr/LOC_B là/Vc/O đất/Nn/O mưa/Nn/O dông/Nn/O ./PU/O 
+Vào/Cm/O tháng/Nt/DTM_B ba/Nn/DTM_I ,/PU/O tháng/Nt/DTM_B tư/Nt/DTM_I ,/PU/O sớm/Aa/O nắng/Nn/O chiều/Nt/O mưa/Vv/O ./PU/O 
+Đang/R/O nắng/Aa/O đó/Pd/O ,/PU/O mưa/Nn/O đổ/Vv/O ngay/R/O xuống/Vd/O đó/Pd/O ./PU/O 
+Mưa/Nn/O hối_hả/Aa/O ,/PU/O không/R/O kịp/Aa/O chạy/Vv/O vào/D/O nhà/Nn/O ./PU/O 
+Mưa/Nn/O rất/R/O phũ/Aa/O ,/PU/O một/Nq/O hồi/Nt/O rồi/Cp/O tạnh/Vv/O hẳn/Aa/O ./PU/O 
+Trong/Cm/O mưa/Nn/O thường/R/O nổi/Vv/O cơn/Nc/O dông/Nn/O ./PU/O 
+Cà_Mau/Nr/LOC_B đất/Nn/O xốp/Aa/O ./PU/O 
+Mùa/Nn/O nắng/Nn/O ,/PU/O đất/Nn/O nẻ/Vv/O chân_chim/Nn/O ,/PU/O nền/Nc/O nhà/Nn/O cũng/R/O rạn_nứt/Vv/O ./PU/O 
+Trên/Cm/O cái/Nc/O đất/Nn/O phập_phều/Nu/O và/Cp/O lắm/Aa/O gió/Nn/O ,/PU/O dông/Nn/O như/Cp/O thế/Pp/O ,/PU/O cây/Nn/O đứng/Vv/O lẻ/Aa/O khó/Aa/O mà/Cp/O chống/Vv/O nổi/R/O với/Cp/O những/Nq/O cơn/Nc/O thịnh_nộ/Vv/O của/Cm/O trời/Nn/O ./PU/O 
+Cây/Nn/O bình_bát/Nn/O ,/PU/O cây/Nn/O bần/Nn/O cũng/R/O phải/Vv/O quây_quần/Vv/O thành/Vv/O chòm/Nn/O ,/PU/O thành/Vv/O rặng/Nn/O ;/PU/O rễ/Nn/O phải/Vv/O dài/Aa/O ,/PU/O phải/Vv/O cắm/Vv/O sâu/Aa/O vào/Cm/O trong/Cm/O lòng/Nn/O đất/Nn/O ./PU/O 
+Nhiều/Aa/O nhất/R/O là/Vc/O đước/Nn/O ./PU/O 
+Đước/Nr/PER_B mọc/Vv/O san_sát/Aa/O đến/Cm/O tận/Cm/O mũi_đất/Nn/O cuối_cùng/Aa/O ,/PU/O thẳng_đuột/Aa/O như/Cp/O hằng_hà_sa_số/ID/O cây/Nn/O dù/Cp/O xanh/Aa/O cắm/Vv/O trên/Cm/O bãi/Nn/O ./PU/O 
+Nhà_cửa/Nn/O dựng/Vv/O dọc/Aa/O theo/Vv/O những/Nq/O bờ/Nn/O kênh/Nn/O ,/PU/O dưới/Nn/O những/Nq/O hàng/Nn/O đước/Nn/O xanh_rì/Aa/O ./PU/O 
+Nhà/Nc/O nọ/Pd/O sang/Cm/O nhà/Nn/O kia/Pd/O phải/Vv/O leo/Vv/O trên/Cm/O cầu/Nn/O bằng/Cm/O thân/Nn/O cây/Nn/O đước/Nn/O .../PU/O 
+Sống/Vv/O trên/Cm/O cái/Nc/O đất/Nn/O mà/Cp/O ngày_xưa/Nt/DTM_B ,/PU/O dưới/Cm/O sông/Nn/O "/PU/O sấu/Nn/O cản/Vv/O mũi/Nn/O thuyền/Nn/O "/PU/O ,/PU/O trên/Cm/O cạn/Nn/O "/PU/O hổ/Nn/O rình/Vv/O xem/Vv/O hát/Vv/O "/PU/O này/Pd/O ,/PU/O con_người/Nn/O phải/Vv/O thông_minh/Aa/O và/Cp/O giàu/Aa/O nghị_lực/Nn/O ./PU/O 
+Họ/Pp/O thích/Vv/O kể/Vv/O ,/PU/O thích/Vv/O nghe/Vv/O những/Nq/O huyền_thoại/Nn/O về/Cm/O người/Nn/O vật/Vv/O hổ/Nn/O ,/PU/O bắt/Vv/O cá_sấu/Nn/O ,/PU/O bát/Nn/O rắn/Aa/O hổ/Nn/O mây/Nn/O ./PU/O 
+Tinh_thần/Nn/O thượng_võ/Vv/O của/Cm/O cha_ông/Nn/O được/Vv/O nung_đúc/Nn/O và/Cp/O lưu_truyền/Vv/O để/Cm/O khai_phá/Vv/O giữ_gìn/Vv/O mũi_đất/Nn/O tận_cùng/Aa/O này/Pd/O của/Cm/O Tổ_quốc/Nn/O ./PU/O 

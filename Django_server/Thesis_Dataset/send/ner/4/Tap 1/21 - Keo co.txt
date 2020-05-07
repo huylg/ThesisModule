@@ -1,0 +1,13 @@
+﻿Kéo_co/Nr/PER_B 
+Kéo_co/Nr/PER_B là/Vc/O một/Nq/NUM_B trò_chơi/Nn/O thể_hiện/Vv/O tinh_thần/Nn/O thượng_võ/Vv/O của/Cm/O dân/Nn/O ta/Pp/O ./PU/O 
+Tục/Nn/O kéo_co/Nn/O mỗi/Nq/O vùng/Nn/O một/Nq/NUM_B khác/Nn/O ,/PU/O nhưng/Cp/O bao_giờ/Pp/O cũng/R/O là/Vc/O cuộc/Nc/O đấu/Vv/O tài/Nn/O ,/PU/O đấu/Vv/O sức/Nn/O giữa/Cm/O hai/Nq/NUM_B bên/Nn/O ./PU/O 
+Kéo_co/Nr/PER_B phải/Vv/O đủ/Aa/O ba/Nq/NUM_B keo/Nn/O ./PU/O 
+Bên/Nn/O nào/Pd/O kéo/Vv/O được/R/O đối_phương/Nn/O ngã/Vv/O về/Cm/O phía/Nn/O mình/Pp/O nhiều/Aa/O keo/Nn/O hơn/Aa/O là/Vc/O bên/Nn/O ấy/Pd/O thắng/Vv/O ./PU/O 
+Hội/Nn/ORG_B làng/Nu/ORG_I Hữu_Trấp/Nr/ORG_I thuộc/Vv/O huyện/Nu/ORG_B Quế_Võ/Nr/ORG_I ,/PU/O tỉnh/Nu/LOC_B Bắc_Ninh/Nr/LOC_I thường/R/O tổ_chức/Vv/O thi/Vv/O kéo_co/Nn/O giữa/Cm/O nam/Nn/O và/Cp/O nữ/Nn/O ./PU/O 
+Có/Ve/O năm/Nq/NUM_B bên/Nn/O nam/Nn/O thắng/Vv/O ,/PU/O có/Ve/O năm/Nq/NUM_B bên/Nn/O nữ/Nn/O thắng/Vv/O ./PU/O 
+Nhưng/Cp/O dù/Cs/O bên/Nn/O nào/Pd/O thắng/Vv/O thì/Cs/O cuộc/Nc/O thi/Vv/O cũng/R/O rất/R/O là/Vc/O vui/Aa/O ./PU/O 
+Vui/Aa/O ở/Cm/O sự/Nc/O ganh_đua/Vv/O ,/PU/O vui/Aa/O ở/Cm/O những/Nq/O tiếng/Nn/O hò_reo/Vv/O khuyến_khích/Vv/O của/Cm/O người/Nn/O xem/Vv/O hội/Nn/O ./PU/O 
+Làng/Nu/LOC_B Tích_Sơn/Nr/LOC_I thuộc/Vv/O thị_xã/Nu/ORG_B Vĩnh_Yên/Nr/ORG_I ,/PU/O tỉnh/Nu/LOC_B Vĩnh_Phúc/Nr/LOC_I lại/R/O có/Ve/O tục/Nn/O thi/Vv/O kéo_co/Nn/O giữa/Cm/O trai_tráng/Nn/O hai/An/O giáp/Vv/O trong/Cm/O làng/Nu/O ,/PU/O số/Nn/O người/Nn/O của/Cm/O mỗi/Nq/O bên/Nn/O không/R/O hạn_chế/Vv/O ./PU/O 
+Nhiều/Aa/O khi/Nt/O ,/PU/O có/R/O giáp/Vv/O thua/Vv/O keo/Nn/O đầu/Aa/O ,/PU/O tới/Cm/O keo/Nn/O thứ/Nn/O hai/An/O ,/PU/O đàn_ông/Nn/O trong/Cm/O giáp/Vv/O kéo/Vv/O đến/D/O đông/Nn/O hơn/Aa/O ,/PU/O thế/Pp/O là/Vc/O chuyển/Vv/O bại/Vv/O thành/Vv/O thắng/Vv/O ./PU/O 
+Sau/Nn/O cuộc/Nc/O thi/Vv/O ,/PU/O dân_làng/Nn/O nổi/Vv/O trống/Aa/O mừng/Vv/O bên/Nn/O thắng/Vv/O ./PU/O 
+Các/Nq/O cô/Nc/O gái/Nn/O làng/Nu/O cũng/R/O không/R/O ngớt/Vv/O lời/Nn/O ngợi_khen/Vv/O những/Nq/O chàng/Nc/O trai/Nn/O thắng/Vv/O cuộc/Nc/O ./PU/O 

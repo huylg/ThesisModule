@@ -1,0 +1,16 @@
+﻿Gặp_gỡ/Vv/O ở/Cm/O Lúc-xăm-bua/Nn/O 
+Hôm/Nt/O ấy/Pd/O ,/PU/O chúng_tôi/Pp/O đến/Vd/O thăm/Vv/O một/Nq/NUM_B trường/Nn/O tiểu_học/Nn/O ./PU/O 
+Cô/Nc/O hiệu_trưởng/Nn/O mời/Vv/O đoàn/Nn/O vào/Vd/O thăm/Vv/O lớp/Nn/O 6A/Nr/O ./PU/O 
+Điều/Nc/O bất_ngờ/Aa/O là/Vc/O tất_cả/Nq/O học_sinh/Nn/O đều/R/O lần_lượt/R/O tự/Pp/O giới_thiệu/Vv/O bằng/Cm/O tiếng/Nn/O Việt/Nr/LOC_B :/PU/O "/PU/O Em/Pp/O là/Vc/O Mô-ni-ca/Nt/DTM_B "/PU/O ,/PU/O "/PU/O Em/Pp/O là/Vc/O Giét-xi-ca/Nt/DTM_B "/PU/O ,/PU/O .../PU/O 
+Mở_đầu/Vv/O cuộc/Nc/O gặp/Vv/O ,/PU/O các/Nq/O em/Nn/O hát/Vv/O tặng/Vv/O đoàn/Nn/O bài/Nc/O hát/Vv/O "/PU/O Kìa/Nr/PER_B con/Nc/O bướm/Nn/O vàng/Nn/O "/PU/O bằng/Cm/O tiếng/Nn/O Việt/Nr/LOC_B ./PU/O 
+Rồi/Cp/O các/Nq/O em/Nn/O giới_thiệu/Vv/O những/Nq/O vật/Nn/O sưu_tầm/Vv/O được/Vv/O như/Cp/O đàn/Nn/O tơ-rưng/Nn/O ,/PU/O cái/Nc/O nón/Nn/O ,/PU/O tranh/Nn/O cây/Nn/O dừa/Nn/O ,/PU/O ảnh/Nn/O xích_lô/Nn/O ,/PU/O .../PU/O 
+Các/Nq/O em/Nn/O còn/R/O vẽ/Vv/O Quốc_kì/Nu/ORG_B Việt_Nam/Nr/ORG_I và/Cp/O nói/Vv/O được/R/O bằng/Cm/O tiếng/Nn/O Việt/Nr/LOC_B :/PU/O "/PU/O Việt_Nam/Nr/LOC_B ,/PU/O Hồ_Chí_Minh/Nr/PER_B ./PU/O "/PU/O 
+Hóa/Nr/PER_B ra/Vd/O cô_giáo/Nn/O của/Cm/O các/Nq/O em/Nn/O đã/R/O từng/R/O ở/Cm/O Việt_Nam/Nr/LOC_B hai/Nq/MEA_B năm/Nt/MEA_I ./PU/O 
+Cô/Nn/O thích/Vv/O Việt_Nam/Nr/ORG_B nên/Cp/O đã/R/O dạy/Vv/O các/Nq/O em/Nn/O tiếng/Nn/O Việt/Nr/LOC_B và/Cp/O kể/Vv/O cho/Cp/O các/Nq/O em/Nn/O nghe/Vv/O nhiều/Aa/O điều/Nc/O tốt_đẹp/Aa/O về/Cm/O đất_nước/Nn/O và/Cp/O con_người/Nn/O Việt_Nam/Nr/LOC_B ./PU/O 
+Các/Nq/O em/Nn/O còn/R/O tìm_hiểu/Vv/O về/Cm/O Việt_Nam/Nr/ORG_B trên/Cm/O in-tơ-nét/Nn/O ./PU/O 
+Về/Cm/O phần/Nn/O mình/Pp/O ,/PU/O các/Nq/O em/Nn/O đặt/Vv/O cho/Cp/O chúng_tôi/Pp/O rất/R/O nhiều/Aa/O câu/Nn/O hỏi/Vv/O về/Cm/O thiếu_nhi/Nn/ORG_B Việt_Nam/Nr/ORG_I :/PU/O 
+"/PU/O Học_sinh/Nn/O Việt_Nam_học/Nr/ABB_LOC_B những/Nq/O môn/Nn/O gì/Pp/O ?/PU/O "/PU/O ,/PU/O 
+"/PU/O Trẻ_em/Nn/O Việt_Nam/Nr/LOC_B thích/Vv/O những/Nq/O bài/Nc/O hát/Vv/O nào/Pd/O ?/PU/O "/PU/O ,/PU/O 
+"/PU/O Ở/Cm/O Việt_Nam/Nr/LOC_B ,/PU/O trẻ_em/Nn/O chơi/Vv/O những/Nq/O trò_chơi/Nn/O gì/Pp/O ?/PU/O "/PU/O .../PU/O 
+Đã/R/O đến/Cm/O lúc/Nt/O chia_tay/Vv/O ./PU/O 
+Dưới/Cm/O làn/Nc/O tuyết/Nn/O bay/Vv/O mù_mịt/Aa/O ,/PU/O các/Nq/O em/Nn/O vẫn/R/O đứng/Vv/O vẫy/Vv/O tay/Nn/O chào/Vv/O lưu_luyến/Vv/O ,/PU/O cho/Cp/O đến/Cm/O khi/Nt/O xe/Nn/O của/Cm/O chúng_tôi/Pp/O khuất/Aa/O hẳn/Aa/O trong/Cm/O dòng/Nn/O người/Nn/O và/Cp/O xe_cộ/Nn/O tấp_nập/Aa/O của/Cm/O thành_phố/Nu/ORG_B châu/Nn/ORG_I Âu/Nr/ORG_I hoa_lệ/Aa/O ,/PU/O mến/Vv/O khách/Nn/O ./PU/O 

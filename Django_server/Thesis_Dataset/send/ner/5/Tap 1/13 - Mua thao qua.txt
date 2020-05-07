@@ -1,0 +1,21 @@
+﻿Mùa/Nn/O thảo_quả/Nn/O 
+Thảo_quả/Nn/O trên/Cm/O rừng/Nn/LOC_B Đản_Khao/Nr/LOC_I đã/R/O vào/Vv/O mùa/Nn/O ./PU/O 
+Gió/Nn/O tây/Nn/O lướt_thướt/Nn/O bay/Vv/O qua/D/O rừng/Nn/O ,/PU/O quyến/Nu/O hương_thảo/Nn/O quả/Nn/O đi/Vv/O ,/PU/O rải/Vv/O theo/Vv/O triền/Nn/O núi/Nn/O ,/PU/O đưa/Vv/O hương_thảo/Nn/O quả/Nn/O ngọt/Aa/O lựng/Aa/O ,/PU/O thơm/Aa/O nồng/Aa/O vào/Cm/O những/Nq/O thôn_xóm/Nn/O Chin_San/Nr/LOC_B ./PU/O 
+Gió/Nn/O thơm/Aa/O ./PU/O 
+Cây_cỏ/Nn/O thơm/Aa/O ./PU/O 
+Đất_trời/Nn/O thơm/Aa/O ./PU/O 
+Người/Nn/O đi/Vv/O từ/Cm/O rừng/Nn/O thảo_quả/Nn/O về/D/O ,/PU/O hương/Nn/O thơm/Aa/O đậm/Aa/O ủ_ấp/Nn/O trong/Cm/O từng/Pp/O nếp/Nn/O áo/Nn/O ,/PU/O nếp/Nn/O khăn/Nn/O ./PU/O 
+Thảo_quả/Nn/O trên/Cm/O rừng/Nn/LOC_B Đản_Khao/Nr/LOC_I đã/R/O chín/Vv/O nục/Nn/O ./PU/O 
+Chẳng/R/O có/Ve/O thứ/Nn/O quả/Nn/O nào/Pd/O hương/Nn/O thơm/Aa/O lại/R/O ngây_ngất/Aa/O kì_lạ/Aa/O đến/Cm/O như/Cp/O thế/Pp/O ./PU/O 
+Mới_đầu/Pp/O xuân/Nt/DTM_B năm_kia/Nt/DTM_I ,/PU/O những/Nq/O hạt/Nc/O thảo_quả/Nn/O gieo/Vv/O trên/Cm/O đất/Nn/O rừng/Nn/O ,/PU/O qua/Cm/O một/Nq/MEA_B năm/Nt/MEA_I ,/PU/O đã/R/O lớn/Aa/O cao/Aa/O tới/Cm/O bụng/Nn/O người/Nn/O ./PU/O 
+Một/Nq/MEA_B năm/Nt/MEA_I sau/Nn/O nữa/R/O ,/PU/O từ/Cm/O một/Nq/NUM_B thân/Nn/O lẻ/Aa/O ,/PU/O thảo_quả/Nn/O đâm/Vv/O thêm/Vv/O hai/Nq/NUM_B nhánh/Nn/O mới/Aa/O ./PU/O 
+Sự/Nc/O sinh_sôi/Vv/O sao/Pp/O mà/Cp/O mạnh_mẽ/Aa/O vậy/Pp/O ./PU/O 
+Thoáng/Vv/O cái/Nc/O ,/PU/O dưới/Cm/O bóng_râm/Nn/O của/Cm/O rừng_già/Nn/O ,/PU/O thảo_quả/Nn/O lan/Vv/O tỏa/Nq/O nơi/Nn/O tầng/Nn/O rừng/Nn/O thấp/Aa/O ,/PU/O vươn/Vv/O ngọn/Nc/O ,/PU/O xòe/Nq/O lá/Nn/O ,/PU/O lấn_chiếm/Vv/O không_gian/Nn/O ./PU/O 
+Sự/Nc/O sống/Vv/O cứ/R/O tiếp_tục/Vv/O trong/Cm/O âm_thầm/Aa/O ,/PU/O hoa/Nn/O thảo_quả/Nn/O nảy/Vv/O dưới/Cm/O gốc/Nn/O cây/Nn/O kín_đáo/Aa/O và/Cp/O lặng_lẽ/Aa/O ./PU/O 
+Ngày/Nt/DTM_B qua/Aa/DTM_I ,/PU/O trong/Cm/O sương/Nn/O thu/Vv/O ẩm_ướt/Aa/O và/Cp/O mưa/Nn/O rây/Nn/O bụi/Nn/O mùa/Nn/DTM_B đông/Nt/DTM_I ,/PU/O những/Nq/O chùm/Nn/O hoa/Nn/O khép/Vv/O miệng/Nn/O bắt_đầu/Vv/O kết/Vv/O trái/Aa/O ./PU/O 
+Thảo_quả/Nn/O chín/Nq/NUM_B dần/R/O ./PU/O 
+Dưới/Cm/O đáy/Nn/O rừng/Nn/O ,/PU/O tựa/Nn/O như/Cp/O đột_ngột/Aa/O ,/PU/O bỗng/R/O rực/Aa/O lên/R/O những/Nq/O chùm/Nn/O thảo_quả/Nn/O đỏ_chon_chót/Nn/O ,/PU/O như/Cp/O chứa/Vv/O lửa/Nn/O ,/PU/O chứa/Vv/O nắng/Nn/O ./PU/O 
+Rừng/Nn/O ngập/Vv/O hương/Nn/O thơm/Aa/O ./PU/O 
+Rừng/Nn/O sáng/Aa/O như/Cp/O có/Ve/O lửa/Nn/O hắt/Vv/O lên/R/O từ/Cm/O dưới/Cm/O đáy/Nn/O rừng/Nn/O ./PU/O 
+Rừng/Nn/O say/Vv/O ngây/Aa/O và/Cp/O ấm/Aa/O nóng/Aa/O ./PU/O 
+Thảo_quả/Nn/O như/Cp/O những/Nq/O đốm/Nn/O lửa/Nn/O hồng/Aa/O ,/PU/O ngày/Nt/DTM_B qua/Aa/DTM_I ngày/Nt/O lại/R/O thắp/Vv/O thêm/Vv/O nhiều/Aa/O ngọn/Nc/O mới/Aa/O ,/PU/O nhấp_nháy/Vv/O vui_mắt/Aa/O ./PU/O 

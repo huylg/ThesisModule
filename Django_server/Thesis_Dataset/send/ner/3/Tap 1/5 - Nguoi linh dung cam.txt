@@ -1,0 +1,29 @@
+﻿Người/Nn/O lính/Nn/O dũng_cảm/Aa/O 
+Bắn/Vv/O thêm/Vv/O một/Nq/O loạt/Nn/O đạn/Nn/O vẫn/R/O không/R/O diệt/Vv/O được/R/O máy_bay/Nn/O địch/Nn/O ,/PU/O viên/Nc/O tướng/Nn/O hạ_lệnh/Vv/O :/PU/O 
+Vượt_rào/Nn/O ,/PU/O bắt/Vv/O sống/Vv/O nó/Pp/O !/PU/O 
+Hàng_rào/Nn/O là/Vc/O những/Nq/O cây/Nc/O nứa_tép/Nn/O dựng/Vv/O xiên/Vv/O ô/Nn/O quả/Nn/O trám/Vv/O ./PU/O 
+Cậu/Nc/O lính/Nn/O bé/Nn/O nhất/An/O nhìn/Vv/O thủ_lĩnh/Nn/O ,/PU/O ngập_ngừng/Vv/O :/PU/O 
+Chui/Nr/PER_B vào/Cm/O à/M/O ?/PU/O 
+Nghe/Vv/O tiếng/Nn/O "/PU/O chui/Vv/O "/PU/O ,/PU/O viên/Nc/O tướng/Nn/O thấy/Vv/O chối/Vv/O tai/Nn/O :/PU/O 
+Chỉ/R/O những/Nq/O thằng/Nc/O hèn/Aa/O mới/Cp/O chui/Vv/O ./PU/O 
+Cả/Pp/O tốp/Nn/O leo/Vv/O lên/R/O hàng_rào/Nn/O ,/PU/O trừ/Vv/O chú/Nc/O lính/Nn/O nhỏ/Aa/O ./PU/O 
+Chú/Nn/O nhìn/Vv/O cái/Nc/O lỗ_hổng/Nn/O dưới/Cm/O chân/Nn/O hàng/Nn/O rào/Nn/O rồi/Cp/O quyết_định/Vv/O chui/Vv/O qua/D/O đó/Pd/O ./PU/O 
+Nhưng/Cp/O chú/Nn/O mới/R/O chui/Vv/O được/R/O nửa/Nq/O người/Nn/O thì/Cp/O hàng_rào/Nn/O đổ/Vv/O ./PU/O 
+Tướng_sĩ/Nn/O ngã/Vv/O đè/Vv/O lên/Cm/O luống/Nn/O hoa_mười_giờ/Nn/O ./PU/O 
+Còn/Cp/O hàng_rào/Nn/O thì/Cp/O đè/Vv/O lên/Cm/O chú/Pp/O lính/Nn/O ./PU/O 
+Chiếc/Nc/O máy_bay/Nn/O (/PU/O là/Vc/O một/Nq/NUM_B chú/Nc/O chuồn_chuồn/Nn/O ngô/Nn/O )/PU/O giật_mình/Vv/O cất_cánh/Vv/O ./PU/O 
+Quân/Nr/PER_B tướng/Nn/O hoảng_sợ/Vv/O lao/Vv/O ra/D/O khỏi/Vv/O vườn/Nn/O ./PU/O 
+Giờ/Nt/O học/Vv/O hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O thầy_giáo/Nn/O nghiêm/Aa/O giọng/Nn/O hỏi/Vv/O :/PU/O 
+Hôm_qua/Nt/DTM_B em/Nn/O nào/Pd/O phá/Vv/O đổ/Vv/O hàng_rào/Nn/O ,/PU/O làm/Vv/O giập/Vv/O hoa/Nn/O trong/Cm/O vườn_trường/Nn/O ?/PU/O 
+Thầy/Nn/O nhìn/Vv/O một/Nq/NUM_B lượt/Nn/O những/Nq/O khuôn_mặt/Nn/O học_trò/Nn/O ,/PU/O chờ_đợi/Vv/O sự/Nc/O can_đảm/Aa/O nhận/Vv/O lỗi/Nn/O ./PU/O 
+Chú/Nn/O lính/Nn/O nhỏ/Aa/O run/Vv/O lên/R/O ./PU/O 
+Chú/Nn/O sắp/R/O phun/Vv/O ra/R/O bí_mật/Aa/O thì/Cp/O một/Nq/NUM_B cú/Nn/O véo/Vv/O nhắc/Vv/O chú/Nn/O ngồi/Vv/O im/Aa/O ./PU/O 
+Thầy_giáo/Nn/O lắc_đầu/Vv/O buồn_bã/Aa/O :/PU/O 
+Thầy/Nn/O mong/Vv/O em/Nn/O nào/Pd/O phạm/Vv/O lỗi/Nn/O sẽ/R/O sửa/Vv/O lại/R/O hàng_rào/Nn/O và/Cp/O luống/Nn/O hoa/Nn/O ./PU/O 
+Khi/Nt/O tất_cả/Nq/O túa/Vv/O ra/R/O khỏi/Vv/O lớp/Nn/O ,/PU/O chú/Nc/O lính/Nn/O nhỏ/Aa/O đợi/Vv/O viên/Nn/O tướng/Nn/O ở/Cm/O cửa/Nn/O ,/PU/O nói/Vv/O khẽ/Aa/O :/PU/O "/PU/O Ra/Vd/O vườn/Nn/O đi/Vv/O !/PU/O "/PU/O 
+Viên/Nc/O tướng/Nn/O khoát/Vv/O tay/Nn/O :/PU/O 
+Về/Cm/O thôi/M/O !/PU/O 
+Nhưng/Cp/O như/Cp/O vậy/Pp/O là/Vc/O hèn/Aa/O ./PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O chú/Nc/O lính/Nn/O quả_quyết/Vv/O bước/Nn/O về/D/O phía/Nn/O vườn_trường/Nn/O ./PU/O 
+Những/Nq/O người/Nc/O lính/Nn/O và/Cp/O viên/Nn/O tướng/Nn/O sững/Aa/O lại/R/O nhìn/Vv/O chú/Nc/O lính/Nn/O nhỏ/Aa/O ./PU/O 
+Rồi/Cp/O ,/PU/O cả/Pp/O đội/Nn/O bước/Vv/O nhanh/Aa/O theo/Vv/O chú/Nn/O ,/PU/O như/Cp/O là/Vc/O bước/Nn/O theo/Vv/O một/Nq/NUM_B người/Nn/O chỉ_huy/Vv/O dũng_cảm/Aa/O ./PU/O 

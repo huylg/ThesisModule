@@ -1,0 +1,20 @@
+﻿Kho/Nn/O báu/Aa/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O có/Ve/O hai/Nq/NUM_B vợ_chồng/Nn/O người/Nc/O nông_dân/Nn/O kia/Pd/O quanh_năm/Nn/O hai_sương_một_nắng/Nn/O ,/PU/O cuốc/Nn/O bẫm/Nn/O cày/Vv/O sâu/Aa/O ./PU/O 
+Hai/Nq/NUM_B ông_bà/Nn/O thường/R/O ra/Vd/O đồng/Nn/O từ/Cm/O lúc/Nt/O gà/Nn/O gáy/Nn/O sáng/Aa/O và/Cp/O trở_về/Vv/O nhà/Nn/O khi/Nt/O đã/R/O lặn/Vv/O mặt_trời/Nn/O ./PU/O 
+Đến/Cm/O vụ/Nc/O lúa/Nn/O ,/PU/O họ/Pp/O cấy/Vv/O lúa/Nn/O ,/PU/O gặt_hái/Vv/O xong/Aa/O ,/PU/O lại/R/O trồng/Vv/O khoai/Nn/O ,/PU/O trồng/Vv/O cà/Nn/O ./PU/O 
+Họ/Pp/O không/R/O để/Vv/O cho/Cp/O đất/Nn/O nghỉ/Vv/O ,/PU/O mà/Cp/O cũng/R/O chẳng/R/O lúc/Nt/O nào/Pd/O ngơi/Vv/O tay/Nn/O ./PU/O 
+Nhờ/Cm/O làm_lụng/Vv/O chuyên_cần/Aa/O ,/PU/O họ/Pp/O đã/R/O gây_dựng/Vv/O được/R/O một/Nq/NUM_B cơ_ngơi/Nn/O đàng_hoàng/Aa/O ./PU/O 
+Nhưng/Cp/O rồi/R/O ,/PU/O hai/Nq/NUM_B ông_bà/Nn/O mỗi/Nq/MEA_B ngày/Nt/MEA_I một/Nq/MEA_I già_yếu/Nn/MEA_I ./PU/O 
+Hai/Nq/NUM_B con_trai/Nn/O của/Cm/O họ/Pp/O đều/R/O ngại/Vv/O làm_ruộng/Vv/O ,/PU/O chỉ/R/O mơ/Vv/O chuyện/Nn/O hão_huyền/Aa/O ./PU/O 
+Ít_lâu/Nn/O sau/Nn/O ,/PU/O bà/Nn/O lão/Nn/O qua_đời/Vv/O ./PU/O 
+Rồi/Cp/O ông/Nc/O lão/Nn/O cũng/R/O lâm_bệnh/Vv/O nặng/Aa/O ./PU/O 
+Biết/Vv/O mình/Pp/O khó_lòng/Aa/O qua/Cm/O khỏi/Vv/O ,/PU/O ông/Nn/O dặn_dò/Vv/O các/Nq/O con/Nn/O :/PU/O 
+Cha/Nn/O không/R/O sống/Vv/O mãi/R/O để/Cm/O lo/Vv/O cho/Cp/O các/Nq/O con/Nn/O được/R/O ./PU/O 
+Ruộng/Nn/O nhà/Nn/O có/Ve/O một/Nq/NUM_B kho/Nn/O báu/Aa/O ,/PU/O các/Nq/O con/Nn/O hãy/R/O tự/Pp/O đào/Vv/O lên/R/O mà/Cp/O dùng/Vv/O ./PU/O 
+Theo/Vv/O lời/Nn/O cha/Nn/O ,/PU/O hai/Nq/NUM_B người/Nc/O con/Nn/O đào/Vv/O bới/Vv/O cả/Pp/O đám/Nn/O ruộng/Nn/O mà/Cp/O chẳng/R/O thấy/Vv/O kho/Nn/O báu/Aa/O đâu/R/O ./PU/O 
+Vụ/Nc/O mùa/Nn/O đến/Vd/O ,/PU/O họ/Pp/O đành/Vv/O trồng/Vv/O lúa/Nn/O ./PU/O 
+Nhờ/Cm/O làm/Vv/O đất/Nn/O kĩ/Aa/O ,/PU/O vụ/Nc/O ấy/Pd/O lúa/Nn/O bội_thu/Vv/O ./PU/O 
+Hết/Ve/O mùa/Nn/O ,/PU/O hai/Nq/NUM_B người/Nc/O con/Nn/O lại/R/O ra/Vd/O công/Nn/O đào/Vv/O bới/Vv/O mà/Cp/O vẫn/R/O không/R/O tìm/Vv/O được/R/O gì/Pp/O ./PU/O 
+Mùa/Nn/O tiếp_theo/Vv/O ,/PU/O họ/Pp/O lại/R/O đành/Vv/O trồng/Vv/O lúa/Nn/O và/Cp/O vụ/Nc/O ấy/Pd/O lúa/Nn/O cũng/R/O bội_thu/Vv/O ./PU/O 
+Liên_tiếp/Aa/O mấy/Nq/O vụ/Nc/O liền/Aa/O được_mùa/Vv/O ,/PU/O hai/Nq/NUM_B anh_em/Nn/O có/Ve/O của/Cm/O ăn_của/Vv/O để/Cm/O ./PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O họ/Pp/O mới/R/O hiểu/Vv/O lời/Nn/O dặn_dò/Vv/O khi/Nt/O trước/Nn/O của/Cm/O người/Nc/O cha/Nn/O ./PU/O 

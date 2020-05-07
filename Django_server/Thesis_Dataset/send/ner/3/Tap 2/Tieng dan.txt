@@ -1,0 +1,13 @@
+﻿Tiếng/Nn/O đàn/Nn/O 
+Thủy/Nr/PER_B nhận/Vv/O cây/Nn/O đàn/Nn/O vi-ô-lông/Nn/O ,/PU/O lên/Vv/O dây/Nn/O và/Cp/O kéo/Vv/O thử/Vv/O vài/Nq/O nốt/Nn/O nhạc/Nn/O ./PU/O 
+Sau/Nn/O đó/Pd/O ,/PU/O em/Pp/O bước/Vv/O vào/D/O phòng/Nn/O thi/Vv/O ./PU/O 
+Ánh/Nc/O đèn/Nn/O hắt/Vv/O lên_khuôn/Vv/O mặt/Nn/O trắng_trẻo/Aa/O của/Cm/O em/Pp/O ./PU/O 
+Em/Pp/O nâng/Vv/O đàn/Nn/O đặt/Vv/O lên/R/O vai/Nn/O ./PU/O 
+Khi/Nt/DTM_B ắc-sê/Nt/DTM_I vừa/R/O khẽ/Aa/O chạm/Vv/O vào/D/O những/Nq/O sợi/Nn/O dây/Nn/O đàn/Nn/O thì/Cp/O như/Cp/O có/Ve/O phép/Nn/O lạ/Aa/O ,/PU/O những/Nq/O âm_thanh/Nn/O trong_trẻo/Aa/O vút/Vv/O bay/Vv/O lên/D/O giữa/Cm/O yên_lặng/Aa/O của/Cm/O gian/Nn/O phòng/Nn/O ./PU/O 
+Vầng/Nn/O trán/Nn/O cô/Nc/O bé/Nn/O hơi/R/O tái/Aa/O đi/R/O nhưng/Cp/O gò_má/Nn/O ửng/Aa/O hồng/Aa/O ,/PU/O đôi/Nq/O mắt/Nn/O sẫm/Aa/O màu/Nn/O hơn/Aa/O ,/PU/O làn/Nc/O mi/Pp/O rậm/Aa/O cong/Aa/O dài/Aa/O khẽ/Aa/O rung_động/Vv/O ./PU/O 
+Tiếng/Nn/O đàn/Nn/O bay/Vv/O ra/R/O vườn/Nn/O ./PU/O 
+Vài/Nq/O cánh/Nn/O ngọc_lan/Nn/O êm_ái/Aa/O rụng/Vv/O xuống/D/O nền/Nn/O đất/Nn/O mát_rượi/Aa/O ./PU/O 
+Dưới/Cm/O đường/Nn/O ,/PU/O lũ/Nn/O trẻ/Nn/O đang/R/O rủ/Vv/O nhau/Nn/O thả/Vv/O những/Nq/O chiếc/Nc/O thuyền/Nn/O gấp/Vv/O bằng/Cm/O giấy/Nn/O trên/Cm/O những/Nq/O vũng/Nn/O nước/Nn/O mưa/Nn/O ./PU/O 
+Ngoài/Nn/O Hồ/Nr/LOC_B Tây/Nn/LOC_I ,/PU/O dân/Nn/O chài/Vv/O đang/R/O tung_lưới/Vv/O bắt/Vv/O cá/Nn/O ./PU/O 
+Hoa_mười_giờ/Nn/O nở/Vv/O đỏ/Aa/O quanh/Nn/O các/Nq/O lối/Nn/O đi/Vv/O ven/Nn/O hồ/Nn/O ./PU/O 
+Bóng/Nn/O mấy/Nq/O con/Nc/O chim_bồ_câu/Nn/O lướt/Vv/O nhanh/Aa/O trên/Cm/O những/Nq/O mái_nhà/Nn/O cao_thấp/Aa/O ./PU/O 

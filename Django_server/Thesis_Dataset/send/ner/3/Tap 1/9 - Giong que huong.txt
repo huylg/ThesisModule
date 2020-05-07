@@ -1,0 +1,32 @@
+﻿Giọng/Nn/O quê_hương/Nn/O 
+Thuyên/Nr/PER_B và/Cp/O Đồng/Nu/O rời/Vv/O quê/Nn/O đi/Vv/O làm/Vv/O đã/R/O mấy/Nq/O năm/Nt/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O hai/Nq/NUM_B anh/Pp/O rủ/Vv/O nhau/Nn/O đi/Vv/O chơi/Vv/O thật/R/O xa/Aa/O ,/PU/O nhưng/Cp/O đến/Cm/O giữa/Nn/O trưa/Nt/O thì/Cp/O lạc/Vv/O mất/Ve/O đường/Nn/O về/Vd/O ./PU/O 
+Hai/Nq/NUM_B người/Nn/O phải/Vv/O ghé/Vv/O vào/D/O cái/Nc/O quán/Nn/O gần/Aa/O đấy/M/O để/Cm/O hỏi/Vv/O đường/Nn/O ,/PU/O luôn_tiện/Nn/O để/Cm/O ăn/Vv/O cho/Vv/O đỡ/Vv/O đói/Aa/O ./PU/O 
+Cùng/Aa/O ăn/Vv/O trong/Cm/O quán/Nn/O ấy/Pd/O có/Ve/O ba/Nq/NUM_B thanh_niên/Nn/O ./PU/O 
+Họ/Pp/O chuyện_trò/Vv/O luôn/R/O miệng/Nn/O ./PU/O 
+Bầu_không_khí/Nn/O trong/Cm/O quán/Nn/O vui_vẻ/Aa/O lạ_thường/Aa/O ./PU/O 
+Lúc/Nt/O đứng/Vv/O lên/D/O trả/Vv/O tiền/Nn/O ,/PU/O Thuyên/Nr/PER_B mới/R/O biết/Vv/O mình/Pp/O quên/Vv/O chiếc/Nc/O ví/Nn/O ở/Cm/O nhà/Nn/O ./PU/O 
+Hỏi/Vv/O Đồng/Nu/O ,/PU/O Đồng/Nn/O cũng/R/O không/R/O mang/Vv/O tiền/Nn/O theo/Vv/O ./PU/O 
+Hai/Nq/NUM_B người/Nn/O đang/R/O lúng_túng/Aa/O ,/PU/O chợt/R/O một/Nq/NUM_B trong/Cm/O ba/Nq/NUM_B thanh_niên/Nn/O bước/Vv/O lại/R/O gần/Aa/O ,/PU/O nói/Vv/O :/PU/O 
+Xin/Vv/O hai/Nq/NUM_B anh/Pp/O vui_lòng/Aa/O cho/Cp/O tôi/Pp/O được/Vv/O trả/Vv/O tiền/Nn/O ./PU/O 
+Thuyên/Nr/PER_B ngạc_nhiên/Vv/O nhìn/Vv/O anh/Nc/O thanh_niên/Nn/O ./PU/O 
+Trên/Cm/O gương_mặt/Nn/O đôn_hậu/Aa/O ,/PU/O cặp/Nq/O mắt/Nn/O anh/Nn/O ánh/Nc/O lên/Vv/O vẻ/Nn/O thành_thực/Aa/O ,/PU/O dễ/Aa/O mến/Vv/O ./PU/O 
+Thuyên/Nr/PER_B bối_rối/Aa/O :/PU/O 
+Xin_lỗi/Vv/O ./PU/O 
+Tôi/Pp/O quả_thật/R/O chưa/R/O nhớ/Vv/O ra/R/O anh/Nn/O là/Vc/O .../PU/O 
+Người/Nn/O thanh_niên/Nn/O không/R/O để/Vv/O Thuyên/Nr/PER_B kịp/Aa/O dứt/Vv/O lời/Nn/O :/PU/O 
+Dạ/E/O ,/PU/O không/R/O !/PU/O 
+Bây_giờ/Pd/O tôi/Pp/O mới/R/O được/Vv/O biết/Vv/O hai/Nq/NUM_B anh/Pp/O ./PU/O 
+Tôi/Pp/O muốn/Vv/O làm_quen/Vv/O .../PU/O 
+Ngừng/Vv/O một/Nq/O lát/Nt/O như/Cp/O để/Cm/O nén/Vv/O nỗi/Nc/O xúc_động/Vv/O ,/PU/O anh/Nc/O thanh_niên/Vv/O nói/Vv/O tiếp/Vv/O :/PU/O 
+Hai/Nq/NUM_B anh/Pp/O đã/R/O cho/Vv/O tôi/Pp/O nghe/Vv/O lại/R/O giọng/Nn/O nói/Vv/O của/Cm/O mẹ/Nn/O tôi/Pp/O xưa/Aa/O .../PU/O 
+Bất_ngờ/Aa/O trước/Nn/O tình_cảm/Nn/O của/Cm/O người/Nc/O bạn/Nn/O mới/Aa/O ./PU/O 
+Thuyên/Nr/PER_B chỉ/R/O biết/Vv/O nói/Vv/O :/PU/O 
+Cảm_ơn/Vv/O anh/Nn/O .../PU/O 
+Anh/Nn/O thanh_niên/Nn/O xua/Vv/O tay/Nn/O :/PU/O 
+Tôi/Pp/O cảm_ơn/Vv/O hai/Nq/NUM_B anh/Pp/O mới/R/O phải/Vv/O ./PU/O 
+Rồi/Cp/O người/Nn/O ấy/Pd/O nghẹn_ngào/Vv/O :/PU/O 
+Mẹ/Nn/O tôi/Pp/O là/Vc/O người/Nn/O miền/Nn/O Trung/Nn/O .../PU/O 
+Bà/Nn/O qua_đời/Vv/O đã/R/O hơn/Aa/O tám/Nq/MEA_B năm/Nt/MEA_I rồi/R/O ./PU/O 
+Nói/Vv/O đến/Vd/O đây/Pd/O ,/PU/O người/Nn/O trẻ_tuổi/Aa/O lẳng_lặng/R/O cúi/Vv/O đầu/Nn/O ,/PU/O đôi/Nq/O môi/Nn/O mím/Vv/O chặt/Aa/O lộ/Vv/O vẻ/Nn/O đau_thương/Aa/O ./PU/O 
+Còn/Cp/O Thuyên/Nr/PER_B ,/PU/O Đồng/Nn/O thì/Cp/O bùi_ngùi/Aa/O nhớ/Vv/O đến/Cm/O quê_hương/Nn/O ,/PU/O yên_lặng/Aa/O nhìn/Vv/O nhau/Nn/O ,/PU/O mắt/Nn/O rớm/Vv/O lệ/Nn/O ./PU/O 

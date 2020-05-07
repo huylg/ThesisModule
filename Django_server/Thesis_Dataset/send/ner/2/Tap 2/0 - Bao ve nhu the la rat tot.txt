@@ -1,0 +1,20 @@
+﻿Bảo_vệ/Vv/O như/Cp/O thế/Pp/O là/Vc/O rất/R/O tốt/Aa/O 
+Đơn_vị/Nn/O bảo_vệ/Vv/O Bác/Nn/PER_B Hồ/Nr/PER_I ở/Cm/O chiến_khu/Nn/O có/Ve/O thêm/Vv/O một/Nq/NUM_B chiến_sĩ/Nn/O mới/Aa/O ./PU/O 
+Đó/Pd/O là/Vc/O Lí_Phúc_Nha/Nr/PER_B ,/PU/O người/Nn/O dân_tộc/Nn/O Sán_Chỉ/Nr/O ./PU/O 
+Ngày/Nt/O đầu/Aa/O đứng/Vv/O gác/Vv/O trước/Nn/O nhà/Nn/O Bác/Nn/PER_B ,/PU/O Nha/Nn/O vừa/Cs/O tự_hào/Aa/O ,/PU/O vừa/Cs/O lo/Vv/O ./PU/O 
+Anh/Nn/O chăm_chú/Aa/O nhìn/Vv/O con/Nc/O đường/Nn/O dẫn/Vv/O vào/Cm/O vọng_gác/Nn/O ./PU/O 
+Đang/R/O quan_sát/Vv/O ,/PU/O bỗng/R/O anh/Nn/O thấy/Vv/O từ/Cm/O xa/Aa/O một/Nq/NUM_B cụ/Nn/O già/Aa/O cao/Aa/O gầy/Aa/O ,/PU/O chân/Nn/O đi/Vv/O dép/Nn/O cao_su/Nn/O rảo/Vv/O bước/Nn/O về/D/O phía/Nn/O mình/Pp/O ./PU/O 
+Nha/Nn/O chưa/R/O kịp/Aa/O hỏi/Vv/O ,/PU/O ông/Nc/O cụ/Nn/O đã/R/O cất/Vv/O tiếng/Nn/O chào/Vv/O :/PU/O 
+Chú/Nn/O gác/Vv/O ở/Cm/O đây/Pd/O à/M/O ?/PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O cụ/Nn/O định/Vv/O đi/Vv/O vào/D/O nhà/Nn/O ./PU/O 
+Nha/Nn/O vội/Aa/O nói/Vv/O :/PU/O 
+Cụ/Nn/O cho/Cp/O cháu/Nn/O xem/Vv/O giấy_tờ/Nn/O ạ/M/O !/PU/O 
+Ông/Nn/O cụ/Nn/O vui_vẻ/Aa/O bảo/Vv/O :/PU/O 
+Bác/Nn/O đây/Pd/O mà/M/O ./PU/O 
+Bác/Nn/PER_B cũng/R/O phải/Vv/O có/Ve/O giấy/Nn/O mà/M/O !/PU/O 
+Có/Ve/O giấy/Nn/O mới/Cp/O được/Vv/O vào/Vv/O mà/M/O !/PU/O 
+Lúc/Nt/O ấy/Pd/O ,/PU/O đại_đội_trưởng/Nn/O chạy/Vv/O tới/D/O ,/PU/O hoảng_hốt/Vv/O :/PU/O 
+Bác/Nn/PER_B Hồ/Nr/PER_I đây/M/O mà/M/O ./PU/O 
+Sao/Pp/O đồng_chí/Nn/O không/R/O để/Vv/O Bác/Nn/PER_B vào/D/O nhà/Nn/O của/Cm/O Bác/Nn/PER_B ?/PU/O 
+Nhưng/Cp/O Bác/Nn/PER_B Hồ/Nr/PER_I đã/R/O ôn_tồn/Aa/O bảo/Vv/O :/PU/O 
+Chú/Nn/O ấy/Pd/O làm/Vv/O nhiệm_vụ/Nn/O bảo_vệ/Vv/O như/Cp/O thế/Pp/O là/Vc/O rất/R/O tốt/Aa/O ./PU/O 

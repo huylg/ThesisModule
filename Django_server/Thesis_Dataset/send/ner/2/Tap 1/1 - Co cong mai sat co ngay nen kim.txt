@@ -1,0 +1,15 @@
+﻿Có/Ve/O công/Nn/O mài/Vv/O sắt/Nn/O có/Ve/O ngày/Nt/O nên/Cp/O kim/Nn/O 
+Ngày_xưa/Nt/DTM_B có/Ve/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O làm_việc/Vv/O gì/Pp/O cũng/R/O mau/Aa/O chán/Vv/O ./PU/O 
+Mỗi/Nq/O khi/Nt/O cầm/Vv/O quyển/Nc/O sách/Nn/O ,/PU/O cậu/Nn/O chỉ/R/O đọc/Vv/O vài/Nq/O dòng/Nn/O đã/R/O ngáp/Vv/O ngắn/Aa/O ngáp/Vv/O dài/Aa/O ,/PU/O rồi/Cp/O bỏ/Vv/O dở/Aa/O ./PU/O 
+Những/Nq/O lúc/Nt/O tập/Vv/O viết/Vv/O ,/PU/O cậu/Nn/O cũng/R/O chỉ/R/O nắn_nót/Vv/O được/R/O mấy/Nq/O chữ/Nn/O đầu/Aa/O ,/PU/O rồi/Cp/O lại/R/O viết/Vv/O nguệch_ngoạc/Aa/O ,/PU/O trông/Vv/O rất/R/O xấu/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O trong/Cm/O lúc/Nt/O đi/Vv/O chơi/Vv/O ,/PU/O cậu/Nn/O nhìn/Vv/O thấy/Vv/O một/Nq/NUM_B bà/Nc/O cụ/Nn/O tay/Nn/O cầm/Vv/O thỏi/Nn/O sắt/Nn/O mải_miết/Vv/O mài/Vv/O vào/Cm/O tảng/Nn/O đá/Nn/O ven/Nn/O đường/Nn/O ./PU/O 
+Thấy/Vv/O lạ/Aa/O ,/PU/O cậu/Nn/O bèn/R/O hỏi/Vv/O :/PU/O 
+Bà/Pp/O ơi/E/O ,/PU/O bà/Nn/O làm/Vv/O gì/Pp/O thế/Pp/O ?/PU/O 
+Bà/Nn/O cụ/Nn/O trả_lời/Vv/O :/PU/O 
+Bà/Nn/O mài/Vv/O thỏi/Nn/O sắt/Nn/O này/Pd/O thành/Vv/O một/Nq/NUM_B chiếc/Nc/O kim/Nn/O để/Cm/O khâu_vá/Vv/O quần_áo/Nn/O ./PU/O 
+Cậu/Nc/O bé/Nn/O ngạc_nhiên/Vv/O :/PU/O 
+Thỏi/Nr/PER_B sắt/Nn/O to/Aa/O như/Cp/O thế/Pp/O ,/PU/O làm_sao/Pp/O bà/Nn/O mài/Vv/O thành/Vv/O kim/Nn/O được/R/O ?/PU/O 
+Bà/Nn/O cụ/Nn/O ôn_tồn/Aa/O giảng_giải/Vv/O :/PU/O 
+Mỗi/Nq/MEA_B ngày/Nt/MEA_I mài/Vv/O thỏi/Nn/O sắt/Nn/O nhỏ/Aa/O đi/Vv/O một_tí/Nq/O ,/PU/O sẽ/R/O có/Ve/O ngày/Nt/O nó/Pp/O thành/Vv/O kim/Nn/O ./PU/O 
+Giống/Vv/O như/Cp/O cháu/Nn/O đi/Vv/O học/Vv/O ,/PU/O mỗi/Nq/MEA_B ngày/Nt/MEA_I cháu/Nn/O học/Vv/O một_ít/Nq/O ,/PU/O sẽ/R/O có/Ve/O ngày/Nt/O cháu/Nn/O thành/Vv/O tài/Nn/O ./PU/O 
+Cậu/Nc/O bé/Nn/O hiểu/Vv/O ra/R/O ,/PU/O quay/Vv/O về/D/O nhà/Nn/O học/Vv/O bài/Nc/O ./PU/O 

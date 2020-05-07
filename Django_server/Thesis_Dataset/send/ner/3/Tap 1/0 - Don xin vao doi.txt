@@ -1,0 +1,16 @@
+﻿Đơn/Nn/O xin/Vv/O vào/Cm/O đội/Nn/O 
+Đội/Nn/ORG_B Thiếu_niên/Nn/ORG_I Tiền_phong/Nn/ORG_I Hồ_Chí_Minh/Nr/ORG_I 
+Yên_Bái/Nr/LOC_B ,/PU/O ngày/Nt/DTM_B 20/Nt/DTM_I tháng/Nt/DTM_I 1/Nt/DTM_I năm/Nt/DTM_I 2004/Nt/DTM_I 
+Đơn/Nn/O xin/Vv/O vào/Cm/O đội/Nn/O 
+Kính/Vv/O gửi/Vv/O :/PU/O 
+-/PU/O Ban/Nn/O phụ_trách/Vv/O Đội/Nn/ORG_B Trường/Nn/ORG_I Tiểu_học/Nn/ORG_I Kim_Đồng/Nr/ORG_I 
+-/PU/O Ban/Nn/ORG_B chỉ_huy/Vv/ORG_I Liên_đội/Nn/ORG_I 
+Em/Pp/O tên/Nn/O là/Vc/O Lưu_Tường_Vân/Nr/PER_B 
+Sinh/Vv/O ngày/Nt/DTM_B 22/Nt/DTM_I tháng/Nt/DTM_I 6/Nt/DTM_I năm/Nt/DTM_I 1995/Nt/DTM_I 
+Học_sinh/Nn/O lớp/Nn/O 3C/Nr/O Trường/Nn/ORG_B Tiểu_học/Nn/ORG_I Kim_Đồng/Nr/ORG_I ./PU/O 
+Sau/Nn/O khi/Nt/O được/Vv/O học/Vv/O Điều_lệ/Nn/O và/Cp/O lịch_sử/Nn/O Đội/Nn/ORG_B Thiếu_niên/Nn/ORG_I Tiền_phong/Nn/ORG_I Hồ_Chí_Minh/Nr/ORG_I ,/PU/O em/Pp/O thấy/Vv/O Đội/Nn/O là/Vc/O tổ_chức/Nn/O tốt/Aa/O nhất/R/O để/Cm/O rèn_luyện/Vv/O thiếu_niên/Nn/O trở_thành/Vv/O những/Nq/O người/Nn/O có_ích/Aa/O cho/Cp/O đất_nước/Nn/O ./PU/O 
+Em/Pp/O làm/Vv/O đơn/Nn/O này/Pd/O xin/Vv/O được/R/O vào/Cm/O Đội/Nn/O và/Cp/O xin/Vv/O hứa/Vv/O :/PU/O 
+-/PU/O Thực_hiện/Vv/O 5/Nq/NUM_B điều/Nc/O Bác/Nn/PER_B Hồ/Nr/PER_I dạy/Vv/O ./PU/O 
+-/PU/O Tuân/Nr/PER_B theo/Vv/O Điều_lệ/Nn/O Đội/Nn/O ./PU/O 
+-/PU/O Giữ_gìn/Vv/O danh_dự/Nn/O Đội/Nn/O ./PU/O 
+Người/Nn/O làm/Vv/O đơn/Nn/O 

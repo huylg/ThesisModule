@@ -1,0 +1,26 @@
+﻿Lớp_học/Nn/O trên/Cm/O đường/Nn/O 
+Cụ/Nn/TTL_B Vi-ta-li/Nr/PER_B nhặt/Vv/O trên/Cm/O đường/Nn/O một/Nq/NUM_B mảnh/Nn/O gỗ/Nn/O mỏng/Aa/O ,/PU/O dính/Vv/O đầy/Aa/O cát/Nn/O bụi/Nn/O ./PU/O 
+Cắt/Vv/O mảnh/Nn/O gỗ/Nn/O thành/Vv/O nhiều/Aa/O miếng/Nn/O nhỏ/Aa/O ,/PU/O cụ/Nn/O bảo/Vv/O :/PU/O 
+Ta/Pp/O sẽ/R/O khắc/Vv/O trên/Cm/O mỗi/Nq/O miếng/Nn/O gỗ/Nn/O một/Nq/NUM_B chữ_cái/Nn/O ./PU/O 
+Con/Pp/O sẽ/R/O học/Vv/O nhận_mặt/Vv/O từng/Pp/O chữ/Nn/O ,/PU/O rồi/Cp/O ghép/Vv/O các/Nq/O chữ/Nn/O ấy/Pd/O lại/R/O thành/Vv/O tiếng/Nn/O ./PU/O 
+Từ/Cm/O hôm/Nt/O đó/Pd/O ,/PU/O lúc/Nt/O nào/Pd/O túi/Nn/O tôi/Pp/O cũng/R/O đầy/Aa/O những/Nq/O miếng/Nn/O gỗ/Nn/O dẹp/Nn/O ./PU/O 
+Không/R/O bao_lâu/Aa/O ,/PU/O tôi/Pp/O đã/R/O thuộc/Vv/O tất_cả/Nq/O các/Nq/O chữ_cái/Nn/O ./PU/O 
+Nhưng/Cp/O biết/Vv/O đọc/Vv/O lại/R/O là/Vc/O chuyện/Nn/O khác/Aa/O ./PU/O 
+Không/R/O phải/Aa/O ngày_một_ngày_hai/ID/O mà/Cp/O đọc/Vv/O được/R/O ./PU/O 
+Khi/Nt/O dạy/Vv/O tôi/Pp/O ,/PU/O thầy/Nn/DES_B Vi-ta-li/Nr/PER_B nghĩ/Vv/O rằng/Cp/O cùng/Aa/O lúc/Nt/O có_thể/Aa/O dạy/Vv/O cả/Pp/O chú/Pp/O chó/Nn/O Ca-pi/Nr/O để/Cm/O làm/Vv/O xiếc/Nn/O ./PU/O 
+Dĩ_nhiên/Aa/O ,/PU/O Ca-pi/Nr/ORG_B không/R/O đọc/Vv/O lên/R/O được/Vv/O những/Nq/O chữ/Nn/O nó/Pp/O thấy/Vv/O vì/Cs/O nó/Pp/O không/R/O biết/Vv/O nói/Vv/O ,/PU/O nhưng/Cp/O nó/Pp/O biết/Vv/O lấy/Vv/O ra/D/O những/Nq/O chữ/Nn/O mà/Cs/O thầy/Nn/O tôi/Pp/O đọc/Vv/O lên/R/O ./PU/O 
+Buổi/Nt/O đầu/Aa/O ,/PU/O tôi/Pp/O học/Vv/O tấn_tới/Vv/O hơn/Aa/O Ca-pi/Nr/ORG_B nhiều/Aa/O ./PU/O 
+Nhưng/Cp/O nếu/Cs/O tôi/Pp/O thông_minh/Aa/O hơn/Aa/O nó/Pp/O ,/PU/O thì/Cs/O nó/Pp/O cũng/R/O có/Ve/O trí_nhớ/Nn/O tốt/Aa/O hơn/Aa/O tôi/Pp/O ./PU/O 
+Cái/Nc/O gì/Pp/O đã/R/O vào/Vv/O đầu/Nn/O nó/Pp/O rồi/R/O thì/Cp/O nó/Pp/O không/R/O bao_giờ/Pp/O quên/Vv/O ./PU/O 
+Một/Nq/O hôm/Nt/O tôi/Pp/O đọc/Vv/O sai/Aa/O ,/PU/O thầy/Nn/O tôi/Pp/O nói/Vv/O :/PU/O 
+Ca-pi/Nr/BRN_B sẽ/R/O biết/Vv/O đọc/Vv/O trước/Cm/O Rê-mi/Nr/ORG_B ./PU/O 
+Con/Nc/O chó/Nn/O có_lẽ/R/O hiểu/Vv/O nên/Vv/O đắc_chí/Nn/O vẫy/Vv/O vẫy/Vv/O cái/Nc/O đuôi/Nn/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O tôi/Pp/O không/R/O dám/Vv/O sao_nhãng/Vv/O một/Nq/O phút/Nt/O nào/Pd/O ./PU/O 
+Ít_lâu/Nn/O sau/Nn/O ,/PU/O tôi/Pp/O đọc/Vv/O được/R/O ,/PU/O trong/Cm/O khi/Nt/O con/Nn/TTL_B Ca-pi/Nr/PER_B đáng/Vv/O thương/Vv/O chỉ/R/O biết/Vv/O "/PU/O viết/Vv/O "/PU/O tên/Nn/O nó/Pp/O bằng/Cm/O cách/Nn/O rút/Vv/O những/Nq/O chữ/Nn/O gỗ/Nn/O trong/Cm/O bảng_chữ_cái/Nn/O ./PU/O 
+Cụ/Nn/TTL_B Vi-ta-li/Nr/PER_B hỏi/Vv/O tôi/Pp/O :/PU/O 
+Bây_giờ/Pd/O con/Pp/O có/R/O muốn/Vv/O học/Vv/O nhạc/Nn/O không/R/O ?/PU/O 
+Đấy/Pd/O là/Vc/O điều/Nc/O con/Nn/O thích/Vv/O nhất/R/O ./PU/O 
+Nghe/Vv/O thầy/Nn/O hát/Vv/O ,/PU/O có/Ve/O lúc/Nt/O con/Pp/O muốn/Vv/O cười/Vv/O ,/PU/O có/Ve/O lúc/Nt/O lại/R/O muốn/Vv/O khóc/Vv/O ./PU/O 
+Có/Ve/O lúc/Nt/O tự_nhiên/Aa/O con/Pp/O nhớ/Vv/O đến/Cm/O mẹ/Nn/O con/Nn/O và/Cp/O tưởng/Vv/O như/Cp/O đang/R/O trông_thấy/Aa/O mẹ/Nn/O con/Nn/O ở/Cm/O nhà/Nn/O ./PU/O 
+Bằng/Cm/O một/Nq/NUM_B giọng/Nn/O cảm_động/Aa/O ,/PU/O thầy/Nn/O bảo/Vv/O tôi/Pp/O :/PU/O 
+Con/Pp/O thật/R/O là/Vc/O một/Nq/NUM_B đứa/Nc/O trẻ/Nn/O có/Ve/O tâm_hồn/Nn/O ./PU/O 

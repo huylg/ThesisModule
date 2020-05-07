@@ -1,0 +1,24 @@
+﻿Voi/Nn/O nhà/Nn/O 
+Gần/Aa/O tối/Nt/O ,/PU/O cơn/Nc/O mưa/Nn/O rừng/Nn/O ập/Vv/O xuống/D/O ./PU/O 
+Chiếc/Nc/O xe/Nn/O của/Cm/O chúng_tôi/Pp/O bỗng/R/O khựng/Vv/O lại/R/O ./PU/O 
+Tứ/Nq/O rú/Vv/O ga/Nn/O mấy/Nq/O lần/Nn/O nhưng/Cp/O xe/Nn/O không/R/O nhúc_nhích/Vv/O ./PU/O 
+Hai/Nq/NUM_B bánh/Nn/O trước/Nn/O đã/R/O vục/Vv/O xuống/D/O vũng/Nn/O lầy/Nn/O ./PU/O 
+Chúng_tôi/Pp/O đành/Vv/O ngồi/Vv/O thu_lu/Aa/O trong/Cm/O xe/Nn/O ,/PU/O chịu/Vv/O rét/Aa/O qua/Cm/O đêm/Nt/O ./PU/O 
+Gần/Aa/O sáng/Nt/O ,/PU/O trời/Nn/O tạnh/Vv/O ./PU/O 
+Tứ/Nq/O nhảy/Vv/O xuống/D/O nhìn/Vv/O ,/PU/O lắc_đầu/Vv/O :/PU/O 
+Thế/Pp/O này/Pd/O thì/Cp/O hết/Ve/O cách/Nn/O rồi/R/O !/PU/O 
+Bỗng/R/O Cần/Vv/O kêu/Vv/O lên/R/O :/PU/O 
+Chạy/Vv/O đi/Vv/O !/PU/O 
+Voi/Nn/O rừng/Nn/O đấy/M/O !/PU/O 
+Mọi/Nq/O người/Nn/O vội_vã/Aa/O nép/Vv/O vào/Cm/O lùm/Nn/O cây/Nn/O ven/Nn/O đường/Nn/O ./PU/O 
+Một/Nq/NUM_B con/Nc/O voi/Nn/O già/Aa/O lừng_lững/Aa/O tiến/Vv/O về/Cm/O chiếc/Nc/O xe/Nn/O ./PU/O 
+Tứ/Nq/O chộp/Vv/O lấy/Vv/O khẩu/Nc/O súng/Nn/O ./PU/O 
+Cần/Vv/O vội/Aa/O ngăn/Vv/O lại/R/O :/PU/O 
+Không/R/O được/Vv/O bắn/Vv/O !/PU/O 
+Con/Nc/O voi/Nn/O lúc_lắc/Vv/O vòi/Nn/O ra_hiệu/Vv/O điều/Nc/O gì/Pp/O đó/Pd/O ,/PU/O rồi/Cp/O đến/Cm/O trước/Nn/O mũi/Nn/O xe/Nn/O ./PU/O 
+Tứ/Nq/O lo_lắng/Nn/O :/PU/O 
+Nó/Pp/O đập_tan/Vv/O xe/Nn/O mất/Ve/O ./PU/O 
+Phải/Vv/O bắn/Vv/O thôi/M/O !/PU/O 
+Nhưng/Cp/O kìa/Pd/O ,/PU/O con/Nc/O voi/Nn/O quặp/Nu/O chặt/Aa/O vòi/Nn/O vào/Cm/O đầu/Nn/O xe/Nn/O và/Cp/O co/Vv/O mình/Pp/O lôi/Vv/O mạnh/Aa/O chiếc/Nc/O xe/Nn/O qua/Cm/O vũng/Nn/O lầy/Nn/O ./PU/O 
+Lôi/Vv/O xong/Aa/O ,/PU/O nó/Pp/O huơ/Vv/O vòi/Nn/O về/D/O phía/Nn/O lùm/Nn/O cây/Nn/O rồi/Cp/O lững_thững/Aa/O đi/Vv/O theo/Vv/O hướng/Nn/O bản/Nu/LOC_B Tun/Nr/LOC_I ./PU/O 
+Thật/R/O may/Aa/O cho/Cp/O chúng_tôi/Pp/O đã/R/O gặp/Vv/O được/M/O voi/Nn/O nhà/Nn/O ./PU/O 

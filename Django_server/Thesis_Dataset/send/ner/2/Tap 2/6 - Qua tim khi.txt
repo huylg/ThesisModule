@@ -1,0 +1,27 @@
+﻿Quả/M/O tim/Nn/O khỉ/Nn/O 
+Một/Nq/MEA_B ngày/Nt/MEA_I nắng/Aa/O đẹp/Aa/O ,/PU/O đang/R/O leo_trèo/Vv/O trên/Cm/O hàng/Nn/O dừa/Nn/O ven/Nn/O sông/Nn/O ,/PU/O Khỉ/Nr/PER_B bỗng/R/O nghe/Vv/O một/Nq/NUM_B tiếng/Nn/O quẫy/Vv/O mạnh/Aa/O dưới/Cm/O nước/Nn/O ./PU/O 
+Một/Nq/NUM_B con/Nc/O vật/Nn/O da/Nn/O sần/Aa/O sùi/Vv/O ,/PU/O dài_thượt/Aa/O ,/PU/O nhe/Vv/O hàm/Nn/O răng/Nn/O nhọn_hoắt/Aa/O như/Cp/O một/Nq/NUM_B lưỡi/Nn/O cưa/Vv/O sắc/Nn/O ,/PU/O trườn/Vv/O lên/R/O bãi/Nn/O cát/Nn/O ./PU/O 
+Nó/Pp/O nhìn/Vv/O Khỉ/Nr/PER_B bằng/Cm/O cặp/Nq/O mắt/Nn/O ti_hí/Aa/O với/Cp/O hai/Nq/NUM_B hàng/Nn/O nước_mắt/Nn/O chảy/Vv/O dài/Aa/O ./PU/O 
+Khỉ/Nr/PER_B ngạc_nhiên/Vv/O :/PU/O 
+Bạn/Pp/O là/Vc/O ai/Pp/O ?/PU/O 
+Vì_sao/Pp/O bạn/Pp/O khóc/Vv/O ?/PU/O 
+Tôi/Pp/O là/Vc/O Cá_Sấu/Nr/PER_B ./PU/O 
+Tôi/Pp/O khóc/Vv/O vì/Cp/O chả/R/O ai/Pp/O chơi/Vv/O với/Cp/O tôi/Pp/O ./PU/O 
+Khỉ/Nr/PER_B nghe/Vv/O vậy/Pp/O ,/PU/O mời/Vv/O Cá_sấu/Nn/O kết_bạn/Vv/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O ngày/Nt/O nào/Pd/O Cá_sấu/Nn/O cũng/R/O đến/Vv/O ,/PU/O ăn/Vv/O những/Nq/O hoa_quả/Nn/O mà/Cp/O Khỉ/Nr/PER_B hái/Vv/O cho/Cp/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Cá_Sấu/Nr/LOC_B mời/Vv/O Khỉ/Nr/PER_B đến/Vd/O chơi/Vv/O nhà/Nn/O ./PU/O 
+Khỉ/Nr/PER_B nhận_lời/Vv/O ,/PU/O ngồi/Vv/O lên/R/O lưng/Nn/O Cá_Sấu/Nr/PER_B ./PU/O 
+Bơi/Vv/O đã/R/O xa/Aa/O bờ/Nn/O ,/PU/O Cá_Sấu/Nr/PER_B mới/R/O bảo/Vv/O :/PU/O 
+Vua/Nn/O của/Cm/O chúng_tôi/Pp/O ốm/Vv/O nặng/Aa/O ,/PU/O phải/Vv/O ăn/Vv/O một/Nq/NUM_B quả/Nn/O tim/Nn/O khỉ/Nn/O mới/R/O khỏi/Vv/O ./PU/O 
+Tôi/Pp/O cần/Vv/O quả/Nn/O tim/Nn/O của/Cm/O bạn/Pp/O ./PU/O 
+Khỉ/Nr/PER_B nghe/Vv/O vậy/Pp/O hết_sức/R/O hoảng_sợ/Vv/O ./PU/O 
+Nhưng/Cp/O rồi/Cp/O trấn_tĩnh/Vv/O lại/R/O ,/PU/O nó/Pp/O bảo/Vv/O :/PU/O 
+Chuyện/Nn/O quan_trọng/Aa/O vậy/Pp/O mà/Cp/O bạn/Pp/O chẳng/R/O bảo/Vv/O trước/Nn/O ./PU/O 
+Quả/M/O tim/Nn/O tôi/Pp/O để/Cm/O ở/Vv/O nhà/Nn/O ./PU/O 
+Mau/Aa/O đưa/Vv/O tôi/Pp/O về/D/O ,/PU/O tôi/Pp/O sẽ/R/O lấy/Vv/O tim/Nn/O dâng/Vv/O lên/R/O vua/Nn/O của/Cm/O bạn/Pp/O ./PU/O 
+Cá_Sấu/Nr/PER_B tưởng/Vv/O thật/Aa/O ,/PU/O liền/R/O đưa/Vv/O Khỉ/Nr/PER_B trở_lại/Vv/O bờ/Nn/O ./PU/O 
+Tới/Cm/O nơi/Nn/O ,/PU/O Khỉ/Nr/PER_B đu/Vv/O vút/Vv/O lên/R/O cành/Nn/O cây/Nn/O ,/PU/O mắng/Vv/O :/PU/O 
+Con/Nc/O vật/Nn/O bội_bạc/Aa/O kia/Pd/O !/PU/O 
+Đi/Vv/O đi/Vv/O !/PU/O 
+Chẳng/R/O ai/Pp/O thèm/Vv/O kết_bạn/Vv/O với/Cp/O những/Nq/O kẻ/Nn/O giả_dối/Aa/O như/Cp/O mi/Pp/O đâu/R/O ./PU/O 
+Cá_Sấu/Nr/PER_B tẽn_tò/Aa/O ,/PU/O lặn/Vv/O sâu/Aa/O xuống/D/O nước/Nn/O ,/PU/O lủi/Vv/O mất/Ve/O ./PU/O 

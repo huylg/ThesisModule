@@ -1,0 +1,57 @@
+﻿Nhìn/Vv/O về/Cm/O vốn/Nn/O văn/Nn/O hóa/Nq/O dân_tộc/Nn/O 
+1/Nq/NUM_B ./PU/O 
+Trong/Cm/O lúc/Nt/O chờ_đợi/Vv/O kết_luận/Nn/O khoa_học/Nn/O của/Cm/O các/Nq/O ngành/Nn/O chuyên_môn/Nn/O ,/PU/O chúng_tôi/Pp/O xin/Vv/O đưa/Vv/O ra/R/O một/Nq/O số/Nn/O nhận_xét/Vv/O về/Cm/O vài_ba/Nq/O mặt/Nn/O của/Cm/O cái/Nc/O vốn/Nn/O văn/Nn/O hóa/Nq/O dân_tộc/Nn/O ;/PU/O không/R/O phải/Aa/O cái/Nc/O hình_thành/Vv/O vào/Cm/O thời_kì/Nn/O định_hình/Vv/O mà/Cp/O là/Vc/O cái/Nc/O ổn_định/Aa/O dần/R/O ,/PU/O tồn_tại/Vv/O cho/Cp/O đến/Cm/O trước/Nn/O thời/Nt/O cận/Aa/O -/PU/O hiện_đại/Aa/O ./PU/O 
+Chúng_tôi/Pp/O không/R/O nghĩ/Vv/O đó/Pd/O là/Vc/O đặc_sắc/Aa/O văn/Nn/O hóa/Nq/O dân_tộc/Nn/O nhưng/Cp/O chắc_chắn/Aa/O có/R/O liên_quan/Vv/O gần_gũi/Aa/O với/Cp/O nó/Pp/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Giữa/Cm/O các/Nq/O dân_tộc/Nn/O ,/PU/O chúng_ta/Pp/O không_thể/R/O tự_hào/Aa/O là/Vc/O nền/Nc/O văn/Nn/O hóa/Nn/O của/Cm/O ta/Pp/O đồ_sộ/Aa/O ,/PU/O có/Ve/O những/Nq/O cống_hiến/Nn/O lớn_lao/Aa/O cho/Cp/O nhân_loại/Nn/O ,/PU/O hay/Cp/O có/Ve/O những/Nq/O đặc_sắc/Nn/O nổi_bật/Aa/O ./PU/O 
+Ở/Cm/O một_số/Nq/O dân_tộc/Nn/O hoặc/Cp/O là/Vc/O một/Nq/NUM_B tôn_giáo/Nn/O ,/PU/O hoặc/Cp/O là/Vc/O một/Nq/NUM_B trường_phái/Nn/O triết_học/Nn/O ,/PU/O một/Nq/NUM_B ngành/Nn/O khoa_học/Nn/O ,/PU/O một/Nq/NUM_B nền/Nc/O âm_nhạc/Nn/O ,/PU/O hội/Nn/O họa/Nn/O ,/PU/O .../PU/O phát_triển/Vv/O rất/R/O cao/Aa/O ,/PU/O ảnh_hưởng/Vv/O phổ_biến/Aa/O và/Cp/O lâu_dài/Aa/O đến/Cm/O toàn_bộ/Nq/O văn/Nn/O hóa/Nn/O ,/PU/O thành/Vv/O đặc_sắc/Aa/O văn/Nn/O hóa/Nn/O của/Cm/O dân_tộc/Nn/O đó/Pd/O ,/PU/O thành/Vv/O thiên_hướng/Nn/O văn/Nn/O hóa/Nn/O của/Cm/O dân_tộc/Nn/O đó/Pd/O ./PU/O 
+Ở/Cm/O ta/Pp/O ,/PU/O thần_thoại/Nn/O không/R/O phong_phú/Aa/O -/PU/O hay_là/Cp/O có/Ve/O nhưng/Cp/O một/Nq/O thời_gian/Nn/O nào/Pd/O đó/Pd/O đã/R/O mất/Ve/O hứng_thú/Nn/O lưu_truyền/Vv/O ?/PU/O 
+Tôn_giáo/Nn/O hay/Cp/O triết_học/Nn/O cũng/R/O đều/R/O không/R/O phát_triển/Vv/O ./PU/O 
+Người/Nn/O Việt_Nam/Nr/LOC_B không/R/O có/Ve/O tâm_lí/Nn/O kiền/Nn/O thành/Vv/O ,/PU/O cuồng_tín/Nq/O tôn_giáo/Nn/O ,/PU/O mà/Cp/O cũng/R/O không/R/O say_mê/Vv/O tranh_biện/Nq/O triết_học/Nn/O ./PU/O 
+Các/Nq/O tôn_giáo/Nn/O đều/R/O có/Ve/O mặt/Nn/O ,/PU/O nhưng/Cp/O thường/R/O là/Vc/O biến/Vv/O thành/Vv/O một/Nq/NUM_B lối/Nn/O thờ_cúng/Vv/O ,/PU/O ít/Aa/O ai/Pp/O quan_tâm/Vv/O đến/Cm/O giáo_lí/Nn/O ./PU/O 
+Không/R/O có/Ve/O một/Nq/NUM_B ngành/Nn/O khoa_học/Nn/O ,/PU/O kĩ_thuật/Nn/O ,/PU/O giả/Vv/O khoa_học/Nn/O nào/Pd/O phát_triển/Vv/O đến/Cm/O thành/Nn/O có/Ve/O truyền_thống/Nn/O ./PU/O 
+Âm_nhạc/Nn/O ,/PU/O hội/Nn/O họa/Nn/O ,/PU/O kiến_trúc/Nn/O đều/R/O không/R/O phát_triển/Vv/O đến/Cm/O tuyệt_kĩ/Aa/O ./PU/O 
+Trong/Cm/O các/Nq/O ngành/Nn/O nghệ_thuật/Nn/O ,/PU/O cái/Nc/O phát_triển/Vv/O nhất/R/O là/Vc/O thơ_ca/Nn/O ./PU/O 
+Hầu_như/R/O người/Nn/O nào/Pd/O cũng/R/O có_thể/Aa/O ,/PU/O cũng/R/O có/Ve/O dịp/Nn/O làm/Vv/O dăm_ba/Nq/O câu_thơ/Nn/O ./PU/O 
+Nhưng/Cp/O số/Nn/O nhà_thơ/Nn/O để/Vv/O lại/R/O nhiều/Aa/O tác_phẩm/Nn/O thì/Cp/O không/R/O có/Ve/O ./PU/O 
+Xã_hội/Nn/O có/R/O trọng/Vv/O văn_chương/Nn/O ,/PU/O nhưng/Cp/O bản_thân/Nn/O các/Nq/O nhà_thơ/Nn/O cũng/R/O không/R/O ai/Pp/O nghĩ/Vv/O cuộc_đời/Nn/O ,/PU/O sự_nghiệp/Nn/O của/Cm/O mình/Pp/O là/Vc/O ở/Cm/O thơ_ca/Nn/O ./PU/O 
+Chưa/R/O bao_giờ/Pp/O trong/Cm/O lịch_sử/Nn/O dân_tộc/Nn/O ,/PU/O một/Nq/NUM_B ngành/Nn/O văn/Nn/O hóa/Nn/O nào/Pd/O đó/Pd/O trở_thành/Vv/O đài/Nn/O danh_dự/Nn/O ,/PU/O thu_hút/Vv/O ,/PU/O quy_tụ/Vv/O cả/Pp/O nền/Nc/O văn/Nn/O hóa/Nn/O ./PU/O 
+Thực_tế/Nn/O đó/Pd/O cho/Cp/O ta/Pp/O biết/Vv/O khuynh_hướng/Nn/O ,/PU/O hứng_thú/Aa/O ,/PU/O sự/Nc/O ưa_thích/Vv/O ,/PU/O nhưng/Cp/O hơn/Aa/O thế/Pp/O ,/PU/O còn/R/O cho/Vv/O ta/Pp/O biết/Vv/O sự/Nc/O hạn_chế/Vv/O của/Cm/O trình_độ/Nn/O sản_xuất/Vv/O ,/PU/O của/Cm/O đời_sống/Nn/O xã_hội/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O văn/Nn/O hóa/Nn/O của/Cm/O dân/Nn/O nông_nghiệp/Nn/O định_cư/Vv/O ,/PU/O không/R/O có/Ve/O nhu_cầu/Nn/O lưu_chuyển/Vv/O ,/PU/O trao_đổi/Vv/O ,/PU/O không/R/O có/Ve/O sự/Nc/O kích_thích/Vv/O của/Cm/O đô_thị/Nn/O ./PU/O 
+3/Nq/NUM_B ./PU/O 
+Người/Nn/O Việt_Nam/Nr/LOC_B có_thể/Aa/O coi/Vv/O là/Cp/O ít/Aa/O tinh_thần/Nn/O tôn_giáo/Nn/O ./PU/O 
+Họ/Pp/O coi_trọng/Vv/O hiện/Nt/O thế/Pp/O trần_tục/Aa/O hơn/Aa/O thế_giới/Nn/O bên/Nn/O kia/Pd/O ./PU/O 
+Không/R/O phải/Aa/O người/Nn/O Việt_Nam/Nr/LOC_B không/R/O mê_tín/Vv/O ,/PU/O họ/Pp/O tin/Vv/O có/Ve/O linh_hồn/Nn/O ,/PU/O ma_quỷ/Nn/O ,/PU/O thần/Nn/O Phật/Nn/O ./PU/O 
+Nhiều/Aa/O người/Nn/O thực_hành/Vv/O cầu/Nn/O cúng/Vv/O ./PU/O 
+Nhưng/Cp/O về/Cm/O tương_lai/Nt/DTM_B ,/PU/O họ/Pp/O lo/Vv/O cho/Cp/O con_cháu/Nn/O hơn/Aa/O là/Vc/O linh_hồn/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Tuy/Cs/O là/Vc/O coi_trọng/Vv/O hiện/Nt/O thế/Pp/O nhưng/Cs/O cũng/R/O không/R/O bám/Vv/O lấy/Vv/O hiện/Nt/O thế/Pp/O ,/PU/O không/R/O quá/R/O sợ_hãi/Aa/O cái/Nc/O chết/Vv/O (/PU/O sống/Vv/O gửi/Vv/O thác/Nn/O về/Cm/O )/PU/O ./PU/O 
+Trong/Cm/O cuộc_sống/Nn/O ,/PU/O ý_thức/Nn/O về/Cm/O cá_nhân/Nn/O và/Cp/O sở_hữu/Vv/O không/R/O phát_triển/Vv/O cao/Aa/O ./PU/O 
+Của_cải/Nn/O vẫn/R/O được/Vv/O quan_niệm/Nn/O là/Vc/O của/Cm/O chung/Aa/O ,/PU/O giàu_sang/Aa/O chỉ/R/O là/Vc/O tạm_thời/Aa/O ,/PU/O tham_lam/Aa/O giành_giật/Vv/O cho/Cp/O nhiều/Aa/O cũng/R/O không/R/O giữ/Vv/O mãi/R/O mà/Cp/O hưởng/Vv/O được/R/O ./PU/O 
+Người_ta/Pp/O mong_ước/Vv/O thái_bình/Aa/O ,/PU/O an_cư_lạc_nghiệp/ID/O để/Cm/O làm_ăn/Vv/O cho/Cp/O no_đủ/Aa/O ,/PU/O sống/Vv/O thanh_nhàn/Aa/O ,/PU/O thong_thả/Aa/O ,/PU/O có/Ve/O đông/Aa/O con/Nn/O nhiều/Aa/O cháu/Nn/O ,/PU/O ước_mong/Nn/O về/Cm/O hạnh_phúc/Nn/O nói_chung/Cp/O là/Vc/O thiết_thực/Aa/O ,/PU/O yên_phận/Vv/O thủ/Vv/O thường/R/O ,/PU/O không/R/O mong/Vv/O gì/M/O cao_xa/Aa/O ,/PU/O khác_thường/Aa/O ,/PU/O hơn/Aa/O người/Nn/O ./PU/O 
+Con_người/Nn/O được/Vv/O ưa_chuộng/Vv/O là/Cp/O con_người/Nn/O hiền_lành/Aa/O ,/PU/O tình_nghĩa/Nn/O ./PU/O 
+Không/R/O chuộng/Vv/O trí/Nn/O mà/Cp/O cũng/R/O không/R/O chuộng/Vv/O dũng/Nn/O ./PU/O 
+Dân_tộc/Nn/O chống/Vv/O ngoại_xâm/Nn/O liên_tục/Aa/O nhưng/Cp/O không/R/O thượng_võ/Vv/O ./PU/O 
+Trong/Cm/O tâm_trí/Nn/O nhân_dân/Aa/O thường/R/O có/Ve/O Thần/Nn/O và/Cp/O Bụt/Nn/O mà/Cp/O không/R/O có/Ve/O Tiên/Nn/O ./PU/O 
+Thần/Nn/O uy_linh/Nn/O bảo/Vv/O quốc/Nu/O hộ/Nn/O dân/Nn/O và/Cp/O Bụt/Nn/O hay/Cp/O cứu_giúp/Vv/O mọi/Nq/O người/Nn/O ;/PU/O còn/Cp/O Tiên/Nn/O nhiều/Aa/O phép/Nn/O lạ/Aa/O ,/PU/O ngao_du/Vv/O ngoài/Nn/O thế_giới/Nn/O thì/Cp/O xa_lạ/Aa/O ./PU/O 
+Không/R/O ca_tụng/Vv/O trí_tuệ/Nn/O mà/Cp/O ca_tụng/Vv/O sự/Nc/O khôn_khéo/Aa/O ./PU/O 
+Khôn_khéo/Nn/O là/Vc/O ăn/Vv/O đi/Vv/O trước/Nn/O ,/PU/O lội/Vv/O nước/Nn/O theo/Vv/O sau/Nn/O ,/PU/O biết/Vv/O thủ_thế/Vv/O ,/PU/O giữ_mình/Vv/O ,/PU/O gỡ/Vv/O được/R/O tình_thế/Nn/O khó_khăn/Aa/O ./PU/O 
+Đối_với/Cp/O cái/Nc/O dị/Aa/O kỉ/Nt/O ,/PU/O cái/Nc/O mới/Aa/O ,/PU/O không/R/O dễ/Aa/O hòa/Nn/O hợp/Aa/O nhưng/Cp/O cũng/R/O không/R/O cự_tuyệt/Vv/O đến/Cm/O cùng/Aa/O ,/PU/O chấp_nhận/Vv/O cái/Nc/O gì/Pp/O vừa/R/O phải/Aa/O ,/PU/O hợp/Vv/O với/Cp/O mình/Pp/O nhưng/Cp/O cũng/R/O chần_chừ/Vv/O ,/PU/O dè_dặt/Aa/O ,/PU/O giữ_mình/Vv/O ./PU/O 
+Cái/Nc/O đẹp/Aa/O vừa_ý/Aa/O là/Vc/O xinh/Aa/O ,/PU/O là/Vc/O khéo/Aa/O ./PU/O 
+Ta/Pp/O không/R/O háo_hức/Aa/O cái/Nc/O tráng_lệ/Aa/O ,/PU/O huy_hoàng/Aa/O ,/PU/O không/R/O say_mê/Vv/O cái/Nc/O huyền_ảo/Aa/O ,/PU/O kì_vĩ/Nn/O ./PU/O 
+Màu_sắc/Nn/O chuộng/Vv/O cái/Nc/O dịu_dàng/Aa/O ,/PU/O thanh_nhã/Aa/O ,/PU/O ghét/Vv/O sặc_sỡ/Aa/O ./PU/O 
+Quy_mô/Nn/O chuộng/Vv/O sự/Nc/O vừa/Cs/O khéo/Aa/O ,/PU/O vừa/Cs/O xinh/Aa/O ,/PU/O phải/Vv/O khoảng/Nn/O ./PU/O 
+Giao_tiếp/Vv/O ,/PU/O úng/Vv/O xử/Vv/O chuộng/Vv/O hợp/Aa/O tình/Nn/O ,/PU/O hợp_lí/Aa/O ,/PU/O áo_quần/Nn/O ,/PU/O trang_sức/Vv/O ,/PU/O món/Nc/O ăn/Vv/O đều/R/O không/R/O chuộng/Vv/O sự/Nc/O cầu_kì/Aa/O ./PU/O 
+Tất_cả/Nq/O đều/R/O hướng/Vv/O vào/Cm/O cái/Nc/O đẹp/Aa/O dịu_dàng/Aa/O ,/PU/O thanh_lịch/Aa/O ,/PU/O duyên_dáng/Aa/O và/Cp/O có/Ve/O quy_mô/Nn/O vừa_phải/Aa/O ./PU/O 
+Không/R/O có/Ve/O công_trình/Nn/O kiến_trúc/Nn/O nào/Pd/O ,/PU/O kể_cả/Aa/O của/Cm/O vua_chúa/Nn/O ,/PU/O nhằm/Vv/O vào/Cm/O sự/Nc/O vĩnh_viễn/Aa/O ./PU/O 
+Hình_như/R/O ta/Pp/O coi_trọng/Vv/O Thế/Pp/O hơn/Aa/O Lực/Nn/O ,/PU/O quý/Aa/O sự/Nc/O kín_đáo/Aa/O hơn/Aa/O sự/Nc/O phô_trương/Vv/O ,/PU/O sự/Nc/O hòa/Nq/MEA_B đồng/Nu/MEA_I hơn/Aa/O rạch_ròi/Aa/O trắng_đen/Aa/O ./PU/O 
+Phải_chăng/Cp/O đó/Pd/O là/Vc/O kết_quả/Nn/O của/Cm/O ý_thức/Nn/O lâu_đời/Aa/O về/Cm/O sự/Nc/O nhỏ_yếu/Aa/O ,/PU/O về/Cm/O thực_tế/Nn/O nhiều/Aa/O khó_khăn/Nn/O ,/PU/O nhiều/Aa/O bất_trắc/Nn/O ?/PU/O 
+Nhìn/Vv/O vào/Cm/O lối/Nn/O sống/Vv/O ,/PU/O quan_niệm/Nn/O sống/Vv/O ,/PU/O ta/Pp/O có_thể/Aa/O nói/Vv/O người/Nn/O Việt_Nam/Nr/LOC_B sống/Vv/O có/Ve/O văn/Nn/O hóa/Nn/O ,/PU/O người/Nn/O Việt_Nam/Nr/LOC_B có/Ve/O nền/Nc/O văn/Nn/O hóa/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Những/Nq/O cái/Nc/O thô/Aa/O dã/Nn/O ,/PU/O những/Nq/O cái/Nc/O hung_bạo/Aa/O đã/R/O bị/Vv/O xóa/Nn/O bỏ/Vv/O để/Cm/O có/Ve/O cái/Nc/O nền/Nn/O nhân_bản/Vv/O ./PU/O 
+Tinh_thần/Nn/O chung/Aa/O của/Cm/O văn/Nn/O hóa/Nn/O Việt_Nam/Nr/LOC_B là/Vc/O thiết_thực/Aa/O ,/PU/O linh_hoạt/Aa/O ,/PU/O dung/Nn/O hòa/Nn/O ./PU/O 
+Không/R/O có/Ve/O khát_vọng/Nn/O để/Cm/O hướng/Nn/O đến/Vd/O những/Nq/O sáng_tạo/Nn/O lớn/Aa/O mà/Cp/O nhạy_cảm/Aa/O ,/PU/O tinh_nhanh/Aa/O ,/PU/O khôn_khéo/Aa/O gỡ/Vv/O các/Nq/O khó_khăn/Nn/O ,/PU/O tìm/Vv/O được/R/O sự/Nc/O bình_ổn/Vv/O ./PU/O 
+Những/Nq/O cái/Nc/O vừa/R/O nói/Vv/O là/Cp/O cái/Nc/O đã/R/O lắng_đọng/Vv/O ,/PU/O đã/R/O ổn_định/Vv/O ,/PU/O chắc_chắn/Aa/O là/Vc/O kết_quả/Nn/O của/Cm/O sự/Nc/O dung_hợp/Nn/O của/Cm/O cái/Nc/O vốn/Nn/O có/Ve/O ,/PU/O của/Cm/O văn/Nn/O hóa/Nq/O Phật_giáo/Nn/O ,/PU/O văn/Nn/O hóa/Nq/O Nho_giáo/Nn/O ,/PU/O cái/Nc/O được/Vv/O dân_tộc/Nn/O sàng_lọc/Vv/O ,/PU/O tinh_luyện/Vv/O để/Cm/O thành/Nn/O bản_sắc/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Phật_giáo/Nn/O ,/PU/O Nho_giáo/Nn/O tuy/Cs/O từ/Cm/O ngoài/Nn/O du_nhập/Vv/O vào/Cm/O nhưng/Cs/O đều/R/O để/Vv/O lại/R/O dấu_ấn/Nn/O sâu_sắc/Aa/O trong/Cm/O bản_sắc/Nn/O dân_tộc/Nn/O ./PU/O 
+Có_điều/Cp/O ,/PU/O để/Cm/O thích_ứng/Vv/O với/Cp/O cái/Nc/O vốn/Nn/O có/Ve/O ./PU/O 
+Phật_giáo/Nn/O không/R/O được/Vv/O tiếp_nhận/Vv/O ở/Cm/O khía_cạnh/Nn/O trí_tuệ/Nn/O ,/PU/O cầu/Nn/O giải_thoát/Vv/O ,/PU/O mà/Cp/O Nho_giáo/Nn/O cũng/R/O không/R/O được/Vv/O tiếp_nhận/Vv/O ở/Cm/O khía_cạnh/Nn/O nghi_lễ/Nn/O tủn_mủn/Nn/O ,/PU/O giáo_điều/Nu/O khắc_nghiệt/Aa/O ./PU/O 
+Đạo_giáo/Nn/O hình_như/R/O không/R/O có/Ve/O nhiều/Aa/O ảnh_hưởng/Nn/O trong/Cm/O văn/Nn/O hóa/Nn/O nhưng/Cp/O tư_tưởng/Nn/O Lão/Nc/O -/PU/O Trang/Nr/PER_B thì/Cp/O lại/R/O ảnh_hưởng/Vv/O nhiều/Aa/O đến/Cm/O lớp/Nn/O trí_thức/Nn/O cao_cấp/Aa/O ,/PU/O để/Vv/O lại/R/O dấu_vết/Nn/O khá/R/O rõ/Vv/O trong/Cm/O văn_học/Nn/O ./PU/O 
+Con/Nc/O đường/Nn/O hình_thành/Vv/O bản_sắc/Nn/O dân_tộc/Nn/O của/Cm/O văn/Nn/O hóa/Nn/O không_chỉ/Cs/O trông_cậy/Vv/O vào/Cm/O sự/Nc/O tạo_tác/Vv/O của/Cm/O chính/M/O dân_tộc/Nn/O đó/Pd/O mà_còn/Cs/O trông_cậy/Vv/O vào/Cm/O khả_năng/Nn/O chiếm_lĩnh/Vv/O ,/PU/O khả_năng/Nn/O đồng/Nn/O hóa/Nn/O những/Nq/O giá_trị/Nn/O văn/Nn/O hóa/Nq/O bên/Nn/O ngoài/Nn/O ,/PU/O về/Cm/O mặt/Nn/O đó/Pd/O ,/PU/O lịch_sử/Nn/O chứng_minh/Vv/O là/Vc/O dân_tộc/Nn/O Việt_Nam/Nr/LOC_B có/Ve/O bản_lĩnh/Nn/O ./PU/O 

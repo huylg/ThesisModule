@@ -1,0 +1,15 @@
+﻿Phong_cảnh/Nn/O đền/Nn/LOC_B Hùng/Nr/LOC_I 
+Đền/Nn/LOC_B Thượng/Nr/LOC_I nằm/Vv/O chót_vót/Aa/O trên/Cm/O đỉnh/Nn/O núi/Nn/LOC_B Nghĩa_Lĩnh/Nr/LOC_I ./PU/O 
+Trước/Nn/O đền/Nn/O ,/PU/O những/Nq/O khóm/Nn/O hải_đường/Nn/O đâm/Vv/O bông/Nc/O rực/Aa/O đỏ/Aa/O ,/PU/O những/Nq/O cánh/Nn/O bướm/Nn/O nhiều/Aa/O màu_sắc/Nn/O bay/Vv/O dập_dờn/Vv/O như/Cp/O đang/R/O múa/Vv/O quạt/Nn/O xòe/Nq/O hoa/Nn/O ./PU/O 
+Trong/Cm/O đền/Nn/O ,/PU/O dòng/Nn/O chữ/Nn/O vàng/Nn/O Nam_quốc/Nn/O sơn_hà/Nn/O uy_nghiêm/Aa/O đề/Vv/O ở/Cm/O bức/Nc/O hoành_phi/Nn/O treo/Vv/O chính/M/O giữa/Cm/O ./PU/O 
+Lăng/Nn/O của/Cm/O các/Nq/O vua/Nn/O Hùng/Nr/PER_B kề/Vv/O bên/Nn/O đền/Nn/LOC_B Thượng/Nr/LOC_I ,/PU/O ẩn/Vv/O trong/Cm/O rừng/Nn/O cây_xanh/Nn/O xanh/Aa/O ./PU/O 
+Đứng/Vv/O ở/Cm/O đây/Pd/O ,/PU/O nhìn/Vv/O ra/D/O xa/Aa/O ,/PU/O phong_cảnh/Nn/O thật/R/O là/Vc/O đẹp/Aa/O ./PU/O 
+Bên/Nn/O phải/Vv/O là/Vc/O đỉnh/Nn/O Ba_Vì/Nr/LOC_B vòi_vọi/Aa/O ,/PU/O nơi/Nn/O Mị_Nương/Nr/PER_B -/PU/O con_gái/Nn/O vua/Nn/DES_B Hùng_Vương/Nr/PER_B thứ/Nn/O 18/An/O -/PU/O theo/Vv/O Sơn_Tinh/Nr/PER_B về/Cm/O trấn_giữ/Vv/O núi/Nn/O cao/Aa/O ./PU/O 
+Dãy/Nn/O Tam_Đảo/Nr/LOC_B như/Cp/O bức/Nc/O tường/Nn/O xanh/Aa/O sừng_sững/Aa/O chắn/Vv/O ngang/Aa/O bên/Nn/O trái/Aa/O đỡ/Vv/O lấy/Vv/O mây/Nn/O trời/Nn/O cuồn_cuộn/Vv/O ./PU/O 
+Phía/Nn/O xa_xa/Aa/O là/Vc/O núi/Nn/LOC_B Sóc_Sơn/Nr/LOC_I ,/PU/O nơi/Nn/O in/Vv/O dấu/Nn/O chân/Nn/O ngựa/Nn/O sắt/Nn/O Phù_Đổng/Nr/LOC_B ,/PU/O người/Nn/O có/Ve/O công/Nn/O giúp/Vv/O Hùng_Vương/Nr/PER_B đánh/Vv/O thắng/Vv/O giặc/Nn/O Ân/Nr/ORG_B xâm_lược/Vv/O ./PU/O 
+Trước/Nn/O mặt/Nn/O là/Vc/O Ngã_Ba_Hạc/Nr/PER_B ,/PU/O nơi/Nn/O gặp_gỡ/Vv/O giữa/Cm/O ba/Nq/NUM_B dòng/Nn/O sông/Nn/O lớn/Aa/O tháng/Nt/O năm/Nt/O mải_miết/Vv/O đắp/Vv/O bồi/Vv/O phù_sa/Nn/O cho/Cp/O đồng_bằng/Nn/O xanh/Aa/O mát/Aa/O ./PU/O 
+Trước/Nn/O đền/Nn/LOC_B Thượng/Nr/LOC_I có/Ve/O một/Nq/NUM_B cột/Nn/O đá/Nn/O cao/Aa/O đến/Cm/O năm/Nt/O gang/Nn/O ,/PU/O rộng/Aa/O khoảng/Nn/O ba/Nq/MEA_B tấc/Nu/MEA_I ./PU/O 
+Theo/Vv/O ngọc_phả/Nn/O ,/PU/O trước/Nn/O khi/Nt/O dời/Vv/O đô/Nn/O về/Cm/O Phong_Khê/Nr/PER_B ,/PU/O An_Dương_Vương/Nr/PER_B đã/R/O dựng/Vv/O mốc/Nn/O đá/Nn/O đó/Pd/O ,/PU/O thề/Vv/O với/Cp/O các/Nq/O vua/Nn/O Hùng/Nr/PER_B giữ/Vv/O vững/Aa/O giang_sơn/Nn/O ./PU/O 
+Lần/Nn/O theo/Vv/O lối/Nn/O cũ/Aa/O đến/Cm/O lưng_chừng/Nn/O núi/Nn/O có/Ve/O đền/Nn/O Trung/Nn/O thờ/Vv/O 18/Nq/NUM_B chi/Nn/O vua/Nn/DES_B Hùng/Nr/PER_B ./PU/O 
+Những/Nq/O cành/Nn/O hoa_đại/Nn/O cổ_thụ/Nn/O tỏa/Nq/O hương/Nn/O thơm/Aa/O ,/PU/O những/Nq/O gốc/Nn/O thông/Nn/O già/Aa/O hàng/R/O năm/Nt/O ,/PU/O sáu/Nq/MEA_B thế_kỉ/Nt/MEA_I che/Vv/O mát/Aa/O cho/Cp/O con_cháu/Nn/O về/Vd/O thăm/Vv/O đất/Nn/O Tổ/Nn/O ./PU/O 
+Đi/Vv/O dần/R/O xuống/Vd/O là/Vc/O đền/Nn/LOC_B Hạ/Nr/LOC_I ,/PU/O chùa/Nn/LOC_B Thiên_Quang/Nr/LOC_I và/Cp/O cuối_cùng/Aa/O là/Vc/O đền/Nn/O Giếng/Nn/O ,/PU/O nơi/Nn/O có/Ve/O giếng/Nn/O Ngọc/Nr/PER_B trong/Cm/O xanh/Aa/O ,/PU/O ngày_xưa/Nt/DTM_B công_chúa/Nn/DES_B Mị_Nương/Nr/PER_B thường/R/O xuống/Vd/O rửa/Vv/O mặt/Nn/O ,/PU/O soi/Vv/O gương/Nn/O ./PU/O 

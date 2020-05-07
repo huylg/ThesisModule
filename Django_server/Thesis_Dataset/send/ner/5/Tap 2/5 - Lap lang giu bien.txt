@@ -1,0 +1,31 @@
+﻿Lập/Vv/O làng/Nu/O giữ/Vv/O biển/Nn/O 
+Nhụ/Nr/PER_B nghe/Vv/O bố/Nn/O nói/Vv/O với/Cp/O ông/Nn/O :/PU/O 
+Lần/Nn/O này/Pd/O con/Pp/O sẽ/R/O họp/Vv/O làng/Nu/O để/Cm/O đưa/Vv/O đàn_bà/Nn/O và/Cp/O trẻ_con/Nn/O ra/D/O đảo/Nn/O ./PU/O 
+Con/Pp/O sẽ/R/O đưa/Vv/O thằng/Nc/TTL_B Nhụ/Nr/PER_B ra/D/O trước/Nn/O ./PU/O 
+Rồi/Cp/O nhà/Nc/O con/Nn/O cũng/R/O ra/Vd/O ./PU/O 
+Ông/Pp/O cũng/R/O sẽ/R/O ra/Vd/O ./PU/O 
+Tao/Pp/O chết/Vv/O ở/Cm/O đây/Pd/O thôi/M/O ./PU/O 
+Sức/Nn/O không/R/O còn/R/O chịu/Vv/O được/R/O sóng/Nn/O ./PU/O 
+Ngay_cả/M/O chết/Vv/O ,/PU/O cũng/R/O cần/Vv/O ông/Nn/O chết/Vv/O ở/Cm/O đấy/Pd/O ./PU/O 
+Ông/Nn/O đứng/Vv/O lên/D/O ,/PU/O tay/Nn/O giơ/Vv/O ra/R/O như/Cp/O cái/Nc/O bơi/Vv/O chèo/Nn/O :/PU/O 
+Thế/Pp/O là/Vc/O thế_nào/Pp/O ?/PU/O 
+-/PU/O Giọng/Nn/O ông/Nn/O bỗng/R/O hổn_hển/Aa/O ./PU/O 
+Người/Nn/O ông/Nn/O như/Cp/O tỏa/Nn/O ra/R/O hơi/R/O muối/Nn/O ./PU/O 
+Bố/Nn/TTL_B Nhụ/Nr/PER_B vẫn/R/O nói/Vv/O rất/R/O điềm_tĩnh/Aa/O :/PU/O 
+Ở/Cm/O đấy/Pd/O đất/Nn/O rộng/Aa/O ,/PU/O bãi/Nn/O dài/Aa/O ,/PU/O cây_xanh/Nn/O ,/PU/O nước_ngọt/Nn/O ,/PU/O ngư_trường/Nn/O gần/Aa/O ./PU/O 
+Chả/R/O còn/Ve/O gì/Pp/O hay/Aa/O hơn/Aa/O cho/Cp/O một/Nq/NUM_B làng/Nu/O biển/Nn/O ./PU/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O lúc/Nt/O nào/Pd/O cũng/R/O mong/Vv/O có/Ve/O đất/Nn/O để/Cm/O dân/Nn/O chài/Vv/O phơi/Vv/O được/R/O một/Nq/NUM_B vàng_lưới/Nn/O ,/PU/O buộc/Vv/O được/R/O một/Nq/NUM_B con/Nc/O thuyền/Nn/O ./PU/O 
+Bây_giờ/Pd/O đất/Nn/O đấy/M/O ,/PU/O rộng/Aa/O hết/Ve/O tầm_mắt/Nn/O ./PU/O 
+Đất/Nn/O của/Cm/O nước/Nn/O mình/Pp/O ,/PU/O mình/Pp/O không/R/O đến/Vd/O ở/Vv/O thì/Cp/O để/Cm/O cho/Cp/O ai/Pp/O ?/PU/O 
+Ông/Nn/TTL_B Nhụ/Nr/PER_B bước/Vv/O ra/D/O võng/Nn/O ./PU/O 
+Cái/Nc/O võng/Nn/O làm/Vv/O bằng/Cm/O lưới/Nn/O đáy/Nn/O vẫn/R/O buộc/Vv/O lưu_cữu/Nn/O ở/Cm/O ngoài/Nn/O hàng_hiên/Nn/O ,/PU/O ông/Nn/O ngồi/Vv/O xuống/D/O võng/Nn/O vặn/Vv/O mình/Pp/O ./PU/O 
+Hai/Nq/NUM_B má/Nn/O phập_phồng/Aa/O như/Cp/O người/Nn/O súc/Vv/O miệng/Nn/O khan/Aa/O ,/PU/O ông/Nn/O đã/R/O hiểu/Vv/O những/Nq/O ý_tưởng/Nn/O hình_thành/Vv/O trong/Cm/O suy_tính/Vv/O của/Cm/O người/Nc/O con_trai/Nn/O ông/Nn/O quan_trọng/Aa/O nhường/Vv/O nào/Pd/O ./PU/O 
+Để/Cm/O có/Ve/O một/Nq/NUM_B ngôi/Nc/O làng/Nu/O như/Cp/O mọi/Nq/O ngôi/Nc/O làng/Nu/O ở/Cm/O trên/Cm/O đất_liền/Nn/O ,/PU/O rồi/Cp/O sẽ/R/O có/Ve/O chợ/Nn/O ,/PU/O có/Ve/O trường_học/Nn/O ,/PU/O có/Ve/O nghĩa/Nn/O trang/Nn/O .../PU/O 
+Bố/Nn/TTL_B Nhụ/Nr/PER_B nói/Vv/O tiếp/Vv/O như/Cp/O trong/Cm/O một/Nq/NUM_B giấc/Nc/O mơ/Vv/O ,/PU/O rồi/Cp/O bất_ngờ/Aa/O ,/PU/O vỗ/Vv/O vào/Cm/O vai/Nn/O Nhụ/Nr/PER_B :/PU/O 
+Thế_nào/Pp/O con/Nn/O ,/PU/O đi/R/O với/Cp/O bố/Nn/O chứ/M/O ?/PU/O 
+Vâng/E/O !/PU/O 
+-/PU/O Nhụ/Nr/PER_B đáp/Vv/O nhẹ/Aa/O ./PU/O 
+Vậy/Pp/O là/Vc/O việc/Nn/O đã/R/O quyết_định/Vv/O rồi/R/O ./PU/O 
+Nhụ/Nr/PER_B đi/R/O và/Cp/O sau/Nn/O đó/Pd/O cả/M/O nhà/Nn/O sẽ/R/O đi/Vv/O ./PU/O 
+Đã/R/O có/Ve/O một/Nq/NUM_B làng/Nu/O Bạch_Đằng_Giang/Nr/LOC_B do/Cp/O những/Nq/O người/Nc/O dân/Nn/O chài/Vv/O lập/Vv/O ra/R/O ở/Cm/O đảo/Nn/LOC_B Mõm_Cá_sấu/Nr/LOC_I ./PU/O 
+Hòn/Nc/O đảo/Nn/O đang/R/O bồng_bềnh/Vv/O đâu_đó/Pd/O ở/Cm/O mãi/R/O phía/Nn/O chân_trời/Nn/O .../PU/O 

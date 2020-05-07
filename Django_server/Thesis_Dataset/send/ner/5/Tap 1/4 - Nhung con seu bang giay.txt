@@ -1,0 +1,15 @@
+﻿Những/Nq/O con/Nc/O sếu/Nn/O bằng/Cm/O giấy/Nn/O 
+Ngày/Nt/DTM_B 16-7-1945/Nt/DTM_I ,/PU/O nước/Nn/ORG_B Mĩ/Nr/ORG_I chế_tạo/Vv/O được/R/O bom_nguyên_tử/Nn/O ./PU/O 
+Hơn/Aa/O nửa/Nq/MEA_B tháng/Nt/MEA_I sau/Nn/O ,/PU/O chính_phủ/Nn/ORG_B Mĩ/Nr/ORG_I quyết_định/Vv/O ném/Vv/O cả/Pp/O hai/Nq/NUM_B quả/Nn/O bom/Nn/O mới/R/O chế_tạo/Vv/O xuống/D/O Nhật_Bản/Nr/LOC_B ./PU/O 
+Hai/Nq/NUM_B quả/Nn/O bom/Nn/O ném/Vv/O xuống/D/O các/Nq/O thành_phố/Nu/O Hi-rô-si-ma/Nr/O và/Cp/O Na-ga-xa-ki/Nr/ORG_B đã/R/O cướp/Vv/O đi/R/O mạng_sống/Nn/O của/Cm/O gần/Aa/O nửa/Nq/NUM_B triệu/Nq/NUM_I người/Nn/O ./PU/O 
+Đến/Cm/O năm/Nt/DTM_B 1951/Nt/DTM_I ,/PU/O lại/R/O có/Ve/O thêm/Vv/O gần/Aa/O 100/Nq/NUM_B 000/Nn/O người/Nn/O ở/Cm/O Hi-rô-si-ma/Nn/O bị/Vv/O chết/Vv/O do/Cp/O nhiễm/Vv/O phóng_xạ/Vv/O nguyên_tử/Nn/O ./PU/O 
+Khi/Nt/DTM_B Hi-rô-si-ma/Nt/DTM_I bị/Vv/O ném/Vv/O bom/Nn/O ,/PU/O cô/Nc/TTL_B bé/Nn/TTL_I Xa-xa-cô_Xa-xa-ki/Nr/PER_B mới/R/O hai/Nq/MEA_B tuổi/Nn/MEA_I đã/R/O may_mắn/Aa/O thoát/Vv/O nạn/Nn/O ./PU/O 
+Nhưng/Cp/O em/Pp/O bị/Vv/O nhiễm/Vv/O phóng_xạ/Vv/O ./PU/O 
+Mười/Nq/MEA_B năm/Nt/MEA_I sau/Nn/O ,/PU/O em/Pp/O lâm_bệnh/Vv/O nặng/Aa/O ./PU/O 
+Nằm/Vv/O trong/Cm/O bệnh_viện/Nn/O nhẩm/Vv/O đếm/Vv/O từng/Pp/O ngày/Nt/O còn_lại/Ve/O của/Cm/O đời/Nn/O mình/Pp/O ,/PU/O cô/Nc/O bé/Nn/O ngây_thơ/Aa/O tin/Vv/O vào/Cm/O một/Nq/NUM_B truyền_thuyết/Nn/O nói/Vv/O rằng/Cp/O nếu/Cp/O gấp/Vv/O đủ/Aa/O một/Nq/NUM_B nghìn/Nq/NUM_I con/Nc/O sếu/Nn/O bằng/Cm/O giấy/Nn/O treo/Vv/O quanh/Nn/O phòng/Nn/O ,/PU/O em/Pp/O sẽ/R/O khỏi/Vv/O bệnh/Nn/O ./PU/O 
+Em/Pp/O liền/R/O lặng_lẽ/Aa/O gấp/Vv/O sếu/Nn/O ./PU/O 
+Biết/Vv/O chuyện/Nn/O ,/PU/O trẻ_em/Nn/O toàn/Nq/O nước/Nn/LOC_B Nhật/Nr/LOC_I và/Cp/O nhiều/Aa/O nơi/Nn/O trên/Cm/O thế_giới/Nn/O đã/R/O tới_tấp/Aa/O gửi/Vv/O hàng/R/O nghìn/Nq/O con/Nc/O sếu/Nn/O giấy/Nn/O đến/Vd/O cho/Cp/O Xa-xa-cô/Nn/O ./PU/O 
+Nhưng/Cp/O Xa-xa-cô/Nn/O chết/Vv/O khi/Nt/O em/Pp/O mới/R/O gấp/Vv/O được/R/O 644/Nq/NUM_B con/Nn/O ./PU/O 
+Xúc_động/Vv/O trước/Cm/O cái/Nc/O chết/Vv/O của/Cm/O em/Pp/O ,/PU/O học_sinh/Nn/O thành_phố/Nu/LOC_B Hi-rô-si-ma/Nr/LOC_I đã/R/O quyên_góp/Vv/O tiền/Nn/O xây/Vv/O một/Nq/NUM_B tượng_đài/Nn/O tưởng_nhớ/Vv/O những/Nq/O nạn_nhân/Nn/O bị/Vv/O bom_nguyên_tử/Nn/O sát_hại/Vv/O ./PU/O 
+Trên/Cm/O đỉnh/Nn/O tượng_đài/Nn/O cao/Aa/O 9/Nq/MEA_B mét/Nu/MEA_I là/Vc/O hình/Nn/O một/Nq/NUM_B bé/Nc/O gái/Nn/O giơ/Vv/O cao/Aa/O hai/Nq/NUM_B tay/Nn/O nâng/Vv/O một/Nq/NUM_B con/Nc/O sếu/Nn/O ./PU/O 
+Dưới/Cm/O tượng_đài/Nn/O khắc/Vv/O dòng/Nn/O chữ/Nn/O :/PU/O "/PU/O Chúng_tôi/Pp/O muốn/Vv/O thế_giới/Nn/O này/Pd/O mãi_mãi/R/O hòa/Nq/O bình/Nn/O ./PU/O "/PU/O 

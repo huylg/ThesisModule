@@ -1,0 +1,123 @@
+﻿Những/Nq/O ngày/Nt/O đầu/Aa/O của/Cm/O nước/Nn/ORG_B Việt_Nam/Nr/ORG_I mới/R/O 
+Tôi/Pp/O viết/Vv/O những/Nq/O dòng/Nn/O này/Pd/O vào/Cm/O những/Nq/O ngày_tháng/Nt/O Năm/Nq/MEA_B năm/Nt/MEA_I 1970/Nt/DTM_I ./PU/O 
+Đã/R/O rất/R/O xa/Aa/O ,/PU/O cái/Nc/O ngày/Nt/O mà/Cp/O người/Nn/O nước_ngoài/Nn/O không/R/O sao/Pp/O tìm/Vv/O ra/R/O nước/Nn/ORG_B Việt_Nam/Nr/ORG_I trên/Cm/O những/Nq/O tấm/Nc/O bản_đồ/Nn/O ./PU/O 
+Tổ_quốc/Nn/O có/Ve/O mấy/Nq/O ngàn/Nq/O năm/Nt/O lịch_sử/Nn/O của/Cm/O chúng_ta/Pp/O cùng/Cp/O với/Cp/O hai/Nq/NUM_B nước/Nn/O láng_giềng/Nn/O Cam-pu-chia/Nr/BRN_B ,/PU/O Lào/Nr/ORG_B khi/Nt/O đó/Pd/O chỉ/R/O là/Vc/O một/Nq/NUM_B dải/Nc/O đất/Nn/O ở/Vv/O ven/Nn/LOC_B Thái_Bình_Dương/Nr/LOC_I ,/PU/O giữa/Cm/O Ấn_Độ/Nr/ORG_B và/Cp/O Trung_Hoa/Nr/LOC_B ,/PU/O mang/Vv/O một/Nq/NUM_B cái/Nc/O tên/Nn/O mơ_hồ/Aa/O do/Cp/O bọn/Nn/O thực_dân/Nn/O đặt/Vv/O ra/R/O :/PU/O Ấn-độ-chi-na/Nn/O thuộc/Vv/O Pháp/Nr/ORG_B ./PU/O 
+Cũng/R/O đã/R/O xa/Aa/O rồi/R/O ,/PU/O cái/Nc/O ngày/Nt/O nước/Nn/ORG_B Việt_Nam/Nr/ORG_I Dân_chủ/Nn/ORG_I Cộng/Vv/ORG_I hòa/Nn/ORG_I còn/R/O là/Vc/O một/Nq/NUM_B hòn/Nc/O đảo/Nn/O của/Cm/O Tự_do/Nn/O ,/PU/O hiện/Vv/O lên/R/O giữa/Cm/O những/Nq/O lớp/Nn/O sóng/Nn/O cồn/Nn/O ,/PU/O trên/Cm/O biển_cả/Nn/O mênh_mông/Aa/O của/Cm/O chủ_nghĩa_tư_bản/Nn/O ở/Cm/O miền/Nn/O Đông_Nam/Nn/O châu/Nn/LOC_B Á/Nr/LOC_I ./PU/O 
+Anh_em/Nn/O bè_bạn/Nn/O còn/R/O chưa/R/O mấy_ai/ID/O nhận/Vv/O ra/R/O ta/Pp/O ./PU/O 
+Cũng/R/O chưa/R/O mấy_ai/ID/O thấy/Vv/O hết/Ve/O ý/Nn/O nghĩa/Nn/O quan_trọng/Aa/O của/Cm/O sự_kiện/Nn/O lịch_sử/Aa/O này/Pd/O ./PU/O 
+Thời_kì/Nn/O làm_mưa_làm_gió/ID/O của/Cm/O chủ_nghĩa_đế_quốc/Nn/O đã/R/O qua/Vv/O ./PU/O 
+Ngày_nay/Nt/DTM_B ,/PU/O mỗi/Nq/O hành_động/Nn/O kẻ_cướp/Nn/O của/Cm/O chúng/Pp/O trên/Cm/O bán_đảo/Nn/LOC_B Đông_Dương/Nr/LOC_I này/Pd/O ,/PU/O đều/R/O trở_thành/Vv/O những/Nq/O bước_đi/Nn/O phiêu_lưu/Vv/O và/Cp/O không/R/O tránh/Vv/O khỏi/Vv/O bị/Vv/O trừng_phạt/Vv/O ./PU/O 
+Mỗi_tội/Nn/O ác/Aa/O của/Cm/O chúng/Pp/O gây/Vv/O ra/R/O tại/Cm/O đây/Pd/O đều/R/O động/Vv/O tới/Cm/O lương_tri/Nn/O ,/PU/O tới/Cm/O tình_cảm/Nn/O của/Cm/O hàng/R/O trăm/Nq/O triệu/Nq/O con_người/Nn/O ,/PU/O ở/Cm/O các/Nq/O miền/Nn/O khác/Aa/O nhau/Nn/O trên/Cm/O trái_đất/Nn/O ./PU/O 
+Mọi/Nq/O cách/Nn/O tô_son_trát_phấn/Nn/O cực_kì/R/O tốn_kém/Vv/O của/Cm/O chủ_nghĩa_thực_dân/Nn/O đối_với/Cp/O bọn/Nn/O ngụy/Nq/O quyền/Nn/O tay_sai/Nn/O đều/R/O hoài/R/O công/Nn/O ,/PU/O vô_ích/Aa/O ./PU/O 
+Chính_phủ/Nn/O cách_mạng/Aa/O lâm_thời/Aa/O Cộng/Vv/O hòa/Nq/O miền/Nn/O Nam/Nn/O Việt_Nam/Nr/LOC_B ra_đời/Vv/O giữa/Cm/O lửa_đạn/Nn/O ác_liệt/Aa/O ,/PU/O lập_tức/R/O được/Vv/O sự/Nc/O hân_hoan/Aa/O chào_đón/Vv/O của/Cm/O cả/Pp/O loài_người/Nn/O tiến_bộ/Aa/O từ/Cm/O lâu/Aa/O đã/R/O trông_chờ/Vv/O ./PU/O 
+Chính_phủ/Nn/ORG_B vương_quốc/Nn/ORG_I đoàn_kết/Vv/ORG_I dân_tộc/Nn/ORG_I Cam-pu-chia/Nr/ORG_I vừa/R/O công_bố/Vv/O thành_lập/Vv/O ,/PU/O đã/R/O được/Vv/O hàng/R/O chục/Nq/O nước/Nn/O gần_xa/Aa/O công_nhận/Vv/O ./PU/O 
+Ngày_nay/Nt/DTM_B ,/PU/O khi/Nt/O mấy/Nq/O trăm/Nq/O vạn/Nq/O quân/Nn/O Quốc_dân/Nn/O đảng/Nn/ORG_B Trung_Hoa/Nr/ORG_I chỉ/R/O còn/R/O là/Vc/O những/Nq/O bóng_ma/Nn/O trong/Cm/O dĩ_vãng/Nn/O ,/PU/O Tưởng_Giới_Thạch/Nr/PER_B đang/R/O sống/Vv/O nốt/R/O những/Nq/O ngày/Nt/O tàn/Vv/O trên/Cm/O đảo/Nn/LOC_B Đài_Loan/Nr/LOC_I ,/PU/O ta/Pp/O thật/R/O khó/Aa/O hình_dung/Vv/O lại/R/O những/Nq/O giờ_phút/Nt/O hiểm_nghèo/Aa/O khi/Nt/O gần/Aa/O hai/Nq/NUM_B chục/Nq/NUM_I vạn/Nq/NUM_I quân/Nn/O Tưởng/Vv/O từ/Cm/O mấy/Nq/O ngả/Nn/O ập/Vv/O vào/D/O miền/Nn/O Bắc/Nn/O ./PU/O 
+Nước/Nn/ORG_B Việt_Nam/Nr/ORG_I Dân_chủ/Nn/ORG_I Cộng/Vv/ORG_I hòa/Nn/ORG_I mới/Cp/O sinh/Vv/O ,/PU/O nằm/Vv/O giữa/Cm/O bốn/Nq/NUM_B bề/Nn/O hùm/Nn/O sói/Nn/O ,/PU/O phải/Vv/O tự/Pp/O dốc/Vv/O sức/Nn/O mình/Pp/O đấu_tranh/Vv/O dũng_cảm/Aa/O ,/PU/O mưu_trí/Aa/O ,/PU/O phải/Vv/O tìm/Vv/O mọi/Nq/O cách/Nn/O để/Cm/O sống_còn/Aa/O ./PU/O 
+Trước/Nn/O hoàn_cảnh/Nn/O gay_go/Aa/O và/Cp/O cấp_bách/Aa/O ấy/Pd/O ,/PU/O như/Cp/O Bác/Nn/PER_B đã/R/O nói/Vv/O sau/Nn/O này/Pd/O ,/PU/O theo/Vv/O cách/Nn/O nói_riêng/Cs/O của/Cm/O Người/Nn/O :/PU/O "/PU/O Đảng/Nn/O phải/Vv/O dùng/Vv/O những/Nq/O phương_pháp/Nn/O -/PU/O dù/Cp/O là/Vc/O những/Nq/O phương_pháp/Nn/O đau_đớn/Aa/O -/PU/O để/Cm/O cứu_vãn/Vv/O tình_thế/Nn/O "/PU/O ./PU/O 
+Ở/Cm/O Người/Nn/O ,/PU/O mọi/An/O vấn_đề/Nn/O ,/PU/O mọi/Nq/O chuyện/Nn/O của/Cm/O Đảng/Nn/O ,/PU/O của/Cm/O nước/Nn/O ,/PU/O của/Cm/O dân/Nn/O đều/R/O trở_thành/Vv/O những/Nq/O rung_động/Nn/O sâu_xa/Aa/O trong/Cm/O tình_cảm/Nn/O ./PU/O 
+Đảng/Nn/O của/Cm/O giai_cấp/Nn/O công_nhân/Nn/O mới/Aa/O mười/Nq/MEA_B lăm/Nq/MEA_I tuổi/Nn/MEA_I đã/R/O giành/Vv/O được/R/O chính_quyền/Nn/O ./PU/O 
+Trên/Cm/O dải/Nc/O đất/Nn/O của/Cm/O ông_cha/Nn/O để/Vv/O lại/R/O ,/PU/O mùa/Nn/DTM_B xuân/Nt/DTM_I của/Cm/O dân_tộc/Nn/O từ/Cm/O hôm_nay/Nt/DTM_B ,/PU/O đã/R/O bắt_đầu/Vv/O ./PU/O 
+Tin_vui/Nn/O lớn_lao/Aa/O đó/Pd/O ,/PU/O chưa_thể/R/O báo/Vv/O với/Cp/O bè_bạn/Nn/O xa_gần/Aa/O một_cách/Nn/O trọn_vẹn/Aa/O ./PU/O 
+Tháng/Nt/DTM_B Tám/Nt/DTM_I năm/Nt/DTM_I 1945/Nt/DTM_I ,/PU/O Bác/Nn/PER_B nhân_danh/Vv/O nhà/Nn/O cách_mạng/Aa/O Nguyễn_Ái_Quốc/Nr/PER_B viết/Vv/O thư/Nn/O kêu_gọi/Vv/O Tổng_khởi_nghĩa/Nn/O ./PU/O 
+Đầu/Nn/O tháng/Nt/O Chín/Nq/NUM_B ,/PU/O Bác/Nn/PER_B ra_mắt/Vv/O nhân_dân/Nn/O với/Cp/O danh_hiệu/Nn/O Chủ_tịch/Nn/DES_B Hồ_Chí_Minh/Nr/PER_B ./PU/O 
+Đó/Pd/O là/Vc/O một/Nq/NUM_B bí_danh/Nn/O Bác/Nn/O đã/R/O dùng/Vv/O mấy/Nq/O năm/Nt/O trước/Nn/O để/Cm/O che/Vv/O mắt/Nn/O bọn/Nn/O Quốc_dân/Nn/O đảng/Nn/ORG_B Trung_Hoa/Nr/ORG_I ./PU/O 
+Những/Nq/O người/Nn/O cách_mạng/Aa/O đã/R/O qua/Vv/O thời_kì/Nn/O ẩn_náu/Vv/O ,/PU/O lẩn_tránh/Vv/O ,/PU/O về/Cm/O sống/Vv/O giữa/Cm/O đồng_bào/Nn/O ./PU/O 
+Nhưng/Cp/O mọi/Nq/O hoạt_động/Nn/O của/Cm/O Đảng/Nn/O vẫn/R/O tiến_hành/Vv/O theo/Vv/O phương_thức/Nn/O bí_mật/Aa/O ./PU/O 
+Những/Nq/O cán_bộ/Nn/O của/Cm/O Đảng/Nn/O chưa/R/O ra/Vd/O làm_việc/Vv/O công_khai/Aa/O ./PU/O 
+Hầu_hết/Nq/O các/Nq/O đảng_viên/Nn/O đều/R/O công_tác/Vv/O dưới/Cm/O danh_nghĩa/Nn/O những/Nq/O cán_bộ/Nn/O Việt_Minh/Nr/ORG_B ./PU/O 
+Đảng/Nn/O ta/Pp/O chủ_trương/Vv/O hết_sức/R/O tránh/Vv/O kích_thích/Vv/O kẻ_thù/Nn/O của/Cm/O dân_tộc/Nn/O và/Cp/O của/Cm/O giai_cấp/Nn/O ./PU/O 
+Nhưng/Cp/O ,/PU/O kẻ_thù/Nn/O vẫn/R/O nhận/Vv/O ra/R/O ta/Pp/O ./PU/O 
+Chính_quyền/Nn/O cách_mạng/Aa/O thành_lập/Vv/O nhiều/Aa/O ngày/Nt/O ,/PU/O vẫn/R/O chưa/R/O được/Vv/O nước/Nn/O nào/Pd/O công_nhận/Vv/O ./PU/O 
+Bọn/Nn/O tướng_lĩnh/Nn/O Tưởng/Vv/O buộc/Vv/O phải/Vv/O giao_dịch/Vv/O với/Cp/O ta/Pp/O để/Cm/O có/Ve/O lương_thực/Nn/O ,/PU/O có/Ve/O nhà_cửa/Nn/O ./PU/O 
+Khi/Nt/O tới/Vd/O gặp/Vv/O Bác/Nn/PER_B ,/PU/O trong/Cm/O lúc/Nt/O xưng_hô/Vv/O ,/PU/O chúng/Pp/O phải/Vv/O dùng/Vv/O danh_hiệu/Nn/O và/Cp/O chức_vụ/Nn/O của/Cm/O Bác/Nn/PER_B là/Vc/O Hồ_Chủ_tịch/Nr/PER_B ./PU/O 
+Nhưng/Cp/O ,/PU/O trong/Cm/O mọi/Nq/O giấy_tờ/Nn/O gửi/Vv/O Bác/Nn/PER_B ,/PU/O chúng/Pp/O chỉ/R/O đề/Vv/O là/Cp/O :/PU/O "/PU/O Hồ_Chí_Minh/Nr/PER_B tiên_sinh/Nn/O "/PU/O (/PU/O Thưa/E/O ngài/Nn/TTL_B Hồ_Chí_Minh/Nr/PER_B )/PU/O ./PU/O 
+Chúng/Pp/O coi/Vv/O chính_quyền/Nn/O ta/Pp/O là/Vc/O một/Nq/NUM_B chính_quyền/Nn/O chỉ/R/O tồn_tại/Vv/O trên/Cm/O thực_tế/Nn/O ,/PU/O không/R/O phải/Aa/O là/Vc/O một/Nq/NUM_B chính_quyền/Nn/O tồn_tại/Vv/O về/Cm/O pháp_lí/Nn/O ./PU/O 
+Tình_hình/Nn/O kinh_tế/Nn/O hết_sức/R/O khó_khăn/Aa/O ./PU/O 
+Phần_lớn/Nq/O ruộng_đất/Nn/O ở/Cm/O Bắc_Bộ/Nr/LOC_B bỏ_hoang/Vv/O ./PU/O 
+Hết/Ve/O nạn/Nn/O lụt/Nn/O ,/PU/O đến/Cm/O nạn/Nn/O hạn_hán/Nn/O kéo/Vv/O dài/Aa/O ./PU/O 
+Một_số/Nq/O nhà_máy/Nn/O Nhật/Nr/LOC_B trao_trả/Vv/O chưa_thể/R/O cho/Vv/O chạy/Vv/O được/R/O ./PU/O 
+Việc/Nn/O buôn_bán/Vv/O với/Cp/O nước_ngoài/Nn/O đình_trệ/Vv/O ./PU/O 
+Nạn/Nn/O khan_hiếm/Aa/O hàng/Nn/O hóa/Nn/O nghiêm_trọng/Aa/O ./PU/O 
+Về/Cm/O tài_chính/Nn/O ,/PU/O ta/Pp/O chưa/R/O phát_hành/Vv/O được/R/O tiền/Nn/O Việt_Nam/Nr/LOC_B ./PU/O 
+Kho_bạc/Nn/O giành/Vv/O được/R/O từ/Cm/O tay/Nn/O chính_quyền/Nn/O cũ/Aa/O ,/PU/O chỉ/R/O có/Ve/O một/Nq/NUM_B triệu/Nq/NUM_I bạc/Nn/O rách/Aa/O ./PU/O 
+Một/Nq/NUM_B triệu/Nq/NUM_I bạc/Nn/O tiền_giấy/Nn/O đang/R/O xuống/Vd/O giá/Nn/O để/Cm/O xây_dựng/Vv/O chính_quyền/Nn/O và/Cp/O cuộc_sống/Nn/O mới/Aa/O !/PU/O 
+Chưa/R/O kể/Vv/O đến/Cm/O ngân_hàng/Nn/ORG_B Đông_Dương/Nr/ORG_I của/Cm/O bọn/Nn/O Pháp/Nr/LOC_B luôn_luôn/R/O gây/Vv/O rối_loạn/Aa/O về/Cm/O mặt/Nn/O tiền_tệ/Nn/O ./PU/O 
+Lại/R/O thêm/Vv/O quân/Nn/O Tưởng/Vv/O tung/Vv/O rất/R/O nhiêu/Nn/O tiền/Nn/O Quan_kim/Nu/O trên/Cm/O thị_trường/Nn/O ,/PU/O làm/Vv/O cho/Cp/O tài_chính/Nn/O và/Cp/O việc/Nn/O buôn_bán/Vv/O của/Cm/O ta/Pp/O càng/Cs/O nguy_ngập/Aa/O ./PU/O 
+Đời_sống/Nn/O của/Cm/O nhân_dân/Nn/O rất/R/O thấp/Aa/O ./PU/O 
+Số/Nn/O người/Nn/O không/R/O có/Ve/O công_ăn_việc_làm/ID/O tăng/Vv/O nhanh/Aa/O ./PU/O 
+Nhiều/Aa/O nơi/Nn/O ,/PU/O đồng_bào/Nn/O phải/Vv/O ăn/Vv/O cháo/Nn/O ./PU/O 
+Lác_đác/Aa/O ,/PU/O lại/R/O có/Ve/O người/Nn/O chết/Vv/O đói/Aa/O ./PU/O 
+Dịch_tả/Nr/PER_B đã/R/O phát_sinh/Vv/O ./PU/O 
+Quân/Nr/PER_B Tưởng/Vv/O vào/D/O ,/PU/O đem/Vv/O thêm/Vv/O dịch/Nn/O chấy/Vv/O rận/Nn/O ./PU/O 
+Cuộc/Nc/O xâm_lăng/Vv/O của/Cm/O giặc/Nn/O Pháp/Nr/ORG_B nổ/Vv/O ra/R/O rất/R/O sớm/Aa/O tại/Cm/O Nam_Bộ/Nr/LOC_B ,/PU/O làm/Vv/O cho/Cp/O tất_cả/Nq/O những/Nq/O khó_khăn/Nn/O trên/Nn/O càng/R/O thêm/Vv/O trầm_trọng/Aa/O ./PU/O 
+Trong/Cm/O hoàn_cảnh/Nn/O như/Cp/O vậy/Pp/O ,/PU/O ta/Pp/O phải/Vv/O làm/Vv/O những/Nq/O gì/Pp/O để/Cm/O xây_dựng/Vv/O xã_hội/Nn/O mới/Aa/O ,/PU/O một/Nq/NUM_B công_việc/Nn/O còn/R/O khó_khăn/Aa/O hơn/Aa/O là/Vc/O phá/Vv/O bỏ/Vv/O nền_móng/Nn/O của/Cm/O xã_hội/Nn/O cũ/Aa/O ./PU/O 
+Công_việc/Nn/O đó/Pd/O ,/PU/O giai_cấp/Nn/O công_nhân/Nn/O lại/R/O chỉ/R/O mới/R/O bắt_tay/Vv/O làm/Vv/O lần/Nn/O đầu/Aa/O ./PU/O 
+Dù_sao/Cp/O ,/PU/O tình_hình/Nn/O cũng/R/O đã/R/O khác/Aa/O trước/Nn/O ./PU/O 
+Cách_mạng/Nn/O đã/R/O giành/Vv/O được/R/O chính_quyền/Nn/O ./PU/O 
+Chính_quyền/Nn/O đã/R/O cung_cấp/Vv/O cho/Cp/O cách_mạng/Nn/O những/Nq/O phương_tiện/Nn/O ,/PU/O những/Nq/O khả_năng/Nn/O mới/Aa/O để/Cm/O giữ_gìn/Vv/O nó/Pp/O ./PU/O 
+Vấn_đề/Nn/O đặt/Vv/O ra/R/O cấp_bách/Aa/O lúc/Nt/DTM_B này/Pd/DTM_I là/Vc/O phải/Vv/O củng_cố/Vv/O và/Cp/O giữ/Vv/O vững/Aa/O chính_quyền/Nn/O cách_mạng/Aa/O ./PU/O 
+Từ/Cm/O thượng_tuần/Nn/O tháng/Nt/O Chín/Nq/NUM_B ,/PU/O nhiều/Aa/O sắc_lệnh/Nn/O ,/PU/O nghị_định/Nn/O của/Cm/O Chính_phủ/Nn/O lâm_thời/Aa/O được/Vv/O ban_hành/Vv/O ./PU/O 
+Hệ_thống/Nn/O quan_lại/Nn/O cũ/Aa/O bị/Vv/O giải_tán/Vv/O ./PU/O 
+Bộ_máy/Nn/O chính_quyền/Nn/O của/Cm/O thực_dân/Nn/O ,/PU/O phong_kiến/Aa/O bị/Vv/O hoàn_toàn/Aa/O đập_tan/Vv/O ./PU/O 
+Chính_phủ/Nn/O quyết_định/Vv/O sẽ/R/O mở/Vv/O tổng_tuyển_cử/Nn/O trong/Cm/O cả/Pp/O nước/Nn/O để/Cm/O bầu/Nn/O ra/D/O Quốc_dân_đại_hội/Nn/O ./PU/O 
+Tiếp_theo/Vv/O đó/Pd/O ,/PU/O là/Vc/O sắc_lệnh/Nn/O tổ_chức/Vv/O Hội_đồng_nhân_dân/Nn/O và/Cp/O Ủy/Nn/O ban_hành/Vv/O chính/M/O các/Nq/O cấp/Nn/O theo/Vv/O lối/Nn/O phổ_thông_đầu_phiếu/Nu/O ./PU/O 
+Hội_đồng_nhân_dân/Nn/O sẽ/R/O do/Cp/O chính/M/O nhân_dân/Nn/O lựa_chọn/Vv/O ,/PU/O trực_tiếp/Aa/O bầu/Vv/O ra/R/O ./PU/O 
+Đó/Pd/O là/Vc/O cơ_quan/Nn/O thay_mặt/Vv/O cho/Cp/O dân/Nn/O ./PU/O 
+Ủy/Nn/O ban_hành/Vv/O chính/M/O do/Cp/O Hội_đồng_nhân_dân/Nn/O bầu/Vv/O ra/R/O là/Vc/O cơ_quan_hành_chính/Nn/O vừa/R/O thay_mặt/Vv/O cho/Cp/O dân/Nn/O ,/PU/O vừa/Cs/O thay_mặt/Vv/O cho/Cp/O Chính_phủ/Nn/O ./PU/O 
+Qua/Cm/O những/Nq/O cuộc/Nc/O bầu_cử/Vv/O này/Pd/O ,/PU/O chính_quyền/Nn/O nhân_dân/Aa/O được/Vv/O cũng/R/O cố/Vv/O vững_chắc/Aa/O ở/Cm/O cơ_sở/Nn/O ,/PU/O vừa/Cs/O mở_rộng/Vv/O khối/Nn/O đoàn_kết/Vv/O của/Cm/O toàn/Nq/O dân/Nn/O ,/PU/O vừa/Cs/O bảo_đảm/Vv/O sự_thực_hiện/Nq/O công_nông/Nn/O chuyên_chính/Nn/O ./PU/O 
+Bản/Nc/O dự_án/Nn/O Hiến_pháp/Nn/O được/Vv/O công_bố/Vv/O ,/PU/O để/Cm/O mỗi/Nq/O công_dân/Nn/O đều/R/O có_thể/Aa/O đóng_góp/Vv/O ý_kiến/Nn/O của/Cm/O mình/Pp/O vào/Cm/O Hiến_pháp/Nn/O đầu_tiên/An/O của/Cm/O nước/Nn/ORG_B Việt_Nam/Nr/ORG_I Dân_chủ/Nn/ORG_I Cộng/Vv/ORG_I hòa/Nn/ORG_I ./PU/O 
+Chính_phủ/Nn/O quyết_định/Vv/O địa_chủ/Nn/O phải/Vv/O giảm/Vv/O tô/Vv/O 25/Nq/MEA_B %/Nu/MEA_I ./PU/O 
+Tất_cả/Nq/O những/Nq/O món/Nc/O nợ/Nn/O lâu_đời/Aa/O ở/Cm/O nông_thôn/Nn/O đều/R/O xóa/Aa/O bỏ/Vv/O ./PU/O 
+Chế_độ/Nn/O lao_động/Nn/O ngày/Nt/O làm/Vv/O tám/Nq/MEA_B giờ/Nt/MEA_I được/Vv/O ban_hành/Vv/O ./PU/O 
+Chủ/Nn/O xí_nghiệp/Nn/O ,/PU/O chủ/Nn/O hãng/Nn/O buôn/Vv/O phải/Vv/O báo/Vv/O trước/Nn/O khi/Nt/O thải/Vv/O công_nhân/Nn/O :/PU/O tiền/Nn/O phụ_cấp/Vv/O cho/Cp/O công_nhân/Nn/O bị/Vv/O thải_hồi/Vv/O được/Vv/O ấn_định/Vv/O ./PU/O 
+Công_nhân/Nn/O có/Ve/O quyền/Nn/O theo/Vv/O học/Vv/O các/Nq/O lớp/Nn/O huấn_luyện/Vv/O quân_sự/Nn/O và/Cp/O được/Vv/O hưởng/Vv/O lương/Nn/O trong/Cm/O thời_gian/Nn/O học_tập/Vv/O ./PU/O 
+Việc/Nn/O học/Vv/O chữ_quốc_ngữ/Nn/O trở_thành/Vv/O bắt_buộc/Vv/O và/Cp/O không/R/O mất/Ve/O tiền/Nn/O ./PU/O 
+Một/Nq/NUM_B sắc_lệnh/Nn/O đặt/Vv/O ra/R/O Bình_dân_học_vụ/Nn/O trong/Cm/O toàn/Nq/O cõi/Nn/O Việt_Nam/Nr/LOC_B ,/PU/O lập/Vv/O cho/Cp/O thợ_thuyền/Nn/O và/Cp/O nông_dân/Nn/O những/Nq/O lớp_học/Nn/O bình_dân/Aa/O buổi/Nt/O tối/Nt/O ,/PU/O bỏ/Vv/O tiền/Nn/O thi/Vv/O và/Cp/O tiền/Nn/O học/Vv/O ở/Cm/O tất_cả/Nq/O các/Nq/O bậc/Nc/O ./PU/O 
+Ngay/M/O từ/Cm/O đầu/Nn/O tháng/Nt/O Chín/Nq/NUM_B ,/PU/O thuế_thân/Nn/O ,/PU/O thứ/Nn/O thuế/Nn/O thực_dân/Nn/O Pháp/Nr/LOC_B đánh/Vv/O hàng/R/O năm/Nt/O vào/Cm/O đầu/Nn/O mỗi/Nq/O người/Nn/O từ/Cm/O mười/Nq/MEA_B tám/Nq/MEA_I tuổi/Nn/MEA_I trở/Vv/O lên/R/O ,/PU/O cùng/Cp/O với/Cp/O nhiều/Aa/O thứ/Nn/O thuế/Nn/O vô_lí/Aa/O khác/Aa/O đều/R/O bị/Vv/O bãi/Nn/O bò/Nn/O ./PU/O 
+Trong/Cm/O tình_hình/Nn/O kinh_tế/Nn/O ,/PU/O tài_chính/Nn/O khó_khăn/Aa/O ,/PU/O Chính_phủ/Nn/O làm/Vv/O thế_nào/Pp/O có/Ve/O tiền/Nn/O để/Cm/O giải_quyết/Vv/O các/Nq/O khoản/Nn/O chi_phí/Nn/O cần_thiết/Aa/O ,/PU/O nhất_là/Cp/O những/Nq/O chi_phí/Nn/O to_lớn/Aa/O về/Cm/O quốc_phòng/Nn/O ?/PU/O 
+Trước_mắt/Nn/O ,/PU/O chỉ/R/O còn/R/O trông/Vv/O vào/Cm/O sự/Nc/O đóng_góp/Vv/O tự_nguyện/Vv/O của/Cm/O đồng_bào/Nn/O ./PU/O 
+Ngày/Nt/DTM_B 4/Nt/DTM_I tháng/Nt/DTM_I Chín/Nq/DTM_I ,/PU/O Chính_phủ/Nn/O lập/Vv/O Quỹ/Nn/O Độc_lập/Nn/O ./PU/O 
+Một/Nq/MEA_B tuần_lễ/Nt/MEA_I sau/Nn/O ,/PU/O Bác/Nn/PER_B kêu_gọi/Vv/O đồng_bào/Nn/O cả/Pp/O nước/Nn/O tích_cực/Aa/O hưởng_ứng/Vv/O Tuần_lễ/Nt/O vàng/Nn/O ./PU/O 
+Nhiều/Aa/O người/Nn/O sốt_sắng/Aa/O đem/Vv/O tới/Cm/O góp/Vv/O cả/M/O những/Nq/O vật/Nn/O kỉ_niệm/Vv/O thân_thiết/Aa/O nhất/R/O của/Cm/O mình/Pp/O ./PU/O 
+Đó/Pd/O là/Vc/O đôi/Nq/O khuyên/Vv/O của/Cm/O một/Nq/NUM_B bà/Nc/O cụ/Nn/O đã/R/O sắm/Vv/O từ/Cm/O ngày/Nt/O còn/Ve/O con_gái/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O hai/Nq/NUM_B chiếc/Nc/O nhẫn_cưới/Nn/O của/Cm/O một/Nq/NUM_B cặp/Nq/O vợ_chồng/Nn/O ./PU/O 
+Một/Nq/NUM_B cụ/Nn/O già/Aa/O tám/Nq/MEA_B mươi/Nq/MEA_I tuổi/Nn/MEA_I mang/Vv/O tới/Cm/O một/Nq/NUM_B gói/Nn/O lụa/Nn/O điều/Nc/O ,/PU/O bên/Nn/O trong/Nn/O là/Vc/O nén/Vv/O vàng/Nn/O gia_bảo/Nu/O nặng/Aa/O mười/Nq/MEA_B bảy/Nq/MEA_I lạng/Nu/MEA_I ./PU/O 
+Có/Ve/O gia_đình/Nn/O quyên_góp/Vv/O toàn_bộ/Nq/O tư_trang/Nn/O của/Cm/O những/Nq/O người/Nn/O trong/Cm/O nhà/Nn/O ./PU/O 
+Chỉ/R/O trong/Cm/O một/Nq/O thời_gian/Nn/O ngắn/Aa/O ,/PU/O các/Nq/O tầng_lớp/Nn/O nhân_dân/Nn/O đã/R/O quyên_góp/Vv/O vào/Cm/O Quỹ/Nn/ORG_B Độc_lập/Nn/ORG_I và/Cp/O Tuần_lễ/Nt/O vàng/Nn/O được/Vv/O hai/Nq/MEA_B mươi/Nq/MEA_I triệu/Nq/MEA_I đồng/Nu/MEA_I và/Cp/O ba/Nq/NUM_B trăm/Nq/NUM_I bảy/Nq/NUM_I mươi/Nq/NUM_I ki_lô/Nn/O gam/Nn/O vàng/Nn/O ./PU/O 
+Hồ/Nn/O Chủ_tịch/Nn/O đặc_biệt/Aa/O quan_tâm/Vv/O đến/Cm/O việc/Nn/O xác_định/Vv/O mối/Nc/O quan_hệ/Nn/O giữa/Cm/O những/Nq/O người/Nn/O làm/Vv/O việc/Nn/O trong/Cm/O bộ_máy/Nn/O chính_quyền/Nn/O mới/Aa/O với/Cp/O nhân_dân/Nn/O ./PU/O 
+Tháng/Nt/DTM_B Mười/Nt/DTM_I ,/PU/O trong/Cm/O bức/Nc/O thư/Nn/O gửi/Vv/O cho/Cp/O các/Nq/O Ủy/Nn/O ban/Nn/O nhân_dân/Aa/O ở/Cm/O các/Nq/O tỉnh/Nu/O ,/PU/O huyện/Nu/O và/Cp/O làng/Nu/O ,/PU/O Người/Nn/O viết/Vv/O :/PU/O "/PU/O Các/Nq/O cơ_quan/Nn/O của/Cm/O Chính_phủ/Nn/O từ/Cm/O toàn_quốc/Nn/O cho/Cp/O đến/Cm/O các/Nq/O làng/Nu/O là/Vc/O đầy_tớ/Nn/O của/Cm/O dân/Nn/O "/PU/O ./PU/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O Trần_Hưng_Đạo/Nr/ORG_B khuyên/Vv/O vua/Nn/O chước/Nn/O giữ/Vv/O nước/Nn/O hay/Aa/O hơn/Aa/O cả/M/O là/Vc/O "/PU/O lúc/Nt/O bình_thời/Nt/DTM_B ,/PU/O khoan/Vv/O sức/Nn/O cho/Cp/O dân/Nn/O để/Cm/O làm/Vv/O kế/Nn/O sâu/Aa/O rễ/Nn/O ,/PU/O bén/Vv/O gốc/Nn/O "/PU/O ./PU/O 
+Nguyễn_Trãi/Nr/PER_B chê/Vv/O Hồ_Quý_Ly/Nr/PER_B để/Cm/O mất/Ve/O nước/Nn/O vì/Cs/O chỉ/R/O biết/Vv/O đóng/Vv/O cọc/Nn/O ngăn/Vv/O sông/Nn/O cản/Vv/O giặc/Nn/O ,/PU/O mà/Cs/O không/R/O biết/Vv/O lấy/Vv/O sức/Nn/O dân/Nn/O làm/Vv/O trọng/Aa/O ./PU/O 
+Các/Nq/O đấng/Nc/O anh_hùng/Nn/O dân_tộc/Nn/O lập/Vv/O nên/Vv/O công/Nn/O lớn/Aa/O ,/PU/O đều/R/O rất/R/O coi_trọng/Vv/O sức/Nn/O dân/Nn/O để/Cm/O giữ/Vv/O nước/Nn/O ,/PU/O chống/Vv/O giặc/Nn/O ./PU/O 
+Ngày_nay/Nt/DTM_B ,/PU/O Hồ_Chủ_tịch/Nr/ORG_B kêu_gọi/Vv/O :/PU/O "/PU/O Diệt/Nr/PER_B giặc/Nn/O đói/Aa/O ,/PU/O diệt/Vv/O giặc/Nn/O dốt/Aa/O ,/PU/O diệt/Vv/O giặc/Nn/O ngoại_xâm/Nn/O "/PU/O ./PU/O 
+Người/Nn/O nói/Vv/O :/PU/O Phải/Vv/O "/PU/O dựa/Vv/O vào/Cm/O lực_lượng/Nn/O của/Cm/O dân/Nn/O ,/PU/O tinh_thần/Nn/O của/Cm/O dân/Nn/O "/PU/O ./PU/O 
+Khác/Aa/O với/Cp/O người_xưa/Nn/O ,/PU/O Hồ_Chủ_tịch/Nr/ORG_B chỉ/R/O rõ/Aa/O :/PU/O Làm/Vv/O những/Nq/O việc/Nn/O đó/Pd/O là/Vc/O "/PU/O để/Cm/O mưu/Vv/O hạnh_phúc/Aa/O cho/Cp/O dân/Nn/O "/PU/O ./PU/O 
+Trong/Cm/O thư/Nn/O gửi/Vv/O cho/Cp/O các/Nq/O Ủy/Nn/O ban/Nn/O nhân_dân/Aa/O ,/PU/O Người/Nn/O viết/Vv/O :/PU/O "/PU/O Nước_độc/Nn/O lập/Vv/O mà/Cp/O dân/Nn/O không/R/O được/Vv/O hưởng/Vv/O hạnh_phúc/Aa/O thì/Cp/O độc_lập/Nn/O cũng/R/O không/R/O có/Ve/O nghĩa/Nn/O lí/Nn/O gì/Pp/O "/PU/O ./PU/O 
+"/PU/O Hạnh_phúc/Nn/O cho/Cp/O dân/Nn/O "/PU/O ,/PU/O đó/Pd/O là/Vc/O điều/Nc/O Người/Nn/O đã/R/O nêu/Vv/O lên/R/O trong/Cm/O bản/Nc/O Tuyên_ngôn/Nn/O Độc_lập/Nn/O :/PU/O "/PU/O dân_tộc/Nn/O nào/Pd/O cũng/R/O có/Ve/O quyền/Nn/O sống/Vv/O ,/PU/O quyền/Nn/O sung_sướng/Aa/O và/Cp/O quyền/Nn/O tự_do/Aa/O "/PU/O ./PU/O 
+Hạnh_phúc/Nn/O mà/Cp/O Người/Nn/O muốn/Vv/O đem/Vv/O lại/R/O cho/Cp/O dân/Nn/O là/Vc/O một/Nq/NUM_B niềm/Nc/O hạnh_phúc/Aa/O trọn_vẹn/Aa/O ./PU/O 
+Hạnh_phúc/Nn/O đó/Pd/O không_chỉ/Cp/O ở/Cm/O những/Nq/O thành_quả/Nn/O mà/Cp/O hôm_nay/Nt/DTM_B cách_mạng/Nn/O vừa/R/O đem/Vv/O lại/R/O cho/Cp/O toàn/Nq/O dân/Nn/O ./PU/O 
+Hạnh_phúc/Nn/O đó/Pd/O còn/R/O đang/R/O tiếp_tục/Vv/O đến/Cm/O với/Cp/O nhân_dân/Nn/O lao_động/Nn/O trong/Cm/O cuộc/Nc/O đấu_tranh/Vv/O để/Cm/O tiêu_diệt/Vv/O tận_cùng/Aa/O nguồn_gốc/Nn/O mọi/Nq/O nỗi/Nc/O khổ_đau/Aa/O của/Cm/O con_người/Nn/O ,/PU/O xây_dựng/Vv/O nên/Vv/O một/Nq/NUM_B xã_hội/Nn/O mà/Cp/O mọi/Nq/O hiện_tượng/Nn/O người/Nn/O bóc_lột/Vv/O người/Nn/O đều/R/O hoàn_toàn/Aa/O bị/Vv/O xóa/Nn/O bỏ/Vv/O ./PU/O 
+Trong/Cm/O cuộc/Nc/O đấu_tranh/Vv/O vĩ_đại/Aa/O ấy/Pd/O ,/PU/O Đảng/Nn/ORG_B và/Cp/ORG_I Hồ_Chủ_tịch/Nr/ORG_I đã/R/O chọn/Vv/O cho/Cp/O nhân_dân/Nn/O ta/Pp/O một/Nq/NUM_B con/Nc/O đường/Nn/O ngắn/Aa/O nhất/R/O ./PU/O 
+"/PU/O Hạnh_phúc/Nn/O cho/Cp/O dân/Nn/O "/PU/O ,/PU/O đó/Pd/O là/Vc/O mục_đích/Nn/O của/Cm/O việc/Nn/O giành/Vv/O lấy/Vv/O chính_quyền/Nn/O và/Cp/O giữ/Vv/O vững/Aa/O ,/PU/O bảo_vệ/Vv/O chính_quyền/Nn/O ấy/Pd/O ./PU/O 
+Đó/Pd/O là/Vc/O lí_tưởng/Aa/O của/Cm/O Người/Nn/O ./PU/O 
+Đó/Pd/O cũng/R/O là/Vc/O tấm/Nn/O lòng/Nn/O của/Cm/O Người/Nn/O ./PU/O 
+Trong/Cm/O bức/Nc/O thư/Nn/O gửi/Vv/O cho/Cp/O các/Nq/O Ủy/Nn/O ban/Nn/O nhân/Cp/O đản/Nn/O ,/PU/O Hồ_Chủ_tịch/Nr/ORG_B đã/R/O chỉ/Vv/O ra/R/O một_số/Nq/O khuyết_điểm/Nn/O của/Cm/O những/Nq/O người/Nn/O làm/Vv/O việc/Nn/O tại/Cm/O các/Nq/O cơ_quan/Nn/O chính_quyền/Nn/O như/Cp/O là/Vc/O :/PU/O trái_phép/Aa/O ,/PU/O cậy/Vv/O thế/Pp/O ,/PU/O tư/An/O túng/Aa/O ,/PU/O kiêu_ngạo/Aa/O ,/PU/O .../PU/O 
+Người/Nn/O kết_thúc/Vv/O lá/Nc/O thư/Nn/O :/PU/O "/PU/O Vì/Cs/O hạnh_phúc/Aa/O của/Cm/O dân_tộc/Nn/O ,/PU/O vì/Cs/O lợi_ích/Nn/O của/Cm/O nước_nhà/Nn/O mà/Cs/O tôi/Pp/O phải/Vv/O nói/Vv/O :/PU/O chúng_ta/Pp/O phải/Vv/O ghi/Vv/O sâu/Aa/O những/Nq/O chữ/Nn/O công_bình/Aa/O ,/PU/O chính_trực/Aa/O vào/Cm/O lòng/Nn/O .../PU/O "/PU/O ./PU/O 
+Tháng/Nt/DTM_B Chạp/Nt/DTM_I ,/PU/O Bác/Nn/PER_B viết/Vv/O một/Nq/NUM_B bài/Nc/O Tự_phê/Nr/O bình/Nn/O cho/Vv/O đăng/Vv/O lên/R/O các/Nq/O báo/Nn/O ./PU/O 
+Vì/Cs/O yêu_mến/Vv/O tôi/Pp/O và/Cp/O tin_cậy/Vv/O tôi/Pp/O mà/Cs/O đồng_bào/Nn/O giao/Vv/O vận_mệnh/Nn/O nước_nhà/Nn/O cho/Cp/O tôi/Pp/O gánh_vác/Vv/O ./PU/O 
+Phận_sự/Nu/O tôi/Pp/O như/Cp/O một/Nq/NUM_B người/Nn/O cầm/Vv/O lái/Vv/O phải/Vv/O chèo_chống/Vv/O thế_nào/Pp/O để/Cm/O đưa/Vv/O chiếc/Nc/O thuyền/Nn/O Tổ_quốc/Nn/O vượt/Vv/O khỏi/Vv/O những/Nq/O cơn/Nc/O sóng_gió/Nn/O ,/PU/O mà/Cp/O an_toàn/Aa/O đi/Vv/O đến/Cm/O bờ_bến/Nn/O hạnh_phúc/Aa/O của/Cm/O nhân_dân/Nn/O .../PU/O 
+Tuy/Cp/O ta/Pp/O tranh/Nn/O được/Vv/O quyền/Nn/O độc_lập/Aa/O đã/R/O năm_tháng/Nt/O ,/PU/O song/Cp/O các/Nq/O nước/Nn/O chưa/R/O công_nhận/Vv/O ta/Pp/O ./PU/O 
+Tuy/Cp/O các/Nq/O chiến_sĩ/Nn/O ta/Pp/O đánh/Vv/O rất/R/O oanh_liệt/Aa/O ,/PU/O song/Cp/O kháng_chiến/Nn/O chưa/R/O thắng_lợi/Nn/O ./PU/O 
+Tuy/Cp/O những/Nq/O người/Nn/O trong/Cm/O ban_hành/Vv/O chính/M/O làm_việc/Nn/O tốt/Aa/O và/Cp/O thanh_liêm/Aa/O ,/PU/O song/Cp/O cái/Nc/O tệ/Aa/O tham_ô/Vv/O nhũng_lạm/Nn/O chưa/R/O quét/Vv/O sạch/Aa/O ./PU/O 
+Tuy/Cp/O Chính_phủ/Nn/O ra_sức/Vv/O chỉnh_đốn/Vv/O ,/PU/O song/Cp/O nhiều/Aa/O nơi/Nn/O chính_trị/Nn/O vẫn/R/O chưa/R/O vào/Cm/O nền_nếp/Nn/O ./PU/O 
+Có_thể/Aa/O cho/Vv/O rằng/Cp/O những/Nq/O khuyết_điểm/Nn/O đó/Pd/O vì/Cp/O thời_gian/Nn/O còn/R/O ngắn_ngủi/Aa/O ,/PU/O vì/Cp/O nước/Nn/O ta/Pp/O còn/R/O mới/Aa/O ,/PU/O hoặc/Cp/O vì/Cp/O lẽ/Nn/O này/Pd/O lẽ/Nn/O khác/Aa/O ./PU/O 
+Nhưng/Cp/O không/R/O ,/PU/O tôi/Pp/O phải/Vv/O nói/Vv/O thật/Aa/O :/PU/O Những/Nq/O sự/Nc/O thành_công/Vv/O là/Vc/O nhờ/Vv/O đồng_bào/Nn/O cố_gắng/Vv/O ./PU/O 
+Những/Nq/O khuyết_điểm/Nn/O kể/Vv/O trên/Nn/O là/Vc/O lỗi/Nn/O tại/Cm/O chúng_tôi/Pp/O .../PU/O 
+Người/Nn/O dân/Nn/O lao_động/Nn/O bình_thường/Aa/O đã/R/O nhận_thấy/Vv/O rõ/Aa/O Nhà_nước/Nn/O hôm_nay/Nt/DTM_B đúng/Aa/O là/Vc/O Nhà_nước/Nn/O của/Cm/O mình/Pp/O ./PU/O 
+Đây/Pd/O là/Vc/O một/Nq/NUM_B điều/Nc/O hết_sức/R/O mới_lạ/Aa/O ./PU/O 
+Trong/Cm/O lịch_sử/Nn/O đất_nước/Nn/O ,/PU/O những/Nq/O triều_đình/Nn/O phong_kiến/Nn/O ,/PU/O những/Nq/O bộ_máy/Nn/O đô_hộ/Vv/O bao_giờ/Pp/O cũng/R/O là/Vc/O công_cụ/Nn/O của/Cm/O một_số/Nq/O ít/Nn/O ,/PU/O những/Nq/O kẻ/Nn/O cầm_quyền/Vv/O thuộc/Vv/O giai_cấp/Nn/O bóc_lột/Vv/O ,/PU/O để/Cm/O thực_hiện/Vv/O sự/Nc/O thống_trị/Vv/O với/Cp/O số_đông/An/O là/Vc/O dân/Nn/O ,/PU/O là/Vc/O những/Nq/O người/Nc/O lao_động/Nn/O ./PU/O 
+Nó/Pp/O bao_giờ/Pp/O cũng/R/O chỉ/R/O mang/Vv/O lại/R/O lợi_ích/Nn/O cho/Cp/O số_ít/Nq/O ,/PU/O và/Cp/O đem/Vv/O lại/R/O khổ_nhục/Aa/O cho/Cp/O số_đông/Nq/O ./PU/O 
+Ngày_nay/Nt/DTM_B ,/PU/O Nhà_nước/Nn/O đã/R/O trở_thành/Vv/O của/Cm/O số_đông/Nq/O ,/PU/O của/Cm/O nhân_dân/Nn/O lao_động/Nn/O ./PU/O 
+Nó/Pp/O đang/R/O hằng/R/O ngày/Nt/O ,/PU/O hằng/R/O giờ/Nt/O bảo_vệ/Nn/O quyền_lợi/Nn/O và/Cp/O mang/Vv/O lại/R/O hạnh_phúc/Aa/O cho/Cp/O dân/Nn/O ./PU/O 
+Những/Nq/O gì/Pp/O hiện_nay/Nt/DTM_B nó/Pp/O chưa/R/O làm/Vv/O được/R/O ,/PU/O thì/Cp/O nhất_định/R/O nó/Pp/O sẽ/R/O làm/Vv/O được/R/O trong/Cm/O tương_lai/Nt/DTM_B ./PU/O 
+Đồng_bào/Nn/O ta/Pp/O đã/R/O nhận_thấy/Vv/O ở/Cm/O Bác/Nn/PER_B Hồ/Nr/PER_I ,/PU/O hình_ảnh/Nn/O tượng_trưng/Vv/O cao_đẹp/Aa/O nhất/R/O của/Cm/O dân/Nn/O ,/PU/O của/Cm/O nước/Nn/O ,/PU/O của/Cm/O cách_mạng/Nn/O ,/PU/O của/Cm/O chính_quyền/Nn/O mới/Aa/O ,/PU/O chế_độ/Nn/O mới/Aa/O ./PU/O 

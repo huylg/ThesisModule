@@ -1,0 +1,18 @@
+﻿Một/Nq/NUM_B người/Nn/O chính_trực/Aa/O 
+Tô_Hiến_Thành/Nr/PER_B làm/Vv/O quan/Nn/O triều/Nn/O Lý/Nr/PER_B ,/PU/O nổi_tiếng/Aa/O là/Vc/O người/Nn/O chính_trực/Aa/O ./PU/O 
+Năm/Nt/DTM_B 1175/Nt/DTM_I ,/PU/O vua/Nn/DES_B Lý_Anh_Tông/Nr/PER_B mất/Ve/O ,/PU/O di_chiếu/Vv/O cho/Cp/O Tô_Hiến_Thành/Nr/PER_B phò/Vv/O thái_tử/Nn/O Long_Cán/Nr/LOC_B ,/PU/O con/Nc/O bà/Nn/O thái_hậu/Nn/O họ/Pp/O Đỗ/Vv/O ,/PU/O lên_ngôi/Vv/O ./PU/O 
+Nhưng/Cp/O bà/Nn/TTL_B Chiêu_Linh/Nr/PER_B thái_hậu/Nn/O lại/R/O muốn/Vv/O lập/Vv/O con/Nn/O mình/Pp/O là/Vc/O Long_Xưởng/Nr/PER_B ./PU/O 
+Bà/Nn/O cho/Cp/O người/Nn/O đem/Vv/O vàng_bạc/Nn/O đút_lót/Vv/O vợ/Nn/O Tô_Hiến_Thành/Nr/PER_B để/Cm/O nhờ/Vv/O ông/Nn/O giúp_đỡ/Vv/O ./PU/O 
+Tô_Hiến_Thành/Nr/PER_B nhất_định/R/O không/R/O nghe/Vv/O ,/PU/O cứ/R/O theo/Vv/O di_chiếu/Vv/O lập/Vv/O Long_Cán/Nr/PER_B làm/Vv/O vua/Nn/O ./PU/O 
+Đó/Pd/O là/Vc/O vua/Nn/DES_B Lý_Cao_Tông/Nr/PER_B ./PU/O 
+Phò_tá/Nu/LOC_B Cao_Tông/Nr/LOC_I được/Vv/O 4/Nq/MEA_B năm/Nt/MEA_I ,/PU/O Tô_Hiến_Thành/Nr/PER_B lâm_bệnh/Vv/O nặng/Aa/O ./PU/O 
+Quan/Nn/O tham_tri/Nn/O chính/M/O sự/Nc/O là/Vc/O Vũ_Tán_Đường/Nr/PER_B ngày_đêm/Nt/O hầu_hạ/Vv/O bên/Nn/O giường_bệnh/Nn/O ./PU/O 
+Còn/Cp/O gián_nghị/Nn/O đại_phu/Nn/O Trần_Trung_Tá/Nr/PER_B do/Cs/O bận/Aa/O nhiều/Aa/O công_việc/Nn/O nên/Cs/O không_mấy_khi/R/O tới/Vd/O thăm/Vv/O Tô_Hiến_Thành/Nr/LOC_B được/R/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O Đỗ_thái_hậu/Nn/O và/Cp/O vua/Nn/O tới/Vd/O thăm/Vv/O ông/Nn/O ,/PU/O hỏi/Vv/O :/PU/O 
+Nếu/Cs/O chẳng/R/O may/Aa/O ông/Nn/O mất/Ve/O thì/Cs/O ai/Pp/O là/Vc/O người/Nn/O sẽ/R/O thay/Vv/O ông/Nn/O ?/PU/O 
+Tô_Hiến_Thành/Nr/PER_B không/R/O do_dự/Vv/O ,/PU/O đáp/Vv/O :/PU/O 
+Có/Ve/O gián_nghị/Nn/O đại_phu/Nn/O Trần_Trung_Tá/Nr/PER_B ./PU/O 
+Thái_hậu/Nn/O ngạc_nhiên/Vv/O nói/Vv/O :/PU/O 
+Vũ_Tán_Đường/Nr/PER_B hết_lòng/R/O vì/Cp/O ông/Nn/O ,/PU/O sao/Pp/O không/R/O tiến_cử/Vv/O ?/PU/O 
+Tô_Hiến_Thành/Nr/PER_B tâu/Vv/O :/PU/O 
+Nếu/Cs/O Thái_hậu/Nn/O hỏi/Vv/O người/Nn/O hầu_hạ/Vv/O giỏi/Aa/O thì/Cs/O thần/Nn/O xin/Vv/O cử/Vv/O Vũ_Tán_Đường/Nr/PER_B ;/PU/O hỏi/Vv/O người/Nn/O tài_ba/Aa/O giúp/Vv/O nước/Nn/O ,/PU/O thần/Nn/O xin/Vv/O cử/Vv/O Trần_Trung_Tá/Nr/PER_B ./PU/O 

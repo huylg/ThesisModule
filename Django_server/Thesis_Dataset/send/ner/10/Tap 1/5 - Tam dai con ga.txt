@@ -1,0 +1,20 @@
+﻿Tam_đại/Nr/PER_B con/Nc/O gà/Nn/O 
+Xưa/Nt/O ,/PU/O có/Ve/O anh/Nc/O học_trò/Vv/O học_hành/Vv/O dốt_nát/Aa/O ,/PU/O nhưng/Cp/O trò_đời/Nn/O "/PU/O xấu/Aa/O hay/Cp/O làm/Vv/O tốt/Aa/O ,/PU/O dốt/Aa/O hay/Cp/O nói_chữ/Nn/O "/PU/O ,/PU/O đi/Vv/O đâu/Pp/O cũng/R/O lên/Vv/O mặt/Nn/O văn/Nn/O hay_chữ/Nn/O tốt/Aa/O ./PU/O 
+Có/Ve/O người/Nn/O tưởng/Vv/O anh/Nn/O ta/Pp/O hay/Cp/O chữ/Nn/O thật/Aa/O ,/PU/O mới/R/O đón/Vv/O về/Cm/O dạy/Vv/O trẻ/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O dạy/Vv/O sách/Nn/O Tam_thiên/Nr/O tự/Pp/O ,/PU/O sau/Nn/O chữ/Nn/O "/PU/O tước/Vv/O "/PU/O là/Vc/O chim_sẻ/Nn/O ,/PU/O đến/Cm/O chữ/Nn/O "/PU/O kê/Vv/O "/PU/O là/Vc/O gà/Nn/O ,/PU/O thầy/Nn/O thấy/Vv/O mặt_chữ/Nn/O nhiều/Aa/O nét/Nn/O rắc_rối/Aa/O ,/PU/O không/R/O biết/Vv/O chữ/Nn/O gì/Pp/O ,/PU/O học_trò/Nn/O lại/R/O hỏi/Vv/O gấp/Vv/O ,/PU/O thầy/Nn/O cuống/Nn/O ,/PU/O nói/Vv/O liều/Nn/O :/PU/O "/PU/O Dủ/Nr/PER_B dỉ/Nn/O là/Vc/O con/Nn/O dù_dì/Nn/O "/PU/O ./PU/O 
+Thầy/Nn/O cũng/R/O khôn/Aa/O ,/PU/O sợ/Vv/O nhỡ/Vv/O sai/Aa/O ,/PU/O người/Nn/O nào/Pd/O biết/Vv/O thì/Cp/O xấu_hổ/Vv/O ,/PU/O mới/Cp/O bảo/Vv/O học_trò/Nn/O đọc/Vv/O khẽ/Aa/O ,/PU/O tuy_vậy/Cp/O ,/PU/O trong/Cm/O lòng/Nn/O vẫn/R/O thấp_thỏm/Vv/O ./PU/O 
+Nhân/Cp/O trong/Cm/O nhà/Nn/O có/Ve/O bàn_thờ/Nn/O thổ_công/Nn/O ,/PU/O thầy/Nn/O mới/Aa/O đến/Vd/O khấn/Vv/O thầm/Aa/O xin/Vv/O ba/Nq/NUM_B đài/Nn/O âm_dương/Nn/O để/Cm/O xem/Vv/O chữ/Nn/O ấy/Pd/O có/R/O phải/Aa/O thật/R/O là/Vc/O "/PU/O dù_dì/Nn/O "/PU/O không/R/O ./PU/O 
+Thổ_công/Nn/O cho/Cp/O ba/Nq/NUM_B đài/Nn/O được/Vv/O cả/Pp/O ba/Nq/NUM_B ./PU/O 
+Thấy/Vv/O vậy/Pp/O ,/PU/O thầy/Nn/O lấy_làm/Vv/O đắc_chí/Nn/O lắm/R/O ,/PU/O hôm/Nt/DTM_B sau/Nn/DTM_I bệ_vệ/Aa/O ngồi/Vv/O trên/Cm/O giường/Nn/O ,/PU/O bảo/Vv/O trẻ/Nn/O đọc/Vv/O cho/Cp/O to/Aa/O ./PU/O 
+Trò/Nn/O vâng/Vv/O lời/Nn/O thầy/Nn/O ,/PU/O gân/Nn/O cổ/Aa/O lên/R/O gào/Vv/O :/PU/O 
+-/PU/O Dủ/Nr/PER_B dỉ/Nn/O là/Vc/O con/Nn/O dù_dì/Nn/O .../PU/O 
+Dủ/Nr/PER_B dỉ/Nn/O là/Vc/O con/Nn/O dù_dì/Nn/O .../PU/O 
+Bố/Nn/O chúng/Pp/O đang/R/O cuốc/Nn/O đất/Nn/O ngoài/Nn/O vườn/Nn/O ,/PU/O nghe/Vv/O tiếng/Nn/O học/Vv/O ,/PU/O ngạc_nhiên/Vv/O bỏ/Vv/O cuốc/Nn/O chạy/Vv/O vào/D/O ,/PU/O giở/Vv/O sách/Nn/O ra/D/O xem/Vv/O ,/PU/O hỏi/Vv/O thầy/Nn/O :/PU/O 
+-/PU/O Chết/Vv/O chửa/R/O !/PU/O 
+Chữ/Nn/O "/PU/O kê/Vv/O "/PU/O là/Vc/O gà/Nn/O ,/PU/O sao/Pp/O thầy/Nn/O lại/R/O dạy/Vv/O ra/R/O "/PU/O dủ/Nn/O dỉ/Nn/O "/PU/O là/Vc/O con/Nn/O "/PU/O dù_dì/Aa/O "/PU/O ?/PU/O 
+Bấy_giờ/Pd/O thầy/Nn/O mới/R/O nghĩ/Vv/O thầm/Aa/O :/PU/O "/PU/O Mình/Pp/O đã/R/O dốt/Aa/O ,/PU/O thổ_công/Nn/O nhà/Nn/O nó/Pp/O cũng/R/O dốt/Aa/O nữa/R/O "/PU/O ,/PU/O nhưng/Cp/O nhanh_trí/Aa/O thầy/Nn/O vội/Aa/O nói/Vv/O gỡ/Vv/O :/PU/O 
+-/PU/O Tôi/Pp/O vẫn/R/O biết/Vv/O chữ/Nn/O ấy/Pd/O là/Vc/O chữ/Nn/O "/PU/O kê/Vv/O "/PU/O ,/PU/O mà/M/O "/PU/O kê/Vv/O "/PU/O nghĩa/Nn/O là/Vc/O "/PU/O gà/Nn/O "/PU/O ,/PU/O nhưng/Cp/O tôi/Pp/O dạy/Vv/O thế/Pp/O là/Vc/O dạy/Vv/O cho/Cp/O cháu/Nn/O biết/Vv/O đến/Cm/O tận/Cm/O tam_đại/Nn/O con/Nc/O gà/Nn/O kia/Pd/O ./PU/O 
+Nhà/Nc/O chủ/Nn/O càng/R/O không/R/O hiểu/Vv/O ,/PU/O hỏi/Vv/O :/PU/O 
+-/PU/O Tam_đại/Nr/ORG_B con/Nc/O gà/Nn/O là/Vc/O nghĩa/Nn/O làm_sao/Pp/O ?/PU/O 
+-/PU/O Thế/Pp/O này/Pd/O nhé/M/O !/PU/O 
+Dủ/Nr/PER_B dỉ/Nn/O là/Vc/O con/Nn/O dù_dì/Nn/O ,/PU/O dù_dì/Nn/O là/Vc/O chị/Nn/O con/Nn/O công/Aa/O ,/PU/O con/Nc/O công/Nn/O là/Vc/O ông/Nn/TTL_B con/Nr/PER_B gà/Nn/O !/PU/O 

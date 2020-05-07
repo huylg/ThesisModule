@@ -1,0 +1,12 @@
+﻿Đổi/Vv/O giày/Nn/O 
+Có/Ve/O cậu/Nc/O học_trò/Nn/O nọ/Pd/O vội/Aa/O đến/D/O trường/Nn/O nên/Vv/O xỏ/Vv/O nhầm/Vv/O giày/Nn/O ,/PU/O một/Nq/NUM_B chiếc/Nc/O cao/Aa/O ,/PU/O một/Nq/NUM_B chiếc/Nc/O thấp/Aa/O ./PU/O 
+Bước/Vv/O tập_tễnh/Aa/O trên/Cm/O đường/Nn/O ,/PU/O cậu/Nn/O lẩm_bẩm/Vv/O :/PU/O 
+Quái_lạ/Nu/O ,/PU/O sao_hôm_nay/Nq/O chân/Nn/O mình/Pp/O một/Nq/NUM_B bên/Nn/O dài/Aa/O ,/PU/O một/Nq/NUM_B bên/Nn/O ngắn/Aa/O ?/PU/O 
+Hay_là/Cp/O tại/Cm/O đường/Nn/LOC_B khấp_khểnh/Nr/LOC_I ?/PU/O 
+Vừa/R/O tới/Aa/O sân/Nn/O trường/Nn/O ,/PU/O cậu/Nn/O gặp/Vv/O ngay/R/O thầy_giáo/Nn/O ./PU/O 
+Thấy/Vv/O cậu/Nc/O bé/Nn/O đi/Vv/O chân/Nn/O thấp/Aa/O chân/Nn/O cao/Aa/O ,/PU/O thầy/Nn/O bảo/Vv/O :/PU/O 
+Em/Pp/O đi/Vv/O nhầm/Vv/O giày/Nn/O rồi/R/O ./PU/O 
+Về/Cm/O đổi/Vv/O giày/Nn/O đi/R/O cho/Cp/O dễ_chịu/Aa/O !/PU/O 
+Cậu/Nc/O bé/Nn/O chạy/Vv/O vội/Aa/O về/D/O nhà/Nn/O ./PU/O 
+Cậu/Nn/O lôi/Vv/O từ/Cm/O gầm/Nn/O giường/Nn/O ra/D/O hai/Nq/NUM_B chiếc/Nc/O giày/Nn/O ,/PU/O ngắm/Vv/O đi/R/O ngắm/Vv/O lại/R/O ,/PU/O rồi/Cp/O lắc_đầu/Vv/O nói/Vv/O :/PU/O 
+Đôi/Nq/O này/Pd/O vẫn/R/O chiếc/Nc/O thấp/Aa/O ,/PU/O chiếc/Nc/O cao/Aa/O ./PU/O 

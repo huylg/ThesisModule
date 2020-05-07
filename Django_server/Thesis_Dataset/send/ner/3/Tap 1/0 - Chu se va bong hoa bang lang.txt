@@ -1,0 +1,17 @@
+﻿Chú/Nn/O sẻ/Nn/O và/Cp/O bông/Nc/O hoa/Nn/O bằng_lăng/Nn/O 
+Ở/Cm/O gần/Aa/O tổ/Nn/O của/Cm/O một/Nq/NUM_B chú/Nc/O sẻ/Nn/O non/Aa/O đang/R/O tập/Vv/O bay/Vv/O có/Ve/O một/Nq/NUM_B cây/Nc/O bằng_lăng/Nn/O ./PU/O 
+Mùa/Nn/O hoa/Nn/O này/Pd/O ,/PU/O bằng_lăng/Nn/O nở/Vv/O hoa/Nn/O mà/Cp/O không/R/O vui/Aa/O vì/Cp/O bé/Nn/O Thơ/Nn/O ,/PU/O bạn/Nn/O của/Cm/O cây/Nn/O ,/PU/O phải/Vv/O nằm/Vv/O viện/Nn/O ./PU/O 
+Sẻ/Nr/PER_B non/Aa/O biết/Vv/O bằng_lăng/Nn/O đã/R/O giữ/Vv/O lại/R/O một/Nq/NUM_B bông/Nc/O hoa/Nn/O cuối_cùng/Aa/O để/Cm/O đợi/Vv/O bé/Nn/O Thơ/Nn/O ./PU/O 
+Sáng/Nt/O hôm/Nt/O ấy/Pd/O ,/PU/O bé/Nn/O Thơ/Nn/O về/D/O ,/PU/O bông/Nc/O bằng_lăng/Nn/O cuối_cùng/Aa/O đã/R/O nở/Vv/O ./PU/O 
+Nhưng/Cp/O bông/Nc/O hoa/Nn/O lại/R/O nở/Vv/O cao/Aa/O hơn/Aa/O cửa_sổ/Nn/O nên/Cp/O bé/Nn/O không/R/O nhìn/Vv/O thấy/Vv/O nó/Pp/O ./PU/O 
+Bé/Nn/O cứ/R/O ngỡ/Vv/O là/Cp/O mùa/Nn/O hoa/Nn/O đã/R/O qua/Vv/O ./PU/O 
+Sẻ/Nr/PER_B non/Aa/O rất/R/O yêu/Vv/O bằng_lăng/Nn/O và/Cp/O bé/Nn/O Thơ/Nn/O ./PU/O 
+Nó/Pp/O muốn/Vv/O giúp/Vv/O bông/Nc/O hoa/Nn/O ./PU/O 
+Nó/Pp/O chắp_cánh/Vv/O ,/PU/O bay/Vv/O vù/Aa/O về/Cm/O phía/Nn/O cành/Nn/O bằng_lăng/Nn/O mảnh_mai/Aa/O ./PU/O 
+Nó/Pp/O nhìn/Vv/O kĩ/Aa/O cành/Nn/O hoa/Nn/O rồi/Cp/O đáp/Vv/O xuống/D/O ./PU/O 
+Cành/Nn/O hoa/Nn/O chao/Vv/O qua/D/O ,/PU/O chao/Vv/O lại/R/O ./PU/O 
+Sẻ/Nr/PER_B non/Aa/O cố/Vv/O đứng/Vv/O vững/Aa/O ./PU/O 
+Thế/Pp/O là/Vc/O bông/Nc/O hoa/Nn/O chúc/Vv/O hẳn/Aa/O xuống/D/O ,/PU/O lọt/Vv/O vào/Cm/O khuôn/Nn/O cửa_sổ/Nn/O ./PU/O 
+Lập_tức/R/O ,/PU/O sẻ/Nn/O nghe/Vv/O thấy/Vv/O tiếng/Nn/O reo/Vv/O từ/Cm/O trong/Cm/O gian/Nn/O phòng/Nn/O tràn_ngập/Vv/O ánh/Nc/O nắng/Nn/O :/PU/O 
+Ôi/E/O ,/PU/O đẹp/Aa/O quá/R/O !/PU/O 
+Sao/Pp/O lại/R/O có/Ve/O bông/Nc/O bằng_lăng/Nn/O nở/Vv/O muộn/Aa/O thế/Pp/O kia/Pd/O ?/PU/O 

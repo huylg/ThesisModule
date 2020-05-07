@@ -1,0 +1,32 @@
+﻿Bài_toán/Nn/O dân_số/Nn/O 
+Có/Ve/O người/Nn/O cho/Vv/O rằng/Cp/O :/PU/O Bài_toán/Nn/O dân_số/Nn/O đã/R/O được/Vv/O đặt/Vv/O ra/R/O từ/Cm/O thời/Nt/DTM_B cổ_đại/Nn/DTM_I ./PU/O 
+Lúc/Nt/O đầu/Aa/O tôi/Pp/O không/R/O tin/Vv/O điều/Nc/O này/Pd/O ./PU/O 
+Bởi_vì/Cp/O vấn_đề/Nn/O dân_số/Nn/O và/Cp/O kế_hoạch/Nn/O hóa/Nq/NUM_B gia_đình/Nn/O chỉ/R/O mới/R/O được/Vv/O đặt/Vv/O ra/R/O vài/Nq/O chục/Nq/O năm/Nt/O nay/Nt/O ./PU/O 
+Còn/Cp/O nói/Vv/O từ/Cm/O thời/Nt/O cổ_đại/Nn/O tức_là/Vv/O chuyện/Nn/O của/Cm/O dăm_bảy/Nq/O ngàn/Nq/O năm/Nt/O về/Vv/O trước/Nn/O ./PU/O 
+Độ/Nn/O chênh/Aa/O về/Cm/O thời_gian/Nn/O ấy/Pd/O ,/PU/O ai/Pp/O mà/Cp/O tin/Vv/O được/R/O !/PU/O 
+Thế/Pp/O mà/Cp/O nghe/Vv/O xong/Aa/O câu_chuyện/Nn/O này/Pd/O ,/PU/O qua/Cm/O một/Nq/O thoáng/Nn/O liên_tưởng/Vv/O ,/PU/O tôi/Pp/O bỗng/R/O "/PU/O sáng_mắt/Aa/O ra/R/O "/PU/O .../PU/O 
+Đó/Pd/O là/Vc/O câu_chuyện/Nn/O từ/Cm/O một/Nq/NUM_B bài_toán/Nn/O cổ/Aa/O ,/PU/O kể/Vv/O về/Cm/O việc/Nn/O kén/Nn/O rể/Nn/O của/Cm/O nhà/Nn/O thông_thái/Aa/O ./PU/O 
+Nhà/Nc/O thông_thái/Aa/O nọ/Pd/O có/Ve/O một/Nq/NUM_B cô/Nc/O con_gái/Nn/O rất/R/O đẹp/Aa/O ./PU/O 
+Đến/Cm/O tuổi/Nn/O cập_kê/Nr/O ,/PU/O cô/Nc/O gái/Nn/O cần/Vv/O tuyển/Vv/O một/Nq/NUM_B đấng/Nc/O phu_quân/Nu/O ./PU/O 
+Rất/R/O nhiều/Aa/O chàng/Nc/O trai/Nn/O đến/Vd/O dự_thi/Vv/O ./PU/O 
+Được/Vv/O làm/Vv/O rể/Nn/O nhà/Nn/O thông_thái/Aa/O là/Vc/O điều/Nc/O vô_cùng/R/O hấp_dẫn/Aa/O ,/PU/O nhất_là/Cp/O đối_với/Cp/O con_cái/Nn/O của/Cm/O những/Nq/O nhà/Nn/O giàu_có/Aa/O ./PU/O 
+Nhà/Nc/O thông_thái/Aa/O đưa/Vv/O ra/R/O một/Nq/NUM_B bàn_cờ/Nn/O tướng/Nn/O gồm/Vv/O 64/Nq/NUM_B ô/Nn/O ./PU/O 
+Ông/Nn/O yêu_cầu/Vv/O các/Nq/O chàng/Nc/O trai/Nn/O thực_hiện/Vv/O theo/Vv/O điều_kiện/Nn/O sau/Nn/O :/PU/O đặt/Vv/O 1/Nq/NUM_B hạt/Nc/O thóc/Nn/O vào/Cm/O ô/Nn/O thứ/Nn/O nhất/An/O ;/PU/O ô/Nn/O thứ/Nn/O hai/An/O đặt/Vv/O 2/Nq/NUM_B hạt/Nc/O thóc/Nn/O ;/PU/O và/Cp/O các/Nq/O ô/Nn/O tiếp_theo/Vv/O số/Nn/O thóc/Nn/O cứ/Vv/O thế/Pp/O nhân/Vv/O đôi/Nq/O ./PU/O 
+Ai/Pp/O đủ/Aa/O số/Nn/O thóc/Nn/O theo/Vv/O yêu_cầu/Nn/O của/Cm/O bài_toán/Nn/O thì/Cp/O sẽ/R/O là/Vc/O chồng/Nn/O cô/Nc/O gái/Nn/O ./PU/O 
+Ban_đầu/Nn/O ai/Pp/O cũng/R/O tưởng/Vv/O có/Ve/O gì/M/O mà/Cp/O không/R/O đủ/Aa/O ./PU/O 
+Nhưng/Cp/O rồi/Cp/O kết_cục/Nn/O .../PU/O không/R/O chàng/Nc/O trai/Nn/O nào/Pd/O đủ/Aa/O thóc/Nn/O để/Cm/O lấy/Vv/O được/R/O cô/Nc/O gái/Nn/O ./PU/O 
+Số/Nn/O thóc/Nn/O được/Vv/O tính/Vv/O ra/D/O theo/Vv/O bài_toán/Nn/O cấp_số_nhân/Nn/O ấy/Pd/O ,/PU/O nhiều/Aa/O đến/Cm/O mức/Nn/O có_thể_phủ/Nn/O khắp/Aa/O bề_mặt/Nn/O trái_đất/Nn/O này/Pd/O ./PU/O 
+Một/Nq/NUM_B con_số/Nn/O kinh_khủng/Aa/O biết/Vv/O nhường/Vv/O nào/Pd/O !/PU/O 
+Bây_giờ/Pd/O nếu/Cp/O ta/Pp/O tạm_thời/Aa/O công_nhận/Vv/O theo/Vv/O Kinh_Thánh/Nn/O ,/PU/O khi/Nt/O khai_thiên_lập_địa/Nt/O ,/PU/O trái_đất/Nn/O này/Pd/O mới/R/O chỉ/R/O có/Ve/O hai/Nq/NUM_B người/Nn/O :/PU/O một/Nq/NUM_B chàng/Nn/TTL_B A-dam/Nr/PER_B và/Cp/O một/Nq/NUM_B nàng/Nn/TTL_B E-va/Nr/PER_B ;/PU/O thì/Cp/O đến/Cm/O năm/Nt/DTM_B 1995/Nt/DTM_I dân_số/Nn/O toàn/Nq/O thế_giới/Nn/O là/M/O 5,63/Nq/NUM_B tỉ/Nq/NUM_I người/Nn/O ./PU/O 
+Theo/Vv/O bài_toán/Nn/O cổ/Aa/O kia/Pd/O thì/Cp/O loài_người/Nn/O phát_triển/Vv/O theo/Vv/O cấp_số_nhân/Nn/O ,/PU/O công_bội/Nn/O là/Vc/O 2/Nq/NUM_B ,/PU/O đã/R/O vượt/Vv/O ô/Nn/O thứ/Nn/O 33/An/O ./PU/O 
+Đó/Pd/O là/Vc/O với/Cp/O điều_kiện/Nn/O mỗi/Nq/O gia_đình/Nn/O chỉ/R/O có/Ve/O hai/Nq/NUM_B con/Nn/O ,/PU/O và/Cp/O đã/R/O trừ/Vv/O đi/Vv/O tỉ_lệ/Nn/O tử_vong/Vv/O (/PU/O kể_cả/M/O dịch_bệnh/Nn/O hoặc/Cp/O chiến_tranh/Nn/O không/R/O quá/Vv/O 5/Nq/MEA_B %/Nu/MEA_I )/PU/O ./PU/O 
+Trong/Cm/O thực_tế/Nn/O ,/PU/O một/Nq/NUM_B người/Nc/O phụ_nữ/Nn/O có/Ve/O khả_năng/Nn/O sinh/Vv/O được/R/O rất/R/O nhiều/Aa/O con/Nn/O ./PU/O 
+Theo/Vv/O thống_kê/Nn/O của/Cm/O Hội_nghị/Nn/ORG_B Cai-rô/Nr/ORG_I (/PU/O Ai_Cập/Nr/LOC_B )/PU/O họp/Vv/O ngày/Nt/DTM_B 5/Nt/DTM_I -/PU/O 9/Nq/NUM_B -/PU/O 1994/Nt/DTM_B thì/Cp/O tỉ_lệ/Nn/O sinh/Vv/O con/Nn/O của/Cm/O một/Nq/NUM_B phụ_nữ/Nn/O Ấn_Độ/Nr/LOC_B là/Vc/O 4,5/Nq/NUM_B ;/PU/O Nê-pan/Nr/PER_B :/PU/O 6,3/Nq/NUM_B ;/PU/O Ru-an-đa/Nn/O :/PU/O 8,1/Nq/NUM_B ;/PU/O Tan-da-ni-a/Nr/PER_B :/PU/O 6,7/Nq/NUM_B ;/PU/O Ma-da-gát-xca/Nn/O :/PU/O 6,6/Nq/NUM_B .../PU/O 
+Tính/Vv/O chung/Aa/O toàn/Nq/O châu/Nn/LOC_B Phi/Nr/LOC_I là/Vc/O 5,8/Nq/NUM_B ./PU/O 
+Phụ_nữ/Nn/O Việt_Nam/Nr/LOC_B là/Vc/O 3,7/Nq/NUM_B ./PU/O 
+Như/Cp/O vậy/Pp/O phấn_đấu/Vv/O để/Cm/O mỗi/Nq/O gia_đình/Nn/O có/Ve/O một/Nq/NUM_B đến/Cm/NUM_I hai/Nq/NUM_I con/Nc/O là/Vc/O một/Nq/NUM_B chỉ_tiêu/Nn/O rất/R/O khó_khăn/Aa/O ./PU/O 
+Với/Cp/O tỉ_lệ/Nn/O hàng/R/O năm/Nt/O tăng/Vv/O 1,73/Nq/MEA_B %/Nu/MEA_I như/Cp/O mười/Nq/MEA_B lăm/Nq/MEA_I năm/Nt/MEA_I trước/Nn/O và/Cp/O 1,57/Nq/MEA_B %/Nu/MEA_I năm/Nt/DTM_B 1990/Nt/DTM_I thì/Cp/O dân_số/Nn/O hành_tinh/Nn/O của/Cm/O chúng_ta/Pp/O năm/Nt/DTM_B 2015/Nt/DTM_I sẽ/R/O là/Vc/O hơn/Aa/O 7/Nq/NUM_B tỉ/Nq/NUM_I người/Nn/O ./PU/O 
+Theo/Vv/O bài_toán/Nn/O cổ/Nn/O trên/Nn/O ,/PU/O số/Nn/O dân/Nn/O ấy/Pd/O đã/R/O mon_men/Vv/O sang/Cm/O ô/Nn/O thứ/Nn/O 34/An/O của/Cm/O bàn_cờ/Nn/O ./PU/O 
+Đừng/R/O để/Cm/O cho/Cp/O mỗi/Nq/O con_người/Nn/O trên/Cm/O trái_đất/Nn/O này/Pd/O chỉ/R/O còn/Ve/O diện_tích/Nn/O 1/Nq/NUM_B hạt/Nc/O thóc/Nn/O ./PU/O 
+Muốn/Vv/O thế/Pp/O phải/Vv/O góp_phần/Vv/O làm/Vv/O cho/Cp/O chặng/Nn/O đường/Nn/O đi/Vv/O đến/Cm/O ô/Nn/O thứ/Nn/O 64/An/O càng/R/O dài/Aa/O lâu/Aa/O hơn/Aa/O ,/PU/O càng/Cs/O tốt/Aa/O ./PU/O 
+Đó/Pd/O là/Vc/O con/Nc/O đường/Nn/O "/PU/O tồn_tại/Vv/O hay/Cp/O không/R/O tồn_tại/Vv/O "/PU/O của/Cm/O chính/M/O loài_người/Nn/O ./PU/O 

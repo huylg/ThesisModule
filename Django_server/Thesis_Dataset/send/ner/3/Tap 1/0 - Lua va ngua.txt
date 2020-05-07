@@ -1,0 +1,16 @@
+﻿Lừa/Nr/PER_B và/Cp/O ngựa/Nn/O 
+Người/Nn/O nọ/Pd/O có/Ve/O một/Nq/NUM_B con/Nn/O lừa/Vv/O và/Cp/O một/Nq/NUM_B con/Nc/O ngựa/Nn/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O có/Ve/O việc/Nn/O đi/Vv/O xa/Aa/O ,/PU/O ông/Nn/O ta/Pp/O cưỡi/Vv/O ngựa/Nn/O ,/PU/O còn/Cp/O bao_nhiêu/Pp/O đồ_đạc/Nn/O thì/Cp/O chất/Nn/O lên/Vv/O lưng/Nn/O lừa/Vv/O ./PU/O 
+Dọc/Aa/O đường/Nn/O ,/PU/O lừa/Vv/O mang/Vv/O nặng/Aa/O ,/PU/O mệt/Aa/O quá/R/O ,/PU/O liền/R/O khẩn_khoản/Aa/O xin/Vv/O với/Cp/O ngựa/Nn/O :/PU/O 
+Chị/Nn/O ngựa/Pp/O ơi/E/O !/PU/O 
+Chúng_ta/Pp/O là/Vc/O bạn_đường/Nn/O ./PU/O 
+Chị/Nn/O mang/Vv/O đỡ/Vv/O tôi/Pp/O với/Cp/O ,/PU/O dù/Cp/O chỉ/R/O chút_ít/Nq/O thôi/M/O cũng/R/O được/Aa/O ./PU/O 
+Tôi/Pp/O kiệt/Vv/O sức/Nn/O rồi/R/O ./PU/O 
+Ngựa/Nn/O đáp/Vv/O :/PU/O 
+Thôi/E/O ,/PU/O việc/Nn/O ai/Pp/O người/Nn/O nấy/Pp/O lo/Vv/O ./PU/O 
+Tôi/Pp/O không/R/O giúp/Vv/O chị/Nn/O được/Vv/O đâu/Pp/O ./PU/O 
+Lừa/Nr/PER_B gắng/Vv/O quá/R/O ,/PU/O kiệt_lực/Nn/O ,/PU/O ngã_gục/Vv/O xuống/D/O và/Cp/O chết/Vv/O bên/Nn/O vệ/Nc/O đường/Nn/O ./PU/O 
+Người/Nn/O chủ/Nn/O thấy/Vv/O vậy/Pp/O bèn/R/O chất/Nn/O tất_cả/Nq/O đồ_đạc/Nn/O từ/Cm/O lưng/Nn/O lừa/Vv/O sang/Cm/O lưng/Nn/O ngựa/Nn/O ./PU/O 
+Ngựa/Nn/O bấy_giờ/Pd/O mới/R/O rên/Vv/O lên/R/O :/PU/O 
+Ôi/E/O ,/PU/O tôi/Pp/O mới/R/O dại_dột/Aa/O làm_sao/E/O !/PU/O 
+Tôi/Pp/O đã/R/O không/R/O muốn/Vv/O giúp/Vv/O lừa/Vv/O dù/Cp/O chỉ/R/O chút_ít/Nq/O ,/PU/O nên/Cp/O bây_giờ/Pd/O phải/Vv/O mang/Vv/O nặng/Aa/O gấp/Vv/O đôi/Nq/O ./PU/O 

@@ -1,0 +1,15 @@
+﻿Chiếu/Vv/O dời/Vv/O đô/Nn/O 
+Xưa/Nt/O nhà_Thương/Nn/O đến/Vd/O vua/Nn/DES_B Bàn_Canh/Nr/PER_B năm/Nq/NUM_B lần/Nn/O dời/Vv/O đô/Nn/O ;/PU/O nhà/Nn/O Chu/Nr/PER_B đến/Vd/O vua/Nn/DES_B Thành_Vương/Nr/PER_B cũng/R/O ba/Nq/NUM_B lần/Nn/O dời/Vv/O đô/Nn/O ./PU/O 
+Phải/Vv/O đâu/Pp/O các/Nq/O vua/Nn/O thời/Nt/DTM_B Tam_đại/Nr/DTM_I theo/Vv/O ý/Nn/O riêng/Aa/O mình/Pp/O mà/Cp/O tự_tiện/Aa/O chuyển_dời/Vv/O ?/PU/O 
+Chỉ/R/O vì/Cp/O muốn/Vv/O đóng_đô/Vv/O ở/Cm/O nơi/Nn/O trung_tâm/Nn/O ,/PU/O mưu_toan/Vv/O nghiệp/Nn/O lớn/Aa/O ,/PU/O tính/Vv/O kế/Nn/O muôn_đời/Nn/O cho/Cp/O con_cháu/Nn/O ;/PU/O trên/Nn/O vâng/Vv/O mệnh/Nn/O trời/Nn/O ,/PU/O dưới/Cm/O theo/Vv/O ý/Nn/O dân/Nn/O ,/PU/O nếu/Cs/O thấy/Vv/O thuận_tiện/Aa/O thì/Cs/O thay_đổi/Vv/O ./PU/O 
+Cho_nên/Cp/O vận/Vv/O nước/Nn/O lâu_dài/Aa/O ,/PU/O phong_tục/Nn/O phồn_thịnh/Aa/O ./PU/O 
+Thế/Pp/O mà/Cp/O hai/Nq/NUM_B nhà/Nc/O Đinh/Nn/O ,/PU/O Lê/Nr/ORG_B lại/R/O theo/Vv/O ý/Nn/O riêng/Aa/O mình/Pp/O ,/PU/O khinh_thường/Vv/O mệnh/Nn/O trời/Nn/O ,/PU/O không/R/O noi/Vv/O theo/Vv/O dấu/Nn/O cũ/Aa/O của/Cm/O Thương/Vv/O ,/PU/O Chu/Nr/PER_B ,/PU/O cứ/R/O đóng/Vv/O yên/Aa/O đô_thành/Nn/O ở/Cm/O nơi/Nn/O đây/Pd/O ,/PU/O khiến/Vv/O cho/Cp/O triều_đại/Nn/O không/R/O được/Vv/O lâu_bền/Aa/O ,/PU/O số/Nn/O vận/Vv/O ngắn_ngủi/Aa/O ,/PU/O trăm_họ/Nn/O phải/Vv/O hao/Vv/O tốn/Vv/O ,/PU/O muôn/Nq/O vật/Nn/O không/R/O được/Vv/O thích_nghi/Vv/O ./PU/O 
+Trẫm/Pp/O rất/R/O đau_xót/Aa/O về/Cm/O việc/Nn/O đó/Pd/O ,/PU/O không_thể/R/O không/R/O dời/Vv/O đô/Nn/O ./PU/O 
+Huống_gì/Nq/O thành/Nu/LOC_B Đại_La/Nr/LOC_I ,/PU/O kinh_đô/Nn/O cũ/Aa/O của/Cm/O Cao_Vương/Nr/PER_B :/PU/O Ở/Cm/O vào/Cm/O nơi/Nn/O trung_tâm/Nn/O trời_đất/Nn/O ;/PU/O được/Vv/O cái/Nc/O thế/Nn/O rồng/Nn/O cuộn/Nn/O hổ/Nn/O ngồi/Vv/O ./PU/O 
+Đã/R/O đúng/Aa/O ngôi/Nc/O nam/Nn/O bắc/Nn/O đông/Aa/O tây/Nn/O ;/PU/O lại/R/O tiện/Aa/O hướng/Nn/O nhìn/Vv/O sông/Nn/O dựa/Vv/O núi/Nn/O ./PU/O 
+Địa_thế/Nn/O rộng/Aa/O mà/Cp/O bằng/Cm/O ;/PU/O đất_đai/Nn/O cao/Aa/O mà/Cp/O thoáng/Aa/O ./PU/O 
+Dân_cư/Nn/O khỏi/Vv/O chịu/Vv/O cảnh/Nn/O khốn_khổ/Aa/O ngập_lụt/Vv/O ;/PU/O muôn/Nq/O vật/Nn/O cũng/R/O rất_mực/R/O phong_phú/Aa/O tốt_tươi/Aa/O ./PU/O 
+Xem/Vv/O khắp/Aa/O đất/Nn/O Việt/Nr/LOC_B ta/Pp/O ,/PU/O chỉ/R/O nơi/Nn/O này/Pd/O là/Vc/O thắng_địa/Nt/O ./PU/O 
+Thật/R/O là/Vc/O chốn/Nn/O tụ_hội/Vv/O trọng_yếu/Aa/O của/Cm/O bốn_phương/Nn/O đất_nước/Nn/O ;/PU/O cũng/R/O là/Vc/O nơi/Nn/O kinh_đô/Nn/O bậc/Nn/O nhất/An/O của/Cm/O đế_vương/Nn/O muôn_đời/Nn/O ./PU/O 
+Trẫm/Pp/O muốn/Vv/O dựa/Vv/O vào/Cm/O sự/Nc/O thuận_lợi/Aa/O của/Cm/O đất/Nn/O ấy/Pd/O để/Cm/O định/Vv/O chỗ/Nn/O ở/Vv/O ./PU/O 
+Các/Nq/O khanh/Pp/O nghĩ/Vv/O thế_nào/Pp/O ?/PU/O 

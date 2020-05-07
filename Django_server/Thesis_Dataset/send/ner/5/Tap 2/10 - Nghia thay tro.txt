@@ -1,0 +1,21 @@
+﻿Nghĩa/Nr/PER_B thầy_trò/Nn/O 
+Từ/Cm/O sáng/Nt/O sớm/Nt/O ,/PU/O các/Nq/O môn_sinh/Nn/O đã/R/O tề_tựu/Vv/O trước/Nn/O sân/Nn/LOC_B nhà/Nn/LOC_I cụ/Nn/LOC_I giáo/Nn/LOC_I Chu/Nr/LOC_I để/Cm/O mừng/Vv/O thọ/Nn/O thầy/Nn/O ./PU/O 
+Cụ/Nn/O giáo/Nn/O đội/Nn/O khăn/Nn/O ngay_ngắn/Aa/O ,/PU/O mặc/Vv/O áo_dài/Nn/O thâm/Aa/O ngồi/Vv/O trên/Nn/O sập/Vv/O ./PU/O 
+Mấy/Nq/O học_trò/Nn/O cũ/Aa/O từ/Cm/O xa/Aa/O về/Cm/O dâng/Vv/O biếu/Vv/O thầy/Nn/O những/Nq/O cuốn/Nc/O sách/Nn/O quý/Aa/O ./PU/O 
+Cụ/Nn/O giáo/Nn/O hỏi_thăm/Vv/O công_việc/Nn/O của/Cm/O từng/Pp/O người/Nn/O ,/PU/O bảo_ban/Vv/O các/Nq/O học_trò/Nn/O nhỏ/Aa/O ,/PU/O rồi/Cp/O nói/Vv/O :/PU/O 
+Thầy/Nn/O cảm_ơn/Vv/O các/Nq/O anh/Pp/O ./PU/O 
+Bây_giờ/Pd/O ,/PU/O nhân/Cp/O có/Ve/O đông_đủ/Aa/O môn/Nn/O sinh/Vv/O ,/PU/O thầy/Nn/O muốn/Vv/O mời/Vv/O tất_cả/Nq/O các/Nq/O anh/Pp/O theo/Vv/O thầy/Nn/O tới/Vd/O thăm/Vv/O một/Nq/NUM_B người/Nn/O mà/Cp/O thầy/Nn/O mang/Vv/O ơn/Nn/O rất/R/O nặng/Aa/O ./PU/O 
+Các/Nq/O môn_sinh/Nn/O đồng_thanh/R/O dạ/E/O ran/R/O ./PU/O 
+Thế/Pp/O là/Vc/O cụ/Nn/O giáo/Nn/O Chu/Nr/PER_B đi/Vv/O trước/Nn/O ,/PU/O học_trò/Nn/O theo/Vv/O sau/Nn/O ./PU/O 
+Các/Nq/O anh/Pp/O có/Ve/O tuổi/Nn/O đi/Vv/O ngay/R/O sau/Nn/O thầy/Nn/O ,/PU/O người/Nn/O ít/Aa/O tuổi/Nn/O hơn/Aa/O nhường_bước/Vv/O ,/PU/O cuối_cùng/Aa/O là/Vc/O mấy/Nq/O chú/Nc/O tóc/Nn/O để/Cm/O trái_đào/Nn/O ./PU/O 
+Cụ/Nn/ORG_B giáo/Nn/ORG_I Chu/Nr/ORG_I dẫn/Vv/O học_trò/Nn/O đi/Vv/O về/D/O cuối/Nn/O làng/Nu/O ,/PU/O sang/Vd/O tận/Cm/O thôn/Nu/LOC_B Đoài/Nr/LOC_I ,/PU/O đến/Cm/O một/Nq/NUM_B ngôi/Nc/O nhà/Nn/O tranh/Nn/O đơn_sơ/Aa/O mà/Cp/O sáng_sủa/Aa/O ,/PU/O ấm_cúng/Aa/O ./PU/O 
+Ở/Cm/O hiên/Nn/O trước/Nn/O ,/PU/O một/Nq/NUM_B cụ/Nn/O già/Aa/O trên/Cm/O tám/Nq/MEA_B mươi/Nq/MEA_I tuổi/Nn/MEA_I râu/Nn/O tóc/Nn/O bạc_phơ/Aa/O đang/R/O ngồi/Vv/O sưởi/Vv/O nắng/Nn/O ./PU/O 
+Cụ/Nn/O giáo/Nn/O Chu/Nr/PER_B bước/Vv/O vào/Vd/O sân/Nn/O ,/PU/O chắp/Vv/O tay/Nn/O cung_kính/Aa/O vái/Vv/O và/Cp/O nói/Vv/O to/Aa/O :/PU/O 
+Lạy/Vv/O thầy/Nn/O !/PU/O 
+Hôm_nay/Nt/DTM_B con/Pp/O đem/Vv/O tất_cả/Nq/O môn/Nn/O sinh/Vv/O đến/Cm/O tạ/Nn/O ơn/Nn/O thầy/Nn/O ./PU/O 
+Cụ/Nn/O già/Aa/O tóc/Nn/O bạc/Nn/O ngước/Vv/O lên/R/O ,/PU/O nghiêng/Vv/O đầu/Nn/O nghe/Vv/O ./PU/O 
+Cụ/Nn/O đã/R/O nặng_tai/Aa/O ./PU/O 
+Thầy_giáo/Nn/DES_B Chu/Nr/PER_B lại/R/O nói/Vv/O to/Aa/O câu/Nn/O nói/Vv/O vừa_rồi/Nt/O một/Nq/O lần/Nn/O nữa/R/O ./PU/O 
+Thì_ra/Cp/O đây/Pd/O là/Vc/O cụ/Nn/O đồ/Nn/O xưa/Aa/O kia/Pd/O đã/R/O dạy/Vv/O vỡ_lòng/Vv/O cho/Cp/O thầy/Nn/O ./PU/O 
+Tiếp/Vv/O sau/Nn/O cụ/Nn/O giáo/Nn/O Chu/Nr/PER_B ,/PU/O các/Nq/O môn_sinh/Nn/O của/Cm/O cụ/Nn/O lần_lượt/R/O theo/Vv/O lứa/Nn/O tuổi/Nn/O vái/Vv/O tạ/Nn/O cụ/Nn/O đồ/Nn/O già/Aa/O ./PU/O 
+Ngày/Nt/O mừng/Vv/O thọ/Nn/O thầy/Nn/DES_B Chu/Nr/PER_B năm/Nt/O ấy/Pd/O ,/PU/O họ/Pp/O được/Vv/O thêm/Vv/O một/Nq/NUM_B bài_học/Nn/O thấm_thía/Vv/O về/Cm/O nghĩa/Nn/O thầy_trò/Nn/O ./PU/O 

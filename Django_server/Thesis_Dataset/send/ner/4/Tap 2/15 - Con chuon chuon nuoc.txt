@@ -1,0 +1,16 @@
+﻿Con/Nc/O chuồn_chuồn/Nn/O nước/Nn/O 
+Ôi_chao/E/O !/PU/O 
+Chú/Nn/O chuồn_chuồn/Nn/O nước/Nn/O mới/Aa/O đẹp/Aa/O làm_sao/E/O !/PU/O 
+Màu/Nn/O vàng/Nn/O trên/Cm/O lưng/Nn/O chú/Nn/O lấp_lánh/Aa/O ./PU/O 
+Bốn/Nq/NUM_B cái/Nc/O cánh/Nn/O mỏng/Aa/O như/Cp/O giấy_bóng/Nn/O ./PU/O 
+Cái/Nc/O đầu/Nn/O tròn/Aa/O và/Cp/O hai/Nq/NUM_B con/Nc/O mắt/Nn/O long_lanh/Aa/O như/Cp/O thủy/Nq/O tinh/Nn/O ./PU/O 
+Thân/Nn/O chú/Nn/O nhỏ/Aa/O và/Cp/O thon/Aa/O vàng/Aa/O như/Cp/O màu/Nn/O vàng/Aa/O của/Cm/O nắng/Nn/O mùa/Nn/DTM_B thu/Nt/DTM_I ./PU/O 
+Chú/Nn/O đậu/Vv/O trên/Cm/O một/Nq/NUM_B cành/Nn/O lộc_vừng/Nn/O ngả/Vv/O dài/Aa/O trên/Cm/O mặt/Nn/O hồ/Nn/O ./PU/O 
+Bốn/Nq/NUM_B cánh/Nn/O khẽ/Aa/O rung/Vv/O rung/Vv/O như/Cp/O đang/R/O còn/R/O phân_vân/Vv/O ./PU/O 
+Rồi/Cp/O đột_nhiên/R/O ,/PU/O chú/Nc/O chuồn_chuồn/Nn/O nước/Nn/O tung/Vv/O cánh/Nn/O bay/Vv/O vọt/Vv/O lên/R/O ./PU/O 
+Cái/Nc/O bóng/Nn/O chú/Nn/O nhỏ_xíu/Aa/O lướt/Vv/O nhanh/Aa/O trên/Cm/O mặt/Nn/O hồ/Nn/O ./PU/O 
+Mặt/Nn/O hồ/Nn/O trải/Vv/O rộng/Aa/O mênh_mông/Aa/O và/Cp/O lặng/Aa/O sóng/Nn/O ./PU/O 
+Chú/Nn/O bay/Vv/O lên/D/O cao/Aa/O hơn/Aa/O và/Cp/O xa/Aa/O hơn/Aa/O ./PU/O 
+Dưới/Cm/O tầm/Nn/O cánh/Nn/O chú/Nn/O bây_giờ/Pd/O là/Vc/O lũy/Nq/O tre/Nn/O xanh_rì/Aa/O rào/Nn/O trong/Cm/O gió/Nn/O ,/PU/O là/Vc/O bờ/Nn/O ao/Nn/O với/Cp/O những/Nq/O khóm/Nn/O khoai_nước/Nn/O rung_rinh/Vv/O ./PU/O 
+Rồi/Cp/O những/Nq/O cảnh/Nn/O tuyệt/R/O đẹp/Aa/O của/Cm/O đất_nước/Nn/O hiện/Vv/O ra/R/O :/PU/O cánh_đồng/Nn/O với/Cp/O những/Nq/O đàn/Nn/O trâu/Nn/O thung_thăng/Aa/O gặm/Vv/O cỏ/Nn/O ;/PU/O dòng/Nn/O sông/Nn/O với/Cp/O những/Nq/O đoàn/Nn/O thuyền/Nn/O ngược_xuôi/Vv/O ./PU/O 
+Còn/Cp/O trên/Cm/O tầng/Nn/O cao/Aa/O là/Vc/O đàn/Nn/O cò/Nn/O đang/R/O bay/Vv/O ,/PU/O là/Vc/O trời/Nn/O xanh/Aa/O trong/Nn/O và/Cp/O cao_vút/Aa/O ./PU/O 

@@ -1,0 +1,41 @@
+﻿Bánh_chưng/Nn/O bánh_giầy/Nn/O 
+Hùng_Vương/Nr/PER_B lúc/Nt/O về/Vd/O già/Aa/O ,/PU/O muốn/Vv/O truyền/Vv/O ngôi/Nn/O ,/PU/O nhưng/Cp/O nhà_vua/Nn/O có/Ve/O những/Nq/O hai/Nq/NUM_B mươi/Nq/NUM_I người/Nc/O con_trai/Nn/O ,/PU/O không/R/O biết/Vv/O chọn/Vv/O ai/Pp/O cho/Cp/O xứng_đáng/Aa/O ./PU/O 
+Giặc/Nn/O ngoài/Nn/O đã/R/O dẹp/Vv/O yên/Aa/O ,/PU/O nhưng/Cp/O dân/Nn/O có/Ve/O ấm_no/Aa/O ,/PU/O ngai_vàng/Nn/O mới/Aa/O vững/Aa/O ./PU/O 
+Nhà_vua/Nn/O bèn/R/O gọi/Vv/O các/Nq/O con/Nn/O lại/R/O và/Cp/O nói/Vv/O :/PU/O 
+-/PU/O Tổ_tiên/Nn/O ta/Pp/O từ/Cm/O khi/Nt/O dựng/Vv/O nước/Nn/O ,/PU/O đã/R/O truyền/Vv/O được/R/O sáu/Nq/NUM_B đời/Nn/O ./PU/O 
+Giặc_Ân/Nr/PER_B nhiều/Aa/O lần/Nn/O xâm_lấn/Vv/O bờ_cõi/Nn/O ,/PU/O nhờ/Cm/O phúc_ấm/Nu/O Tiên_vương/Nn/O ta/Pp/O đều/R/O đánh_đuổi/Vv/O được/R/O ,/PU/O thiên_hạ/Nn/O được/Vv/O hưởng/Vv/O thái_bình/Aa/O ./PU/O 
+Nhưng/Cp/O ta/Pp/O già/Aa/O rồi/R/O ,/PU/O không/R/O sống/Vv/O mãi/R/O ở/Cm/O đời/Nn/O ,/PU/O người/Nn/O nối_ngôi/Vv/O ta/Pp/O phải/Vv/O nối/Vv/O được/R/O chí/Nn/O ta/Pp/O ,/PU/O không/R/O nhất_thiết/R/O phải/Aa/O là/Vc/O con/Nc/O trưởng/Nn/O ./PU/O 
+Năm/Nt/DTM_B nay/Nt/DTM_I ,/PU/O nhân/Cp/O lễ/Nn/O Tiên_vương/Nn/O ,/PU/O ai/Pp/O làm/Vv/O vừa_ý/Aa/O ta/Pp/O ,/PU/O ta/Pp/O sẽ/R/O truyền/Vv/O ngôi/Nn/O cho/Cp/O ,/PU/O có/Ve/O Tiên/Nn/O vương/Nn/O chứng_giám/Vv/O ./PU/O 
+Các/Nq/O lang/Nn/O ai/Pp/O cũng/R/O muốn/Vv/O ngôi_báu/Nn/O về/Cm/O mình/Pp/O ,/PU/O nên/Vv/O cố/Vv/O làm/Vv/O vừa_ý/Aa/O vua_cha/Nn/O ./PU/O 
+Nhưng/Cp/O ý/Nn/O vua_cha/Nn/O như/Cp/O thế_nào/Pp/O ,/PU/O không/R/O ai/Pp/O đoán/Vv/O được/R/O ./PU/O 
+Họ/Pp/O chỉ/R/O biết/Vv/O đua/Vv/O nhau/Nn/O làm/Vv/O cỗ/Nn/O thật/R/O hậu/Aa/O ,/PU/O thật/R/O ngon/Aa/O đem/Vv/O về/Cm/O lễ/Nn/O Tiên_vương/Nn/O ./PU/O 
+Người/Nn/O buồn/Aa/O nhất/R/O là/Vc/O Lang_Liêu/Nr/PER_B ./PU/O 
+Chàng/Nc/O là/Vc/O con/Nc/O thứ/Nn/O mười/An/O tám/Nq/NUM_B ;/PU/O mẹ/Nn/O chàng/Nn/O trước_kia/Nt/DTM_B bị/Vv/O vua_cha/Nn/O ghẻ_lạnh/Vv/O ,/PU/O ốm/Vv/O rồi/Cp/O chết/Vv/O ./PU/O 
+So/Vv/O với/Cp/O anh_em/Nn/O ,/PU/O chàng/Nn/O thiệt_thòi/Aa/O nhất/R/O ./PU/O 
+Những/Nq/O anh_em/Nn/O của/Cm/O chàng/Nn/O sai/Aa/O người/Nn/O đi/Vv/O tìm/Vv/O của/Cm/O quý/Nt/O trên/Cm/O rừng/Nn/O ,/PU/O dưới/Cm/O biển/Nn/O ./PU/O 
+Còn/Cp/O chàng/Nn/O ,/PU/O từ/Cm/O khi/Nt/O lớn/Vv/O lên/R/O ,/PU/O ra/Vd/O ở_riêng/Vv/O chỉ/R/O chăm_lo/Vv/O việc/Nn/O đồng_áng/Nn/O ,/PU/O trồng/Vv/O lúa/Nn/O ,/PU/O trồng/Vv/O khoai/Nn/O ;/PU/O bây_giờ/Pd/O nhìn/Vv/O quanh/Nn/O trong/Cm/O nhà/Nn/O cũng/R/O chỉ/R/O có/Ve/O khoai/Nn/O ,/PU/O lúa/Nn/O là/Vc/O nhiều/Aa/O ./PU/O 
+Nhưng/Cp/O khoai/Nn/O ,/PU/O lúa/Nn/O tầm_thường/Aa/O quá/R/O !/PU/O 
+Một/Nq/MEA_B đêm/Nt/MEA_I ,/PU/O chàng/Nn/O nằm_mộng/Nn/O thấy/Vv/O thần/Nn/O đến/Vd/O bảo/Vv/O :/PU/O 
+-/PU/O Trong/Cm/O trời_đất/Nn/O ,/PU/O không/R/O gì/Pp/O quý/Aa/O bằng/Cm/O hạt/Nc/O gạo/Nn/O ./PU/O 
+Chỉ/R/O có/Ve/O gạo/Nn/O mới/Cp/O nuôi_sống/Vv/O con_người/Nn/O và/Cp/O ăn/Vv/O không/R/O bao_giờ/Pp/O chán/Vv/O ./PU/O 
+Các/Nq/O thứ/Nn/O khác/Aa/O tuy/Cs/O ngon/Aa/O ,/PU/O nhưng/Cs/O hiếm/Aa/O ,/PU/O mà/Cs/O người/Nn/O không/R/O làm/Vv/O ra/R/O được/R/O ./PU/O 
+Còn/Cp/O lúa/Nn/O gạo/Nn/O thì/Cp/O mình/Pp/O trồng/Vv/O lấy/Vv/O ,/PU/O trồng/Vv/O nhiều/Aa/O được/Nn/O nhiều/Aa/O ./PU/O 
+Hãy/R/O lấy/Vv/O gạo/Nn/O làm/Vv/O bánh/Nn/O mà/Cp/O lễ/Nn/O Tiên_vương/Nn/O ./PU/O 
+Tỉnh/Nu/O dậy/Vv/O ,/PU/O Lang_Liêu/Nr/PER_B mừng_thầm/Vv/O ./PU/O 
+Càng/Cs/O ngẫm_nghĩ/Vv/O ,/PU/O chàng/Nn/O càng/Cs/O thấy/Vv/O lời/Nn/O thần/Aa/O nói/Vv/O đúng/Aa/O ./PU/O 
+Chàng/Nc/O bèn/R/O chọn/Vv/O thứ/Nn/O gạo_nếp/Nn/O thơm_lừng/Aa/O ,/PU/O trắng_tinh/Aa/O ,/PU/O hạt/Nc/O nào/Pd/O hạt/Nc/O nấy/Pp/O tròn/Aa/O mẩy/Aa/O ,/PU/O đem/Vv/O vo/Vv/O thật/R/O sạch/Aa/O ,/PU/O lấy/Vv/O đậu_xanh/Nn/O ,/PU/O thịt/Nn/O lợn/Nn/O làm/Vv/O nhân/Vv/O ,/PU/O dùng/Vv/O lá/Nn/O dong/Nn/O trong/Cm/O vườn/Nn/O gói/Vv/O thành/Vv/O hình/Nn/O vuông/Aa/O ,/PU/O nấu/Vv/O một/Nq/MEA_B ngày/Nt/MEA_I một/Nq/MEA_I đêm/Nt/MEA_I thật/R/O nhừ/Aa/O ./PU/O 
+Để/Cm/O đổi/Vv/O vị/Nc/O ,/PU/O đổi/Vv/O kiểu/Nn/O ,/PU/O cũng/R/O thứ/Nn/O gạo_nếp/Nn/O ấy/Pd/O ,/PU/O chàng/Nc/O đồ/Nn/O lên/Vv/O ,/PU/O giã/Vv/O nhuyễn/Aa/O ,/PU/O nặn/Vv/O hình_tròn/Nn/O ./PU/O 
+Đến/Cm/O ngày/Nt/O lễ/Nn/O Tiên/Nn/O vương/Nn/O ,/PU/O các/Nq/O lang/Nn/O mang/Vv/O sơn_hào_hải_vị/ID/O ,/PU/O nem_công_chả_phượng/ID/O tới/D/O ,/PU/O chẳng/R/O thiếu/Aa/O thứ/Nn/O gì/Pp/O ./PU/O 
+Vua_cha/Nn/O xem/Vv/O qua/D/O một/Nq/NUM_B lượt/Nn/O rồi/Cp/O dừng/Vv/O lại/R/O trước/Nn/O chồng/Nn/O bánh/Nn/O của/Cm/O Lang_Liêu/Nr/PER_B ,/PU/O rất/R/O vừa_ý/Aa/O ,/PU/O bèn/R/O gọi/Vv/O lên/R/O hỏi/Vv/O ./PU/O 
+Lang_Liêu/Nr/PER_B đem/Vv/O giấc/Nc/O mộng/Nn/O gặp/Vv/O thần/Nn/O ra/D/O kể/Vv/O lại/R/O ./PU/O 
+Vua_cha/Nn/O ngẫm_nghĩ/Vv/O rất/R/O lâu/Aa/O rồi/Cp/O chọn/Vv/O hai/Nq/NUM_B thứ/Nn/O bánh/Nn/O ấy/Pd/O đem/Vv/O tế/Vv/O Trời/Nn/O ,/PU/O Đất/Nn/O cùng/Cp/O Tiên/Nn/O vương/Nn/O ./PU/O 
+Lễ/Nn/O xong/Aa/O ,/PU/O vua/Nn/O cho/Vv/O đem/Vv/O bánh/Nn/O ra/D/O ăn/Vv/O cùng/Cp/O với/Cp/O quần_thần/Nn/O ./PU/O 
+Ai/Pp/O cũng/R/O tấm_tắc/Vv/O khen/Vv/O ngon/Aa/O ./PU/O 
+Vua/Nn/O họp/Vv/O mọi/Nq/O người/Nn/O lại/R/O nói/Vv/O :/PU/O 
+-/PU/O Bánh/Nn/O hình_tròn/Nn/O là/Vc/O tượng/Nn/O Trời/Nn/O ta/Pp/O đặt/Vv/O tên/Nn/O là/Vc/O bánh_giầy/Nn/O ./PU/O 
+Bánh/Nn/O hình_vuông/Nn/O là/Vc/O tượng/Nn/O Đất/Nn/O ,/PU/O các/Nq/O thứ/Nn/O thịt/Nn/O mỡ/Nn/O ,/PU/O đậu_xanh/Nn/O ,/PU/O lá/Nn/O dong/Nn/O là/Vc/O tượng/Nn/O cầm_thú/Nn/O ,/PU/O cây_cỏ/Nn/O muôn/Nq/O loài/Nn/O ,/PU/O ta/Pp/O đặt/Vv/O tên/Nn/O là/Vc/O bánh_chưng/Nn/O ./PU/O 
+Lá/Nc/O bọc/Vv/O ngoài/Nn/O ,/PU/O mĩ_vị/Nn/O để/Cm/O trong/Cm/O là/Vc/O ngụ_ý/Nn/O đùm_bọc/Vv/O nhau/Nn/O ./PU/O 
+Lang_Liêu/Nr/PER_B đã/R/O dâng/Vv/O lễ_vật/Nn/O hợp/Aa/O với/Cp/O ý/Nn/O ta/Pp/O ./PU/O 
+Lang_Liêu/Nr/PER_B sẽ/R/O nối_ngôi/Vv/O ta/Pp/O ,/PU/O xin/Vv/O Tiên/Nn/O vương/Nn/O chứng_giám/Vv/O ./PU/O 
+Từ/Cm/O đấy/Pd/O ,/PU/O nước/Nn/O ta/Pp/O chăm/Aa/O nghề/Nn/O trồng_trọt/Vv/O ,/PU/O chăn_nuôi/Vv/O và/Cp/O có/Ve/O tục/Nn/O ngày/Nt/O Tết/Nt/O làm/Vv/O bánh_chưng/Nn/O ,/PU/O bánh_giầy/Nn/O ./PU/O 
+Thiếu/Aa/O bánh_chưng/Nn/O ,/PU/O bánh_giầy/Nn/O là/Vc/O thiểu/Aa/O hẳn/Aa/O hương_vị/Nn/O ngày/Nt/O Tết/Nt/O ./PU/O 

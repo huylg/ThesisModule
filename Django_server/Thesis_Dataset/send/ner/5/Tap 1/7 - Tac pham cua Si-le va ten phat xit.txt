@@ -1,0 +1,19 @@
+﻿Tác_phẩm/Nn/O của/Cm/O Si-le/Nr/ORG_B và/Cp/O tên/Nn/O phát_xít/Nn/O 
+Trong/Cm/O thời_gian/Nn/O nước/Nn/LOC_B Pháp/Nr/LOC_I bị/Vv/O phát_xít/Nn/ORG_B Đức/Nr/ORG_I chiếm_đóng/Vv/O ,/PU/O một/Nq/NUM_B lần/Nn/O có/Ve/O tên/Nn/O sĩ_quan/Nn/O cao_cấp/Aa/O của/Cm/O bọn/Nn/O phát_xít/Nn/O lên/R/O một/Nq/NUM_B chuyến/Nn/O tàu/Nn/O ở/Cm/O Pa-ri/Nu/O ,/PU/O thủ_đô/Nn/O nước/Nn/LOC_B Pháp/Nr/LOC_I ./PU/O 
+Hắn/Pp/O bước/Vv/O vào/Cm/O toa/Nn/O tàu/Nn/O ,/PU/O giơ/Vv/O thẳng_tay/Aa/O và/Cp/O hô/Vv/O to/Aa/O :/PU/O "/PU/O Hít-le/Nr/BRN_B muôn_năm/Nn/O !/PU/O "/PU/O Một/Nq/NUM_B người/Nn/O cao_tuổi/Aa/O ngồi/Vv/O bên/Nn/O cửa_sổ/Nn/O ,/PU/O tay/Nn/O cầm/Vv/O cuốn/Nc/O sách/Nn/O ,/PU/O ngẩng/Vv/O đầu/Nn/O ,/PU/O lạnh_lùng/Aa/O đáp/Vv/O bằng/Cm/O tiếng/Nn/O Pháp/Nr/LOC_B :/PU/O "/PU/O Chào/Vv/O ngài/Pp/O "/PU/O ./PU/O 
+Tên/Nn/O sĩ_quan/Nn/O lừ/Nq/O mắt/Nn/O nhìn/Vv/O ông_già/Nn/O người/Nn/O Pháp/Nr/LOC_B ./PU/O 
+Bỗng/R/O hắn/Pp/O nhìn/Vv/O vào/D/O cuốn/Nc/O sách/Nn/O ông/Nc/O cụ/Nn/O đang/R/O đọc/Vv/O và/Cp/O thấy/Vv/O đó/Pd/O là/Vc/O một/Nq/NUM_B tác_phẩm/Nn/O của/Cm/O Si-le/Nr/ORG_B viết/Vv/O bằng/Cm/O tiếng/Nn/O Đức/Nr/LOC_B ./PU/O 
+Bực_mình/Vv/O vì/Cp/O ông/Nc/O cụ/Nn/O biết/Vv/O tiếng/Nn/O Đức/Nr/LOC_B nhưng/Cp/O không/R/O thèm/Vv/O chào/Vv/O bằng/Cm/O tiếng/Nn/O Đức/Nr/LOC_B ,/PU/O hắn/Pp/O liền/R/O hỏi/Vv/O :/PU/O 
+Lão/Nc/O thích/Vv/O nhà_văn/Nn/DES_B Đức/Nr/PER_B hơn/Aa/O lời/Nn/O chào/Vv/O của/Cm/O người/Nn/O Đức/Nr/LOC_B chăng/R/O ?/PU/O 
+Sao/Pp/O ngài/Nn/O lại/R/O nói/Vv/O thế/Pp/O ?/PU/O 
+Si-le/Nr/BRN_B là/Vc/O một/Nq/NUM_B nhà_văn/Nn/O quốc_tế/Aa/O chứ/M/O !/PU/O 
+-/PU/O Ông_già/Nn/O điềm_đạm/Aa/O trả_lời/Vv/O ./PU/O 
+Nhận_thấy/Vv/O vẻ/Nn/O ngạc_nhiên/Vv/O của/Cm/O tên/Nn/O sĩ_quan/Nn/O ,/PU/O ông_già/Nn/O nói/Vv/O tiếp/Vv/O :/PU/O 
+Ngài/Nn/O thử/Vv/O xem/Vv/O Si-le/Nr/ORG_B đã/R/O dành/Vv/O những/Nq/O tác_phẩm/Nn/O của/Cm/O mình/Pp/O cho/Cp/O ai/Nn/O nào/Pd/O ?/PU/O 
+Nhà_văn/Nn/O đã/R/O viết/Vv/O Vin-hem_Ten/Nr/PER_B cho/Cp/O người/Nn/O Thụy_Sĩ/Nr/LOC_B ,/PU/O Nàng/Nn/O dâu/Nn/O ở/Cm/O Mét-xi-na/Nn/O cho/Cp/O người/Nn/O I-ta-li-a/Nn/O ,/PU/O Cô/Nc/O gái/Nn/O Oóc-lê-ăng/Nn/O cho/Cp/O người/Nn/O Pháp/Nr/LOC_B ,/PU/O .../PU/O 
+Càng/Cs/O nghe/Vv/O nói/Vv/O ,/PU/O tên/Nn/O sĩ_quan/Nn/O phát_xít/Nn/O càng/Cs/O ngây/Aa/O mặt/Nn/O ra/D/O ./PU/O 
+Cuối_cùng/Aa/O ,/PU/O hắn/Pp/O hỏi/Vv/O :/PU/O 
+Chẳng_lẽ/R/O Si-le/Nr/BRN_B không/R/O viết/Vv/O gì/M/O cho/Cp/O chúng_tôi/Pp/O hay/Cp/O sao/Pp/O ?/PU/O 
+Ông_già/Nn/O mỉm_cười/Vv/O trả_lời/Vv/O :/PU/O 
+Có/Ve/O chứ/M/O ./PU/O 
+Si-le/Nr/ORG_B đã/R/O dành/Vv/O cho/Cp/O các/Nq/O ngài/Pp/O vở/Nc/O Những/Nq/O tên/Nc/O cướp/Nn/O !/PU/O 

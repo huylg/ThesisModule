@@ -1,0 +1,22 @@
+﻿Hai/Nq/NUM_B Bà/Nn/PER_B Trưng/Nr/PER_I 
+Thuở/Nn/O xưa/Aa/O ,/PU/O nước/Nn/O ta/Pp/O bị/Vv/O giặc/Nn/O ngoại_xâm/Nn/O đô_hộ/Vv/O ./PU/O 
+Chúng/Pp/O thẳng_tay/Aa/O chém_giết/Vv/O dân/Nn/O lành/Aa/O ,/PU/O cướp/Vv/O hết/Ve/O ruộng_nương/Nn/O màu_mỡ/Aa/O ./PU/O 
+Chúng/Pp/O bắt/Vv/O dân/Nn/O ta/Pp/O lên/Vd/O rừng/Nn/O săn/Vv/O thú/Nn/O lạ/Aa/O ,/PU/O xuống/Vd/O biển/Nn/O mò/Vv/O ngọc_trai/Nn/O ,/PU/O khiến/Vv/O bao/Nq/O người/Nn/O thiệt_mạng/Vv/O vì/Cp/O hổ/Nn/O báo/Nn/O ,/PU/O cá_sấu/Nn/O ,/PU/O thuồng_luồng/Nn/O ,/PU/O .../PU/O 
+Lòng/Nn/O dân/Nn/O oán_hận/Vv/O ngút/Vv/O trời/Nn/O ,/PU/O chỉ/R/O chờ/Vv/O dịp/Nn/O vùng/Nn/O lên/Vv/O đánh_đuổi/Vv/O quân/Nn/O xâm_lược/Vv/O ./PU/O 
+Bấy_giờ/Pd/O ,/PU/O ở/Cm/O huyện/Nu/LOC_B Mê_Linh/Nr/LOC_I có/Ve/O hai/Nq/NUM_B người/Nc/O con_gái/Nn/O tài_giỏi/Aa/O là/Vc/O Trưng_Trắc/Nr/PER_B và/Cp/O Trưng_Nhị/Nr/PER_B ./PU/O 
+Cha/Nn/O mất/Ve/O sớm/Aa/O ,/PU/O nhờ/Cm/O mẹ/Nn/O dạy_dỗ/Vv/O ,/PU/O hai/Nq/NUM_B chị_em/Nn/O đều/R/O giỏi/Aa/O võ_nghệ/Nn/O và/Cp/O nuôi/Vv/O chí/Nn/O giành/Vv/O lại/R/O non_sông/Nn/O ./PU/O 
+Chồng/Nn/O bà/Nn/TTL_B Trưng_Trắc/Nr/PER_B là/Vc/O Thi_Sách/Nr/PER_B cũng/R/O cùng/Cp/O chí_hướng/Nn/O với/Cp/O vợ/Nn/O ./PU/O 
+Tướng/Nn/O giặc/Nn/O Tô_Định/Nr/ORG_B biết/Vv/O vậy/Pp/O ,/PU/O bèn/R/O lập_mưu/Aa/O giết/Vv/O chết/Vv/O Thi_Sách/Nr/PER_B ./PU/O 
+Nhận/Vv/O được/Vv/O tin/Vv/O dữ/R/O ,/PU/O Hai_Bà/Nr/PER_B Trưng/Nr/PER_I liền/R/O kéo/Vv/O quân/Nn/O về/Cm/O thành/Nn/O Luy_Lâu/Nr/PER_B hỏi_tội/Vv/O kẻ_thù/Nn/O ./PU/O 
+Trước/Nn/O lúc/Nt/O trẩy/Nt/DTM_B quân/Nn/O ,/PU/O có/Ve/O người/Nn/O xin/Vv/O nữ/Nn/O chủ_tướng/Nn/O cho/Vv/O mặc/Vv/O đồ/Nn/O tang/Nn/O ./PU/O 
+Trưng_Trắc/Nr/PER_B trả_lời/Vv/O :/PU/O 
+Không/R/O !/PU/O 
+Ta/Pp/O sẽ/R/O mặc/Vv/O giáp/Nn/O phục/Vv/O thật/R/O đẹp/Aa/O để/Cm/O dân_chúng/Nn/O thêm/Vv/O phấn_khích/Aa/O ,/PU/O còn/Cp/O giặc/Nn/O trông_thấy/Aa/O thì/Cp/O kinh_hồn/Vv/O ./PU/O 
+Hai/Nq/NUM_B Bà/Nn/PER_B Trưng/Nr/PER_I bước/Vv/O lên/R/O bành/Nn/O voi/Nn/O ./PU/O 
+Đoàn/Nn/O quân/Nn/O rùng_rùng/Aa/O lên_đường/Vv/O ./PU/O 
+Giáo/Nr/PER_B lao/Vv/O ,/PU/O cung/Nn/O nỏ/Nn/O ,/PU/O rìu/Nn/O búa/Nn/O ,/PU/O khiên/Nn/O mộc/Nn/O cuồn_cuộn/Vv/O tràn/Vv/O theo/Vv/O bóng/Nn/O voi/Nn/O ẩn_hiện/Vv/O của/Cm/O Hai/Nq/NUM_B Bà/Nn/O ./PU/O 
+Tiếng/Nn/O trống_đồng/Nn/O dội/Vv/O lên/R/O vòm/Nn/O cây/Nn/O ,/PU/O đập/Vv/O vào/Cm/O sườn/Nn/O đồi/Nn/O ,/PU/O theo/Vv/O suốt/Aa/O đường/Nn/O hành_quân/Vv/O ./PU/O 
+Thành_trì/Nn/O của/Cm/O giặc/Nn/O lần_lượt/R/O sụp_đổ/Vv/O dưới/Cm/O chân/Nn/O của/Cm/O đoàn/Nn/O quân/Nn/O khởi_nghĩa/Vv/O ./PU/O 
+Tô_Định/Nr/PER_B ôm/Vv/O đầu/Nn/O chạy/Vv/O về/D/O nước/Nn/O ./PU/O 
+Đất_nước/Nn/O ta/Pp/O sạch_bóng/Aa/O quân_thù/Nn/O ./PU/O 
+Hai/Nq/NUM_B Bà/Nn/PER_B Trưng/Nr/PER_I trở_thành/Vv/O hai/Nq/NUM_B vị/Nc/O anh_hùng/Nn/O chống/Vv/O ngoại_xâm/Nn/O đầu_tiên/An/O trong/Cm/O lịch_sử/Nn/O nước_nhà/Nn/O ./PU/O 

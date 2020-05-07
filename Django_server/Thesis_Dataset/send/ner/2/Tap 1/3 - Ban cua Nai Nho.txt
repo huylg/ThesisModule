@@ -1,0 +1,21 @@
+﻿Bạn/Nn/O của/Cm/O Nai_Nhỏ/Nr/PER_B 
+Nai_Nhỏ/Nr/PER_B xin/Vv/O phép/Nn/O cha/Nn/O được/Vv/O đi/Vv/O chơi/Vv/O xa/Aa/O cùng/Cp/O bạn/Pp/O ./PU/O 
+Cha/Nn/TTL_B Nai_Nhỏ/Nr/PER_B nói/Vv/O :/PU/O 
+Cha/Nn/O không/R/O ngăn_cản/Vv/O con/Nn/O ./PU/O 
+Nhưng/Cp/O con/Nn/O hãy/R/O kể/Vv/O cho/Cp/O cha/Nn/O nghe/Vv/O về/Cm/O bạn/Pp/O con/Nn/O ./PU/O 
+Vâng/E/O !/PU/O 
+-/PU/O Nai_Nhỏ/Nr/PER_B đáp/Vv/O -/PU/O Có/R/O lẩn/Vv/O ,/PU/O chúng/R/O con/Pp/O gặp/Vv/O một/Nq/NUM_B hòn/Nc/O đá/Nn/O to/Aa/O chặn/Vv/O lối/Nn/O ./PU/O 
+Bạn/Pp/O con/Pp/O chỉ/R/O hích/Vv/O vai/Nn/O ,/PU/O hòn/Nc/O đá/Nn/O đã/R/O lân/Vv/O sang/Cm/O một/Nq/NUM_B bên/Nn/O ./PU/O 
+Cha/Nn/TTL_B Nai_Nhỏ/Nr/PER_B hài_lòng/Vv/O nói/Vv/O :/PU/O 
+Bạn/Pp/O con/Pp/O thật/R/O khỏe/Nn/O ./PU/O 
+Nhưng/Cp/O cha/Nn/O vẫn/R/O lo/Vv/O cho/Cp/O con/Nn/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O khác/Aa/O ,/PU/O chúng/R/O con/Pp/O đang/R/O đi/Vv/O dọc/Aa/O bờ/Nn/O sông/Nn/O tìm/Vv/O nước/Nn/O uống/Vv/O thì/Cp/O thấy/Vv/O lão/Nn/O Hổ/Nn/O hung_dữ/Aa/O đang/R/O rình/Vv/O sau/Nn/O bụi/Nn/O cây/Nn/O ./PU/O 
+Bạn/Pp/O con/Pp/O đã/R/O nhanh_trí/Aa/O kéo/Vv/O con/Nn/O chạy/Vv/O như/Cp/O bay/Vv/O ./PU/O 
+Bạn/Pp/O con/Pp/O thật/R/O thông_minh/Aa/O và/Cp/O nhanh_nhẹn/Aa/O ./PU/O 
+Nhưng/Cp/O cha/Nn/O vẫn/R/O còn/R/O lo/Vv/O ./PU/O 
+Nai_Nhỏ/Nr/PER_B nói/Vv/O tiếp/Vv/O :/PU/O 
+Lần/Nn/O khác/Aa/O nữa/R/O ,/PU/O chúng/R/O con/Pp/O đang/R/O nghỉ/Vv/O trên/Cm/O một/Nq/NUM_B bãi/Nn/O cỏ/Nn/O xanh/Aa/O thì/Cp/O thấy/Vv/O gã/Nc/O Sói/Nn/O hung_ác/Aa/O đuổi/Vv/O bắt/Vv/O cậu/Nc/DES_B Dê/Nr/DES_I Non/Aa/O ./PU/O 
+Sói/Nn/O sắp/R/O tóm/Vv/O được/R/O Dê_Non/Nr/PER_B thì/Cp/O bạn/Nn/O con/Pp/O đã/R/O kịp/Aa/O lao/Vv/O tới/D/O ,/PU/O dùng/Vv/O đôi/Nq/O gạc/Nn/O chắc/Aa/O khỏe/Nn/O húc/Vv/O Sói/Nn/O ngã_ngửa/Vv/O ./PU/O 
+Nghe/Vv/O tới/Cm/O đây/Pd/O ,/PU/O cha/Nn/TTL_B Nai_Nhỏ/Nr/PER_B mừng_rỡ/Vv/O nói/Vv/O :/PU/O 
+Đó/Pd/O chính/M/O là/Vc/O điều/Nc/O tốt/Aa/O nhất/R/O ./PU/O 
+Con_trai/Nn/O bé_bỏng/Aa/O của/Cm/O cha/Nn/O ,/PU/O con/Nc/O có/Ve/O một/Nq/NUM_B người/Nc/O bạn/Nn/O như/Cp/O thế/Pp/O thì/Cp/O cha/Nn/O không/R/O phải/Vv/O lo_lắng/Vv/O một_chút/Nq/O nào/Pd/O nữa/R/O ./PU/O 

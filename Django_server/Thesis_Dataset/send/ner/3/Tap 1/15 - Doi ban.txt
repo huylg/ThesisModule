@@ -1,0 +1,29 @@
+﻿Đôi/Nq/O bạn/Nn/O 
+Thành/Nn/O và/Cp/O Mến/Nr/PER_B là/Vc/O đôi/Nq/O bạn/Nn/O ngày/Nt/O nhỏ/Aa/O ./PU/O 
+Ngày/Nt/O ấy/Pd/O ,/PU/O giặc/Nn/O Mĩ/Nr/ORG_B ném/Vv/O bom/Nn/O phá_hoại/Vv/O miền/Nn/O Bác/Nn/O ,/PU/O Thành/Nr/PER_B theo/Vv/O bố_mẹ/Nn/O sơ_tán/Vv/O về/Vd/O quê/Nn/O Mến/Nr/LOC_B ./PU/O 
+Mĩ/Nr/PER_B thua/Vv/O ,/PU/O Thành/Nr/PER_B về/Vv/O lại/R/O thị_xã/Nu/O ./PU/O 
+Hai/Nq/MEA_B năm/Nt/MEA_I sau/Nn/O ,/PU/O bố/Nn/TTL_B Thành/Nr/PER_B đón/Vv/O Mến/Nr/PER_B ra/Vd/O chơi/Vv/O ./PU/O 
+Thành/Nn/O dẫn/Vv/O bạn/Pp/O đi/Vv/O thăm/Vv/O khắp/Aa/O nơi/Nn/O ./PU/O 
+Cái/Nc/O gì/Pp/O đối_với/Cp/O Mến/Nr/PER_B cũng/R/O lạ/Aa/O ./PU/O 
+Ở/Cm/O đây/Pd/O có/Ve/O nhiều/Aa/O phố/Nn/O quá/R/O ./PU/O 
+Phố/Nn/O nào/Pd/O cũng/R/O nhà/Nn/O ngói/Nn/O san_sát/Aa/O ,/PU/O cái/Nc/O cao/Aa/O cái/Nc/O thấp/Aa/O ,/PU/O chẳng/R/O giống/Vv/O những/Nq/O ngôi/Nc/O nhà/Nn/O ở/Cm/O quê/Nn/O ./PU/O 
+Mỗi/Nq/O sáng/Nt/O ,/PU/O mỗi/Nq/O chiều/Nn/O ,/PU/O những/Nq/O dòng/Nn/O xe_cộ/Nn/O đi_lại/Vv/O nườm_nượp/Aa/O ./PU/O 
+Ban_đêm/Nt/O ,/PU/O đèn_điện/Nn/O lấp_lánh/Aa/O như/Cp/O sao_sa/Nn/O ./PU/O 
+Chỗ/Nn/O vui/Aa/O nhất/R/O là/Vc/O công_viên/Nn/O ./PU/O 
+Ở/Cm/O đây/Pd/O ,/PU/O bên/Nn/O cạnh/Nn/O vườn/Nn/O hoa/Nn/O có/Ve/O cầu_trượt/Nn/O ,/PU/O đu_quay/Nn/O ,/PU/O có/Ve/O cả/M/O một/Nq/NUM_B cái/Nc/O hồ/Nn/O lớn/Aa/O ./PU/O 
+Mến/Nr/PER_B rất/R/O thích/Vv/O chơi/Vv/O ở/Cm/O ven/Nn/O hồ/Nn/O ./PU/O 
+Hồ/Nn/O này/Pd/O rộng/Aa/O hơn/Aa/O cái/Nc/O đầm/Nn/O ở/Cm/O làng/Nu/O của/Cm/O Mến/Nr/PER_B nhưng/Cp/O không/R/O trồng/Vv/O sen/Nn/O ./PU/O 
+Nhìn/Vv/O mặt/Nn/O hồ/Nn/O sóng/Nn/O gợn/Vv/O lăn_tăn/Aa/O ,/PU/O hai/Nq/NUM_B đứa/Nn/O lại/R/O nhắc/Vv/O chuyện/Nn/O hồi/Nt/O nào/Pd/O bơi/Vv/O thuyền_thúng/Nn/O ra/D/O giữa/Nn/O đầm/Nn/O hái/Vv/O hoa/Nn/O ./PU/O 
+Đang/R/O mải/Vv/O chuyện/Nn/O ,/PU/O bỗng/R/O các/Nq/O em/Nn/O nghe/Vv/O tiếng/Nn/O kêu/Vv/O thất_thanh/Aa/O :/PU/O 
+Cứu/Vv/O với/Cp/O !/PU/O 
+Thành/Nn/O chưa/R/O kịp/Aa/O hiểu/Vv/O chuyện/Nn/O gì/Pp/O đã/R/O thấy/Vv/O Mến/Nr/PER_B lao/Vv/O xuống/D/O nước/Nn/O ./PU/O 
+Giữa/Cm/O hồ/Nn/O ,/PU/O một/Nq/NUM_B cậu/Nc/O bé/Nn/O đang/R/O vùng_vẫy/Vv/O tuyệt_vọng/Vv/O ./PU/O 
+Trên/Cm/O bờ/Nn/O ,/PU/O mấy/Nq/O chú/Nc/O bé/Nn/O ướt/Aa/O lướt_thướt/Nn/O hốt_hoảng/Vv/O kêu_la/Vv/O ./PU/O 
+Mến/Nr/PER_B bơi/Vv/O rất/R/O nhanh/Aa/O ./PU/O 
+Chỉ/R/O một/Nq/NUM_B loáng/Nn/O ,/PU/O em/Pp/O đã/R/O đến/Vd/O bên/Nn/O cậu/Nc/O bé/Nn/O ,/PU/O khéo_léo/Aa/O túm/Vv/O được/R/O tóc/Nn/O cậu/Nn/O ,/PU/O đưa/Vv/O vào/D/O bờ/Nn/O ./PU/O 
+Về/Cm/O nhà/Nn/O ,/PU/O Thành/Nr/PER_B và/Cp/O Mến/Nr/PER_B sợ/Vv/O bố/Nn/O lo/Vv/O ,/PU/O không/R/O dám/Vv/O kể/Vv/O cho/Cp/O bố/Nn/O nghe/Vv/O chuyện/Nn/O xảy_ra/Vv/O ./PU/O 
+Mãi/R/O khi/Nt/O Mến/Nr/PER_B đã/R/O về/Vd/O quê/Nn/O ,/PU/O bố/Nn/O mới/R/O biết/Vv/O chuyện/Nn/O ./PU/O 
+Bố/Nn/O bảo/Vv/O :/PU/O 
+Người/Nn/O ở/Cm/O làng/Nu/O quê/Nn/O như/Cp/O thế/Pp/O đấy/M/O ,/PU/O con/Nc/O ạ/M/O ./PU/O 
+Lúc/Nt/O đất_nước/Nn/O có/Ve/O chiến_tranh/Nn/O ,/PU/O họ/Pp/O sẵn_lòng/Vv/O sẻ/Nn/O nhà/Nn/O sẻ/Nn/O cửa/Nn/O ./PU/O 
+Cứu/Vv/O người/Nn/O ,/PU/O họ/Pp/O không/R/O hề/M/O ngần_ngại/Vv/O ./PU/O 

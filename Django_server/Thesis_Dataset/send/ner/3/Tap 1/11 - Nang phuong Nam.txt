@@ -1,0 +1,37 @@
+﻿Hôm_nay/Nt/DTM_B đã/R/O là/Vc/O hai/Nq/MEA_B mươi/Nq/MEA_I tám/Nt/MEA_I Tết/Nt/O ./PU/O 
+Chợ/Nn/O hoa/Nn/O trên/Cm/O đường/Nn/LOC_B Nguyễn_Huệ/Nr/LOC_I đông_nghịt/Aa/O người/Nn/O ./PU/O 
+Uyên/Nr/PER_B cùng/Cp/O các/Nq/O bạn/Pp/O đi/Vv/O giữa/Cm/O rừng/Nn/O hoa/Nn/O như/Cp/O đi/Vv/O trong/Cm/O mơ/Vv/O ./PU/O 
+Đang/R/O ríu_rít/Aa/O chuyện_trò/Vv/O ,/PU/O cả/Pp/O nhóm/Nn/O bỗng/R/O sững/Aa/O lại/R/O vì/Cp/O tiếng/Nn/O gọi/Vv/O :/PU/O 
+Nè/M/O ,/PU/O sắp/R/O nhỏ/Aa/O kia/Pd/O ,/PU/O đi/Vv/O đâu/Pp/O vậy/M/O ?/PU/O 
+Tưởng/Vv/O ai/Pp/O ,/PU/O té_ra/Cp/O là/Vc/O nhỏ/Aa/O Phương/Nr/PER_B ./PU/O 
+Uyên/Nr/PER_B đáp/Vv/O :/PU/O 
+Tụi/Nn/O mình/Pp/O đi/Vv/O lòng_vòng/Aa/O tìm/Vv/O chút/Nq/O gì/Pp/O để/Cm/O kịp/Aa/O gửi/Vv/O ra/R/O Hà_Nội/Nr/LOC_B cho/Cp/O Vân/Nr/PER_B ./PU/O 
+Có/R/O phải/Aa/O Vân/Nr/PER_B hát/Vv/O dân_ca/Nn/O ở/Cm/O trại_hè/Nn/O Nha_Trang/Nr/LOC_B không/R/O ?/PU/O 
+Phải/Vv/O đó/Pd/O ./PU/O 
+Mấy/Nq/O đứa/Nn/O mới/R/O nhận/Vv/O được/M/O thư/Nn/O Vân/Nr/PER_B sáng/Nt/DTM_B nay/Nt/DTM_I ./PU/O 
+Tết/Nt/O ngoài/Nn/O đó/Pd/O chác/Nn/O là/Vc/O vui/Aa/O lắm/R/O ?/PU/O 
+Vui/Aa/O nhưng_mà/Cp/O lạnh/Aa/O dễ_sợ/R/O luôn/R/O ./PU/O 
+Đây/Pd/O nè/M/O ,/PU/O mình/Pp/O đọc/Vv/O một/Nq/NUM_B đoạn/Nn/O thư/Nn/O của/Cm/O Vân/Nr/PER_B nhé/M/O !/PU/O 
+Vừa/R/O nói/Vv/O ,/PU/O Uyên/Nr/PER_B vừa/R/O rút/Vv/O trong/Cm/O túi/Nn/O ra/D/O một/Nq/NUM_B tờ/Nn/O giấy/Nn/O 
+Hà_Nội/Nr/ORG_B đang/R/O rạo_rực/Vv/O trong/Cm/O những/Nq/O ngày/Nt/O giáp/Vv/O Tết/Nt/O ./PU/O 
+Trời/Nn/O cuối/Nn/DTM_B đông/Nt/DTM_I lạnh/Aa/O buốt/Aa/O ./PU/O 
+Những/Nq/O dòng/Nn/O suối/Nn/O hoa/Nn/O trôi/Vv/O dưới/Cm/O bầu_trời/Nn/O xám/Aa/O đục/Aa/O và/Cp/O làn/Nc/O mưa_bụi/Nn/O trắng/Aa/O xóa/Nn/O ./PU/O 
+Viết/Vv/O hay/Cp/O quá/R/O ,/PU/O phải/Aa/O không/R/O ?/PU/O 
+Ước/Vv/O gì/Pp/O chúng_mình/Pp/O gửi/Vv/O cho/Cp/O Vân/Nr/PER_B được/Vv/O ít/Aa/O nắng/Nn/O phương/Nn/O Nam/Nn/O nhỉ/M/O !/PU/O 
+-/PU/O Huê/Nr/PER_B nói/Vv/O ./PU/O 
+Không/R/O ngờ/Vv/O điều/Nc/O ước/Vv/O của/Cm/O Huê/Nr/PER_B lại/R/O gợi/Vv/O ra/R/O một/Nq/NUM_B sáng_kiến/Nn/O ./PU/O 
+Phương/Nr/PER_B reo/Vv/O lên/R/O :/PU/O 
+Mình/Pp/O nghĩ/Vv/O ra/R/O rồi/R/O !/PU/O 
+Cả/Pp/O đám/Nn/O trẻ/Nn/O nhao_nhao/Vv/O :/PU/O 
+Gì/Pp/O vậy/M/O ?/PU/O 
+Gì/Pp/O vậy/M/O ?/PU/O 
+Phương/Nr/PER_B tủm_tỉm/Vv/O cười/Vv/O ,/PU/O bí_mật/Nn/O :/PU/O 
+Tụi/Nn/O mình/Pp/O sẽ/R/O tặng/Vv/O nhỏ/Aa/O Vân/Nr/PER_B một/Nq/NUM_B vật/Nn/O ngoài/Nn/O Bắc/Nn/O không/R/O có/Ve/O ./PU/O 
+Vật/Nn/O gì/Pp/O vậy/M/O ?/PU/O 
+Cả/Pp/O bọn/Nn/O xoắn_xuýt/Nn/O hỏi/Vv/O ./PU/O 
+Một/Nq/NUM_B cành/Nn/O mai/Nn/O !/PU/O 
+Một/Nq/NUM_B cành/Nn/O mai/Nn/O ?/PU/O 
+Tất_cả/Nq/O sửng_sốt/Vv/O ,/PU/O rồi/Cp/O cùng/Aa/O kêu/Vv/O lên/R/O 
+Đúng/Aa/O !/PU/O 
+Một/Nq/NUM_B cành/Nn/O mai/Nn/O chở/Vv/O nắng/Nn/O phương/Nn/O Nam/Nn/O ./PU/O 
+Cả/Pp/O bọn/Nn/O hớn_hở/Aa/O quay/Vv/O lại/R/O đầu/Nn/O đường/Nn/LOC_B Nguyễn_Huệ/Nr/LOC_I ,/PU/O nơi/Nn/O một/Nq/NUM_B rừng/Nn/O mai/Nn/O vàng/Nn/O thắm/Aa/O đang/R/O rung_rinh/Vv/O dưới/Cm/O nắng/Nn/O ./PU/O 

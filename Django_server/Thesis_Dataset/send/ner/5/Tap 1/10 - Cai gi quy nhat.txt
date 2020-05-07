@@ -1,0 +1,25 @@
+﻿Cái/Nc/O gì/Pp/O quý/Aa/O nhất/R/O ?/PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O trên/Cm/O đường/Nn/O đi/Vv/O học/Vv/O về/D/O ,/PU/O Hùng/Nr/PER_B ,/PU/O Quý/Nr/PER_B và/Cp/O Nam/Nr/PER_B trao_đổi/Vv/O với/Cp/O nhau/Nn/O xem/Vv/O ở/Cm/O trên/Cm/O đời/Nn/O này/Pd/O ,/PU/O cái/Nc/O gì/Pp/O quý/Aa/O nhất/R/O ./PU/O 
+Hùng/Nr/PER_B nói/Vv/O :/PU/O 
+Theo/Vv/O tớ/Pp/O ,/PU/O quý/Aa/O nhất/R/O là/Vc/O lúa/Nn/O gạo/Nn/O ./PU/O 
+Các/Nq/O cậu/Nc/O có/R/O thấy/Vv/O ai/Pp/O không/R/O ăn/Vv/O mà/Cp/O sống/Vv/O được/R/O không/R/O ?/PU/O 
+Quý/Aa/O và/Cp/O Nam/Nr/PER_B cho/Vv/O là/Cp/O có_lí/Nn/O ./PU/O 
+Nhưng/Cp/O đi/Vv/O được/R/O mươi/Nq/O bước/Nn/O ,/PU/O Quý/Nr/PER_B vội/Aa/O reo/Vv/O lên/R/O :/PU/O 
+Bạn/Nn/TTL_B Hùng/Nr/PER_B nói/Vv/O không/R/O đúng/Aa/O ./PU/O 
+Quý/Aa/O nhất/R/O phải/Aa/O là/Vc/O vàng/Aa/O ./PU/O 
+Mọi/Nq/O người/Nn/O chẳng/R/O thường/R/O nói/Vv/O quý_như_vàng/ID/O là/Vc/O gì/Pp/O ?/PU/O 
+Có/Ve/O vàng/Nn/O là/Vc/O có/Ve/O tiền/Nn/O ,/PU/O có/Ve/O tiền/Nn/O sẽ/R/O mua/Vv/O được/R/O lúa/Nn/O gạo/Nn/O !/PU/O 
+Nam_vội/Nn/O tiếp/Vv/O ngay/R/O :/PU/O 
+Quý/Aa/O nhất/R/O là/Vc/O thì_giờ/Nn/O ./PU/O 
+Thầy_giáo/Nn/O thường/R/O nói/Vv/O thì_giờ/Nn/O quý/Aa/O hơn/Aa/O vàng_bạc/Nn/O ./PU/O 
+Có/Ve/O thì/Cp/O giờ/Nt/O mới/R/O làm/Vv/O ra/R/O được/R/O lúa/Nn/O gạo/Nn/O ,/PU/O vàng_bạc/Nn/O !/PU/O 
+Cuộc/Nc/O tranh_luận/Vv/O thật/R/O sôi_nổi/Aa/O ,/PU/O người/Nn/O nào/Pd/O cũng/R/O có/Ve/O lí/Nn/O ,/PU/O không/R/O ai/Pp/O chịu/Vv/O ai/Pp/O ./PU/O 
+Hôm/Nt/DTM_B sau/Nn/DTM_I ,/PU/O ba/Nq/NUM_B bạn/Nn/O đến/Vd/O nhờ/Vv/O thầy_giáo/Nn/O phân_giải/Vv/O ./PU/O 
+Nghe/Vv/O xong/Aa/O ,/PU/O thầy/Nn/O mỉm_cười/Vv/O rồi/Cp/O nói/Vv/O :/PU/O 
+Lúa/Nn/O gạo/Nn/O quý/Aa/O vì/Cp/O ta/Pp/O phải/Vv/O đổ/Vv/O bao/Nq/O mồ_hôi/Nn/O mới/R/O làm/Vv/O ra/R/O được/R/O ./PU/O 
+Vàng/Nn/O cũng/R/O quý/Aa/O vì/Cp/O nó/Pp/O rất/R/O đắt/Aa/O và/Cp/O hiếm/Aa/O ./PU/O 
+Còn/Cp/O thì/Cp/O giờ/Nt/O đã/R/O qua/Vv/O đi/R/O thì/Cp/O không/R/O lấy/Vv/O lại/R/O được/R/O ,/PU/O đáng/Vv/O quý/Vv/O lắm/R/O ./PU/O 
+Nhưng/Cp/O lúa/Nn/O gạo/Nn/O ,/PU/O vàng_bạc/Nn/O ,/PU/O thì_giờ/Nn/O vẫn/R/O chưa/R/O phải/Aa/O là/Vc/O quý/Aa/O nhất/R/O ./PU/O 
+Ai/Pp/O làm/Vv/O ra/R/O lúa/Nn/O gạo/Nn/O ,/PU/O vàng_bạc/Nn/O ,/PU/O ai/Pp/O biết/Vv/O dùng/Vv/O thì/Cp/O giờ/Nt/O ?/PU/O 
+Đó/Pd/O chính/M/O là/Vc/O người/Nc/O lao_động/Nn/O ,/PU/O các/Nq/O em/Nn/O ạ/M/O ./PU/O 
+Không/R/O có/Ve/O người/Nc/O lao_động/Nn/O thì/Cp/O không/R/O có/Ve/O lúa/Nn/O gạo/Nn/O ,/PU/O không/R/O có/Ve/O vàng_bạc/Nn/O ,/PU/O nghĩa_là/Vv/O tất_cả/Nq/O mọi/Nq/O thứ/Nn/O đều/R/O không/R/O có/Ve/O ,/PU/O và/Cp/O thì/Cp/O giờ/Nt/O cũng/R/O trôi/Vv/O qua/Vv/O một_cách/Nn/O vô_vị/Aa/O mà_thôi/M/O ./PU/O 

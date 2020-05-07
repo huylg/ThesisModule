@@ -1,0 +1,27 @@
+﻿Ga-vrốt/Nq/NUM_B ngoài/Nn/O chiến/Vv/O lũy/Nn/O 
+Ăng-giôn-ra/Nn/O nói/Vv/O :/PU/O 
+Chừng/Nn/O mười/Nq/MEA_B lăm/Nq/MEA_I phút/Nt/MEA_I nữa/R/O thì/Cp/O chiến/Vv/O lũy/Nn/O chúng_ta/Pp/O không/R/O còn/R/O quá/Vv/O mười/Nq/NUM_B viên/Nn/O đạn/Nn/O ./PU/O 
+Ga-vrốt/Nn/O nghe/Vv/O rõ/Aa/O câu/Nn/O nói/Vv/O đó/Pd/O ./PU/O 
+Một/Nq/O lát/Nt/O sau/Nn/O ,/PU/O người_ta/Pp/O thấy/Vv/O bóng/Nn/O cậu/Nc/O bé/Nn/O thấp_thoáng/Vv/O ngoài/Nn/O đường_phố/Nn/O ,/PU/O dưới/Cm/O làn/Nc/O mưa/Nn/O đạn/Nn/O ./PU/O 
+Thì_ra/Cp/O Ga-vrốt/Nr/PER_B đã/R/O lấy/Vv/O một/Nq/NUM_B cái/Nc/O giỏ/Nn/O đựng/Vv/O chai/Nn/O trong/Cm/O quán/Nn/O và/Cp/O ra/Vv/O khỏi/Vv/O chiến/Vv/O lũy/Nn/O ./PU/O 
+Nó/Pp/O dốc/Vv/O vào/Cm/O miệng/Nn/O giỏ/Nn/O những/Nq/O chiếc/Nc/O bao/Nn/O đầy/Aa/O đạn/Nn/O của/Cm/O bọn/Nn/O lính/Nn/O chết/Vv/O gần/Aa/O chiến/Vv/O lũy/Nn/O ./PU/O 
+Cậu/Nn/O làm/Vv/O trò/Nn/O gì/Pp/O đấy/M/O ?/PU/O 
+-/PU/O Cuốc-phây-rắc/Nn/O hỏi/Vv/O ./PU/O 
+Em/Pp/O nhặt/Vv/O cho/Cp/O đầy/Aa/O giỏ/Nn/O đây/Pd/O !/PU/O 
+Cậu/Nn/O không/R/O thấy/Vv/O đạn/Nn/O réo/Vv/O à/M/O ?/PU/O 
+Ga-vrốt/Nn/O trả_lời/Vv/O :/PU/O 
+Có/Ve/O chứ/M/O ,/PU/O nó/Pp/O rơi/Vv/O như/Cp/O mưa/Nn/O ấy/Pd/O ./PU/O 
+Nhưng/Cp/O làm_sao/Nn/O nào/Pd/O ?/PU/O 
+Cuốc-phây-rác/Nn/O thét/Vv/O lên/R/O :/PU/O 
+Vào/Cm/O ngay/R/O !/PU/O 
+Tí_ti/Nr/PER_B thôi/M/O !/PU/O 
+-/PU/O Ga-vrốt/Nn/O nói/Vv/O ./PU/O 
+Ngoài/Nn/O đường/Nn/O ,/PU/O lửa/Nn/O khói/Nn/O mịt_mù/Aa/O ./PU/O 
+Điều/Nc/O đó/Pd/O rất/R/O có/Ve/O lợi/Nn/O cho/Cp/O Ga-vrốt/Nn/O ./PU/O 
+Dưới/Cm/O màn/Nc/O khói/Nn/O và/Cp/O với/Cp/O thân_hình/Nn/O bé_nhỏ/Aa/O ,/PU/O cậu/Nc/O bé/Nn/O có_thể/Aa/O tiến/Vv/O ra/R/O xa/Aa/O ngoài/Cm/O đường/Nn/O mà/Cp/O không/R/O ai/Pp/O trông/Vv/O thấy/Vv/O ./PU/O 
+Ga-vrốt/Nq/NUM_B dốc/Nn/O bảy/Nq/NUM_B ,/PU/O tám/Nq/NUM_B bao/Nn/O đạn/Nn/O đầu_tiên/An/O không/R/O có/Ve/O gì/M/O nguy_hiểm/Aa/O lắm/R/O ./PU/O 
+Em/Pp/O nằm/Vv/O xuống/D/O rồi/Cp/O lại/R/O đứng/Vv/O thẳng/Aa/O lên/R/O ,/PU/O ẩn/Vv/O vào/Cm/O một/Nq/NUM_B góc/Nn/O cửa/Nn/O ,/PU/O rồi/Cp/O lại/R/O phốc/R/O ra/Vd/O ,/PU/O tới/D/O ,/PU/O lui/Vd/O ,/PU/O dốc/Nn/O cạn/Aa/O các/Nq/O bao/Nn/O đạn/Nn/O và/Cp/O chất/Nn/O đầy/Aa/O giỏ/Nn/O ./PU/O 
+Nghĩa_quân/Nn/O mắt/Nn/O không/R/O rời/Vv/O cậu/Nc/O bé/Nn/O ./PU/O 
+Đó/Pd/O không/R/O phải/Aa/O là/Vc/O một/Nq/NUM_B em_nhỏ/Nn/O ,/PU/O không/R/O phải/Aa/O là/Vc/O một/Nq/NUM_B con_người/Nn/O nữa/R/O ,/PU/O mà/Cp/O là/Vc/O một/Nq/NUM_B thiên_thần/Nn/O ./PU/O 
+Đạn/Nr/PER_B bắn/Vv/O theo/Vv/O em/Pp/O ,/PU/O em/Pp/O nhanh/Aa/O hơn/Aa/O đạn/Nn/O ./PU/O 
+Em/Pp/O chơi/Vv/O trò/Nn/O ú_tim/Nn/O với/Cp/O cái/Nc/O chết/Vv/O một_cách/Nn/O thật/R/O ghê_rợn/Aa/O ./PU/O 

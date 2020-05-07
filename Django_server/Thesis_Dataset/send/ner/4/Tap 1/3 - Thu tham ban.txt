@@ -1,0 +1,19 @@
+﻿Thư/Nn/O thăm/Vv/O bạn/Pp/O 
+Hòa_Bình/Nr/PER_B ,/PU/O ngày/Nt/DTM_B 5/Nt/DTM_I tháng/Nt/DTM_I 8/Nt/DTM_I năm/Nt/DTM_I 2000/Nt/DTM_I 
+Bạn/Nn/TTL_B Hồng/Nr/PER_B thân_mến/Aa/O ,/PU/O 
+Mình/Pp/O là/Vc/O Quách_Tuấn_Lương/Nr/PER_B ,/PU/O học_sinh/Nn/O lớp/Nn/O 4B/Nr/O Trường/Nn/ORG_B Tiểu_học/Nn/ORG_I Cù_Chính_Lan/Nr/ORG_I ,/PU/O thị_xã/Nu/LOC_B Hòa_Bình/Nr/LOC_I ./PU/O 
+Hôm_nay/Nt/DTM_B ,/PU/O đọc/Vv/O báo/Nn/O Thiếu_niên/Nn/ORG_B Tiền_phong/Nn/ORG_I ,/PU/O mình/Pp/O rất/R/O xúc_động/Vv/O được/Vv/O biết/Vv/O ba/Nq/NUM_B của/Cm/O Hồng/Nr/PER_B đã/R/O hi_sinh/Vv/O trong/Cm/O trận/Nn/O lũ_lụt/Nn/O vừa_rồi/Nt/O ./PU/O 
+Mình/Pp/O gửi/Vv/O bức/Nc/O thư/Nn/O này/Pd/O chia/Vv/O buồn/Aa/O với/Cp/O bạn/Pp/O ./PU/O 
+Hồng/Nr/PER_B ơi/E/O !/PU/O 
+Mình/Pp/O hiểu/Vv/O Hồng/Nr/PER_B đau_đớn/Aa/O và/Cp/O thiệt_thòi/Aa/O như/Cp/O thế_nào/Pp/O khi/Nt/O ba/Nn/TTL_B Hồng/Nr/PER_B đã/R/O ra_đi/Vv/O mãi_mãi/R/O ./PU/O 
+Nhưng/Cp/O chắc/Aa/O là/Vc/O Hồng/Nr/PER_B cũng/R/O tự_hào/Aa/O về/Cm/O tấm/Nn/O gương/Nn/O dũng_cảm/Aa/O của/Cm/O ba/Nn/O xả_thân/Vv/O cứu/Vv/O người/Nn/O giữa/Cm/O dòng/Nn/O nước/Nn/O lũ/Nn/O ./PU/O 
+Mình/Pp/O tin/Vv/O rằng/Cp/O theo/Vv/O gương/Nn/O ba/An/O ,/PU/O Hồng/Nr/PER_B sẽ/R/O vượt_qua/Vv/O nỗi/Nc/O đau/Aa/O này/Pd/O ./PU/O 
+Bên/Nn/O cạnh/Nn/O Hồng/Nr/PER_B còn/R/O có/Ve/O má/Nn/O ,/PU/O có/Ve/O cô_bác/Nn/O và/Cp/O có/Ve/O cả/M/O những/Nq/O người/Nc/O bạn/Nn/O mới/R/O như/Cp/O mình/Pp/O ./PU/O 
+Mấy/Nq/O ngày/Nt/O nay/Nt/O ,/PU/O ở/Cm/O phường/Nu/O mình/Pp/O và/Cp/O khắp/Aa/O thị_xã/Nu/O đang/R/O có/Ve/O phong_trào/Nn/O quyên_góp/Vv/O ủng_hộ/Vv/O đồng_bào/Nn/O khắc_phục/Vv/O thiên_tai/Nn/O ./PU/O 
+Trường/Nn/O mình/Pp/O cũng/R/O vừa/R/O tổ_chức/Vv/O đợt/Nn/O góp/Vv/O đồ_dùng/Nn/O học_tập/Vv/O giúp/Vv/O các/Nq/O bạn/Nc/O vùng/Nn/O lũ_lụt/Nn/O ./PU/O 
+Riêng/M/O mình/Pp/O gửi/Vv/O giúp/Vv/O Hồng/Nr/PER_B toàn_bộ/Nq/O số/Nn/O tiền/Nn/O mình/Pp/O bỏ/Vv/O ống/Nn/O từ/Cm/O mấy/Nq/O năm/Nt/O nay/Nt/O ./PU/O 
+Hồng/Nr/PER_B nhận/Vv/O cho/Cp/O mình/Pp/O nhé/M/O !/PU/O 
+Chúc/Vv/O Hồng/Nr/PER_B khỏe/Nn/O ./PU/O 
+Mong/Vv/O nhận/Vv/O được/M/O thư/Nn/O bạn/Pp/O ./PU/O 
+Bạn/Pp/O mới/R/O của/Cm/O Hồng/Nr/PER_B 
+Quách_Tuấn_Lương/Nr/PER_B 

@@ -1,0 +1,16 @@
+﻿Hai/Nq/NUM_B anh_em/Nn/O 
+Ở/Cm/O cánh_đồng/Nn/O nọ/Pd/O ,/PU/O có/Ve/O hai/Nq/NUM_B anh_em/Nn/O cày/Vv/O chung/Aa/O một/Nq/NUM_B đám/Nn/O ruộng/Nn/O ./PU/O 
+Ngày_mùa/Nn/O đến/D/O ,/PU/O họ/Pp/O gặt/Vv/O rồi/Cp/O bó/Vv/O lúa/Nn/O chất/Nn/O thành/Vv/O hai/Nq/NUM_B đống/Nn/O bằng/Cm/O nhau/Nn/O ,/PU/O để/Cm/O cả/Pp/O ở/Cm/O ngoài/Nn/O đồng/Nn/O ./PU/O 
+Đêm/Nt/O hôm/Nt/O ấy/Pd/O ,/PU/O người/Nn/O em/Pp/O nghĩ/Vv/O :/PU/O 
+Anh/Nn/O mình/Pp/O còn/R/O phải/Vv/O nuôi/Vv/O vợ_con/Nn/O ./PU/O 
+Nếu/Cs/O phần/Nn/O lúa/Nn/O của/Cm/O mình/Pp/O cũng/R/O bằng/Cm/O phần/Nn/O của/Cm/O anh/Nn/O thì/Cs/O thật/R/O không/R/O công_bằng/Aa/O ./PU/O 
+Nghĩ/Vv/O vậy/Pp/O ,/PU/O người/Nn/O em/Pp/O ra/R/O đồng/Nu/O lấy/Vv/O lúa/Nn/O của/Cm/O mình/Pp/O bỏ/Vv/O thêm/Vv/O vào/D/O phần/Nn/O của/Cm/O anh/Pp/O ./PU/O 
+Cũng/R/O đêm/Nt/O ấy/Pd/O ,/PU/O người/Nc/O anh/Nc/O bàn/Nn/O với/Cp/O vợ/Nn/O :/PU/O 
+Em/Pp/O ta/Pp/O sống/Vv/O một_mình/R/O vất_vả/Aa/O ./PU/O 
+Nếu/Cs/O phần/Nn/O của/Cm/O ta/Pp/O cũng/R/O bằng/Cm/O phần/Nn/O chú/Nn/O ấy/Pd/O thì/Cs/O thật/R/O không/R/O công_bằng/Aa/O ./PU/O 
+Thế/Pp/O rồi/Cp/O anh/Nn/O ra/D/O đồng/Nn/O lấy/Vv/O lúa/Nn/O của/Cm/O mình/Pp/O bỏ/Vv/O thêm/Vv/O vào/D/O phần/Nn/O của/Cm/O em/Pp/O ./PU/O 
+Sáng/Nt/DTM_B hôm/Nt/DTM_I sau/Nn/DTM_I ,/PU/O hai/Nq/NUM_B anh_em/Nn/O cùng/Aa/O ra/R/O đồng/Nu/O ./PU/O 
+Họ/Pp/O rất_đỗi/R/O ngạc_nhiên/Vv/O khi/Nt/O thấy/Vv/O hai/Nq/NUM_B đống/Nn/O lúa/Nn/O vẫn/R/O bằng/Cm/O nhau/Nn/O ./PU/O 
+Cho/Cp/O đến/Cm/O một/Nq/O đêm/Nt/O ,/PU/O hai/Nq/NUM_B anh_em/Nn/O đều/R/O ra/Vd/O đồng/Nn/O ,/PU/O rình/Vv/O xem/Vv/O vì_sao/Pp/O có/Ve/O sự/Nc/O kì_lạ/Aa/O đó/Pd/O ./PU/O 
+Họ/Pp/O bắt_gặp/Vv/O nhau/Nn/O ,/PU/O mỗi/Nq/O người/Nn/O đang/R/O ôm/Vv/O trong/Cm/O tay/Nn/O những/Nq/O bó/Nn/O lúa/Nn/O định/Vv/O bỏ/Vv/O thêm/Vv/O cho/Cp/O người/Nn/O kia/Pd/O ./PU/O 
+Cả/Pp/O hai/Nq/NUM_B xúc_động/Nn/O ,/PU/O ôm_chầm/Vv/O lấy/Vv/O nhau/Nn/O ./PU/O 

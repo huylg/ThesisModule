@@ -1,0 +1,15 @@
+﻿Văn/Nn/O hay/Cp/O chữ/Nn/O tốt/Aa/O 
+Thuở/Nn/O đi/Vv/O học/Vv/O ,/PU/O Cao_Bá_Quát/Nr/PER_B viết/Vv/O chữ/Nn/O rất/R/O xấu/Aa/O nên/Cp/O nhiều/Aa/O bài/Nc/O văn/Nn/O dù/Cp/O hay/Cp/O vẫn/R/O bị/Vv/O thầy/Nn/O cho/Cp/O điểm/Nn/O kém/Aa/O ./PU/O 
+Một/Nq/O hôm/Nt/O ,/PU/O có/Ve/O bà/Nc/O cụ/Nn/O hàng_xóm/Nn/O sang/Cm/O khẩn_khoản/Aa/O :/PU/O 
+Gia_đình/Nn/O già/Aa/O có/Ve/O một/Nq/NUM_B việc/Nn/O oan_uổng/Aa/O muốn/Vv/O kêu/Vv/O quan/Nn/O ,/PU/O nhờ/Cm/O cậu/Nn/O viết/Vv/O giúp/Vv/O cho/Cp/O lá/Nn/O đơn/Aa/O ,/PU/O có/R/O được/Vv/O không/R/O ?/PU/O 
+Cao_Bá_Quát/Nr/PER_B vui_vẻ/Aa/O trả_lời/Vv/O :/PU/O 
+Tưởng/Vv/O việc/Nn/O gì/Pp/O khó/Aa/O ,/PU/O chứ/Cp/O việc/Nn/O ấy/Pd/O cháu/Nn/O xin/Vv/O sẵn_lòng/Vv/O ./PU/O 
+Lá/Nc/O đơn/Nn/O viết/Vv/O lí_lẽ/Nn/O rõ_ràng/Aa/O ,/PU/O Cao_Bá_Quát/Nr/PER_B yên_trí/Vv/O quan/Nn/O sẽ/R/O xét/Vv/O nỗi/Nc/O oan/Aa/O cho/Cp/O bà/Nc/O cụ/Nn/O ./PU/O 
+Nào_ngờ/Cp/O ,/PU/O chữ/Nn/O ông/Nn/O xấu/Aa/O quá/R/O ,/PU/O quan/Nn/O đọc/Vv/O không/R/O được/Vv/O nên/Vv/O thét/Vv/O lính/Nn/O đuổi/Vv/O bà/Nn/O ra/D/O khỏi/Vv/O huyện_đường/Nu/O ,/PU/O về/Vd/O nhà/Nn/O ,/PU/O bà/Nn/O kể/Vv/O lại/R/O câu_chuyện/Nn/O khiến/Vv/O Cao_Bá_Quát/Nr/PER_B vô_cùng/R/O ân_hận/Vv/O ./PU/O 
+Ông/Nn/O biết/Vv/O dù/Cp/O văn/Nn/O hay/Cp/O đến/Cm/O đâu/Pp/O mà/Cp/O chữ/Nn/O không/R/O ra/Vd/O chữ/Nn/O cũng/R/O chẳng/R/O ích/Nn/O gì/M/O ./PU/O 
+Từ/Cm/O đó/Pd/O ,/PU/O ông/Nn/O dốc/Aa/O sức/Nn/O luyện/Vv/O viết/Vv/O chữ/Nn/O sao/Pp/O cho/Cp/O đẹp/Aa/O ./PU/O 
+Sáng_sáng/Nn/O ,/PU/O ông/Nn/O cầm/Vv/O que/Nn/O vạch/Vv/O lên/R/O cột/Nn/O nhà/Nn/O luyện/Vv/O chữ/Nn/O cho/Cp/O cứng_cáp/Aa/O ./PU/O 
+Mỗi/Nq/O buổi/Nt/O tối/Nt/O ,/PU/O ông/Nn/O viết/Vv/O xong/Aa/O mười/Nq/NUM_B trang/Nn/O vở/Nc/O mới/R/O chịu/Vv/O đi/Vv/O ngủ/Vv/O ./PU/O 
+Chữ_viết/Nn/O đã/R/O tiến_bộ/Vv/O ,/PU/O ông/Nn/O lại/R/O mượn/Vv/O những/Nq/O cuốn/Nc/O sách/Nn/O chữ_viết/Nn/O đẹp/Aa/O làm/Vv/O mẫu/Nn/O để/Cm/O luyện/Vv/O nhiều/Aa/O kiểu/Nn/O chữ/Nn/O khác/Aa/O nhau/Nn/O ./PU/O 
+Kiên_trì/Nr/PER_B luyện_tập/Vv/O suốt/Aa/O mấy/Nq/O năm/Nt/O ,/PU/O chữ/Nn/O ông/Nn/O mỗi/Nq/MEA_B ngày/Nt/MEA_I một/Nq/MEA_I đẹp/Nn/MEA_I ./PU/O 
+Ông/Nn/O nổi_danh/Aa/O khắp/Aa/O nước/Nn/O là/Vc/O người/Nc/O văn/Nn/O hay_chữ/Nn/O tốt/Aa/O ./PU/O 

@@ -1,0 +1,13 @@
+﻿Lá/Nc/O thư/Nn/O nhầm/Vv/O địa_chỉ/Nn/O 
+Mai/Nt/O đang/R/O giúp/Vv/O mẹ/Nn/O treo/Vv/O tranh_Tết/Nn/O ,/PU/O chợt/R/O nghe/Vv/O tiếng/Nn/O bác/Nn/O đưa/Vv/O thư/Nn/O :/PU/O 
+-/PU/O Nhà/Nn/O 58/Nq/NUM_B có/Ve/O thư/Nn/O nhé/M/O !/PU/O 
+Cầm/Vv/O phong/Vv/O thư/Nn/O trên/Cm/O tay/Nn/O ,/PU/O Mai/Nr/PER_B ngạc_nhiên/Vv/O :/PU/O 
+-/PU/O Mẹ/Pp/O ơi/E/O ,/PU/O nhà/Nn/O mình/Pp/O có/Ve/O ai/Pp/O tên/Nn/O là/Vc/O Tường/Nr/PER_B không/R/O nhỉ/M/O ?/PU/O 
+Mẹ/Nn/O dừng/Vv/O tay/Nn/O :/PU/O 
+-/PU/O Nhà/Nn/O chỉ/R/O có/Ve/O ba/Nq/NUM_B người/Nn/O ,/PU/O làm/Vv/O gì/Pp/O còn/Ve/O ai/Pp/O tên/Nn/O là/Vc/O Tường/Nr/PER_B nữa/R/O !/PU/O 
+-/PU/O Nhưng/Cp/O đúng/Aa/O là/Vc/O thư/Nn/O gửi/Vv/O cho/Cp/O nhà/Nn/O mình/Pp/O mà/M/O ./PU/O 
+Mẹ/Nn/O cầm/Vv/O phong/Vv/O thư/Nn/O xem/Vv/O rồi/Cp/O bảo/Vv/O :/PU/O 
+-/PU/O Có_lẽ/R/O người/Nn/O gửi/Vv/O đã/R/O ghi/Vv/O nhầm/Vv/O số/Nn/O nhà/Nn/O ./PU/O 
+Con/Pp/O đừng/R/O bóc/Vv/O thư/Nn/O ,/PU/O để/Cm/O trả/Vv/O lại/R/O bưu_điện/Nn/O ./PU/O 
+À/E/O ,/PU/O hay_là/Cp/O con/Nn/O đi/Vv/O hỏi/Vv/O bác/Nc/TTL_B Nga/Nr/PER_B xem/Vv/O bác/Nc/O có/R/O biết/Vv/O ai/Pp/O là/Vc/O Tường/Nr/PER_B không/R/O ,/PU/O chuyển/Vv/O giúp/Vv/O cho/Cp/O họ/Pp/O ./PU/O 
+Cầm/Vv/O lá/Nc/O thư/Nn/O đi/Vv/O ,/PU/O Mai/Nr/PER_B thầm/Aa/O mong/Vv/O bác/Nc/O tổ_trưởng/Nn/O biết/Vv/O ông/Nn/TTL_B Tường/Nr/PER_B để/Cm/O lá/Nc/O thư/Nn/O này/Pd/O không/R/O phải/Aa/O vòng/Nn/O về/D/O Hải_Phòng_xa/Nr/LOC_B xôi/Nn/O nữa/R/O ./PU/O 

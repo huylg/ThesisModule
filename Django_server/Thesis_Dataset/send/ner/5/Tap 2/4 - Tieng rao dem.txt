@@ -1,0 +1,24 @@
+﻿Tiếng/Nn/O rao/Vv/O đêm/Nt/O 
+Gần/Aa/O như/Cp/O đêm/Nt/O nào/Pd/O tôi/Pp/O cũng/R/O nghe/Vv/O thấy/Vv/O tiếng/Nn/O rao/Vv/O ấy/Pd/O :/PU/O "/PU/O Bánh/Nn/O .../PU/O giò/Nn/O .../PU/O ò/Nn/O .../PU/O ò/Nn/O .../PU/O !/PU/O "/PU/O 
+Tiếng/Nn/O rao/Vv/O đều_đều/Aa/O ,/PU/O khàn_khàn/Nn/O kéo/Vv/O dài/Aa/O trong/Cm/O đêm/Nt/O khuya/Nt/O tĩnh_mịch/Aa/O ,/PU/O nghe/Vv/O buồn/Aa/O não/Nn/O ruột/Aa/O ./PU/O 
+Rồi/Cp/O một/Nq/MEA_B đêm/Nt/MEA_I ,/PU/O vừa/Cs/O thiếp/Vv/O đi/Vv/O ,/PU/O tôi/Pp/O bỗng/R/O giật_mình/Vv/O vì/Cp/O những/Nq/O tiếng/Nn/O la/Vv/O :/PU/O Cháy/Vv/O !/PU/O 
+Cháy/Vv/O nhà/Nn/O !/PU/O 
+Ngôi/Nc/O nhà/Nn/O đầu/Aa/O hẻm/Nn/O đang/R/O bốc_lửa/Aa/O phừng_phừng/Aa/O ./PU/O 
+Tiếng/Nn/O kêu/Vv/O cứu/Vv/O thảm_thiết/Aa/O vọng/Vv/O lại/R/O ./PU/O 
+Trong/Cm/O ánh/Nc/O lửa/Nn/O ,/PU/O tôi/Pp/O thấy/Vv/O một/Nq/NUM_B bóng/Nn/O người/Nn/O cao/Aa/O ,/PU/O gầy/Aa/O ,/PU/O khập_khiễng/Aa/O chạy/Vv/O tới/Cm/O ngôi/Nc/O nhà/Nn/O cháy/Vv/O ,/PU/O xô/Vv/O cánh/Nn/O cửa/Nn/O đổ/Vv/O rầm/Aa/O ./PU/O 
+Mấy/Nq/O người/Nn/O trong/Cm/O nhà/Nn/O vọt/Vv/O ra/R/O ,/PU/O khung/Nn/O cửa/Nn/O ập/Vv/O xuống/D/O ,/PU/O khói/Nn/O bụi/Nn/O mịt_mù/Aa/O .../PU/O 
+Rồi/Cp/O từ/Cm/O trong/Cm/O nhà/Nn/O ,/PU/O vẫn/R/O cái/Nc/O bóng/Nn/O cao/Aa/O ,/PU/O gầy/Aa/O ,/PU/O khập_khiễng/Aa/O ấy/Pd/O lom_khom/Aa/O như/Cp/O đang/R/O che_chở/Vv/O vật/Nn/O gì/Pp/O ,/PU/O phóng/Vv/O thẳng/Aa/O ra/D/O đường/Nn/O ./PU/O 
+Qua/Cm/O khỏi/Nn/O thềm/Nn/O nhà/Nn/O ,/PU/O người/Nn/O đó/Pd/O vừa/R/O té/Vv/O quỵ/Vv/O thì/Cp/O một/Nq/NUM_B cây/Nc/O rầm/Aa/O sập/Vv/O xuống/D/O ./PU/O 
+Mọi/Nq/O người/Nn/O xô/Vv/O đến/Cm/O ./PU/O 
+Ai_nấy/Pp/O bàng_hoàng/Aa/O vì/Cs/O trong/Cm/O cái/Nc/O bọc/Vv/O chân/Nn/O còn/R/O vương/Vv/O khói/Nn/O mà/Cs/O người/Nn/O ấy/Pd/O đang/R/O ôm/Vv/O khư_khư/Aa/O là/Vc/O một/Nq/NUM_B đứa/Nc/O bé/Nn/O mặt_mày/Nn/O đen_nhẻm/Aa/O ,/PU/O thất_thần/Vv/O ,/PU/O khóc/Vv/O không/R/O thành/Vv/O tiếng/Nn/O ./PU/O 
+Mọi/Nq/O người/Nn/O khiêng/Vv/O người/Nc/O đàn_ông/Nn/O ra/D/O xa/Aa/O ./PU/O 
+Người/Nn/O anh/Nn/O mềm_nhũn/Aa/O ./PU/O 
+Người_ta/Pp/O cấp_cứu/Vv/O cho/Cp/O anh/Nn/O ./PU/O 
+Ai/Pp/O đó/Pd/O thảng_thốt/Vv/O kêu/Vv/O :/PU/O "/PU/O Ô/E/O .../PU/O này/Pd/O !/PU/O "/PU/O ,/PU/O rồi/Cp/O cầm/Vv/O cái/Nc/O chân/Nn/O cứng_ngắc/Aa/O của/Cm/O nạn_nhân/Nn/O giơ/Vv/O lên/R/O :/PU/O thì/Cp/O ra/Vv/O là/Cp/O một/Nq/NUM_B cái/Nc/O chân/Nn/O gỗ/Nn/O !/PU/O 
+Người_ta/Pp/O lần/Nn/O tìm/Vv/O tung_tích/Nn/O nạn_nhân/Nn/O ./PU/O 
+Anh/Nn/O công_an/Nn/O lấy/Vv/O ra/D/O từ/Cm/O túi/Nn/O áo/Nn/O nạn_nhân/Nn/O một/Nq/NUM_B mớ/Nn/O giấy_tờ/Nn/O ./PU/O 
+Ai_nấy/Pp/O bàng_hoàng/Aa/O khi/Nt/O thấy/Vv/O trong/Cm/O xấp/Nn/O giấy/Nn/O một/Nq/NUM_B tấm/Nc/O thẻ/Nn/O thương_binh/Nn/O ./PU/O 
+Bấy_giờ/Pd/O người_ta/Pp/O mới/R/O để_ý/Vv/O tới/Cm/O chiếc/Nc/O xe_đạp/Nn/O nằm/Vv/O lăn_lóc/Vv/O ở/Cm/O góc/Nn/O tường/Nn/O và/Cp/O những/Nq/O chiếc/Nc/O bánh_giò/Nn/O tung/Vv/O tóe/Nn/O .../PU/O 
+Thì_ra/Cp/O người/Nn/O bán/Vv/O bánh_giò/Nn/O là/Vc/O một/Nq/NUM_B thương_binh/Nn/O ./PU/O 
+Chính/M/O anh/Nn/O đã/R/O phát_hiện/Vv/O ra/R/O đám/Nn/O cháy/Vv/O ,/PU/O đã/R/O báo_động/Vv/O và/Cp/O cứu/Vv/O một/Nq/NUM_B gia_đình/Nn/O ./PU/O 
+Vừa/R/O lúc/Nt/O đó/Pd/O ,/PU/O chiếc/Nc/O xe_cấp_cứu/Nn/O ào/Vv/O tới/Cm/O chở/Vv/O nạn_nhân/Nn/O đi/Vv/O .../PU/O 

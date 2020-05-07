@@ -1,0 +1,16 @@
+﻿Ba/Nq/NUM_B điều/Nc/O ước/Vv/O 
+Ngày_xưa/Nt/DTM_B ,/PU/O có/Ve/O một/Nq/NUM_B chàng/Nc/O thợ_rèn/Nn/O tên/Nn/O là/Vc/O Rít/Nr/PER_B ./PU/O 
+Chàng/Nc/O được/Vv/O một/Nq/NUM_B tiên_ông/Nn/O tặng/Vv/O cho/Cp/O ba/Nq/NUM_B điều/Nc/O ước/Vv/O ./PU/O 
+Nghĩ/Vv/O trên/Cm/O đời/Nn/O chỉ/R/O có/Ve/O vua/Nn/O là/Vc/O sung_sướng/Aa/O nhất/R/O ,/PU/O Rít/Nr/PER_B ước/Vv/O trở_thành/Vv/O vua/Nn/O ./PU/O 
+Phút_chốc/Nu/O ,/PU/O chàng/Nn/O đã/R/O đứng/Vv/O trong/Cm/O cung_cấm/Nn/O tấp_nập/Aa/O người/Nn/O hầu/Vv/O ./PU/O 
+Nhưng/Cp/O chỉ/R/O mấy/Nq/O ngày/Nt/O ,/PU/O chán/Vv/O cảnh/Nn/O ăn/Vv/O không_ngồi_rồi/Nn/O ,/PU/O Rít/Nr/PER_B bỏ/Vv/O cung_điện/Nn/O ra_đi/Vd/O ./PU/O 
+Lần/Nn/O kia/Pd/O ,/PU/O gặp/Vv/O một/Nq/NUM_B người/Nn/O đi/Vv/O buôn/Vv/O ,/PU/O tiền_bạc/Nn/O nhiều/Aa/O vô_kể/R/O ,/PU/O Rít/Nr/PER_B lại/R/O ước/Vv/O có/Ve/O thật/Aa/O nhiều/Aa/O tiền/Nn/O ./PU/O 
+Điều_ước/Nn/O được/Vv/O thực_hiện/Vv/O ./PU/O 
+Nhưng/Cp/O có/Ve/O của/D/O ,/PU/O Rít/Nr/PER_B luôn/R/O bị/Vv/O bọn/Nn/O cướp/Nn/O rình_rập/Vv/O ./PU/O 
+Thế/Pp/O là/Vc/O tiền_bạc/Nn/O cũng/R/O chẳng/R/O làm/Vv/O chàng/Nn/O vui/Aa/O ./PU/O 
+Chỉ/R/O còn/Ve/O điều_ước/Nn/O cuối_cùng/Aa/O ./PU/O 
+Nhìn/Vv/O những/Nq/O đám/Nn/O mây/Nn/O bồng_bềnh/Vv/O trên/Cm/O trời/Nn/O ,/PU/O Rít/Nr/PER_B ước/Vv/O bay/Vv/O được/Vv/O như/Cp/O mây/Nn/O ./PU/O 
+Chàng/Nc/O bay/Vv/O khắp/Aa/O nơi/Nn/O ,/PU/O ngắm/Vv/O cảnh/Nn/O trên_trời_dưới_biển/ID/O ./PU/O 
+Nhưng/Cp/O mãi/R/O rồi/R/O cũng/R/O chán/Vv/O ,/PU/O chàng/Nn/O lại/R/O thèm/Vv/O được/Vv/O trở_về/Vv/O quê/Nn/O ./PU/O 
+Lò_rèn/Nr/PER_B của/Cm/O Rít/Nr/PER_B đỏ_lửa/Vv/O ,/PU/O ngày_đêm/Nt/O vang/Vv/O tiếng/Nn/O búa/Nn/O đe/Vv/O ./PU/O 
+Sống/Vv/O giữa/Cm/O sự/Nc/O quý_trọng/Vv/O của/Cm/O dân_làng/Nn/O ,/PU/O Rít/Nr/PER_B thấy/Vv/O sống/Vv/O có_ích/Aa/O mới/Cp/O là/Vc/O điều/Nc/O đáng/Vv/O mơ_ước/Vv/O ./PU/O 

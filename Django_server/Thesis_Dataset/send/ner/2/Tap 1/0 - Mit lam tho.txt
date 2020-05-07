@@ -1,0 +1,40 @@
+﻿Mít/Nn/O làm/Vv/O thơ/Nn/O 
+Ở/Cm/O thành_phố/Nu/LOC_B Tí_Hon/Nr/LOC_I ,/PU/O nổi_tiếng/Aa/O nhất/R/O là/Vc/O Mít/Nr/PER_B ./PU/O 
+Người_ta/Pp/O gọi/Vv/O cậu/Nc/O như/Cp/O vậy/Pp/O vì/Cp/O cậu/Nn/O chẳng/R/O biết/Vv/O gì/M/O ./PU/O 
+Tuy_thế/Cp/O ,/PU/O dạo/Vv/O này/Pd/O Mít/Nr/PER_B lại/R/O ham/Vv/O học_hỏi/Vv/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O cậu/Nn/O đến/Vd/O thi_sĩ/Nn/LOC_B Hoa_Giấy/Nr/LOC_I để/Cm/O học/Vv/O làm/Vv/O thơ/Nn/O ./PU/O 
+Hoa_Giấy/Nr/PER_B hỏi/Vv/O :/PU/O 
+Cậu/Nn/O có/R/O biết/Vv/O thế_nào/Pp/O là/Vc/O vần/Nn/O thơ/Nn/O không/R/O ?/PU/O 
+Vần/Nn/O thơ/Nn/O là/Vc/O cái/Nc/O gì/Pp/O ?/PU/O 
+Hai/Nq/NUM_B từ/Nn/O có/Ve/O phần/Nn/O cuối/Nn/O giống/Vv/O nhau/Nn/O thì/Cp/O gọi/Vv/O là/Cp/O vần/Nn/O ./PU/O 
+Ví_dụ/Cp/O :/PU/O vịt/Nn/O -/PU/O thịt/Nn/O ,/PU/O cáo/Vv/O -/PU/O gáo/Nn/O ./PU/O 
+Bây_giờ/Pd/O cậu/Nn/O hãy/R/O tìm/Vv/O một/Nq/NUM_B từ/Nn/O vần/Nn/O với/Cp/O bé/Nn/O ./PU/O 
+Phé/Nu/O !/PU/O 
+-/PU/O Mít/Nr/PER_B đáp/Vv/O ./PU/O 
+Phé/Nu/O là/Vc/O gì/Pp/O ?/PU/O 
+Vần/Nn/O thì/Cp/O vần/Nn/O nhưng/Cp/O phải/Vv/O có/Ve/O nghĩa/Nn/O chứ/M/O ./PU/O 
+Mình/Pp/O hiểu/Vv/O rồi/R/O ./PU/O 
+Thật/R/O kỳ_diệu/Aa/O !/PU/O 
+-/PU/O Mít/Nr/PER_B kêu/Vv/O lên/R/O ./PU/O 
+Về/Cm/O đến/Vd/O nhà/Nn/O ,/PU/O Mít/Nr/PER_B bắt_tay/Vv/O ngay/M/O vào/Cm/O việc/Nn/O ./PU/O 
+Cậu/Nn/O đi/R/O đi/R/O lại/R/O lại/R/O ,/PU/O vò/Nn/O đầu/Aa/O bứt/Vv/O tai/Nn/O ./PU/O 
+Đến/Cm/O tối/Nt/O thì/Cp/O bài/Nc/O thơ/Nn/O hoàn_thành/Vv/O ./PU/O 
+Mít/Nn/O gọi/Vv/O Biết/Vv/O Tuốt/Nr/PER_B ,/PU/O Nhanh_Nhảu/Nr/PER_B ,/PU/O Ngộ_Nhỡ/Nr/PER_B đến/Vd/O ,/PU/O tặng/Vv/O mỗi/Nq/O bạn/Nn/O mấy/Nq/O câu_thơ/Nn/O ./PU/O 
+Thoạt_tiên/Nn/O là/Vc/O thơ/Nn/O về/Cm/O Biết/Vv/O Tuốt/Nr/PER_B :/PU/O 
+Một/Nq/O hôm/Nt/O đi/Vv/O dạo/Vv/O qua/D/O dòng/Nn/O suối/Nn/O 
+Biết/Vv/O Tuốt/Nr/PER_B nhảy/Vv/O qua/D/O con/Nc/O cá_chuối/Nn/O ./PU/O 
+Biết/Vv/O Tuốt/Nr/PER_B la/Vv/O lên/R/O :/PU/O 
+-/PU/O Tớ/Pp/O nhảy/Vv/O qua/D/O con/Nc/O cá_chuối/Nn/O bao_giờ/Pp/O ?/PU/O 
+-/PU/O Nói/Vv/O cho/Cp/O có/Ve/O vần/Nn/O thôi/M/O !/PU/O 
+-/PU/O Mít/Nr/PER_B giải_thích/Vv/O ./PU/O 
+-/PU/O Muốn/Vv/O cho/Cp/O có/Ve/O vần/Nn/O thì/Cp/O được/Vv/O nói/Vv/O sai/Aa/O sự_thật/Nn/O à/M/O ?/PU/O 
+Cậu/Nn/O hãy/R/O đọc/Vv/O thơ/Nn/O về/Cm/O những/Nq/O bạn/Nn/O khác/Aa/O xem/Vv/O nào/Pd/O !/PU/O 
+-/PU/O Đây/Pd/O là/Vc/O thơ/Nn/O tặng/Vv/O Nhanh_Nhảu/Nr/PER_B :/PU/O 
+Nhanh_Nhảu/Nr/PER_B đói/Vv/O ,/PU/O thật/R/O tội/Aa/O 
+Nuốt_chửng/Vv/O bàn_là/Nn/O nguội/Aa/O ./PU/O 
+-/PU/O Còn/Cp/O đây/Pd/O là/Vc/O thơ/Nn/O về/Cm/O Ngộ_Nhỡ/Nr/PER_B :/PU/O 
+Có/Ve/O cái/Nc/O bánh/Nn/O nhân/Cp/O mỡ/Nn/O 
+Dưới/Cm/O gối/Nn/O cậu/Nn/TTL_B Ngộ_Nhỡ/Nr/PER_B ./PU/O 
+Ba/Nq/NUM_B cậu/Nc/O bạn/Nn/O nghe/Vv/O xong/Aa/O cùng/Aa/O hét/Vv/O toáng/Aa/O lên/R/O ./PU/O 
+Họ/Pp/O cho/Vv/O là/Cp/O Mít/Nr/PER_B chế_giễu/Vv/O họ/Pp/O và/Cp/O dọa/Nn/O không/R/O chơi/Vv/O với/Cp/O Mít/Nr/PER_B nữa/R/O ./PU/O 
+Đó/Pd/O là/Vc/O lần/Nn/O đầu_tiên/An/O Mít/Nr/PER_B làm/Vv/O thơ/Nn/O ./PU/O 

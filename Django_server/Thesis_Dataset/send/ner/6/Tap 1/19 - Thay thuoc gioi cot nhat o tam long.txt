@@ -1,0 +1,34 @@
+﻿Thầy_thuốc/Nn/O giỏi/Aa/O cốt/Nn/O nhất/R/O ở/Cm/O tấm/Nn/O lòng/Nn/O 
+Cụ/Nn/O tổ/Nn/O bên/Nn/O ngoại/Nn/O của/Cm/O Trừng/Nr/PER_B ,/PU/O người/Nn/O họ/Nn/O Phạm/Nr/PER_B ,/PU/O húy/Nr/O là/Vc/O Bân/Nr/PER_B ,/PU/O có/Ve/O nghề/Nn/O y_gia/Nn/O truyền/Vv/O ,/PU/O giữ/Vv/O chức/Nn/O Thái_y/Nn/O lệnh/Nn/O để/Cm/O phụng_sự/Vv/O Trần_Anh_Vương/Nr/PER_B ./PU/O 
+Ngài/Nn/O thường/R/O đem/Vv/O hết/Ve/O của_cải/Nn/O trong/Cm/O nhà/Nn/O ra/D/O mua/Vv/O các/Nq/O loại/Nn/O thuốc/Nn/O tốt/Aa/O và/Cp/O tích_trữ/Vv/O thóc_gạo/Nn/O ./PU/O 
+Gặp/Vv/O kẻ/Nn/O tật_bệnh/Nq/O cơ_khổ/Nn/O ,/PU/O ngài/Nn/O cho/Cp/O ở/Cm/O nhà/Nn/O mình/Pp/O ,/PU/O cấp/Vv/O cơm_cháo/Nn/O ,/PU/O chữa_trị/Vv/O ./PU/O 
+Dẫu/Cs/O bệnh/Nn/O có/Ve/O dầm_dề/Aa/O máu_mủ/Nn/O ,/PU/O ngài/Nn/O cũng/R/O không/R/O hề/M/O né_tránh/Vv/O ./PU/O 
+Bệnh_nhân/Nn/O đến/Vd/O chữa/Vv/O tới/Cm/O khi/Nt/O khỏe/Nt/O mạnh/Aa/O rồi/Cp/O đi/Vv/O ./PU/O 
+Cứ/Vv/O như/Cp/O vậy/Pp/O ,/PU/O trên/Cm/O giường/Nn/O không/R/O lúc/Nt/O nào/Pd/O vắng/Aa/O người/Nn/O ./PU/O 
+Bỗng/R/O liền/R/O năm/Nt/O đói_kém/Aa/O ,/PU/O dịch_bệnh/Nn/O nổi/Vv/O lên/R/O ,/PU/O ngài/Nn/O lại/R/O dựng/Vv/O thêm/Vv/O nhà/Nn/O cho/Cp/O những/Nq/O kẻ/Nn/O khốn_cùng/Aa/O đói_khát/Aa/O và/Cp/O bệnh_tật/Nn/O đến/Vd/O ở/Vv/O ,/PU/O cứu/Vv/O sống/Vv/O hơn/Aa/O ngàn/Nn/O người/Nn/O ./PU/O 
+Ngài/Nn/O được/Vv/O người/Nn/O đương_thời/Nt/O trọng_vọng/Vv/O ./PU/O 
+Một/Nq/NUM_B lần/Nn/O ,/PU/O có/Ve/O người/Nn/O đến/Vd/O gõ_cửa/Vv/O ,/PU/O mời/Vv/O gấp/Vv/O :/PU/O 
+-/PU/O Nhà/Nn/O có/Ve/O người/Nc/O đàn_bà/Nn/O ,/PU/O bỗng_nhiên/R/O nguy_kịch/Aa/O ,/PU/O máu/Nn/O chảy/Vv/O như/Cp/O xối/Vv/O ,/PU/O mặt_mày/Nn/O xanh_lét/Aa/O ./PU/O 
+Nghe/Vv/O vậy/Pp/O ,/PU/O ngài/Nn/O theo/Vv/O người/Nn/O đó/Pd/O đi/Vv/O ngay/R/O ./PU/O 
+Nhưng/Cp/O ra/Vv/O tới/Cm/O cửa/Nn/O thì/Cp/O gặp/Vv/O sứ_giả/Nn/O do/Cp/O vương/Vv/O sai/Aa/O tới/D/O ,/PU/O bảo/Vv/O rằng/Cp/O :/PU/O 
+-/PU/O Trong/Cm/O cung/Nn/O có/Ve/O bậc/Nn/O quý_nhân/Nu/O bị/Vv/O sốt/Vv/O ,/PU/O vương/Vv/O triệu/Nq/O đến/Cm/O khám/Vv/O ./PU/O 
+Ngài/Nn/O nói/Vv/O :/PU/O 
+-/PU/O Bệnh/Nn/O đó/Pd/O không/R/O gấp/Vv/O ./PU/O 
+Nay/Nt/O mệnh/Nn/O sống/Vv/O của/Cm/O người_nhà/Nn/O người/Nn/O này/Pd/O chỉ/R/O ở/Cm/O trong/Cm/O khoảnh_khắc/Nn/O ./PU/O 
+Tôi/Pp/O hãy/R/O cứu/Vv/O họ/Pp/O trước/Nn/O ,/PU/O lát/Nn/O nữa/R/O sẽ/R/O đến/Vd/O vương/Vv/O phủ/Vv/O ./PU/O 
+Quan_Trung_sứ/Nr/PER_B tức_giận/Vv/O nói/Vv/O :/PU/O 
+-/PU/O Phận/Nn/O làm/Vv/O tôi/Pp/O ,/PU/O sao/Pp/O được/Vv/O như/Cp/O vậy/Pp/O ?/PU/O 
+Ông/Nn/O định/Vv/O cứu/Vv/O tính_mạng/Nn/O người_ta/Pp/O mà/Cp/O không/R/O cứu/Vv/O tính_mạng/Nn/O mình/Pp/O chăng/M/O ?/PU/O 
+Ngài/Nn/O đáp/Vv/O :/PU/O 
+-/PU/O Tôi/Pp/O có/R/O mắc/Vv/O tội/Nn/O ,/PU/O cũng/R/O không/R/O biết/Vv/O làm/Vv/O thế_nào/Pp/O ./PU/O 
+Nếu/Cp/O người/Nn/O kia/Pd/O không/R/O được/Vv/O cứu/Vv/O ,/PU/O sẽ/R/O chết/Vv/O trong/Cm/O khoảnh_khắc/Nn/O ,/PU/O chẳng/R/O biết/Vv/O trông/Vv/O vào/Cm/O đâu/Pp/O ./PU/O 
+Tính_mệnh/Nn/O của/Cm/O tiểu/Vv/O thần/Nn/O còn/R/O trông_cậy/Vv/O vào/Cm/O chúa_thượng/Nn/O ,/PU/O may_ra/R/O thoát/Vv/O ./PU/O 
+Tội/Nn/O tôi/Pp/O xin/Vv/O chịu/Vv/O ./PU/O 
+Nói/Vv/O rồi/R/O ,/PU/O đi/Vv/O cứu/Vv/O người/Nn/O kia/Pd/O ./PU/O 
+Họ/Pp/O quả/M/O được/Vv/O cứu/Vv/O sống/Vv/O ./PU/O 
+Lát/Nt/DTM_B sau/Nn/DTM_I ,/PU/O ngài/Nn/O đến/Vd/O yết_kiến/Nn/O ,/PU/O vương/Vv/O quở_trách/Vv/O ./PU/O 
+Ngài/Nn/O bỏ/Vv/O mũ/Nn/O ra/R/O ,/PU/O tạ/Nu/O tội/Nn/O ,/PU/O bày/Vv/O rõ/Aa/O lòng/Nn/O thành/Vv/O của/Cm/O mình/Pp/O ./PU/O 
+Vương/Nr/PER_B mừng/Vv/O nói/Vv/O :/PU/O 
+-/PU/O Ngươi/Nr/PER_B thật/R/O là/Vc/O bậc/Nn/O lương_y/Nn/O chân_chính/Aa/O ,/PU/O đã/R/O giỏi/Aa/O về/Cm/O nghề_nghiệp/Nn/O lại/R/O có/Ve/O lòng/Nn/O nhân_đức/Nn/O ,/PU/O thương_xót/Vv/O đám/Nn/O con_đỏ/Nn/O của/Cm/O ta/Pp/O ,/PU/O thật/R/O xứng/Aa/O với/Cp/O lòng/Nn/O ta/Pp/O mong_mỏi/Vv/O ./PU/O 
+Về/Cm/O sau/Nn/O ,/PU/O con_cháu/Nn/O của/Cm/O ngài/Nn/O làm/Vv/O quan/Nn/O lương_y/Nn/O đến/Vd/O hàm/Nn/O ngũ_phẩm/Nn/O ,/PU/O tứ/Nq/O phẩm/Nn/O có/Ve/O tới/M/O hai/Nq/NUM_B ba/Nq/NUM_I vị/Nc/O ./PU/O 
+Người_đời/Nn/O đều/R/O khen_ngợi/Vv/O họ/Pp/O không/R/O để/Vv/O sa_sút/Vv/O nghiệp/Nn/O nhà/Nn/O ./PU/O 

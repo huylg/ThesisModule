@@ -1,0 +1,22 @@
+﻿Phẩm_bình/Nu/O nhân_vật/Nn/O lịch_sử/Aa/O 
+1/Nq/NUM_B ./PU/O 
+Về/Cm/O Trưng_Vương/Nr/PER_B 
+Trưng_Trấc/Nr/PER_B ,/PU/O Trưng_Nhị/Nr/PER_B là/Vc/O đàn_bà/Nn/O ,/PU/O hô/Vv/O một/Nq/NUM_B tiếng/Nn/O mà/Cp/O các/Nq/O quận/Nu/O Cửu_Chân/Nr/LOC_B ,/PU/O Nhật_Nam/Nr/PER_B ,/PU/O Hợp_Phố/Nr/PER_B và/Cp/O 65/Nq/NUM_B thành/Vv/O ở/Vv/O Lĩnh/Vv/O ngoại/Nn/O đều/R/O hưởng_ứng/Vv/O ,/PU/O việc/Nn/O dựng/Vv/O nước/Nn/O xưng/Vv/O vương/Nn/O dễ/Aa/O như/Cp/O trở/Vv/O bàn_tay/Nn/O ,/PU/O đủ/Aa/O biết/Vv/O là/Cp/O hình_thế/Nq/O đất/Nn/O Việt/Nr/LOC_B ta/Pp/O có_thể_dựng/Nn/O được/Vv/O cơ_nghiệp/Nn/O bá_vương/Nn/O ./PU/O 
+Tiếc/Vv/O rằng/Cp/O nối/Vv/O sau/Nn/O họ/Nn/O Triệu/Nr/PER_B cho/Cp/O đến/Cm/O trước/Nn/O họ/Nn/O Ngô/Nr/PER_B ,/PU/O trong/Cm/O khoảng/Nn/O hơn/Aa/O nghìn/Nq/MEA_B năm/Nt/MEA_I ,/PU/O bọn/Nn/O đàn_ông/Nn/O chỉ/R/O cúi/Vv/O đầu/Nn/O bó_tay/Vv/O ,/PU/O làm/Vv/O tôi_tớ/Nn/O cho/Cp/O người/Nc/O phương/Nn/O Bấc/Nn/O ,/PU/O há/Vv/O chẳng/R/O xấu_hổ/Vv/O với/Cp/O hai/Nq/NUM_B chị_em/Nn/O họ/Nn/O Trưng/Nr/PER_B là/Vc/O đàn_bà/Nn/O ư/M/O !/PU/O .../PU/O 
+Ôi/E/O ,/PU/O có_thể/Aa/O gọi/Vv/O đó/Pd/O là/Vc/O tự/Pp/O bỏ_mình/Vv/O vậy/Pp/O ./PU/O 
+2/Nq/NUM_B ./PU/O 
+Về/Cm/O Tiền/Nn/ORG_B Ngô_Vương/Nr/ORG_I 
+Tiền/Nn/O Ngô_Vương/Nr/PER_B có_thể/Aa/O đem/Vv/O quân/Nn/O mới/Cp/O họp/Vv/O của/Cm/O đất/Nn/O Việt/Nr/LOC_B ta/Pp/O mà/Cp/O phá/Vv/O được/R/O trăm/Nq/O vạn/Nq/O quân/Nn/O của/Cm/O Lưu_Hoằng_Thao/Nr/PER_B ,/PU/O mở/Vv/O nước/Nn/O xưng/Vv/O vương/Nn/O ,/PU/O làm/Vv/O cho/Cp/O người/Nc/O phương/Nn/O Bắc/Nn/O không/R/O dám/Vv/O lại/R/O sang/Vd/O nữa/R/O ./PU/O 
+Có_thể/Aa/O bảo/Vv/O là/Cp/O một/Nq/NUM_B cơn/Nc/O giận/Vv/O mà/Cp/O yên/Aa/O được/Vv/O dân/Nn/O ,/PU/O mưu/Vv/O giỏi/Aa/O mà/Cp/O đánh/Vv/O cũng/R/O giỏi/Aa/O vậy/Pp/O ./PU/O 
+Tuy/Cs/O chỉ/R/O xưng/Vv/O vương/Nn/O ,/PU/O chưa/R/O lên_ngôi/Vv/O hoàng_đế/Nn/O và/Cp/O đổi/Vv/O niên_hiệu/Nn/O mà/Cs/O chính_thống/Aa/O của/Cm/O nước/Nn/ORG_B Việt/Nr/ORG_I ta/Pp/O gần/Aa/O như/Cp/O nối/Vv/O lại/R/O được/R/O ./PU/O 
+3/Nq/NUM_B ./PU/O 
+Về/Cm/O Đinh_Tiên_Hoàng/Nr/PER_B 
+Tiên/Nn/O Hoàng/Nr/PER_B tài_năng/Nn/O sáng_suốt/Aa/O hơn/Aa/O người/Nn/O ,/PU/O dũng/Nq/O lược/Nn/O bậc/Nn/O nhất/An/O đời/Nn/O ,/PU/O đương/Nn/O lúc/Nt/O nước/Nn/LOC_B Việt/Nr/LOC_I ta/Pp/O không/R/O chủ/Nn/O ,/PU/O các/Nq/O hùng/Nn/O trưởng/Nn/O cát_cứ/Vv/O đánh/Vv/O một/Nq/NUM_B lần/Nn/O mà/Cp/O mười/Nq/NUM_B hai/Nq/NUM_I sứ_quân/Nn/O thần_phục/Vv/O hết/Ve/O ,/PU/O rồi/Cp/O mở/Vv/O nước/Nn/O ,/PU/O đóng_đô/Vv/O ,/PU/O xưng/Vv/O hoàng_đế/Nn/O ,/PU/O đặt/Vv/O trăm/Nq/O quan/Nn/O ,/PU/O dựng/Vv/O sáu/Nq/NUM_B quân/Nn/O ,/PU/O chế_độ/Nn/O gần/Aa/O đủ/Aa/O ./PU/O 
+Chắc/Aa/O là/Vc/O ý/Nn/O trời/Nn/O vì/Cp/O nước/Nn/LOC_B Việt/Nr/LOC_I ta/Pp/O lại/R/O sinh/Vv/O bậc/Nn/O thánh/Nn/O triết/Nn/O để/Cm/O tiếp_nối/Vv/O chính_thống/Aa/O của/Cm/O Triệu_Vương_chăng/Nr/ORG_B ?/PU/O 
+4/Nq/NUM_B ./PU/O 
+Về/Cm/O việc/Nn/O ban/Nn/O thướng/Nn/O 
+Kể_ra/Cp/O ,/PU/O người_xưa/Nn/O gọi/Vv/O điềm/Nn/O lành/Aa/O là/Vc/O dùng/Vv/O được/R/O người/Nn/O hiền/Aa/O và/Cp/O được_mùa/Vv/O thôi/M/O ,/PU/O ngoài_ra/Cp/O không/R/O có/Ve/O cái/Nc/O gì/Pp/O đáng/Vv/O gọi/Vv/O là/Cp/O điềm/Nn/O lành/Aa/O cả/M/O ./PU/O 
+Huống_chi/Cp/O chim/Nn/O quý/Aa/O thú/Nn/O lạ/Aa/O không/R/O nuôi/Vv/O ở/Cm/O nước/Nn/O ,/PU/O đó/Pd/O cũng/R/O là/Vc/O lời/Nn/O khuyên_răn/Vv/O của/Cm/O tiên/Nn/O vương/Nn/O để/Vv/O lại/R/O ./PU/O 
+Thần/Nn/O Tông/Nr/O nhân/Cp/O Nguyễn_Lộc/Nr/PER_B và/Cp/O Nguyễn_Tử_Khắc/Nr/PER_B dâng/Vv/O hươu/Nn/O trắng/Aa/O ,/PU/O cho/Vv/O là/Vc/O vật/Nn/O điềm/Nn/O lành/Aa/O ,/PU/O cho/Cp/O Lộc/Nr/PER_B chức/Nn/O Đại_liêu/Nq/O ban/Nn/O ,/PU/O cho/Cp/O Tử_Khắc/Nr/PER_B tước/Vv/O Minh/Nr/PER_B tự/Pp/O ,/PU/O thì/Cp/O người/Nn/O thưởng/Vv/O và/Cp/O người/Nn/O nhận/Vv/O thưởng/Vv/O đều/R/O không/R/O phải/Aa/O cả/M/O ./PU/O 
+Tại_sao/Pp/O ?/PU/O 
+Thần/Nn/O Tông/Nr/O vì/Cs/O được/Vv/O dâng/Vv/O thú/Nn/O lạ/Aa/O mà/Cs/O cho/Cp/O quan/Nn/O tước/Vv/O ,/PU/O thế/Pp/O là/Vc/O thưởng/Vv/O lạm/Vv/O ,/PU/O Lộc/Nr/PER_B và/Cp/O Khắc/Nr/PER_B không/R/O có/Ve/O công/Nn/O mà/Cp/O nhận/Vv/O thưởng/Vv/O ,/PU/O thế/Pp/O là/Vc/O dối/Vv/O vua/Nn/O ./PU/O 

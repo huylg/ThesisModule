@@ -1,0 +1,10 @@
+﻿Người/Nn/O trí_thức/Nn/O yêu/Vv/O nước/Nn/O 
+Năm/Nt/DTM_B 1948/Nt/DTM_I ,/PU/O bác_sĩ/Nn/DES_B Đặng_Văn_Ngữ/Nr/PER_B rời/Vv/O Nhật_Bản/Nr/LOC_B về/D/O nước/Nn/O tham_gia/Vv/O kháng_chiến/Vv/O chống/Vv/O thực_dân/Nn/ORG_B Pháp/Nr/ORG_I ./PU/O 
+Để/Cm/O tránh/Vv/O bị/Vv/O địch/Nn/O phát_hiện/Vv/O ,/PU/O ông/Nn/O phải/Vv/O vòng/Nn/O từ/Cm/O Nhật_Bản/Nr/LOC_B qua/Vd/O Thái_Lan/Nr/LOC_B ,/PU/O sang/Vd/O Lào/Nr/LOC_B ,/PU/O về/Cm/O Nghệ_An/Nr/ORG_B ,/PU/O rồi/Cp/O từ/Cm/O Nghệ_An/Nr/LOC_B lên/Vd/O Việt_Bắc/Nr/LOC_B ./PU/O 
+Dù/Cp/O băng/Vd/O qua/D/O rừng/Nn/O rậm/Aa/O hay/Cp/O suối/Nn/O sâu/Aa/O ,/PU/O lúc/Nt/O nào/Pd/O ông/Nn/O cũng/R/O giữ/Vv/O bên/Nn/O mình/Pp/O chiếc/Nc/O va_li/Nn/O đựng/Vv/O nấm/Nn/O pê-ni-xi-lin/Nu/O mà/Cp/O ông/Nn/O gây/Vv/O được/R/O từ/Cm/O bên/Nn/O Nhật/Nr/LOC_B ./PU/O 
+Nhờ/Cm/O va_li/Nn/O nấm/Nn/O này/Pd/O ,/PU/O bộ_đội/Nn/O ta/Pp/O đã/R/O chế/Vv/O được/R/O thuốc/Nn/O chữa/Vv/O cho/Cp/O thương_binh/Nn/O ./PU/O 
+Năm/Nt/DTM_B 1967/Nt/DTM_I ,/PU/O lúc/Nt/O đã/R/O gần/Aa/O 60/Nq/MEA_B tuổi/Nn/MEA_I ,/PU/O ông/Nn/O lại/R/O lên_đường/Vv/O ra_mặt/Vv/O trận/Nn/O chống/Vv/O Mĩ/Nr/PER_B cứu/Vv/O nước/Nn/O ./PU/O 
+Ở/Cm/O chiến_trường/Nn/O ,/PU/O bệnh/Nn/O sốt_rét/Nn/O hoành_hành/Vv/O ,/PU/O đồng_bào/Nn/O và/Cp/O chiến_sĩ/Nn/O cần/Vv/O có/Ve/O ông/Nn/O ./PU/O 
+Sau/Nn/O nhiều/Aa/O ngày/Nt/O khổ_công/Aa/O nghiên_cứu/Vv/O ,/PU/O ông/Nn/O chế/Vv/O ra/R/O thuốc/Nn/O chống/Vv/O sốt_rét/Nn/O và/Cp/O tự/Pp/O tiêm/Vv/O thử/Vv/O vào/Cm/O cơ_thể/Nn/O mình/Pp/O những/Nq/O liều/Nn/O thuốc/Nn/O đầu_tiên/An/O ./PU/O 
+Thuốc/Nn/O sản_xuất/Vv/O ra/R/O ,/PU/O bước_đầu/Nn/O có/Ve/O hiệu_quả/Nn/O cao/Aa/O ./PU/O 
+Nhưng/Cp/O giữa/Nn/O lúc/Nt/O ấy/Pd/O ,/PU/O một/Nq/NUM_B trận/Nn/O bom/Nn/O của/Cm/O kẻ_thù/Nn/O đã/R/O cướp/Vv/O đi/R/O người/Nc/O trí_thức/Nn/O yêu/Vv/O nước/Nn/O và/Cp/O tận/Cm/O tụy/Nn/O của/Cm/O chúng_ta/Pp/O ./PU/O 
