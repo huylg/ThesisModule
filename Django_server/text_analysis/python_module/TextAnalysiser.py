@@ -20,7 +20,7 @@ class TextAnalysiser:
             self.charList += list(syllable)
 
         self.wordCounter = Counter(self.wordList)
-        self.posWordList = underthesea.pos_tag(rawInputData)
+        self.posTagWordList = underthesea.pos_tag(rawInputData)
 
     def __loadDataFromFile(self):
         commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")

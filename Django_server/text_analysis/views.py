@@ -18,6 +18,8 @@ def index(request):
         NH1985FomulaValue = TextAnalysiser.calculateNH1985(aslcIndex,pdwIndex)
 
         responeData = {
+            'posTag': textAnalysiser.posTagWordList,
+            'wordCounter': textAnalysiser.wordCounter,
             'aslw' : TextAnalysiser.calculateASLW(textAnalysiser.sentenceList,textAnalysiser.wordList),
             'asls' : TextAnalysiser.calculateASLS(textAnalysiser.sentenceList,textAnalysiser.syllableList),
             'aslc' : aslcIndex,
