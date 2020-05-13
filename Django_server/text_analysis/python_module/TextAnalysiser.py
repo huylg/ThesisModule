@@ -4,12 +4,12 @@ import underthesea
 class TextAnalysiser:
 
     def __init__(self,rawInputData):
-        rawInputData = rawInputData.lower()
-        self.rawIntput = rawInputData
+        
+        self.rawInput = rawInputData
         self.__loadDataFromFile()
         self.sentenceMarkList = set([',','.','!','?',':',';','-'])
-        self.sentenceList = underthesea.sent_tokenize(rawInputData)
-        self.wordList = list(filter(lambda x: not  x in self.sentenceMarkList ,underthesea.word_tokenize(rawInputData)))
+        self.sentenceList = underthesea.sent_tokenize(self.rawInput)
+        self.wordList = list(filter(lambda x: not  x in self.sentenceMarkList ,underthesea.word_tokenize(self.rawInput)))
         
         self.syllableList = []
         for word in self.wordList:
