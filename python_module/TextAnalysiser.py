@@ -3,10 +3,10 @@ import underthesea
 
 class TextAnalysiser:
     def __init__(self):
-        commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
-        commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
-        sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
-        dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
+        commonWordFile = open('./Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
+        commonSyllableFile = open('./Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
+        sinoVietWordFile = open('./Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
+        dialectWordFile = open('./Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
 
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
@@ -123,12 +123,12 @@ class TextAnalysiser:
             'wordCounter' : inputWordCounter,
             'number_of_sentence':numberOfSentence,
             'number_of_word' : numberOfWord,
-            'number_of _distinct word': numberOfDistinctWord,
+            'number_of_distinct_word': numberOfDistinctWord,
             'number_of_syllable':numberOfSyllable,
-            'number_of_distinct syllable':numberofDistinctSyllable,
+            'number_of_distinct_syllable':numberofDistinctSyllable,
             'number_of_character':numberOfCharacter,
-            'number_of_proper noun':numberOfProperNouns,
-            'number_of_distinct proper noun':numberOfProperNouns,
+            'number_of_proper_noun':numberOfProperNouns,
+            'number_of_distinct_proper_noun':numberOfProperNouns,
             'aslw':aslw,
             'asls':asls,
             'aslc':aslc,
