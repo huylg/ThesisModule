@@ -2,30 +2,11 @@ from collections import Counter
 import underthesea
 
 class TextAnalysiser:
-
-    def __init__(self,rawInputData):
-        self.rawIntput = rawInputData
-        self.__loadDataFromFile()
-        self.sentenceMarkList = set([',','.','!','?',':',';','-'])
-        self.sentenceList = underthesea.sent_tokenize(rawInputData)
-        self.wordList = list(filter(lambda x: not  x in self.sentenceMarkList ,underthesea.word_tokenize(rawInputData)))
-        
-        self.syllableList = []
-        for word in self.wordList:
-            self.syllableList += word.split()
-
-        self.charList = []
-        for syllable in self.syllableList:
-            self.charList += list(syllable)
-
-        self.wordCounter = Counter(self.wordList)
-        self.posWordList = underthesea.pos_tag(rawInputData)
-
-    def __loadDataFromFile(self):
-        commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r')
-        commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r')
-        sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r')
-        dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r')
+    def __init__(self):
+        commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
+        commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
+        sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
+        dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
 
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
@@ -40,73 +21,126 @@ class TextAnalysiser:
         commonWordFile.close()
         commonSyllableFile.close()
         sinoVietWordFile.close()
-        dialectWordFile.close() 
+        dialectWordFile.close()
     
-    # average sentence length in word
-    @staticmethod
-    def calculateASLW(sentenceList,wordList):
-        return len(wordList)/len(sentenceList)
+    def analysis(self,rawInputData):
+        inputSentenceList = underthesea.sent_tokenize(rawInputData)
+        inputPosWordList = underthesea.pos_tag(rawInputData)
+        inputWordList = underthesea.word_tokenize(rawInputData)
+        inputWordCounter = Counter(inputWordList)
 
-    # average sentence length in syllable 
-    @staticmethod
-    def calculateASLS(sentenceList,syllableList):
-        return len(syllableList)/len(sentenceList) 
+        inputSyllableList = []
+        for word,pos in inputPosWordList:
+            if pos != 'CH':
+                inputSyllableList += word.lower().split()
+        inputDistinctSyllableSet = set(inputSyllableList)
 
-    # average senetence length in character
-    @staticmethod
-    def calculateASLC(sentenceList,charList): 
-        return len(charList)/len(sentenceList) 
+        inputProperNounWordList = []
+        for Word,pos in inputPosWordList:
+            if pos == 'Np':
+                inputProperNounWordList.append(Word)
+        inputDistinctProperNounWordList = set(inputProperNounWordList)
 
-    # average word length in character
-    @staticmethod
-    def calculateAWLC(wordList,charList):
-        return len(charList)/len(wordList) 
+        inputDialectWordList = list(filter(lambda word: word in self.dialectWordSet,inputWordList))
+        inputDistinctDialectWordList = set(inputDialectWordList)
 
-    # averagew word length in syllable
-    @staticmethod
-    def calculateAWLS(wordList,syllableList):
-        return len(syllableList)/len(wordList)
+        inputSinoVietWordList = list(filter(lambda word: word in self.sinoVietWordSet,inputWordList))
+        inputDistinctSinoViewWordList = set(inputSinoVietWordList)
 
-    # percertange of difficult syllables
-    @staticmethod
-    def calculatePDS(syllableList,commonSyllableSet):
-        totalSyllable = len(syllableList)
-        totalDifficultSyllable = len(list(filter(lambda syllable: not syllable in commonSyllableSet,syllableList)))
-        return totalDifficultSyllable/totalSyllable
 
-    # percertange of difficult word
-    @staticmethod
-    def calculatePDW(wordList,commonWordSet):
-        totalWord = len(wordList)
-        totalDifficultWord = len(list(filter(lambda word: not word in commonWordSet,wordList)))
-        return totalDifficultWord/totalWord
+        # number of sentence
+        numberOfSentence = len(inputSentenceList)
 
-    #percertange of Sino-vietnamese word
-    @staticmethod
-    def calculatePSVW(wordList,sinoVietWordSet):
-        totalWord = len(wordList)
-        totalSinoVietWord = len(list(filter(lambda word: word in sinoVietWordSet,wordList)))
-        return totalSinoVietWord/totalWord
+        # number of Word
+        numberOfWord = len(inputWordList)
 
-    #percertange of dialect words (pdiaw)
-    @staticmethod
-    def calculatePDiaW(wordList,dialectWordSet):
-        totalWord = len(wordList)
-        totalDialectWord = len(list(filter(lambda word: word in dialectWordSet,wordList)))
-        return totalDialectWord/totalWord
+        # number of distinct Word
+        numberOfDistinctWord = len(inputWordCounter)
 
-    #calculate score
-    @staticmethod
-    def calculateLAVFomula(aslcIndex, awlcIndex, pdwIndex ):
-        return 0.004*aslsIndex + 0.1905*awlcIndex + 2.7147*pdwIndex - 0.7295
- 
-    @staticmethod
-    def calculateNH1982(aslcIndex,awlcIndex):
-        return 2*awlcIndex + 0.2*aslcIndex - 6
-    
-    @staticmethod
-    def calculateNH1985(aslcIndex, pswIndex):
-        wdIndex =  pswIndex*100
-        return 0.27*wdIndex + 0.13*aslcIndex +1.74
+        # number of syllable:
+        numberOfSyllable = len(inputSyllableList)
 
-print(TextAnalysiser("Bán chó . \nChó nhà Giang đẻ những sáu con .").wordList)
+        # number of distinct syllable:
+        numberofDistinctSyllable = len(inputSyllableList)
+
+        # number of character
+        numberOfCharacter = 0
+        for syllable in inputSyllableList:
+            numberOfCharacter+=len(syllable)
+
+        # number of proper nouns
+        numberOfProperNouns = len(inputProperNounWordList)
+
+        #number of Distinct proper nouns
+        numberOfDistinctProperNouns = len(inputDistinctProperNounWordList)
+
+        # average sentence length in Word
+        aslw = numberOfWord/numberOfSentence
+
+        # average sentence length in syllable 
+        asls = numberOfSyllable/numberOfSentence
+
+        # average sentence length in char 
+        aslc = numberOfCharacter/numberOfSentence
+
+        # average Word length in syllable
+        awls = numberOfSyllable/numberOfWord
+
+        # average Word length in character
+        awlc = numberOfCharacter/numberOfWord
+
+        # percertange of difficult syllables
+        inputDifficultSyllybleList = list(filter(lambda syllable: not syllable in self.commonSyllableSet,inputSyllableList))
+        numberOfDifficultSyllable = len(inputDifficultSyllybleList)
+        pds = numberOfDifficultSyllable/numberOfSyllable
+
+        # percertange of difficult word
+        inputDifficultWordList = list(filter(lambda word: not word in self.commonWordSet,inputWordList))
+        numberOfDifficultWord = len(inputDifficultWordList)
+        pdw = numberOfDifficultWord / numberOfWord
+
+        #percertange of Sino-vietnamese word
+        numberOfSinoVietWord = len(inputSinoVietWordList)
+        psvw = numberOfSinoVietWord / numberOfWord
+
+        #percertange of dialect words (pdiaw)
+        numberOfDialectWord = len(inputDialectWordList)
+        pdiadw = numberOfDialectWord / numberOfWord
+
+        # Luong An Vinh Fomula
+        lavFomulaResult = 0.004*aslc + 0.1905*awlc + 2.7147*pdw - 0.7295
+
+        # NH1982 fomula
+        nh1982FomulaResult =  2*awlc + 0.2*aslc - 6
+
+        # NH1985 fomula
+        wdIndex =  pdw*100
+        nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
+
+        #output
+        output = {
+            'posTag' : inputPosWordList,
+            'wordCounter' : inputWordCounter,
+            'number_of_sentence':numberOfSentence,
+            'number_of_word' : numberOfWord,
+            'number_of _distinct word': numberOfDistinctWord,
+            'number_of_syllable':numberOfSyllable,
+            'number_of_distinct syllable':numberofDistinctSyllable,
+            'number_of_character':numberOfCharacter,
+            'number_of_proper noun':numberOfProperNouns,
+            'number_of_distinct proper noun':numberOfProperNouns,
+            'aslw':aslw,
+            'asls':asls,
+            'aslc':aslc,
+            'awls':awls,
+            'awlc':awlc,
+            'pds':pds,
+            'pdw':pdw,
+            'psvw':psvw,
+            'pdiadw':pdiadw,
+            'LAVFomula' : lavFomulaResult,
+            'NH1982' : nh1982FomulaResult,
+            'NH1985': nh1985FomulaResult
+        }
+        return output
+      
