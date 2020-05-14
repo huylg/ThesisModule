@@ -5,12 +5,14 @@ commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r')
 commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r')
 sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r')
 dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r')
+inputFile = open(input(),mode='r') 
+
 
 rawCommonWordList = commonWordFile.read()
 rawCommonSyllableList = commonSyllableFile.read()
 rawSinoVietWordSet = sinoVietWordFile.read()
 rawDialectWordSet = dialectWordFile.read()
-rawInputData = input()
+rawInputData = inputFile.read()
 
 commonWordSet = set(rawCommonWordList.split('\n'))
 commonSyllableSet = set(rawCommonSyllableList.split('\n'))
@@ -19,22 +21,58 @@ dialectWordSet = set(rawDialectWordSet.split('\n'))
 sentenceMarkList = set([',','.','!','?',':',';','-'])
 
 #preprocesing
-rawInputData = rawInputData.lower()
 
 sentenceList = underthesea.sent_tokenize(rawInputData)
 wordList = list(filter(lambda x: not  x in sentenceMarkList ,underthesea.word_tokenize(rawInputData)))
 print(wordList)
 syllableList = []
 for word in wordList:
-    syllableList += word.split()
+    syllableList += word.lower().split()
 
 charList = []
-for syllable in syllableList:
-    charList += list(syllable)
+for word in wordList:
+    charList += filter(lambda x: x != ' ',list(word))
 
+syllableCount = Counter(syllableList)
 wordCounter = Counter(wordList)
 posWordList = underthesea.pos_tag(rawInputData)
+
+properNounWordList = []
+for word,pos in posWordList:
+    if pos == 'Np':
+        properNounWordList.append(word)
+distinctProperNounWordList = set(properNounWordList)
+
+inputDialectWordList = filter(lambda x: x in dialectWordSet,wordList)
+inputDistinctDialectWordList = set(inputDialectWordList)
+
+inputSinoVietWordList = filter(lambda x: x in sinoVietWordSet,wordList)
+inputDistinctSinoViewWordList = set(inputSinoVietWordList)
 #count index
+
+# number of sentence
+numberOfSentence = len(sentenceList)
+
+# number of word
+numberOfWorld = len(wordList)
+
+# number of distinct word
+numberOfDistinctWord = len(wordCounter)
+
+# number of syllable:
+numberOfSyllable = len(syllableList)
+
+# number of distinct syllable:
+numberofDistinctSyllable = len(syllableList)
+
+# number of character
+numberOfCharacter = len(charList)
+
+# number of proper nouns
+numberOfProperNouns = len(properNounWordList)
+
+#number of proper nouns
+numberOfDistinctProperNouns = len(distinctProperNounWordList)
 
 # average sentence length in word
 def calculateASLW(sentenceList,wordList):
