@@ -5,8 +5,7 @@ commonWordFile = open('../Thesis_Dataset/3000_most_word.txt',mode = 'r')
 commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r')
 sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r')
 dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r')
-
-inputFile = input()
+inputFile = open(input(),mode='r') 
 
 
 rawCommonWordList = commonWordFile.read()
