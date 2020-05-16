@@ -48,22 +48,30 @@ for classNum in classlist:
         for key in output.keys():
             output[key] += json[key]/jsonCount
     output['numberOfDocument'] = amountOfFile
-
+    output['grade_level'] = classNum
     outputClass[classNum] = output
 
 # write to excel file
-workbook = xlsxwriter.Workbook('text_analysis.xlsx')
+workbook = xlsxwriter.Workbook('text_analysis_transpose.xlsx')
 worksheet = workbook.add_worksheet()
+tempJson = outputClass[2]
+
 row = 0 
 col = 0
+
+for key in tempJson.keys():
+    worksheet.write(row, col, key)
+    col+=1
+
+row = 1 
+col = 0
+
 for jsonKey,jsonValue in outputClass.items():
-    worksheet.write(row, col, jsonKey)
-    row+=1
     for key,val in jsonValue.items():
-        worksheet.write(row,col,key)
-        worksheet.write(row,col+1,val)
-        row+=1
+        worksheet.write(row,col,val)
+        col+=1
     row+=1
+    col=0
 
 workbook.close()
 
