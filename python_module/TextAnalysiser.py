@@ -119,8 +119,8 @@ class TextAnalysiser:
 
         #output
         output = {
-            'posTag' : inputPosWordList,
-            'wordCounter' : inputWordCounter,
+            # 'posTag' : inputPosWordList,
+            # 'wordCounter' : inputWordCounter,
             'number_of_sentence':numberOfSentence,
             'number_of_word' : numberOfWord,
             'number_of_distinct_word': numberOfDistinctWord,
