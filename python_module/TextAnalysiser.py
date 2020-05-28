@@ -61,7 +61,7 @@ class TextAnalysiser:
         numberOfSyllable = len(inputSyllableList)
 
         # number of distinct syllable:
-        numberofDistinctSyllable = len(inputSyllableList)
+        numberofDistinctSyllable = len(inputDistinctSyllableSet)
 
         # number of character
         numberOfCharacter = 0
@@ -90,12 +90,12 @@ class TextAnalysiser:
         awlc = numberOfCharacter/numberOfWord
 
         # percertange of difficult syllables
-        inputDifficultSyllybleList = list(filter(lambda syllable: not syllable in self.commonSyllableSet,inputSyllableList))
+        inputDifficultSyllybleList = list(filter(lambda syllable: not syllable.lower() in self.commonSyllableSet,inputSyllableList))
         numberOfDifficultSyllable = len(inputDifficultSyllybleList)
         pds = numberOfDifficultSyllable/numberOfSyllable
 
         # percertange of difficult word
-        inputDifficultWordList = list(filter(lambda word: not word in self.commonWordSet,inputWordList))
+        inputDifficultWordList = list(filter(lambda word: not word.lower() in self.commonWordSet,inputWordList))
         numberOfDifficultWord = len(inputDifficultWordList)
         pdw = numberOfDifficultWord / numberOfWord
 
@@ -144,3 +144,6 @@ class TextAnalysiser:
         }
         return output
       
+
+textAnalysiser = TextAnalysiser()
+textAnalysiser.analysis("Huy dep trai")

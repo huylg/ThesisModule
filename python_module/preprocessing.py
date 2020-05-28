@@ -6,7 +6,7 @@ rootdir = './Thesis_Dataset/send/or - without note/'
 textAnalysiser = TextAnalysiser()
 outputJson = []
 # write to excel file
-workbook = xlsxwriter.Workbook('text_analysis.xlsx')
+workbook = xlsxwriter.Workbook('text_analysis_ver2.xlsx')
 worksheet = workbook.add_worksheet()
 
 row = 1
