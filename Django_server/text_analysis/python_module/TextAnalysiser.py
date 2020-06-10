@@ -1,5 +1,10 @@
 from collections import Counter
-import underthesea
+import pickle
+# import underthesea
+import os
+from sklearn.naive_bayes import MultinomialNB
+import numpy as np
+from vncorenlp import VnCoreNLP
 
 class TextAnalysiser:
     def __init__(self):
@@ -7,6 +12,8 @@ class TextAnalysiser:
         commonSyllableFile = open('../Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
         sinoVietWordFile = open('../Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
         dialectWordFile = open('../Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
+        modulePickleFile = open('./text_analysis/python_module/MultinomialNB_readability.pickle',mode='rb')
+
 
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
@@ -17,28 +24,52 @@ class TextAnalysiser:
         self.commonSyllableSet = set(rawCommonSyllableList.split('\n'))
         self.sinoVietWordSet = set(rawSinoVietWordSet.split('\n'))
         self.dialectWordSet = set(rawDialectWordSet.split('\n'))
+        self.module = pickle.load(modulePickleFile)
 
         commonWordFile.close()
         commonSyllableFile.close()
         sinoVietWordFile.close()
         dialectWordFile.close()
+        modulePickleFile.close()
+
+        # load vncorenlp annator
+        jarFullPath = os.path.abspath("VnCoreNLP/VnCoreNLP-1.1.1.jar")
+        self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos", max_heap_size='-Xmx2g') 
+        
     
     def analysis(self,rawInputData):
-        inputSentenceList = underthesea.sent_tokenize(rawInputData)
-        inputPosWordList = underthesea.pos_tag(rawInputData)
-        inputWordList = underthesea.word_tokenize(rawInputData)
-        inputWordCounter = Counter(inputWordList)
+        # inputSentenceList = underthesea.sent_tokenize(rawInputData)
+        # inputPosWordList = underthesea.pos_tag(rawInputData)
+        # inputWordList = underthesea.word_tokenize(rawInputData)
+        # inputWordCounter = Counter(inputWordList)
 
+        inputSentenceList = self.annotator.pos_tag(rawInputData)
+        inputPosWordList = []
+        inputWordList=[]
         inputSyllableList = []
-        for word,pos in inputPosWordList:
-            if pos != 'CH':
-                inputSyllableList += word.lower().split()
+
+        for sentence in inputSentenceList:
+            for wordPostagTuple in sentence:
+                word = wordPostagTuple[0]
+                postag = wordPostagTuple[1]
+
+                if postag != 'CH':
+                    word = word.replace('_',' ')
+                    inputSyllableList += word.lower().split()
+
+                inputPosWordList.append((word,postag))
+                inputWordList.append(word)
+        inputWordCounter = Counter(inputWordList)
         inputDistinctSyllableSet = set(inputSyllableList)
 
+     
         inputProperNounWordList = []
-        for Word,pos in inputPosWordList:
+
+        for  wordPosTuple in inputPosWordList:
+            word = wordPosTuple[0]
+            pos = wordPosTuple[1]
             if pos == 'Np':
-                inputProperNounWordList.append(Word)
+                inputProperNounWordList.append(word)
         inputDistinctProperNounWordList = set(inputProperNounWordList)
 
         inputDialectWordList = list(filter(lambda word: word in self.dialectWordSet,inputWordList))
@@ -61,7 +92,7 @@ class TextAnalysiser:
         numberOfSyllable = len(inputSyllableList)
 
         # number of distinct syllable:
-        numberofDistinctSyllable = len(inputSyllableList)
+        numberofDistinctSyllable = len(inputDistinctSyllableSet)
 
         # number of character
         numberOfCharacter = 0
@@ -90,12 +121,12 @@ class TextAnalysiser:
         awlc = numberOfCharacter/numberOfWord
 
         # percertange of difficult syllables
-        inputDifficultSyllybleList = list(filter(lambda syllable: not syllable in self.commonSyllableSet,inputSyllableList))
+        inputDifficultSyllybleList = list(filter(lambda syllable: not syllable.lower() in self.commonSyllableSet,inputSyllableList))
         numberOfDifficultSyllable = len(inputDifficultSyllybleList)
         pds = numberOfDifficultSyllable/numberOfSyllable
 
         # percertange of difficult word
-        inputDifficultWordList = list(filter(lambda word: not word in self.commonWordSet,inputWordList))
+        inputDifficultWordList = list(filter(lambda word: not word.lower() in self.commonWordSet,inputWordList))
         numberOfDifficultWord = len(inputDifficultWordList)
         pdw = numberOfDifficultWord / numberOfWord
 
@@ -117,6 +148,10 @@ class TextAnalysiser:
         wdIndex =  pdw*100
         nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
 
+        #readability classification
+        X_data = np.array([numberOfSentence,numberOfWord,numberOfDistinctWord,numberOfSyllable,numberofDistinctSyllable,numberOfCharacter,numberOfProperNouns,numberOfDistinctProperNouns,aslw,asls,aslc,awls,awlc,pds,pdw,psvw,pdiadw]).reshape(1, -1)
+        readabilityClassfication = self.module.predict(X_data).tolist()[0]
+        print(readabilityClassfication)
         #output
         output = {
             'posTag' : inputPosWordList,
@@ -128,7 +163,7 @@ class TextAnalysiser:
             'number_of_distinct_syllable':numberofDistinctSyllable,
             'number_of_character':numberOfCharacter,
             'number_of_proper_noun':numberOfProperNouns,
-            'number_of_distinct_proper_noun':numberOfProperNouns,
+            'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
             'aslw':aslw,
             'asls':asls,
             'aslc':aslc,
@@ -138,9 +173,9 @@ class TextAnalysiser:
             'pdw':pdw,
             'psvw':psvw,
             'pdiadw':pdiadw,
+            'readabiity': readabilityClassfication,
             'LAVFomula' : lavFomulaResult,
             'NH1982' : nh1982FomulaResult,
             'NH1985': nh1985FomulaResult
         }
         return output
-      

@@ -143,7 +143,3 @@ class TextAnalysiser:
             'NH1985': nh1985FomulaResult
         }
         return output
-      
-
-textAnalysiser = TextAnalysiser()
-textAnalysiser.analysis("Huy dep trai")
