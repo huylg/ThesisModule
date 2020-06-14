@@ -1,0 +1,213 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{2006-NPTV}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ban}{B.}%
+     {Diệp~Quang}{D.~Q.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thung}{T.}%
+     {Hoàng~Văn}{H.~V.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nhà xuất bản Giáo dục}%
+  }
+  \keyw{Viet}
+  \strng{namehash}{BDQTHV1}
+  \strng{fullhash}{BDQTHV1}
+  \field{sortinit}{B}
+  \field{title}{Ngữ pháp tiếng Việt}
+  \field{year}{2006}
+\endentry
+
+\entry{1994-Cavnar}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Cavnar}{C.}%
+     {William~B.}{W.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trenkle}{T.}%
+     {John~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CWBTJM1}
+  \strng{fullhash}{CWBTJM1}
+  \field{sortinit}{C}
+  \field{booktitle}{In Proceedings of SDAIR-94, 3rd Annual Symposium on
+  Document Analysis and Information Retrieval}
+  \field{pages}{161\bibrangedash 175}
+  \field{title}{N-Gram-Based Text Categorization}
+  \field{year}{1994}
+\endentry
+
+\entry{2006-DDien}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Điền}{i.}%
+     {}{}%
+     {Đinh}{i.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nhà xuất bản Đại học Quốc gia TP Hồ Chí Minh}%
+  }
+  \keyw{Viet}
+  \strng{namehash}{ii1}
+  \strng{fullhash}{ii1}
+  \field{sortinit}{I}
+  \field{title}{Xử lí ngôn ngữ tự nhiên}
+  \field{year}{2006}
+\endentry
+
+\entry{1984-TeX-Knuth}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Knuth}{K.}%
+     {Donald~E.}{D.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley}%
+  }
+  \strng{namehash}{KDE1}
+  \strng{fullhash}{KDE1}
+  \field{sortinit}{K}
+  \field{title}{The {{\TeX}book}}
+  \field{year}{1984}
+\endentry
+
+\entry{HDLVThS}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {nhiên}{n.}%
+     {Trường ĐHKH~Tự}{T.~H.~T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Viet}
+  \strng{namehash}{nTHT1}
+  \strng{fullhash}{nTHT1}
+  \field{sortinit}{N}
+  \field{title}{Quy định và hướng dẫn thực hiện luận văn thạc
+  sĩ}
+  \verb{url}
+  \verb http://www.hcmus.edu.vn/index.php?option=com_content&task=blogcategory&
+  \verb id=142&Itemid=506
+  \endverb
+  \field{year}{2011}
+  \field{urlday}{06}
+  \field{urlmonth}{06}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{Figures}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Online}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O1}
+  \strng{fullhash}{O1}
+  \field{sortinit}{O}
+  \field{title}{LaTeX/Floats, Figures and Captions}
+  \verb{url}
+  \verb http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
+  \endverb
+  \field{urlday}{06}
+  \field{urlmonth}{06}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{Listings}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Online}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O1}
+  \strng{fullhash}{O1}
+  \field{sortinit}{O}
+  \field{title}{LaTeX/Source Code Listings}
+  \verb{url}
+  \verb http://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings
+  \endverb
+  \field{urlday}{06}
+  \field{urlmonth}{06}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{Tables}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Online}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O1}
+  \strng{fullhash}{O1}
+  \field{sortinit}{O}
+  \field{title}{LaTeX/Tables}
+  \verb{url}
+  \verb http://en.wikibooks.org/wiki/LaTeX/Tables
+  \endverb
+  \field{urlday}{06}
+  \field{urlmonth}{06}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{1989-TED}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Zhang}{Z.}%
+     {Kaizhong}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shasha}{S.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZKSD1}
+  \strng{fullhash}{ZKSD1}
+  \field{sortinit}{Z}
+  \field{pages}{1245\bibrangedash 1262}
+  \field{title}{{Simple fast algorithms for the editing distance between trees
+  and related problems}}
+  \field{journaltitle}{SIAM Journal on Computing, Volume 18 Issue 6}
+  \field{year}{1989}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

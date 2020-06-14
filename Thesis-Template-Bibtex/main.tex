@@ -1,0 +1,117 @@
+% Template luận văn cho SV trường ĐHKHTN
+% Liên hệ: nqminh@fit.hcmus.edu.vn
+% Last update: 09/06/2015
+
+% LƯU Ý: Để phần tài liệu tham khảo hiển thị đúng, cần phải build clean (xoá các file build cũ), sau khi build file BIB cần build lại file TEX 2 lần.
+% Phần in tài liệu tham khảo: phải gán lại resetnumbers=số tài liệu tham khảo tiếng Việt + 1
+
+\documentclass[oneside,a4paper,12pt]{extreport}
+\newcommand{\forceindent}{\leavevmode{\parindent=17.5pt\indent}}
+\newcommand{\forceindentc}{\leavevmode{\parindent=7.5pt\indent}}
+
+% Font tiếng Việt
+\usepackage[T5]{fontenc}
+\usepackage[utf8]{inputenc}
+\DeclareTextSymbolDefault{\DH}{T1}
+
+% Tài liệu tham khảo
+\usepackage[
+	sorting=nty,
+	backend=bibtex,
+	defernumbers=true]{biblatex}
+\usepackage[unicode]{hyperref} % Bookmark tiếng Việt
+\addbibresource{References/references.bib}
+
+% Chèn hình, các hình trong luận văn được để trong thư mục Images/
+\usepackage{graphicx}
+\graphicspath{ {Images/} }
+
+% Chèn mã nguồn
+\usepackage{listings}
+
+% Bảng biểu
+\usepackage{multirow}
+
+% Đổi tên mặc định
+\renewcommand{\chaptername}{Chương}
+\renewcommand{\figurename}{Hình}
+\renewcommand{\tablename}{Bảng}
+\renewcommand{\contentsname}{Mục lục}
+\renewcommand{\listfigurename}{Danh sách hình}
+\renewcommand{\listtablename}{Danh sách bảng}
+\renewcommand{\appendixname}{Phụ lục}
+
+% Dãn dòng 1.5
+\usepackage{setspace}
+\onehalfspacing
+
+% Canh lề
+\usepackage[
+  top=35mm,
+  bottom=30mm,
+  left=35mm,
+  right=20mm,
+  includefoot]{geometry}
+  
+% Trang bìa
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\newcommand\HRule{\rule{\textwidth}{1pt}}
+
+\begin{document}
+\fontsize{13pt}{18pt}\selectfont
+\input{Title/title.tex}
+\pagenumbering{gobble}
+\input{Title/subtitle.tex}
+
+\pagenumbering{roman} % Đánh số i, ii, iii, ...
+
+\include{Appendix/reassurances}
+\addcontentsline{toc}{chapter}{Lời cam đoan}
+
+\include{Appendix/thanks}
+\addcontentsline{toc}{chapter}{Lời cảm ơn}
+
+% Mục lục, danh sách hình, danh sách bảng
+\tableofcontents
+\addcontentsline{toc}{chapter}{Mục lục}
+\listoffigures
+\addcontentsline{toc}{chapter}{Danh mục hình}
+\listoftables
+\addcontentsline{toc}{chapter}{Danh mục bảng}
+%Danh sách thuật ngữ, từ viết tắt
+\include{Appendix/terminologies}
+\include{Appendix/abbreviations}
+
+\clearpage
+
+\pagenumbering{arabic} % Đánh số 1, 2, 3, ...
+
+% Các chương nội dung
+\include{Chapter1/chapter1}
+
+\include{Chapter2/chapter2}
+
+\include{Chapter3/chapter3}
+
+% Công trình của tác giả
+\addcontentsline{toc}{chapter}{Danh mục công trình của tác giả}
+\include{Appendix/publish}
+
+% In tài liệu tham khảo
+\printbibheading[title={Tài liệu tham khảo}]
+\addcontentsline{toc}{chapter}{Tài liệu tham khảo}
+
+\printbibliography[heading=subbibliography, title={Tiếng Việt}, keyword=Viet, resetnumbers=true]
+
+\DeclareNameAlias{sortname}{last-first}
+\DeclareNameAlias{default}{last-first}
+
+\printbibliography[heading=subbibliography, title={Tiếng Anh}, notkeyword=Viet, resetnumbers=4]
+% Chú ý: phải gán lại resetnumbers=số tài liệu tham khảo tiếng Việt + 1
+
+% Phần phụ lục
+\include{Appendix/appendix1}
+\include{Appendix/appendix2}
+
+\end{document} 
