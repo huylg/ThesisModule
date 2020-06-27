@@ -8,14 +8,16 @@ from vncorenlp import VnCoreNLP
 
 class TextAnalysiser:
     def __init__(self):
-        frequencyWordFile = open('./Thesis_Dataset/FrequencyWord.txt',mode='r',encoding='utf8')
-        commonWordFile = open('./Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
-        commonSyllableFile = open('./Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
-        sinoVietWordFile = open('./Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
-        dialectWordFile = open('./Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
+        #open dataset file
+        frequencyWordFile = open('./Dataset/FrequencyWord.txt',mode='r',encoding='utf8')
+        frequencySyllableFile = open('./Dataset/FrequencySyllable.txt',mode='r',encoding='utf8')
+        commonWordFile = open('./Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
+        commonSyllableFile = open('./Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
+        sinoVietWordFile = open('./Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
+        dialectWordFile = open('./Dataset/dialect.txt',mode='r', encoding="utf8")
         modulePickleFile = open('./text_analysis/python_module/MultinomialNB_readability.pickle',mode='rb')
 
-
+        #read data from file and process
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
         rawSinoVietWordSet = sinoVietWordFile.read()
@@ -27,14 +29,26 @@ class TextAnalysiser:
         self.dialectWordSet = set(rawDialectWordSet.split('\n'))
         self.module = pickle.load(modulePickleFile)
 
-        rawFrequencyWordFileList = list(frequencyWordFile.read().split('\n'))
+        rawFrequencyWordList = list(frequencyWordFile.read().split('\n'))
+        rawFrequencySyllableList = list(frequencySyllableFile.read().split('\n'))
+
+        # load and resize(from 1- 100) frequency word list
         self.frequencyWordRankingDictionary = {}
-        for i in range(0,len(rawFrequencyWordFileList)-1):
-            word = ' '.join(list(rawFrequencyWordFileList[i].split())[0:-2])
+        for i in range(0,len(rawFrequencyWordList)-1):
+            word = ' '.join(list(rawFrequencyWordList[i].split())[0:-2])
             rank = i // 362 + 1
             self.frequencyWordRankingDictionary[word]=rank
-        
+
+        # load and resize(from 1- 100) frequency word list
+        self.frequencySyllableRankingDictionary = {}
+        for i in range(0,len(rawFrequencySyllableList)-1):
+            syllable = rawFrequencySyllableList[i].split()[0]
+            rank = i//80 + 1
+            self.frequencySyllableRankingDictionary[syllable] = rank
+
+        #close all file    
         frequencyWordFile.close()
+        frequencySyllableFile.close()
         commonWordFile.close()
         commonSyllableFile.close()
         sinoVietWordFile.close()
@@ -47,10 +61,7 @@ class TextAnalysiser:
         
     
     def analysis(self,rawInputData):
-        # inputSentenceList = underthesea.sent_tokenize(rawInputData)
-        # inputPosWordList = underthesea.pos_tag(rawInputData)
-        # inputWordList = underthesea.word_tokenize(rawInputData)
-        # inputWordCounter = Counter(inputWordList)
+   
 
         inputSentenceList = self.annotator.pos_tag(rawInputData)
         inputPosWordList = []
@@ -69,6 +80,7 @@ class TextAnalysiser:
                 inputPosWordList.append((word,postag))
                 inputWordList.append(word)
         inputWordCounter = Counter(inputWordList)
+        inputSyllableCounter = Counter(inputSyllableList)
         inputDistinctSyllableSet = set(inputSyllableList)
 
      
@@ -161,15 +173,22 @@ class TextAnalysiser:
         X_data = np.array([numberOfSentence,numberOfWord,numberOfDistinctWord,numberOfSyllable,numberofDistinctSyllable,numberOfCharacter,numberOfProperNouns,numberOfDistinctProperNouns,aslw,asls,aslc,awls,awlc,pds,pdw,psvw,pdiadw]).reshape(1, -1)
         readabilityClassfication = self.module.predict(X_data).tolist()[0]
 
-        #wordRanking
-        lowerWordSet = set([word.lower() for word in inputWordList])
+        #word Ranking
         wordRanking = {}
-        for word in lowerWordSet:
-            if word in self.frequencyWordRankingDictionary:
-                wordRanking[word] = self.frequencyWordRankingDictionary[word] 
+        for word in inputWordList:
+            if word.lower() in self.frequencyWordRankingDictionary:
+                wordRanking[word] = self.frequencyWordRankingDictionary[word.lower()] 
             else:
                 wordRanking[word] = 100
-        print(wordRanking)
+
+        #syllable Ranking
+        syllableRanking = {}
+        for syllable in inputSyllableList:
+            if syllable.lower() in self.frequencySyllableRankingDictionary:
+                syllableRanking[syllable] = self.frequencySyllableRankingDictionary[syllable.lower()]
+            else:
+                syllableRanking[syllable] = 100
+
         #output
         output = {
             'number_of_sentence':numberOfSentence,
@@ -193,8 +212,11 @@ class TextAnalysiser:
             'LAVFomula' : lavFomulaResult,
             'NH1982' : nh1982FomulaResult,
             'NH1985': nh1985FomulaResult,
+            'SyllableRanking': syllableRanking,
             'wordRanking': wordRanking,
             'posTag' : inputPosWordList,
-            'wordCounter' : inputWordCounter
+            'wordCounter' : inputWordCounter,
+            'syllableCounter' : inputSyllableCounter
+
         }
         return output
