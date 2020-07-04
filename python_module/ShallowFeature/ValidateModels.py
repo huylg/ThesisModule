@@ -26,10 +26,10 @@ classificatier_estimator_dict = {
     'DecisionTreeClassifier': DecisionTreeClassifier(),
 }
 
-xlsxFile = pd.ExcelFile('./StatisticalNumber.xlsx')
+xlsxFile = pd.ExcelFile('./validation_result/StatisticalNumber.xlsx')
 dataFrame = pd.read_excel(xlsxFile,'EachDocument')
 
-X_data = dataFrame.loc[:,dataFrame.columns[1:17]].values.tolist()
+X_data = dataFrame.loc[:,dataFrame.columns[0:17]].values.tolist()
 sheetNameList = {}
 sheetNameList['EachGrade'] = dataFrame.loc[:,dataFrame.columns[-4]].values.tolist()
 sheetNameList['EachGroupOf2Grade']= dataFrame.loc[:,dataFrame.columns[-2]].values.tolist()
