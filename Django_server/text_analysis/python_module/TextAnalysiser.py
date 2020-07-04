@@ -64,6 +64,7 @@ class TextAnalysiser:
    
 
         inputSentenceList = self.annotator.pos_tag(rawInputData)
+        print(inputSentenceList)
         inputPosWordList = []
         inputWordList=[]
         inputSyllableList = []
