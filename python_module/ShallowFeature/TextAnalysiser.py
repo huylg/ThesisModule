@@ -1,13 +1,22 @@
 from collections import Counter
-import underthesea
+import pickle
+# import underthesea
+import os
+from sklearn.naive_bayes import MultinomialNB
+import numpy as np
+from vncorenlp import VnCoreNLP
 
 class TextAnalysiser:
     def __init__(self):
-        commonWordFile = open('./Thesis_Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
-        commonSyllableFile = open('./Thesis_Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
-        sinoVietWordFile = open('./Thesis_Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
-        dialectWordFile = open('./Thesis_Dataset/dialect.txt',mode='r', encoding="utf8")
+        #open dataset file
+        frequencyWordFile = open('./Dataset/FrequencyWord.txt',mode='r',encoding='utf8')
+        frequencySyllableFile = open('./Dataset/FrequencySyllable.txt',mode='r',encoding='utf8')
+        commonWordFile = open('./Dataset/3000_most_word.txt',mode = 'r', encoding="utf8")
+        commonSyllableFile = open('./Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
+        sinoVietWordFile = open('./Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
+        dialectWordFile = open('./Dataset/dialect.txt',mode='r', encoding="utf8")
 
+        #read data from file and process
         rawCommonWordList = commonWordFile.read()
         rawCommonSyllableList = commonSyllableFile.read()
         rawSinoVietWordSet = sinoVietWordFile.read()
@@ -18,27 +27,65 @@ class TextAnalysiser:
         self.sinoVietWordSet = set(rawSinoVietWordSet.split('\n'))
         self.dialectWordSet = set(rawDialectWordSet.split('\n'))
 
+        rawFrequencyWordList = list(frequencyWordFile.read().split('\n'))
+        rawFrequencySyllableList = list(frequencySyllableFile.read().split('\n'))
+
+        # load and resize(from 1- 100) frequency word list
+        self.frequencyWordRankingDictionary = {}
+        for i in range(0,len(rawFrequencyWordList)-1):
+            word = ' '.join(list(rawFrequencyWordList[i].split())[0:-2])
+            rank = i // 362 + 1
+            self.frequencyWordRankingDictionary[word]=rank
+
+        # load and resize(from 1- 100) frequency word list
+        self.frequencySyllableRankingDictionary = {}
+        for i in range(0,len(rawFrequencySyllableList)-1):
+            syllable = rawFrequencySyllableList[i].split()[0]
+            rank = i//80 + 1
+            self.frequencySyllableRankingDictionary[syllable] = rank
+
+        #close all file    
+        frequencyWordFile.close()
+        frequencySyllableFile.close()
         commonWordFile.close()
         commonSyllableFile.close()
         sinoVietWordFile.close()
         dialectWordFile.close()
+
+        # load vncorenlp annator
+        jarFullPath = os.path.abspath("./VnCoreNLP/VnCoreNLP-1.1.1.jar")
+        self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos", max_heap_size='-Xmx2g') 
+        
     
     def analysis(self,rawInputData):
-        inputSentenceList = underthesea.sent_tokenize(rawInputData)
-        inputPosWordList = underthesea.pos_tag(rawInputData)
-        inputWordList = underthesea.word_tokenize(rawInputData)
-        inputWordCounter = Counter(inputWordList)
-
+        inputSentenceList = self.annotator.pos_tag(rawInputData)
+        inputPosWordList = []
+        inputWordList=[]
         inputSyllableList = []
-        for word,pos in inputPosWordList:
-            if pos != 'CH':
-                inputSyllableList += word.lower().split()
+
+        for sentence in inputSentenceList:
+            for wordPostagTuple in sentence:
+                word = wordPostagTuple[0]
+                postag = wordPostagTuple[1]
+
+                if postag != 'CH':
+                    word = word.replace('_',' ')
+                    inputSyllableList += word.lower().split()
+
+                inputPosWordList.append((word,postag))
+                inputWordList.append(word)
+        inputWordCounter = Counter(inputWordList)
+        inputSyllableCounter = Counter(inputSyllableList)
         inputDistinctSyllableSet = set(inputSyllableList)
 
+     
         inputProperNounWordList = []
-        for Word,pos in inputPosWordList:
+
+        for  wordPosTuple in inputPosWordList:
+            word = wordPosTuple[0]
+            pos = wordPosTuple[1]
             if pos == 'Np':
-                inputProperNounWordList.append(Word)
+                inputProperNounWordList.append(word)
         inputDistinctProperNounWordList = set(inputProperNounWordList)
 
         inputDialectWordList = list(filter(lambda word: word in self.dialectWordSet,inputWordList))
@@ -117,10 +164,11 @@ class TextAnalysiser:
         wdIndex =  pdw*100
         nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
 
+
+  
+
         #output
         output = {
-            # 'posTag' : inputPosWordList,
-            # 'wordCounter' : inputWordCounter,
             'number_of_sentence':numberOfSentence,
             'number_of_word' : numberOfWord,
             'number_of_distinct_word': numberOfDistinctWord,
@@ -128,7 +176,7 @@ class TextAnalysiser:
             'number_of_distinct_syllable':numberofDistinctSyllable,
             'number_of_character':numberOfCharacter,
             'number_of_proper_noun':numberOfProperNouns,
-            'number_of_distinct_proper_noun':numberOfProperNouns,
+            'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
             'aslw':aslw,
             'asls':asls,
             'aslc':aslc,
