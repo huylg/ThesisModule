@@ -240,10 +240,10 @@ class TextAnalysiser:
         numberOfUniqueNamedEntityPerSentence = numberOfUniqueNamedEntityPerDocument/numberOfSentence
 
         #ratpercertangeio number named entity div number enity
-        percertangeNumberNamedEntityDivNumberEnityPerDocument = numberOfNamedEntityPerDocument / numberOfEntityPerDocument
+        percertangeNumberNamedEntityDivNumberEnityPerDocument = numberOfNamedEntityPerDocument / numberOfEntityPerDocument if numberOfEntityPerDocument !=0 else 0
 
         #percertange unique number named entity div unique number enity
-        percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument = numberOfUniqueNamedEntityPerDocument / numberOfUniqueEntityPerDocument
+        percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument = numberOfUniqueNamedEntityPerDocument / numberOfUniqueEntityPerDocument if numberOfUniqueEntityPerDocument !=0 else 0
 
         #percertange named entity
         percertangeNamedEntity = numberOfNamedEntityPerDocument/numberOfWord
