@@ -8,8 +8,11 @@ annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos,ner", max_heap_size='-Xm
 
 rootdir = '../Dataset/send/or - without note/'
 writer = pd.ExcelWriter('./EachDocumentStatisticalNumber.xlsx', engine='xlsxwriter')
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6ed69052a88e63096f8731f20dd7af7fd3701711
 classlist = list(map(int,filter(lambda dir: not dir.startswith('.'),os.listdir(rootdir))))
 dataFrame = pd.DataFrame()
 
@@ -42,7 +45,7 @@ for classNum in classlist:
                 amountNamedEntity = len(namedEntityList)
                 amountUniqueNamedEntity = len(set(namedEntityList))
                 amountSentence = len(sentenceList)
-                amountWord = len[word]
+                amountWord = len(word)
 
                 resultDict['avg_amount_entity_per_sen'] = amountEntity/amountSentence
                 resultDict['avg_amount_entity_per_doc'] = amountEntity
