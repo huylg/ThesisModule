@@ -9,6 +9,8 @@ annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos,ner", max_heap_size='-Xm
 rootdir = '../Dataset/send/or - without note/'
 writer = pd.ExcelWriter('./EachDocumentStatisticalNumber.xlsx', engine='xlsxwriter')
 
+
+classlist = list(map(int,filter(lambda dir: not dir.startswith('.'),os.listdir(rootdir))))
 dataFrame = pd.DataFrame()
 
 for classNum in classlist:
