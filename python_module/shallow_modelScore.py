@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics import classification_report
 import pickle
-from TextAnalysiser import TextAnalysiser
 from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB,MultinomialNB
@@ -12,7 +11,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import cross_val_score
-from collections import Counter
 
 import xlsxwriter
 
