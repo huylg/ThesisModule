@@ -2,29 +2,34 @@ import pandas as pd
 import xlsxwriter
 
 sheet_to_df_map = pd.read_excel('EachDocumentStatisticalNumber.xlsx', sheet_name=None)
-gradeLevelExcelwriter = pd.ExcelWriter('./Grade_StatisticalNumber.xlsx', engine='xlsxwriter')
-groupLevelExcelwriter = pd.ExcelWriter('./Group2Grade_StatisticalNumber.xlsx', engine='xlsxwriter')
-schoolLevelExcelwriter = pd.ExcelWriter('./School_StatisticalNumber.xlsx', engine='xlsxwriter')
+outputFile = pd.ExcelWriter('./Pos_StatisticalNumber_2.xlsx', engine='xlsxwriter')
 
+
+gradeLevelDataFrame = pd.DataFrame()
+groupLevelDataFrame = pd.DataFrame()
+schoolLevelDataFrame = pd.DataFrame()
+
+postagSet = set(['A','C','N','R','V','E'])
 
 for postag,dataFrame in sheet_to_df_map.items():
-    dataFrameGroupByGradeLevel = dataFrame.groupby('grade_level').mean()
-    del dataFrameGroupByGradeLevel['group_2_grade']
-    del dataFrameGroupByGradeLevel['school']
-    dataFrameGroupByGradeLevel.to_excel(gradeLevelExcelwriter,sheet_name = postag)
+    if postag in postagSet:
+        dataFrameGroupByGradeLevel = dataFrame.groupby('grade_level').mean().round(decimals=3)
+        del dataFrameGroupByGradeLevel['group_2_grade']
+        del dataFrameGroupByGradeLevel['school']
+        gradeLevelDataFrame = pd.concat([gradeLevelDataFrame,dataFrameGroupByGradeLevel],axis = 1)
 
-    dataFrameGroupByGroupOf2Grade = dataFrame.groupby('group_2_grade').mean()
-    del dataFrameGroupByGroupOf2Grade['school']
-    del dataFrameGroupByGroupOf2Grade['grade_level']   
-    dataFrameGroupByGroupOf2Grade.to_excel(groupLevelExcelwriter,sheet_name = postag,index=True)
+        dataFrameGroupByGroupOf2Grade = dataFrame.groupby('group_2_grade').mean().round(decimals=3)
+        del dataFrameGroupByGroupOf2Grade['school']
+        del dataFrameGroupByGroupOf2Grade['grade_level']   
+        groupLevelDataFrame = pd.concat([groupLevelDataFrame,dataFrameGroupByGroupOf2Grade],axis = 1)
 
+        dataFrameGroupBySchool = dataFrame.groupby('school').mean().round(decimals=3)
+        del dataFrameGroupBySchool['group_2_grade']
+        del dataFrameGroupBySchool['grade_level']
+        schoolLevelDataFrame = pd.concat([schoolLevelDataFrame,dataFrameGroupBySchool],axis = 1)
 
-    dataFrameGroupBySchool = dataFrame.groupby('school').mean()
-    del dataFrameGroupBySchool['group_2_grade']
-    del dataFrameGroupBySchool['grade_level']
-    dataFrameGroupBySchool.to_excel(schoolLevelExcelwriter,sheet_name = postag,index=True)
+schoolLevelDataFrame.to_excel(outputFile,sheet_name="school",index=True)
+gradeLevelDataFrame.to_excel(outputFile,sheet_name='grade',index=True)
+groupLevelDataFrame.to_excel(outputFile,sheet_name="group",index=True)
 
-
-gradeLevelExcelwriter.close()
-groupLevelExcelwriter.close()
-schoolLevelExcelwriter.close()
+outputFile.close()

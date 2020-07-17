@@ -12,7 +12,7 @@ worksheet = workbook.add_worksheet('EachDocument')
 columnNameList = ["number_of_sentence",	"number_of_word",	"number_of_distinct_word",
 	"number_of_syllable","number_of_distinct_syllable",	"number_of_character",
     	"number_of_proper_noun","number_of_distinct_proper_noun","aslw","asls",	"aslc",	"awls",
-        	"awlc",	"pds",	"pdw",	"psvw",	"pdiadw",	"LAVFomula",
+        	"awlc",	"pds",	"pdw",	"psvw",	"pdsvw","pdiaw","pddiaw","LAVFomula",
             "NH1982"	,"NH1985"	,"grade_level",	"document_name", "group_2_grade","school"]
 
 for i in range(len(columnNameList)):

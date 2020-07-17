@@ -33,9 +33,14 @@ for classNum in classlist:
                         wordlistInDocument.append(word)
                     noOfSentenceInDocument+=1
 
+                for postag in documentPostagWordList.keys():
+                    if 'N' in postag and postag != 'N':
+                        documentPostagWordList['N']+=documentPostagWordList[postag]
+                    if 'V' in postag and postag != 'V':
+                        documentPostagWordList['V']+=documentPostagWordList[postag]
+                        
                 noOfWordInDocument = len(wordlistInDocument)
                 noOfUniqueWordInDocument = len(set(wordlistInDocument))
-                print(len(documentPostagWordList))
                 for postag,wordList in documentPostagWordList.items():
                     resultDict = {}
                     noOfWordWithPostag = len(wordList)
@@ -44,7 +49,7 @@ for classNum in classlist:
                     resultDict['per_of_{}'.format(postag)] = noOfWordWithPostag/noOfWordInDocument * 100
                     resultDict['per_of_unique_{}_per_document'.format(postag)] = noOfUniqueWordWithPostag/noOfWordInDocument * 100
                     resultDict['ratio_unique_{}_pet_totel_unique_word'.format(postag)] = noOfUniqueWordWithPostag/noOfUniqueWordInDocument
-                    resultDict['avg_{}_in_sentence'.format(postag)] = noOfUniqueWordWithPostag/noOfSentenceInDocument
+                    resultDict['avg_{}_in_sentence'.format(postag)] = noOfWordWithPostag/noOfSentenceInDocument
                     resultDict['avg_unique_{}_in_sentence'.format(postag)] = noOfUniqueWordWithPostag/noOfSentenceInDocument
                     resultDict['grade_level'] = classNum
                     resultDict['group_2_grade'] = classNum//2

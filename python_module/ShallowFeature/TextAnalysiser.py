@@ -149,11 +149,17 @@ class TextAnalysiser:
         #percertange of Sino-vietnamese word
         numberOfSinoVietWord = len(inputSinoVietWordList)
         psvw = numberOfSinoVietWord / numberOfWord
+        
+        #percentage of distinct Sino-vietnamese word
+        numberOfDistinctSinoVietWord = len(set(inputSinoVietWordList))
+        pdsvw = numberOfDistinctSinoVietWord / numberOfWord
 
         #percertange of dialect words (pdiaw)
         numberOfDialectWord = len(inputDialectWordList)
-        pdiadw = numberOfDialectWord / numberOfWord
-
+        pdiaw = numberOfDialectWord / numberOfWord
+        #percertange of distinct dialect words (pdiaw)
+        numberOfDistinctDialectWord = len(set(inputDialectWordList))
+        pddiaw = numberOfDistinctDialectWord / numberOfWord
         # Luong An Vinh Fomula
         lavFomulaResult = 0.004*aslc + 0.1905*awlc + 2.7147*pdw - 0.7295
 
@@ -185,7 +191,9 @@ class TextAnalysiser:
             'pds':pds,
             'pdw':pdw,
             'psvw':psvw,
-            'pdiadw':pdiadw,
+            'pdsvw':pdsvw,
+            'pdiaw':pdiaw,
+            'pddiaw': pddiaw,
             'LAVFomula' : lavFomulaResult,
             'NH1982' : nh1982FomulaResult,
             'NH1985': nh1985FomulaResult
