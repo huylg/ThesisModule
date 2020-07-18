@@ -213,9 +213,48 @@ class TextAnalysiser:
         for postag, number in postagUniqueCounter.items():
             percertangeOfUniquePostagDivUniqueWordPerDocument[postag] = number/numberOfDistinctWord
 
-    #Entity destiny Features
-        
     #Parsed synatic Features
+        
+    #Entity destiny Features
+        # number of entity per documet
+        entityList = []
+        for word,postag in inputPosWordList:
+            if 'N' in postag:
+                entityList.append(word)
+        numberOfEntityPerDocument = len(entityList)
+
+        # number of unique entity per document
+        numberOfUniqueEntityPerDocument = len(set(entityList))
+
+        # number of entity per sentence
+        numberOfEntityPerSentence = numberOfEntityPerDocument/numberOfSentence
+
+        # number of unique entity per sentence
+        numberOfUniqueEntityPerSentence = numberOfUniqueEntityPerDocument/numberOfSentence
+
+        #number of named entity per document
+        numberOfNamedEntityPerDocument = len(inputNerWordList)
+
+        #number of unique named entity per document 
+        numberOfUniqueNamedEntityPerDocument = len(set(inputNerWordList))
+
+        #number of named entity per sentence
+        numberOfNamedEntityPerSentence = numberOfNamedEntityPerDocument/numberOfSentence
+
+        #number of unique named entity per sentence
+        numberOfUniqueNamedEntityPerSentence = numberOfUniqueNamedEntityPerDocument/numberOfSentence
+
+        #ratpercertangeio number named entity div number enity
+        percertangeNumberNamedEntityDivNumberEnityPerDocument = numberOfNamedEntityPerDocument / numberOfEntityPerDocument
+
+        #percertange unique number named entity div unique number enity
+        percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument = numberOfUniqueNamedEntityPerDocument / numberOfUniqueEntityPerDocument
+
+        #percertange named entity per document
+        percertangeNamedEntityPerDocument = numberOfNamedEntityPerDocument/numberOfWord
+
+        #percertange named entity per sentence
+        percertangeNamedEntityPerSentence = numberOfNamedEntityPerSentence/aslw
 
 
     #readability formula
@@ -282,7 +321,18 @@ class TextAnalysiser:
                 },
                 
                 'Ner':{
-
+                    'numberOfEntityPerDocument':numberOfEntityPerDocument,
+                    'numberOfUniqueEntityPerDocument':numberOfUniqueEntityPerDocument,
+                    'numberOfEntityPerSentence':numberOfEntityPerSentence,
+                    'numberOfUniqueEntityPerSentence':numberOfUniqueEntityPerSentence,
+                    'numberOfNamedEntityPerDocument':numberOfNamedEntityPerDocument,
+                    'numberOfUniqueNamedEntityPerDocument':numberOfUniqueNamedEntityPerDocument,
+                    'numberOfNamedEntityPerSentence':numberOfNamedEntityPerSentence,
+                    'numberOfUniqueNamedEntityPerSentence':numberOfUniqueNamedEntityPerSentence,
+                    'percertangeNumberNamedEntityDivNumberEnityPerDocument':percertangeNumberNamedEntityDivNumberEnityPerDocument,
+                    'percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument':percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument,
+                    'percertangeNamedEntityPerSentence':percertangeNamedEntityPerSentence,
+                    'percertangeNamedEntityPerDocument':percertangeNamedEntityPerDocument
                 },
 
                 'Parse':{
