@@ -1,6 +1,6 @@
 from collections import Counter
 import pickle
-# import underthesea
+import underthesea
 import os
 from sklearn.naive_bayes import MultinomialNB
 import numpy as np
@@ -57,26 +57,33 @@ class TextAnalysiser:
 
         # load vncorenlp annator
         jarFullPath = os.path.abspath("VnCoreNLP/VnCoreNLP-1.1.1.jar")
-        self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos", max_heap_size='-Xmx2g') 
+        self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos,ner", max_heap_size='-Xmx2g') 
         
     
     def analysis(self,rawInputData):
    
 
-        inputSentenceList = self.annotator.pos_tag(rawInputData)
-        print(inputSentenceList)
+        inputSentenceList = self.annotator.annotate(rawInputData)['sentences']
         inputPosWordList = []
         inputWordList=[]
         inputSyllableList = []
-
+        inputNerWordList = []
         for sentence in inputSentenceList:
-            for wordPostagTuple in sentence:
-                word = wordPostagTuple[0]
-                postag = wordPostagTuple[1]
+            for annotateDict in sentence:
+                word = annotateDict['form']
+                postag = annotateDict['posTag']
+                nerlabel = annotateDict['nerLabel']
 
                 if postag != 'CH':
                     word = word.replace('_',' ')
                     inputSyllableList += word.lower().split()
+
+                if nerlabel!='O':
+                    first, pharse = nerlabel.split("-")
+                    if not inputNerWordList or first == 'B':
+                        inputNerWordList.append((word,nerlabel))
+                    else:
+                        inputNerWordList[-1][0] += " {}".format(word)
 
                 inputPosWordList.append((word,postag))
                 inputWordList.append(word)
@@ -100,6 +107,7 @@ class TextAnalysiser:
         inputSinoVietWordList = list(filter(lambda word: word in self.sinoVietWordSet,inputWordList))
         inputDistinctSinoViewWordList = set(inputSinoVietWordList)
 
+        #shallow features
 
         # number of sentence
         numberOfSentence = len(inputSentenceList)
@@ -120,12 +128,6 @@ class TextAnalysiser:
         numberOfCharacter = 0
         for syllable in inputSyllableList:
             numberOfCharacter+=len(syllable)
-
-        # number of proper nouns
-        numberOfProperNouns = len(inputProperNounWordList)
-
-        #number of Distinct proper nouns
-        numberOfDistinctProperNouns = len(inputDistinctProperNounWordList)
 
         # average sentence length in Word
         aslw = numberOfWord/numberOfSentence
@@ -152,6 +154,7 @@ class TextAnalysiser:
         numberOfDifficultWord = len(inputDifficultWordList)
         pdw = numberOfDifficultWord / numberOfWord
 
+    #Posbased Feature
         #percertange of Sino-vietnamese word
         numberOfSinoVietWord = len(inputSinoVietWordList)
         psvw = numberOfSinoVietWord / numberOfWord
@@ -160,6 +163,62 @@ class TextAnalysiser:
         numberOfDialectWord = len(inputDialectWordList)
         pdiadw = numberOfDialectWord / numberOfWord
 
+        # number of proper nouns
+        numberOfProperNouns = len(inputProperNounWordList)
+
+        #number of Distinct proper nouns
+        numberOfDistinctProperNouns = len(inputDistinctProperNounWordList)
+        
+        postagWordListDict = {
+            'A': [],
+            'N': [],
+            'R':[],
+            'V':[],
+            'C':[],
+            'E':[]
+        }
+
+        for word,postag in inputPosWordList:
+            if postag in postagWordListDict:
+                postagWordListDict[postag].append(word)
+        
+        postagCounter = {}
+        postagUniqueCounter = {}
+        for postag,wordlist in postagWordListDict.items():
+            postagCounter[postag] = len(wordlist)
+            postagUniqueCounter[postag] = len(set(wordlist))
+
+        #average number of postag per sentence
+        averageNumberOfPostagPerSentence = {}
+        for postag, number in postagCounter.items():
+            averageNumberOfPostagPerSentence[postag] = number/numberOfSentence
+
+        #average number of unique postag per sentence
+        averageNumberOfUniquePostagPerSentence = {}
+        for postag, number in postagUniqueCounter.items():
+            averageNumberOfUniquePostagPerSentence[postag] = number/numberOfSentence
+        
+        #percertange of postag per document
+        percertangeOfPostagPerDocument = {}
+        for postag, number in postagCounter.items():
+            percertangeOfPostagPerDocument[postag] = number/numberOfWord
+        
+        #percertange of unique postag per document
+        percertangeOfUniquePostagPerDocument = {}
+        for postag, number in postagUniqueCounter.items():
+            percertangeOfUniquePostagPerDocument[postag] = number/numberOfWord
+
+        #percertange of unique postag div unique word per document
+        percertangeOfUniquePostagDivUniqueWordPerDocument = {}
+        for postag, number in postagUniqueCounter.items():
+            percertangeOfUniquePostagDivUniqueWordPerDocument[postag] = number/numberOfDistinctWord
+
+    #Entity destiny Features
+        
+    #Parsed synatic Features
+
+
+    #readability formula
         # Luong An Vinh Fomula
         lavFomulaResult = 0.004*aslc + 0.1905*awlc + 2.7147*pdw - 0.7295
 
@@ -173,6 +232,8 @@ class TextAnalysiser:
         #readability classification
         X_data = np.array([numberOfSentence,numberOfWord,numberOfDistinctWord,numberOfSyllable,numberofDistinctSyllable,numberOfCharacter,numberOfProperNouns,numberOfDistinctProperNouns,aslw,asls,aslc,awls,awlc,pds,pdw,psvw,pdiadw]).reshape(1, -1)
         readabilityClassfication = self.module.predict(X_data).tolist()[0]
+
+    #-----------------------other info-------------------
 
         #word Ranking
         wordRanking = {}
@@ -192,32 +253,58 @@ class TextAnalysiser:
 
         #output
         output = {
-            'number_of_sentence':numberOfSentence,
-            'number_of_word' : numberOfWord,
-            'number_of_distinct_word': numberOfDistinctWord,
-            'number_of_syllable':numberOfSyllable,
-            'number_of_distinct_syllable':numberofDistinctSyllable,
-            'number_of_character':numberOfCharacter,
-            'number_of_proper_noun':numberOfProperNouns,
-            'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
-            'aslw':aslw,
-            'asls':asls,
-            'aslc':aslc,
-            'awls':awls,
-            'awlc':awlc,
-            'pds':pds,
-            'pdw':pdw,
-            'psvw':psvw,
-            'pdiadw':pdiadw,
+            'Shallow':{
+                'number_of_sentence':numberOfSentence,
+                'number_of_word' : numberOfWord,
+                'number_of_distinct_word': numberOfDistinctWord,
+                'number_of_syllable':numberOfSyllable,
+                'number_of_distinct_syllable':numberofDistinctSyllable,
+                'number_of_character':numberOfCharacter,
+                'aslw':aslw,
+                'asls':asls,
+                'aslc':aslc,
+                'awls':awls,
+                'awlc':awlc,
+                'pds':pds,
+                'pdw':pdw
+            },
+            'Pos':{
+                'number_of_proper_noun':numberOfProperNouns,
+                'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
+                'psvw':psvw,
+                'pdiadw':pdiadw,
+                'averageNumberOfPostagPerSentence': averageNumberOfPostagPerSentence,
+                'averageNumberOfUniquePostagPerSentence': averageNumberOfUniquePostagPerSentence,
+                'percertangeOfPostagPerDocument': percertangeOfPostagPerDocument,
+                'percertangeOfUniquePostagPerDocument': percertangeOfUniquePostagPerDocument,
+                'percertangeOfUniquePostagDivUniqueWordPerDocument':percertangeOfUniquePostagDivUniqueWordPerDocument
+            },
+            
+            'Ner':{
+
+            },
+
+            'Parse':{
+
+            },
+
+
             'readabiity': readabilityClassfication,
-            'LAVFomula' : lavFomulaResult,
-            'NH1982' : nh1982FomulaResult,
-            'NH1985': nh1985FomulaResult,
-            'SyllableRanking': syllableRanking,
-            'wordRanking': wordRanking,
-            'posTag' : inputPosWordList,
-            'wordCounter' : inputWordCounter,
-            'syllableCounter' : inputSyllableCounter
+            
+            'formula':{
+                'LAVFomula' : lavFomulaResult,
+                'NH1982' : nh1982FomulaResult,
+                'NH1985': nh1985FomulaResult
+            },
+
+            'wordPair':{
+                'SyllableRanking': syllableRanking,
+                'wordRanking': wordRanking,
+                'nertag': inputNerWordList,
+                'postag' : inputPosWordList,
+                'wordCounter' : inputWordCounter,
+                'syllableCounter' : inputSyllableCounter
+            }
 
         }
         return output
