@@ -253,40 +253,43 @@ class TextAnalysiser:
 
         #output
         output = {
-            'Shallow':{
-                'number_of_sentence':numberOfSentence,
-                'number_of_word' : numberOfWord,
-                'number_of_distinct_word': numberOfDistinctWord,
-                'number_of_syllable':numberOfSyllable,
-                'number_of_distinct_syllable':numberofDistinctSyllable,
-                'number_of_character':numberOfCharacter,
-                'aslw':aslw,
-                'asls':asls,
-                'aslc':aslc,
-                'awls':awls,
-                'awlc':awlc,
-                'pds':pds,
-                'pdw':pdw
-            },
-            'Pos':{
-                'number_of_proper_noun':numberOfProperNouns,
-                'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
-                'psvw':psvw,
-                'pdiadw':pdiadw,
-                'averageNumberOfPostagPerSentence': averageNumberOfPostagPerSentence,
-                'averageNumberOfUniquePostagPerSentence': averageNumberOfUniquePostagPerSentence,
-                'percertangeOfPostagPerDocument': percertangeOfPostagPerDocument,
-                'percertangeOfUniquePostagPerDocument': percertangeOfUniquePostagPerDocument,
-                'percertangeOfUniquePostagDivUniqueWordPerDocument':percertangeOfUniquePostagDivUniqueWordPerDocument
+            'data':{
+                'Shallow':{
+                    'number_of_sentence':numberOfSentence,
+                    'number_of_word' : numberOfWord,
+                    'number_of_distinct_word': numberOfDistinctWord,
+                    'number_of_syllable':numberOfSyllable,
+                    'number_of_distinct_syllable':numberofDistinctSyllable,
+                    'number_of_character':numberOfCharacter,
+                    'aslw':aslw,
+                    'asls':asls,
+                    'aslc':aslc,
+                    'awls':awls,
+                    'awlc':awlc,
+                    'pds':pds,
+                    'pdw':pdw
+                },
+                'Pos':{
+                    'number_of_proper_noun':numberOfProperNouns,
+                    'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
+                    'psvw':psvw,
+                    'pdiadw':pdiadw,
+                    'averageNumberOfPostagPerSentence': averageNumberOfPostagPerSentence,
+                    'averageNumberOfUniquePostagPerSentence': averageNumberOfUniquePostagPerSentence,
+                    'percertangeOfPostagPerDocument': percertangeOfPostagPerDocument,
+                    'percertangeOfUniquePostagPerDocument': percertangeOfUniquePostagPerDocument,
+                    'percertangeOfUniquePostagDivUniqueWordPerDocument':percertangeOfUniquePostagDivUniqueWordPerDocument
+                },
+                
+                'Ner':{
+
+                },
+
+                'Parse':{
+
+                }
             },
             
-            'Ner':{
-
-            },
-
-            'Parse':{
-
-            },
 
 
             'readabiity': readabilityClassfication,
