@@ -81,9 +81,9 @@ class TextAnalysiser:
                 if nerlabel!='O':
                     first, pharse = nerlabel.split("-")
                     if not inputNerWordList or first == 'B':
-                        inputNerWordList.append((word,nerlabel))
+                        inputNerWordList.append((word,pharse))
                     else:
-                        inputNerWordList[-1][0] += " {}".format(word)
+                        inputNerWordList[-1] = (inputNerWordList[-1][0] + " {}".format(word),pharse)
 
                 inputPosWordList.append((word,postag))
                 inputWordList.append(word)
