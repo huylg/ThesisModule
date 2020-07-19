@@ -85,8 +85,7 @@ class TextAnalysiser:
                     inputNerWordList.append((word,phrase))
                 else:
                     inputNerWordList[-1] = (inputNerWordList[-1][0] + " {}".format(word),phrase)
-            else:
-                inputNerWordList.append((word,'O'))
+            
 
             if pharsetag != 'O':
                 first,phrase = pharsetag.split("-")
