@@ -86,13 +86,17 @@ class TextAnalysiser:
                     inputNerWordList.append((word,phrase))
                 else:
                     inputNerWordList[-1] = (inputNerWordList[-1][0] + " {}".format(word),phrase)
-            
+            else:
+                inputNerWordList.append((word,'O'))
+
             if pharsetag != 'O':
                 first,phrase = pharsetag.split("-")
                 if not inputPhraseList or first == 'B':
                     inputPhraseList.append(([word],phrase))
                 else:
                     inputPhraseList[-1][0].append(word)
+            else:
+                inputPhraseList.append(([word],'O'))
 
             inputPosWordList.append((word,postag))
             inputWordList.append(word)
