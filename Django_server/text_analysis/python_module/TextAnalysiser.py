@@ -1,10 +1,9 @@
 from collections import Counter
-import pickle
-import underthesea
 import os
 from sklearn.naive_bayes import MultinomialNB
 import numpy as np
-# from vncorenlp import VnCoreNLP
+from vncorenlp import VnCoreNLP
+import pickle
 
 class TextAnalysiser:
     def __init__(self):
@@ -56,48 +55,37 @@ class TextAnalysiser:
         modulePickleFile.close()
 
         # load vncorenlp annator
-        # jarFullPath = os.path.abspath("VnCoreNLP/VnCoreNLP-1.1.1.jar")
-        # self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos,ner", max_heap_size='-Xmx2g') 
+        jarFullPath = os.path.abspath("VnCoreNLP/VnCoreNLP-1.1.1.jar")
+        self.annotator = VnCoreNLP(jarFullPath, annotators="wseg,pos,ner", max_heap_size='-Xmx2g') 
         
     
     def analysis(self,rawInputData):
    
-        inputSentenceList = underthesea.sent_tokenize(rawInputData)
+        inputSentenceList = self.annotator.annotate(rawInputData)['sentences']
         inputPosWordList = []
         inputWordList=[]
         inputSyllableList = []
         inputNerWordList = []
-        inputPhraseList = []
 
-        for result in underthesea.ner(rawInputData):
-            word = result[0]
-            postag = result[1]
-            pharsetag = result[2]
-            nerlabel = result[3]
+        for sentence in inputSentenceList:
+            for wordDict in sentence:
+                word = wordDict['form']
+                postag = wordDict['posTag']
+                nerlabel = wordDict['nerLabel']
 
-            if postag != 'CH':
-                word = word.replace('_',' ')
-                inputSyllableList += word.lower().split()
+                if postag != 'CH':
+                    word = word.replace('_',' ')
+                    inputSyllableList += word.lower().split()
 
-            if nerlabel!='O':
-                first, phrase = nerlabel.split("-")
-                if not inputNerWordList or first == 'B':
-                    inputNerWordList.append((word,phrase))
-                else:
-                    inputNerWordList[-1] = (inputNerWordList[-1][0] + " {}".format(word),phrase)
-            
+                if nerlabel!='O':
+                    first, phrase = nerlabel.split("-")
+                    if not inputNerWordList or first == 'B':
+                        inputNerWordList.append((word,phrase))
+                    else:
+                        inputNerWordList[-1] = (inputNerWordList[-1][0] + " {}".format(word),phrase)
 
-            if pharsetag != 'O':
-                first,phrase = pharsetag.split("-")
-                if not inputPhraseList or first == 'B':
-                    inputPhraseList.append(([word],phrase))
-                else:
-                    inputPhraseList[-1][0].append(word)
-            else:
-                inputPhraseList.append(([word],'O'))
-
-            inputPosWordList.append((word,postag))
-            inputWordList.append(word)
+                inputPosWordList.append((word,postag))
+                inputWordList.append(word)
         inputWordCounter = Counter(inputWordList)
         inputSyllableCounter = Counter(inputSyllableList)
         inputDistinctSyllableSet = set(inputSyllableList)
@@ -222,50 +210,6 @@ class TextAnalysiser:
         for postag, number in postagUniqueCounter.items():
             percertangeOfUniquePostagDivUniqueWordPerDocument[postag] = number/numberOfDistinctWord
 
-    #Parsed synatic Features
-        #number of word phrase per document
-
-        pharsetagWordListDict = {
-            'AP':[],
-            'IP':[],
-            'NP':[],
-            'PP':[],
-            'OP':[],
-            'RP':[],
-            'VP':[]
-        }
-
-        for wordList,phrase in inputPhraseList:
-            if phrase in pharsetagWordListDict:
-                pharsetagWordListDict[phrase].append(wordList)
-
-
-        numberOfWordPhrasePerDocument = {}
-        for phraseTag, wordList in pharsetagWordListDict.items():
-            numberOfWordPhrasePerDocument[phraseTag] = len(wordList)
-
-        numberOfWordPhrasePerSentence = {}
-        for phraseTag, wordList in pharsetagWordListDict.items():
-            numberOfWordPhrasePerSentence[phraseTag] = len(wordList)/len(inputSentenceList)
-
-        averageLengthOfWordPhraseByWord = {}
-        for phraseTag, wordList in pharsetagWordListDict.items():
-            averageLengthOfWordPhraseByWord[phraseTag] = 0
-            for wordPhrase in wordList:
-                averageLengthOfWordPhraseByWord[phraseTag] += len(wordPhrase)
-        
-        averageLengthOfWordPhraseByCharacter = {}
-        for phraseTag,wordList in pharsetagWordListDict.items():
-            averageLengthOfWordPhraseByCharacter[phraseTag] = 0
-            for wordPhrase in wordList:
-                for word in wordPhrase:
-                    averageLengthOfWordPhraseByCharacter[phraseTag]+=len(word)
-
-        phraseTagWordPairList = []
-        for wordList,phrase in inputPhraseList:
-            phraseTagWordPairList.append((' '.join(wordList),phrase))
- 
-
     #Entity destiny Features
         # number of entity per documet
         entityList = []
@@ -380,13 +324,6 @@ class TextAnalysiser:
                     'percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument':percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument,
                     'percertangeNamedEntity':percertangeNamedEntity
                  
-                },
-
-                'Parse':{
-                    'numberOfWordPhrasePerDocument':numberOfWordPhrasePerDocument,
-                    'numberOfWordPhrasePerSentence':numberOfWordPhrasePerSentence,
-                    'averageLengthOfWordPhraseByWord':averageLengthOfWordPhraseByWord,
-                    'averageLengthOfWordPhraseByCharacter':averageLengthOfWordPhraseByCharacter
                 }
             },
             
@@ -406,7 +343,6 @@ class TextAnalysiser:
                 'nertag': inputNerWordList,
                 'postag' : inputPosWordList,
                 'wordCounter' : inputWordCounter,
-                'parseTag': phraseTagWordPairList,
                 'syllableCounter' : inputSyllableCounter
             }
 
