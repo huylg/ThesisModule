@@ -4,6 +4,7 @@ from sklearn.naive_bayes import MultinomialNB
 import numpy as np
 from vncorenlp import VnCoreNLP
 import pickle
+from sklearn.svm import SVC
 
 class TextAnalysiser:
     def __init__(self):
@@ -14,7 +15,7 @@ class TextAnalysiser:
         commonSyllableFile = open('./Dataset/3000_most_syllable.txt', mode = 'r', encoding="utf8")
         sinoVietWordFile = open('./Dataset/sino_vietnamese.txt',mode='r', encoding="utf8")
         dialectWordFile = open('./Dataset/dialect.txt',mode='r', encoding="utf8")
-        modulePickleFile = open('./text_analysis/python_module/MultinomialNB_readability.pickle',mode='rb')
+        modulePickleFile = open('./text_analysis/python_module/svmClassifer.pickle',mode='rb')
 
         #read data from file and process
         rawCommonWordList = commonWordFile.read()
@@ -260,9 +261,66 @@ class TextAnalysiser:
         nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
 
         #readability classification
-        X_data = np.array([numberOfSentence,numberOfWord,numberOfDistinctWord,numberOfSyllable,numberofDistinctSyllable,numberOfCharacter,numberOfProperNouns,numberOfDistinctProperNouns,aslw,asls,aslc,awls,awlc,pds,pdw,psvw,pdiadw]).reshape(1, -1)
-        readabilityClassfication = self.module.predict(X_data).tolist()[0]
+        
 
+        X_data_list = []
+
+        X_data_list.append(averageNumberOfPostagPerSentence['A'])
+        X_data_list.append(averageNumberOfPostagPerSentence['C'])
+        X_data_list.append(averageNumberOfPostagPerSentence['E'])
+        X_data_list.append(averageNumberOfPostagPerSentence['N'])
+        X_data_list.append(averageNumberOfPostagPerSentence['R'])
+
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['A'])
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['C'])
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['E'])
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['N'])
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['R'])
+        X_data_list.append(averageNumberOfUniquePostagPerSentence['V'])
+
+        X_data_list.append(averageNumberOfPostagPerSentence['V'])
+
+        X_data_list.append(numberOfDistinctProperNouns)
+        X_data_list.append(numberOfProperNouns)
+        X_data_list.append(pdiadw)
+
+        X_data_list.append(percertangeOfPostagPerDocument['A'])
+        X_data_list.append(percertangeOfPostagPerDocument['C'])
+        X_data_list.append(percertangeOfPostagPerDocument['E'])
+        X_data_list.append(percertangeOfPostagPerDocument['N'])
+        X_data_list.append(percertangeOfPostagPerDocument['R'])
+        
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['A'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['A'])
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['C'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['C'])
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['E'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['E'])
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['N'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['N'])
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['R'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['R'])
+        X_data_list.append(percertangeOfUniquePostagDivUniqueWordPerDocument['V'])
+        X_data_list.append(percertangeOfUniquePostagPerDocument['V'])
+
+        X_data_list.append(percertangeOfPostagPerDocument['V'])
+
+        X_data_list.append(psvw)
+
+        X_data_list.append(numberOfEntityPerDocument)
+        X_data_list.append(numberOfEntityPerSentence)
+        X_data_list.append(numberOfNamedEntityPerDocument)
+        X_data_list.append(numberOfNamedEntityPerSentence)
+        X_data_list.append(numberOfUniqueEntityPerDocument)
+        X_data_list.append(numberOfUniqueEntityPerSentence)
+        X_data_list.append(numberOfUniqueNamedEntityPerDocument)
+        X_data_list.append(numberOfUniqueNamedEntityPerSentence)
+        X_data_list.append(percertangeNamedEntity)
+        X_data_list.append(percertangeNumberNamedEntityDivNumberEnityPerDocument)
+        X_data_list.append(percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument)
+
+        X_data = np.array(X_data_list).reshape(1,-1)
+        readabilityClassfication = self.module.predict(X_data).tolist()[0]
     #-----------------------other info-------------------
 
         #word Ranking
@@ -299,31 +357,31 @@ class TextAnalysiser:
                     'pds':pds,
                     'pdw':pdw
                 },
+
                 'Pos':{
-                    'number_of_proper_noun':numberOfProperNouns,
-                    'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
-                    'psvw':psvw,
-                    'pdiadw':pdiadw,
                     'averageNumberOfPostagPerSentence': averageNumberOfPostagPerSentence,
                     'averageNumberOfUniquePostagPerSentence': averageNumberOfUniquePostagPerSentence,
+                    'number_of_proper_noun':numberOfProperNouns,
+                    'number_of_distinct_proper_noun':numberOfDistinctProperNouns,
+                    'pdiadw':pdiadw,
                     'percertangeOfPostagPerDocument': percertangeOfPostagPerDocument,
+                    'percertangeOfUniquePostagDivUniqueWordPerDocument':percertangeOfUniquePostagDivUniqueWordPerDocument,
                     'percertangeOfUniquePostagPerDocument': percertangeOfUniquePostagPerDocument,
-                    'percertangeOfUniquePostagDivUniqueWordPerDocument':percertangeOfUniquePostagDivUniqueWordPerDocument
+                    'psvw':psvw
                 },
-                
-                'Ner':{
+          
+                'Ner':{ 
                     'numberOfEntityPerDocument':numberOfEntityPerDocument,
-                    'numberOfUniqueEntityPerDocument':numberOfUniqueEntityPerDocument,
                     'numberOfEntityPerSentence':numberOfEntityPerSentence,
-                    'numberOfUniqueEntityPerSentence':numberOfUniqueEntityPerSentence,
                     'numberOfNamedEntityPerDocument':numberOfNamedEntityPerDocument,
-                    'numberOfUniqueNamedEntityPerDocument':numberOfUniqueNamedEntityPerDocument,
                     'numberOfNamedEntityPerSentence':numberOfNamedEntityPerSentence,
+                    'numberOfUniqueEntityPerDocument':numberOfUniqueEntityPerDocument,
+                    'numberOfUniqueEntityPerSentence':numberOfUniqueEntityPerSentence,
+                    'numberOfUniqueNamedEntityPerDocument':numberOfUniqueNamedEntityPerDocument,
                     'numberOfUniqueNamedEntityPerSentence':numberOfUniqueNamedEntityPerSentence,
+                    'percertangeNamedEntity':percertangeNamedEntity,
                     'percertangeNumberNamedEntityDivNumberEnityPerDocument':percertangeNumberNamedEntityDivNumberEnityPerDocument,
-                    'percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument':percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument,
-                    'percertangeNamedEntity':percertangeNamedEntity
-                 
+                    'percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument':percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument
                 }
             },
             
