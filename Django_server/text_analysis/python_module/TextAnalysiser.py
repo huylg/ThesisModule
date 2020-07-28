@@ -257,7 +257,7 @@ class TextAnalysiser:
         nh1982FomulaResult =  2*awlc + 0.2*aslc - 6
 
         # NH1985 fomula
-        wdIndex =  pdw*100
+        wdIndex =  psvw*100
         nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
 
         #readability classification
