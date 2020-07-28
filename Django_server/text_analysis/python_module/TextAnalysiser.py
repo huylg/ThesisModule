@@ -1,6 +1,5 @@
 from collections import Counter
 import os
-from sklearn.naive_bayes import MultinomialNB
 import numpy as np
 from vncorenlp import VnCoreNLP
 import pickle
