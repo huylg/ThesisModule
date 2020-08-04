@@ -3,7 +3,6 @@ import numpy as np
 from sklearn.metrics import classification_report
 import pickle
 from TextAnalysiser import TextAnalysiser
-from sklearn.linear_model import LinearRegression
 from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB,MultinomialNB
@@ -28,18 +27,16 @@ classificatier_estimator_dict = {
     'DecisionTreeClassifier': DecisionTreeClassifier()
 }
 
-xlsxFile = pd.ExcelFile('./validation_result/StatisticalNumber.xlsx')
-dataFrame = pd.read_excel(xlsxFile,'EachDocument')
+xlsxFile = pd.ExcelFile('./selectionFetures.xlsx')
+dataFrame = pd.read_excel(xlsxFile,'Sheet1')
 
 # columnNameList = ['number_of_sentence','number_of_character','number_of_distinct_word','psvw','aslw','number_of_distinct_proper_noun']
 
-X_data = dataFrame.loc[:,dataFrame.columns[0:7]].values.tolist()
+X_data = dataFrame.loc[:,dataFrame.columns[1:]].values.tolist()
 
 
 sheetNameList = {}
-sheetNameList['EachGrade'] = dataFrame.loc[:,dataFrame.columns[-4]].values.tolist()
-sheetNameList['EachGroupOf2Grade']= dataFrame.loc[:,dataFrame.columns[-2]].values.tolist()
-sheetNameList['EachSchool'] = dataFrame.loc[:,dataFrame.columns[-1]].values.tolist()
+sheetNameList['EachSchool'] = dataFrame.loc[:,dataFrame.columns[0]].values.tolist()
 
 writer = pd.ExcelWriter('./choose_features_models_score.xlsx', engine='xlsxwriter')
 
