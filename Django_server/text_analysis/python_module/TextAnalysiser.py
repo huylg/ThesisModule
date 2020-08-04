@@ -1,6 +1,5 @@
 from collections import Counter
 import os
-from sklearn.naive_bayes import MultinomialNB
 import numpy as np
 from vncorenlp import VnCoreNLP
 import pickle
@@ -241,10 +240,10 @@ class TextAnalysiser:
         numberOfUniqueNamedEntityPerSentence = numberOfUniqueNamedEntityPerDocument/numberOfSentence
 
         #ratpercertangeio number named entity div number enity
-        percertangeNumberNamedEntityDivNumberEnityPerDocument = numberOfNamedEntityPerDocument / numberOfEntityPerDocument
+        percertangeNumberNamedEntityDivNumberEnityPerDocument = numberOfNamedEntityPerDocument / numberOfEntityPerDocument if numberOfEntityPerDocument !=0 else 0
 
         #percertange unique number named entity div unique number enity
-        percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument = numberOfUniqueNamedEntityPerDocument / numberOfUniqueEntityPerDocument
+        percertangeUniqueNumberNamedEntityDivUniqueNumberEnityPerDocument = numberOfUniqueNamedEntityPerDocument / numberOfUniqueEntityPerDocument if numberOfUniqueEntityPerDocument !=0 else 0
 
         #percertange named entity
         percertangeNamedEntity = numberOfNamedEntityPerDocument/numberOfWord
@@ -257,7 +256,7 @@ class TextAnalysiser:
         nh1982FomulaResult =  2*awlc + 0.2*aslc - 6
 
         # NH1985 fomula
-        wdIndex =  pdw*100
+        wdIndex =  psvw*100
         nh1985FomulaResult = 0.27*wdIndex + 0.13*aslc +1.74
 
         #readability classification

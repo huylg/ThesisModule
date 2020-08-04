@@ -15,16 +15,10 @@ from sklearn.model_selection import cross_val_score
 from collections import Counter
 
 import xlsxwriter
-
-sheet_to_df_map = pd.read_excel('EachDocumentStatisticalNumber.xlsx', sheet_name=None)
+xlsxFile = pd.ExcelFile('./combine_EachDocumentStatisticalNumber.xlsx')
+dataFrame = pd.read_excel(xlsxFile,sheet_name="EachDocument")
 outputFile = pd.ExcelWriter('./validate_result_combine.xlsx', engine='xlsxwriter')
 
-
-gradeLevelDataFrame = pd.DataFrame()
-groupLevelDataFrame = pd.DataFrame()
-schoolLevelDataFrame = pd.DataFrame()
-
-postagSet = set(['A','C','N','R','V','E'])
 
 classificatier_estimator_dict = {
     'LogisticRegression': LogisticRegression(random_state=0),
@@ -36,28 +30,22 @@ classificatier_estimator_dict = {
     'DecisionTreeClassifier': DecisionTreeClassifier()
 }
 
-for postag,dataFrame in sheet_to_df_map.items():
-    if postag in postagSet:
-        dataFrameGroupByGradeLevel = dataFrame.groupby('grade_level').mean().round(decimals=3)
-        del dataFrameGroupByGradeLevel['group_2_grade']
-        del dataFrameGroupByGradeLevel['school']
-        gradeLevelDataFrame = pd.concat([gradeLevelDataFrame,dataFrameGroupByGradeLevel],axis = 1)
 
-        dataFrameGroupByGroupOf2Grade = dataFrame.groupby('group_2_grade').mean().round(decimals=3)
-        del dataFrameGroupByGroupOf2Grade['school']
-        del dataFrameGroupByGroupOf2Grade['grade_level']   
-        groupLevelDataFrame = pd.concat([groupLevelDataFrame,dataFrameGroupByGroupOf2Grade],axis = 1)
+labelList = ['school','group_2_grade','grade_level']
 
-        dataFrameGroupBySchool = dataFrame.groupby('school').mean().round(decimals=3)
-        del dataFrameGroupBySchool['group_2_grade']
-        del dataFrameGroupBySchool['grade_level']
-        schoolLevelDataFrame = pd.concat([schoolLevelDataFrame,dataFrameGroupBySchool],axis = 1)
+for label in labelList:
+    x_dataFrame = dataFrame.copy(deep=False)
 
-for name,estimator in classificatier_estimator_dict.items():
-    
+    for label_2 in labelList:
+        del x_dataFrame[label_2]
+    x_data = x_dataFrame.values.tolist()
+    y_data = dataFrame[label].values.tolist()
+    model_score_df = pd.DataFrame()
 
-# schoolLevelDataFrame.transpose().to_excel(outputFile,sheet_name="school",index=True)
-# gradeLevelDataFrame.transpose().to_excel(outputFile,sheet_name='grade',index=True)
-# groupLevelDataFrame.transpose().to_excel(outputFile,sheet_name="group",index=True)
+    for name,classificater in classificatier_estimator_dict.items():
+        model_score_df[name] = cross_val_score(classificater,x_data,y_data,cv=10,scoring='accuracy')
+    model_score_df=model_score_df.append(model_score_df.mean(numeric_only=True, axis=0),ignore_index=True)
+    model_score_df.to_excel(outputFile, sheet_name=label)
+
 
 outputFile.close()

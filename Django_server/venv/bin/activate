@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/Users/cpu11790/ThesisModule/Django_server/venv'
+VIRTUAL_ENV='/home/lygiahuy11111998_hcmus/ThesisModule/Django_server/venv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
