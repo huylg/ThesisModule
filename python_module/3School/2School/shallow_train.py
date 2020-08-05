@@ -9,7 +9,6 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import cross_val_score
-from datetime import datetime
 
 import xlsxwriter
 
@@ -26,9 +25,11 @@ classificatier_estimator_dict = {
 xlsxFileList = ["Shallow","Pos","Ner","Combine","Ner_Shallow","Pos_ner","Pos_Shallow"]
 
 for xlsxName in xlsxFileList:
-    beforeTrain = datetime.now()
+
     xlsxFile = pd.ExcelFile('./{}_StatisticalFile.xlsx'.format(xlsxName))
     dataFrame = pd.read_excel(xlsxFile)
+    dataFrame = dataFrame[dataFrame.grade <= 9]
+
 
 
     sheetNameList = {}
@@ -51,12 +52,6 @@ for xlsxName in xlsxFileList:
 
         model_score_df=model_score_df.append(model_score_df.mean(numeric_only=True, axis=0),ignore_index=True)
         model_score_df.to_excel(writer, sheet_name=sheetName, index=False)
-    
-    afterTrain = datetime.now()
-
-    trainingDurationFile = open("{}_trainingDuration.txt".format(xlsxName), "w")
-    trainingDurationFile.write(str((afterTrain - beforeTrain).seconds))
-    trainingDurationFile.close()
 
     writer.save()
     xlsxFile.close()
